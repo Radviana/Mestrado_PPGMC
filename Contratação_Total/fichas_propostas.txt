@@ -1,0 +1,2577 @@
+======================================================================
+PROPOSTA Nº 1
+======================================================================
+CNPJ do Órgão: 07711512000105
+Órgão (Razão Social): SERVICO AUTONOMO DE AGUA E ESGOTO DE MARIANA
+UF: MG
+Município: Mariana
+Unidade: Unidade Única
+Ano da Compra: 2024
+Número da Compra: 01
+Sequencial Compra: 2
+Número Controle PNCP: 07711512000105-1-000002/2024
+Modalidade: Credenciamento
+Modalidade ID: 12
+Modo de Disputa: Não se aplica
+Modo de Disputa ID: 5
+Tipo Instrumento Convocatório: Edital de Chamamento Público
+Tipo Instrumento Cod.: 4
+Objeto: CONTRATAÇÃO DE SERVIÇOS DE COMUNICAÇÃO, RÁDIO, MÍDIAS DIGITAIS E MOTO SOM, CONFORME EXIGÊNCIAS ESTABELECIDAS NESTE INSTRUMENTO. 
+Informação Complementar: 
+Valor Total Estimado (R$): 344320.0
+Valor Total Homologado (R$): None
+Processo: 01/2024
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 27/05/2024 00:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 22/05/2024 15:33:38
+Data Atualização: 05/02/2025 12:48:34
+Data Atualização Global: 05/02/2025 12:48:34
+Data Inclusão: 22/05/2024 15:33:38
+Amparo Legal: Lei 14.133/2021, Art. 79, I
+Descrição Amparo Legal: Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.
+Link Sistema Origem: app2.licitardigital.com.br/pesquisa/31109
+Link Processo Eletrônico: None
+Usuário Responsável: Licitar Digital - Plataforma de Licitações Online
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 2
+======================================================================
+CNPJ do Órgão: 00794962000160
+Órgão (Razão Social): CONSORCIO INTERMUN. DE SAUDE DA M DO VALE DO SUACUI
+UF: MG
+Município: Santa Maria do Suaçuí
+Unidade: Unidade Única
+Ano da Compra: 2024
+Número da Compra: 005
+Sequencial Compra: 18
+Número Controle PNCP: 00794962000160-1-000018/2024
+Modalidade: Credenciamento
+Modalidade ID: 12
+Modo de Disputa: Não se aplica
+Modo de Disputa ID: 5
+Tipo Instrumento Convocatório: Edital de Chamamento Público
+Tipo Instrumento Cod.: 4
+Objeto: CREDENCIAMENTO DE PESSOAS JURÍDICAS PARA PRESTAÇÃO DE SERVIÇOS OFTALMOLÓGICOS E CESSÃO DE ÓCULOS EM ATENDIMENTO AO  PROGRAMA DE SAÚDE OCULAR DOS EDUCANDOS DA REDE PÚBLICA DE EDUCAÇÃO BÁSICA DE MINAS GERAIS, DE ACORDO COM A  DELIBERAÇÃO CIB-SUS/MG Nº 4.284, DE 25 DE JULHO DE 2023, DENOMINADA PROGRAMA MIGUILIM
+Informação Complementar: 
+Valor Total Estimado (R$): 60071.98
+Valor Total Homologado (R$): None
+Processo: 015/2024
+Situação ID: 2
+Situação Nome: Revogada
+Data Abertura Proposta: 12/11/2024 00:00:00
+Data Encerramento: 13/11/2025 23:59:59
+Data Publicação PNCP: 12/11/2024 13:49:24
+Data Atualização: 28/08/2025 09:04:12
+Data Atualização Global: 28/08/2025 09:04:12
+Data Inclusão: 12/11/2024 13:49:24
+Amparo Legal: Lei 14.133/2021, Art. 79, I
+Descrição Amparo Legal: Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.
+Link Sistema Origem: app2.licitardigital.com.br/pesquisa/47273
+Link Processo Eletrônico: None
+Usuário Responsável: Licitar Digital - Plataforma de Licitações Online
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 3
+======================================================================
+CNPJ do Órgão: 49868348000194
+Órgão (Razão Social): Fundacao Hospitalar Dr. Afonso Pavie-Fhap
+UF: MG
+Município: Itamarandiba
+Unidade: Unidade Única
+Ano da Compra: 2024
+Número da Compra: 06
+Sequencial Compra: 51
+Número Controle PNCP: 49868348000194-1-000051/2024
+Modalidade: Credenciamento
+Modalidade ID: 12
+Modo de Disputa: Não se aplica
+Modo de Disputa ID: 5
+Tipo Instrumento Convocatório: Edital de Chamamento Público
+Tipo Instrumento Cod.: 4
+Objeto: CREDENCIAMENTO PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS DE NEUROCIRURGIÃO PARA ATENDIMENTO DE DEMANDAS DA FUNDAÇÃO HOSPITALAR DR.AFONSO PAVIE.
+Informação Complementar: 
+Valor Total Estimado (R$): 365000.0
+Valor Total Homologado (R$): None
+Processo: 49/2024
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 13/11/2024 00:00:00
+Data Encerramento: 13/11/2025 23:59:59
+Data Publicação PNCP: 12/11/2024 14:36:45
+Data Atualização: 18/12/2024 12:19:58
+Data Atualização Global: 18/12/2024 12:19:58
+Data Inclusão: 12/11/2024 14:36:45
+Amparo Legal: Lei 14.133/2021, Art. 79, I
+Descrição Amparo Legal: Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.
+Link Sistema Origem: app2.licitardigital.com.br/pesquisa/47288
+Link Processo Eletrônico: None
+Usuário Responsável: Licitar Digital - Plataforma de Licitações Online
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 4
+======================================================================
+CNPJ do Órgão: 00745932000163
+Órgão (Razão Social): CONSORCIO INTERMUNICIPAL DE SAUDE DA MICRORREGIAO DO MEDIO JEQUITINHONHA - CISMEJE
+UF: MG
+Município: Araçuaí
+Unidade: Unidade Única
+Ano da Compra: 2024
+Número da Compra: 005
+Sequencial Compra: 16
+Número Controle PNCP: 00745932000163-1-000016/2024
+Modalidade: Credenciamento
+Modalidade ID: 12
+Modo de Disputa: Não se aplica
+Modo de Disputa ID: 5
+Tipo Instrumento Convocatório: Edital de Chamamento Público
+Tipo Instrumento Cod.: 4
+Objeto: CREDENCIAMENTO ELETRÔNICO TEM POR OBJETO A PARA CONTRATAÇÃO DE EMPRESA PARA   PRESTAR SERVIÇOS NA ÁREA DE ATENDIMENTO MÉDICO, CONSULTAS, EXAMES, PROCEDIMENTOS AMBULATORIAIS, EXAMES, DE IMAGEM DE US, SERVICOS TERAPEUTICOS, E SERVICOS DE REABILITACAO NA AREA DE FISIOTERAPIA,  DESTINADOS A PACIENTES DA REDE SUS-SISTEMA ÚNICO DE SAÚDE DOS MUNICÍPIOS CONSORCIADOS ao CISMEJE de Araçuaí
+Informação Complementar: 
+Valor Total Estimado (R$): 84122400.0
+Valor Total Homologado (R$): None
+Processo: 017/2024
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 13/11/2024 00:00:00
+Data Encerramento: 13/11/2025 23:59:59
+Data Publicação PNCP: 12/11/2024 15:58:42
+Data Atualização: 18/12/2024 12:23:49
+Data Atualização Global: 18/12/2024 12:23:49
+Data Inclusão: 12/11/2024 15:58:42
+Amparo Legal: Lei 14.133/2021, Art. 79, I
+Descrição Amparo Legal: Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.
+Link Sistema Origem: app2.licitardigital.com.br/pesquisa/46931
+Link Processo Eletrônico: None
+Usuário Responsável: Licitar Digital - Plataforma de Licitações Online
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 5
+======================================================================
+CNPJ do Órgão: 10091569000163
+Órgão (Razão Social): MUNICIPIO DE SANTA CRUZ DO CAPIBARIBE
+UF: PE
+Município: Santa Cruz do Capibaribe
+Unidade: PREFEITURA MUNICIPAL DE SANTA CRUZ DO CAPIBARIBE
+Ano da Compra: 2025
+Número da Compra: 025
+Sequencial Compra: 111
+Número Controle PNCP: 10091569000163-1-000111/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: Registro de Preços para aquisição de BRINQUEDOS E PLAYGROUNDS destinados à Secretaria Municipal de Educação e Cultura do Município de Santa Cruz do Capibaribe-PE
+Informação Complementar: None
+Valor Total Estimado (R$): 2384467.36
+Valor Total Homologado (R$): None
+Processo: 082/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 04/08/2025 15:00:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 04/08/2025 14:02:07
+Data Atualização: 31/10/2025 16:24:54
+Data Atualização Global: 31/10/2025 16:25:20
+Data Inclusão: 04/08/2025 14:02:07
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: https://bnccompras.com/Process/ProcessView?param1=[gkz]_JNWS7iPhEJQ4tu3ENwzKyjnFvwLAfp8dY_J8cH/zjo26CzXKGJ5svBNvEHZnHolCXmxpzBlBrrAIUxwjjXo8zAhCWVNz70gG/oikddUFYg=
+Link Processo Eletrônico: None
+Usuário Responsável: Bolsa Nacional De Compras - BNC
+SRP (Sistema de Registro de Preços): True
+
+
+
+======================================================================
+PROPOSTA Nº 6
+======================================================================
+CNPJ do Órgão: 76205715000142
+Órgão (Razão Social): MUNICIPIO DE SANTA IZABEL DO OESTE
+UF: PR
+Município: Santa Izabel do Oeste
+Unidade: Div. de Transportes Rod. Municipal
+Ano da Compra: 2025
+Número da Compra: PCE 63
+Sequencial Compra: 207
+Número Controle PNCP: 76205715000142-1-000207/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto-Fechado
+Modo de Disputa ID: 3
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: Registro de preços para futura e eventual aquisição de Tubos de concretos destinados a atender as necessidades da Secretaria Municipal dos Serviços Públicos (SMSP) de Santa Izabel do Oeste/PR, para um período de 12 (doze) meses, com Recursos Municipais.
+Informação Complementar: None
+Valor Total Estimado (R$): 1372300.0
+Valor Total Homologado (R$): None
+Processo: 126/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 08/10/2025 00:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 07/10/2025 14:33:23
+Data Atualização: 07/10/2025 14:33:23
+Data Atualização Global: 07/10/2025 14:33:23
+Data Inclusão: 07/10/2025 14:33:23
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: None
+Link Processo Eletrônico: None
+Usuário Responsável: IPM Sistemas
+SRP (Sistema de Registro de Preços): True
+
+
+
+======================================================================
+PROPOSTA Nº 7
+======================================================================
+CNPJ do Órgão: 11361235000125
+Órgão (Razão Social): MUNICIPIO DE PARNAMIRIM
+UF: PE
+Município: Parnamirim
+Unidade: Fundo Municipal de Saúde de Parnamirim
+Ano da Compra: 2025
+Número da Compra: 005
+Sequencial Compra: 105
+Número Controle PNCP: 11361235000125-1-000105/2025
+Modalidade: Credenciamento
+Modalidade ID: 12
+Modo de Disputa: Não se aplica
+Modo de Disputa ID: 5
+Tipo Instrumento Convocatório: Edital de Chamamento Público
+Tipo Instrumento Cod.: 4
+Objeto: CREDENCIAMENTO DE EMPRESA ESPECIALIZADA NO SERVIÇO DE AGENCIAMENTO DE PASSAGENS AÉREAS, COMPREENDENDO RESERVAS, EMISSÃO DE BILHETES, REMARCAÇÃO, REEMBOLSO E CANCELAMENTO DE BILHETES EM TRECHOS DIVERSOS NO ÂMBITO NACIONAL, PARA FINS DE ATENDER A PREFEITURA MUNICIPAL DE PARNAMIRIM/PE, OBEDECENDO ÀS CONDIÇÕES ESTATUÍDAS NESTE EDITAL E SEUS ANEXOS
+Informação Complementar: 
+Valor Total Estimado (R$): 201827.0
+Valor Total Homologado (R$): None
+Processo: 170/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 13/10/2025 08:00:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 13/10/2025 01:50:20
+Data Atualização: 13/10/2025 01:50:20
+Data Atualização Global: 13/10/2025 01:50:21
+Data Inclusão: 13/10/2025 01:50:20
+Amparo Legal: Lei 14.133/2021, Art. 79, I
+Descrição Amparo Legal: Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.
+Link Sistema Origem: http://www.portaldeparnamirim.com.br
+Link Processo Eletrônico: None
+Usuário Responsável: BR Conectado
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 8
+======================================================================
+CNPJ do Órgão: 88546890000182
+Órgão (Razão Social): MUNICIPIO DE SANTA ROSA
+UF: RS
+Município: Santa Rosa
+Unidade: SMAF -  DEPTO ADMINISTR. DE SECR. MUNIC. DE ADMINISTRAÇÃO E FAZENDA
+Ano da Compra: 2025
+Número da Compra: LEE 1
+Sequencial Compra: 225
+Número Controle PNCP: 88546890000182-1-000225/2025
+Modalidade: Leilão - Eletrônico
+Modalidade ID: 1
+Modo de Disputa: Fechado
+Modo de Disputa ID: 2
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: LEILÃO PRESENCIAL E ELETRÔNICO, de veículos automotores de via terrestre e bens móveis, considerados inservíveis para a Administração Pública Municipal, no estado em que se encontram. Protocolo nº 83618/2025.
+Informação Complementar: None
+Valor Total Estimado (R$): 457700.0
+Valor Total Homologado (R$): None
+Processo: 715/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 21/10/2025 12:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 17/10/2025 09:52:50
+Data Atualização: 17/10/2025 09:52:50
+Data Atualização Global: 17/10/2025 09:55:21
+Data Inclusão: 17/10/2025 09:52:50
+Amparo Legal: Lei 14.133/2021, Art. 28, IV
+Descrição Amparo Legal: Leilão: modalidade de licitação para alienação de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos a quem oferecer o maior lance
+Link Sistema Origem: None
+Link Processo Eletrônico: None
+Usuário Responsável: IPM Sistemas
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 9
+======================================================================
+CNPJ do Órgão: 46634218000107
+Órgão (Razão Social): MUNICIPIO DE TAQUARITUBA
+UF: SP
+Município: Taquarituba
+Unidade: MUNICIPIO DE TAQUARITUBA
+Ano da Compra: 2025
+Número da Compra: 3
+Sequencial Compra: 137
+Número Controle PNCP: 46634218000107-1-000137/2025
+Modalidade: Leilão - Eletrônico
+Modalidade ID: 1
+Modo de Disputa: Fechado
+Modo de Disputa ID: 2
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: Alienação de bens móveis, através de LEILÃO PÚBLICO ONLINE, que objetiva vender a terceiros interessados os bens descritos, com suas características e especificações, locais, preços mínimos fixados
+Informação Complementar: Alienação de bens móveis, através de LEILÃO PÚBLICO ONLINE, que objetiva vender a terceiros interessados os bens descritos, com suas características e especificações, locais, preços mínimos fixados
+
+Valor Total Estimado (R$): 103150.0
+Valor Total Homologado (R$): None
+Processo: 3
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 13/11/2025 00:01:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 17/10/2025 13:57:09
+Data Atualização: 17/10/2025 13:57:09
+Data Atualização Global: 17/10/2025 13:57:09
+Data Inclusão: 17/10/2025 13:57:09
+Amparo Legal: Lei 14.133/2021, Art. 28, IV
+Descrição Amparo Legal: Leilão: modalidade de licitação para alienação de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos a quem oferecer o maior lance
+Link Sistema Origem: 
+Link Processo Eletrônico: None
+Usuário Responsável: Fiorilli Software
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 10
+======================================================================
+CNPJ do Órgão: 76205715000142
+Órgão (Razão Social): MUNICIPIO DE SANTA IZABEL DO OESTE
+UF: PR
+Município: Santa Izabel do Oeste
+Unidade: Divisao da Cultura e Esporte
+Ano da Compra: 2025
+Número da Compra: PCE 70
+Sequencial Compra: 226
+Número Controle PNCP: 76205715000142-1-000226/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: Contratação de empresa devidamente cadastrada no CADASTUR, para a prestação de serviços de transporte e apoio turístico destinados a 80 (oitenta) alunos em viagem educativa e cultural com saída do Município de Santa Izabel do Oeste/PR e destino à cidade de Foz do Iguaçu/PR.
+Informação Complementar: None
+Valor Total Estimado (R$): 61500.0
+Valor Total Homologado (R$): None
+Processo: 137/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 29/10/2025 00:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 24/10/2025 16:04:46
+Data Atualização: 24/10/2025 16:04:46
+Data Atualização Global: 24/10/2025 16:04:46
+Data Inclusão: 24/10/2025 16:04:46
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: None
+Link Processo Eletrônico: None
+Usuário Responsável: IPM Sistemas
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 11
+======================================================================
+CNPJ do Órgão: 87842233000110
+Órgão (Razão Social): MUNICIPIO DE ANTONIO PRADO
+UF: RS
+Município: Antônio Prado
+Unidade: PREFEITURA MUNICIPAL ANTÔNIO PRADO
+Ano da Compra: 2025
+Número da Compra: 109
+Sequencial Compra: 585
+Número Controle PNCP: 87842233000110-1-000585/2025
+Modalidade: Pregão - Presencial
+Modalidade ID: 7
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: Aquisição de materiais e contratação de mão de obra para execução de pavimentação e execução de redes de drenagem de esgotos e de águas pluviais/fluviais.
+Informação Complementar: Aquisição de materiais e contratação de mão de obra para execução de pavimentação e execução de redes de drenagem de esgotos e de águas pluviais/fluviais.
+
+Valor Total Estimado (R$): 0.0
+Valor Total Homologado (R$): None
+Processo: 109
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 13/11/2025 00:01:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 28/10/2025 10:32:17
+Data Atualização: 28/10/2025 10:32:17
+Data Atualização Global: 28/10/2025 11:23:19
+Data Inclusão: 28/10/2025 10:32:17
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: https://www.antonioprado.rs.gov.br/portal.php?pagina=licitacoes_editais
+Link Processo Eletrônico: None
+Usuário Responsável: Fiorilli Software
+SRP (Sistema de Registro de Preços): True
+
+
+
+======================================================================
+PROPOSTA Nº 12
+======================================================================
+CNPJ do Órgão: 44555027000116
+Órgão (Razão Social): MUNICIPIO DE PIRAJUI
+UF: SP
+Município: Pirajuí
+Unidade: PREFEITURA MUNICIPAL DE PIRAJUI
+Ano da Compra: 2025
+Número da Compra: 43
+Sequencial Compra: 93
+Número Controle PNCP: 44555027000116-1-000093/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: Aquisição e Instalação de Equipamentos de Ar-Condicionado, nos termos da tabela abaixo, conforme especificações constantes do Termo de Referência, que integra este Edital como Anexo I.
+Informação Complementar: 
+Valor Total Estimado (R$): 137941.5
+Valor Total Homologado (R$): None
+Processo: 43
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 13/11/2025 00:01:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 28/10/2025 16:56:41
+Data Atualização: 28/10/2025 16:56:41
+Data Atualização Global: 28/10/2025 16:56:41
+Data Inclusão: 28/10/2025 16:56:41
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: http://prefeiturapirajui1.ddns.net:8079/COMPRASEDITAL/
+Link Processo Eletrônico: None
+Usuário Responsável: Fiorilli Software
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 13
+======================================================================
+CNPJ do Órgão: 09012493000154
+Órgão (Razão Social): MUNICIPIO DE CABEDELO
+UF: PB
+Município: Cabedelo
+Unidade: Prefeitura Municipal de Cabedelo - PB
+Ano da Compra: 2025
+Número da Compra: 00034/2025
+Sequencial Compra: 233
+Número Controle PNCP: 09012493000154-1-000233/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto-Fechado
+Modo de Disputa ID: 3
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: Contratação de empresa aquisição e instalação de piso modular para o Ginásio Poliesportivo Edmilson do Nascimento Trigueiro (Missinho), de responsabilidade da Secretaria de Esporte, Juventude e Lazer
+Informação Complementar: 
+Valor Total Estimado (R$): 226868.23
+Valor Total Homologado (R$): None
+Processo: 250313PE00034
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 22/09/2025 09:00:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 29/10/2025 13:28:43
+Data Atualização: 29/10/2025 13:28:43
+Data Atualização Global: 29/10/2025 13:28:44
+Data Inclusão: 29/10/2025 13:28:43
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: http://licitacaocabedelo.com.br
+Link Processo Eletrônico: None
+Usuário Responsável: BR Conectado
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 14
+======================================================================
+CNPJ do Órgão: 44498467000189
+Órgão (Razão Social): MUNICIPIO DE IGARACU DO TIETE
+UF: SP
+Município: Igaraçu do Tietê
+Unidade: PREFEITURA MUNICIPAL DE IGARAÇU DO TIETÊ
+Ano da Compra: 2025
+Número da Compra: 40
+Sequencial Compra: 705
+Número Controle PNCP: 44498467000189-1-000705/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: Locação de elementos de iluminação, para serem utilizadas nas comemorações de final de ano no Município de Igaraçu do Tietê.
+Informação Complementar: None
+Valor Total Estimado (R$): 137666.67
+Valor Total Homologado (R$): None
+Processo: 679/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 30/10/2025 08:00:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 30/10/2025 07:59:00
+Data Atualização: 30/10/2025 07:59:00
+Data Atualização Global: 30/10/2025 07:59:37
+Data Inclusão: 30/10/2025 07:59:00
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: https://bllcompras.com/Process/ProcessView?param1=[gkz]0Lt1WVqHkwkySpBzwyslrW8BdDg4978jaJH87j2zCYQt3ExY_iU0YBlM58mzDVgZIzbg55VQbxdALPREyS8mn9v_ab/YkB9xgS_s86n02UI=
+Link Processo Eletrônico: None
+Usuário Responsável: BLL Compras
+SRP (Sistema de Registro de Preços): True
+
+
+
+======================================================================
+PROPOSTA Nº 15
+======================================================================
+CNPJ do Órgão: 83009860000113
+Órgão (Razão Social): MUNICIPIO DE XANXERE
+UF: SC
+Município: Xanxerê
+Unidade: MUNICÍPIO DE XANXERÊ
+Ano da Compra: 2025
+Número da Compra: PE 152
+Sequencial Compra: 362
+Número Controle PNCP: 83009860000113-1-000362/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: Contratação de empresa especializada para a execução de sondagem a percussão (SPT) e sondagem mista (SPT e Rotativa) com mobilização e desmobilização de equipamentos, fornecimento de laudos, fornecimento de relatórios técnicos com descrição geotécnica e de testemunhos de sondagem e Atestados de Responsabilidade Técnica – ART.
+Informação Complementar: 
+Valor Total Estimado (R$): 220639.95
+Valor Total Homologado (R$): None
+Processo: 318/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 30/10/2025 00:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 30/10/2025 09:10:17
+Data Atualização: 30/10/2025 09:10:17
+Data Atualização Global: 30/10/2025 09:10:17
+Data Inclusão: 30/10/2025 09:10:17
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: 
+Link Processo Eletrônico: None
+Usuário Responsável: Betha Sistemas
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 16
+======================================================================
+CNPJ do Órgão: 77001311000108
+Órgão (Razão Social): MUNICIPIO DE CASTRO
+UF: PR
+Município: Castro
+Unidade: Secretaria Municipal de Saúde
+Ano da Compra: 2025
+Número da Compra: PCE 166
+Sequencial Compra: 575
+Número Controle PNCP: 77001311000108-1-000575/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: futura e eventual  AQUISIÇÃO DE MATERIAL DE LIMPEZA E HIGIENE HOSPITALAR, QUE SERÃO UTILIZADOS NAS AÇÕES DA SECRETARIA MUNICIPAL DA SAÚDE PARA A UNIDADE DE PRONTO ATENDIMENTO - UPA
+Informação Complementar: None
+Valor Total Estimado (R$): 316095.7
+Valor Total Homologado (R$): None
+Processo: 499/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 31/10/2025 00:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 30/10/2025 13:29:08
+Data Atualização: 30/10/2025 13:29:08
+Data Atualização Global: 30/10/2025 13:29:09
+Data Inclusão: 30/10/2025 13:29:08
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: None
+Link Processo Eletrônico: None
+Usuário Responsável: IPM Sistemas
+SRP (Sistema de Registro de Preços): True
+
+
+
+======================================================================
+PROPOSTA Nº 17
+======================================================================
+CNPJ do Órgão: 77721363000140
+Órgão (Razão Social): MUNICIPIO DE ORTIGUEIRA
+UF: PR
+Município: Ortigueira
+Unidade: PREFEITURA MUNICIPAL DE ORTIGUEIRA - PR
+Ano da Compra: 2025
+Número da Compra: PE 122
+Sequencial Compra: 265
+Número Controle PNCP: 77721363000140-1-000265/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: A contratação de empresa especializada em locação de veículos com quilometragem livre, sem motorista para uso desta municipalidade.
+Informação Complementar: 
+Valor Total Estimado (R$): 854106.0
+Valor Total Homologado (R$): None
+Processo: 188/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 29/10/2025 23:59:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 30/10/2025 14:32:12
+Data Atualização: 30/10/2025 14:32:12
+Data Atualização Global: 30/10/2025 14:32:12
+Data Inclusão: 30/10/2025 14:32:12
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: 
+Link Processo Eletrônico: None
+Usuário Responsável: Betha Sistemas
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 18
+======================================================================
+CNPJ do Órgão: 77721363000140
+Órgão (Razão Social): MUNICIPIO DE ORTIGUEIRA
+UF: PR
+Município: Ortigueira
+Unidade: PREFEITURA MUNICIPAL DE ORTIGUEIRA - PR
+Ano da Compra: 2025
+Número da Compra: PE 123
+Sequencial Compra: 266
+Número Controle PNCP: 77721363000140-1-000266/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: o Registro de Preços para futura contratação de empresa especializada para prestação de serviços sob demanda, para auxilio na organização de eventos oficiais e solenidades de caráter institucional, incluindo espaço físico, planejamento operacional, montagem de ornamentação, infraestrutura, fornecimento de equipamentos, alimentação e hospedagem para atender a demanda das Secretarias Municipais da Prefeitura Municipal de Ortigueira.
+Informação Complementar: 
+Valor Total Estimado (R$): 404520.63
+Valor Total Homologado (R$): None
+Processo: 189/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 29/10/2025 23:59:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 30/10/2025 14:33:19
+Data Atualização: 30/10/2025 14:33:19
+Data Atualização Global: 30/10/2025 14:33:19
+Data Inclusão: 30/10/2025 14:33:19
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: 
+Link Processo Eletrônico: None
+Usuário Responsável: Betha Sistemas
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 19
+======================================================================
+CNPJ do Órgão: 77721363000140
+Órgão (Razão Social): MUNICIPIO DE ORTIGUEIRA
+UF: PR
+Município: Ortigueira
+Unidade: PREFEITURA MUNICIPAL DE ORTIGUEIRA - PR
+Ano da Compra: 2025
+Número da Compra: PE 124
+Sequencial Compra: 267
+Número Controle PNCP: 77721363000140-1-000267/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: a Contratação de empresa especializada para fornecimento de seguros para os veículos pertencentes à frota municipal.
+Informação Complementar: 
+Valor Total Estimado (R$): 57704.65
+Valor Total Homologado (R$): None
+Processo: 190/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 29/10/2025 23:59:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 30/10/2025 14:34:43
+Data Atualização: 30/10/2025 14:34:43
+Data Atualização Global: 30/10/2025 14:34:43
+Data Inclusão: 30/10/2025 14:34:43
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: 
+Link Processo Eletrônico: None
+Usuário Responsável: Betha Sistemas
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 20
+======================================================================
+CNPJ do Órgão: 39547500000183
+Órgão (Razão Social): MUNICIPIO DE GUAPIMIRIM
+UF: RJ
+Município: Guapimirim
+Unidade: Prefeitura Municipal de Guapimirim
+Ano da Compra: 2025
+Número da Compra: 23-REP./2025
+Sequencial Compra: 84
+Número Controle PNCP: 39547500000183-1-000084/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Fechado-Aberto
+Modo de Disputa ID: 6
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: Contratação de empresa para prestação de serviços continuados de apoio operacional e atividades auxiliares nas áreas de recepção, copeiragem, conservação, limpeza e higienização de bens móveis e imóveis, controle e fiscalização de portarias, e supervisão a serem executados por meio de postos de trabalhos com fornecimentos de insumos, em atendimento às necessidades da Secretaria Municipal de Administração, Agricultura, Ambiente, Assistência Social, Cultura, Desenvolvimento Econômico, Esporte, Obras, Segurança, Turismo, e Urbanismo.
+Informação Complementar: 
+Valor Total Estimado (R$): 14205951.84
+Valor Total Homologado (R$): None
+Processo: 1197/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 30/10/2025 00:00:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 30/10/2025 15:14:10
+Data Atualização: 30/10/2025 15:14:10
+Data Atualização Global: 30/10/2025 15:14:10
+Data Inclusão: 30/10/2025 15:14:10
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: http://www.comprasguapimirim.com.br
+Link Processo Eletrônico: None
+Usuário Responsável: BR Conectado
+SRP (Sistema de Registro de Preços): True
+
+
+
+======================================================================
+PROPOSTA Nº 21
+======================================================================
+CNPJ do Órgão: 46137428000181
+Órgão (Razão Social): MUNICIPIO DE AREALVA
+UF: SP
+Município: Arealva
+Unidade: MUNICÍPIO DE AREALVA
+Ano da Compra: 2025
+Número da Compra: 72
+Sequencial Compra: 84
+Número Controle PNCP: 46137428000181-1-000084/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: A presente licitação tem por objeto, o Registro de Preços para a Aquisição de Materiais de Expediente, conforme especificações constantes do Termo de Referência, que integra este Edital como Anexo I.
+Informação Complementar: Para instrução dos autos, a área demandante encaminhou os seguintes documentos: 
+
+Documento de Formalização de Demanda;
+Estudo Técnico Preliminar;
+Anexo ao ETP – Mapa de Gerenciamento de Riscos da Contratação; e
+Termo de Referência.
+
+Valor Total Estimado (R$): 58670.18
+Valor Total Homologado (R$): None
+Processo: 72
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 13/11/2025 00:01:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 30/10/2025 17:08:03
+Data Atualização: 30/10/2025 17:08:03
+Data Atualização Global: 30/10/2025 17:08:03
+Data Inclusão: 30/10/2025 17:08:03
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: http://portaltransp.arealva.sp.gov.br:5885/comprasedital
+Link Processo Eletrônico: None
+Usuário Responsável: Fiorilli Software
+SRP (Sistema de Registro de Preços): True
+
+
+
+======================================================================
+PROPOSTA Nº 22
+======================================================================
+CNPJ do Órgão: 92005545000109
+Órgão (Razão Social): MUNICIPIO DE CERRO GRANDE
+UF: RS
+Município: Cerro Grande
+Unidade: PREFEITURA MUNICIPAL DE CERRO GRANDE
+Ano da Compra: 2025
+Número da Compra: 6
+Sequencial Compra: 82
+Número Controle PNCP: 92005545000109-1-000082/2025
+Modalidade: Credenciamento
+Modalidade ID: 12
+Modo de Disputa: Não se aplica
+Modo de Disputa ID: 5
+Tipo Instrumento Convocatório: Edital de Chamamento Público
+Tipo Instrumento Cod.: 4
+Objeto: Credenciamento e seleção de empresa do ramo da construção civil, com qualificação técnica e capacidade operacional, para elaboração de Projetos de Arquitetura e de Engenharia e posterior construção de 01 (um) edifício habitacional, com 15 (quinze) unidades habitacionais de interesse social, com área útil mínima de 45,5m², em lote de domínio público do Município de Cerro Grande/RS, enquadradas na linha de atendimento de provisão subsidiada de unidades habitacionais novas em áreas urbanas, com recursos do Fundo de Arrendamento Residencial, integrante do Programa Minha Casa, Minha Vida, conforme Portaria MCID nº 1.388 de 11 dezembro de 2024 e Portaria MCID nº 47 de 17 de janeiro de 2025.
+Informação Complementar: None
+Valor Total Estimado (R$): 2520000.0
+Valor Total Homologado (R$): None
+Processo: 83/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 31/10/2025 00:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 31/10/2025 11:24:53
+Data Atualização: 31/10/2025 11:24:54
+Data Atualização Global: 31/10/2025 11:25:40
+Data Inclusão: 31/10/2025 11:24:53
+Amparo Legal: Lei 14.133/2021, Art. 79, II
+Descrição Amparo Legal: Credenciamento: na hipótese de contratação com seleção a critério de terceiros: caso em que a seleção do contratado está a cargo do beneficiário direto da prestação.
+Link Sistema Origem: None
+Link Processo Eletrônico: None
+Usuário Responsável: digifred sistemas de informação ltda
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 23
+======================================================================
+CNPJ do Órgão: 00145789000179
+Órgão (Razão Social): MUNICIPIO DE CAMPINACU
+UF: GO
+Município: Campinaçu
+Unidade: FMS - FUNDO MUNICIPAL DE SAÚDE
+Ano da Compra: 2025
+Número da Compra: 2
+Sequencial Compra: 492
+Número Controle PNCP: 00145789000179-1-000492/2025
+Modalidade: Credenciamento
+Modalidade ID: 12
+Modo de Disputa: Não se aplica
+Modo de Disputa ID: 5
+Tipo Instrumento Convocatório: Edital de Chamamento Público
+Tipo Instrumento Cod.: 4
+Objeto: CREDENCIAMENTO DE PRESTADORES DE SERVIÇOS DE SAÚDE
+Informação Complementar: Cadastrar Pessoas Físicas e Jurídicas, Prestadores de Serviços da Área da Saúde, bem como Clinicas e Laboratórios de Analises Clinicas, para posterior credenciamento/contratação no âmbito do município de Campinaçu, mediante documentação e pedido de inscrição para Prestação de Serviços especializados na área da saúde aos usuários do Sistema Único de Saúde - SUS do Município de Campinaçu, tanto na área urbana, quanto rural, com compatibilidade e disponibilidade tecnica.
+Valor Total Estimado (R$): 6052461.2
+Valor Total Homologado (R$): None
+Processo: 2
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 10/11/2025 00:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 31/10/2025 11:34:44
+Data Atualização: 31/10/2025 11:34:44
+Data Atualização Global: 31/10/2025 11:34:54
+Data Inclusão: 31/10/2025 11:34:44
+Amparo Legal: Lei 14.133/2021, Art. 79, I
+Descrição Amparo Legal: Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.
+Link Sistema Origem: 
+Link Processo Eletrônico: None
+Usuário Responsável: CENTI
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 24
+======================================================================
+CNPJ do Órgão: 44556207000112
+Órgão (Razão Social): MUNICIPIO DE URU
+UF: SP
+Município: Uru
+Unidade: PREFEITURA MUNICIPAL DE URU
+Ano da Compra: 2025
+Número da Compra: 29
+Sequencial Compra: 65
+Número Controle PNCP: 44556207000112-1-000065/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: A presente licitação tem por objeto, o Registro de Preços para a Aquisição de Insumos de Ostomia, conforme especificações constantes do Termo de Referência, que integra este Edital como Anexo I
+Informação Complementar: Para instrução dos autos, a área demandante encaminhou os seguintes documentos: 
+
+Documento de Formalização de Demanda;
+Estudo Técnico Preliminar;
+Anexo ao ETP – Mapa de Gerenciamento de Riscos da Contratação; e
+Termo de Referência.
+
+Valor Total Estimado (R$): 198114.26
+Valor Total Homologado (R$): None
+Processo: 29
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 13/11/2025 00:01:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 31/10/2025 14:11:12
+Data Atualização: 31/10/2025 14:11:12
+Data Atualização Global: 31/10/2025 14:11:12
+Data Inclusão: 31/10/2025 14:11:12
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: 
+Link Processo Eletrônico: None
+Usuário Responsável: Fiorilli Software
+SRP (Sistema de Registro de Preços): True
+
+
+
+======================================================================
+PROPOSTA Nº 25
+======================================================================
+CNPJ do Órgão: 44935278000126
+Órgão (Razão Social): MUNICIPIO DE RANCHARIA
+UF: SP
+Município: Rancharia
+Unidade: MUNICIPIO DE RANCHARIA
+Ano da Compra: 2025
+Número da Compra: 72
+Sequencial Compra: 258
+Número Controle PNCP: 44935278000126-1-000258/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto-Fechado
+Modo de Disputa ID: 3
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS PERECÍVEIS (CARNES E DERIVADOS) PARA ATENDIMENTO DA ALIMENTAÇÃO ESCOLAR
+Informação Complementar: AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS PERECÍVEIS (CARNES E DERIVADOS) PARA ATENDIMENTO DA ALIMENTAÇÃO ESCOLAR DO MUNICIPIO DE RANCHARIA.
+Valor Total Estimado (R$): 1669285.0
+Valor Total Homologado (R$): None
+Processo: 72
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 03/11/2025 08:00:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 31/10/2025 14:29:03
+Data Atualização: 31/10/2025 14:29:03
+Data Atualização Global: 31/10/2025 14:29:08
+Data Inclusão: 31/10/2025 14:29:03
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: https://transparencia.rancharia.sp.gov.br/transparencia/
+Link Processo Eletrônico: None
+Usuário Responsável: Fiorilli Software
+SRP (Sistema de Registro de Preços): True
+
+
+
+======================================================================
+PROPOSTA Nº 26
+======================================================================
+CNPJ do Órgão: 88597984000180
+Órgão (Razão Social): MUNICIPIO DE SERAFINA CORREA
+UF: RS
+Município: Serafina Corrêa
+Unidade: Município de Serafina Corrêa
+Ano da Compra: 2025
+Número da Compra: 55
+Sequencial Compra: 58
+Número Controle PNCP: 88597984000180-1-000058/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: AQUISIÇÃO DE INSUMOS AGRÍCOLAS E ALIMENTAÇÃO ANIMAL
+Informação Complementar: Registro de Preços de insumos agrícolas e alimentação animal, a serem utilizados pela Escola Municipal Agrícola Otávio Augusto Gheller.
+Valor Total Estimado (R$): 133951.0
+Valor Total Homologado (R$): None
+Processo: 55
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 13/11/2025 00:01:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 31/10/2025 14:45:17
+Data Atualização: 31/10/2025 14:45:17
+Data Atualização Global: 31/10/2025 14:45:18
+Data Inclusão: 31/10/2025 14:45:17
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: 
+Link Processo Eletrônico: None
+Usuário Responsável: Fiorilli Software
+SRP (Sistema de Registro de Preços): True
+
+
+
+======================================================================
+PROPOSTA Nº 27
+======================================================================
+CNPJ do Órgão: 30951247000154
+Órgão (Razão Social): FUNDO MUNICIPAL DE EDUCACAO DE DORMENTES
+UF: PE
+Município: Dormentes
+Unidade: FUNDO MUNICIPAL DE EDUCAÇÃO DE DORMENTES
+Ano da Compra: 2025
+Número da Compra: 025
+Sequencial Compra: 8
+Número Controle PNCP: 30951247000154-1-000008/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto-Fechado
+Modo de Disputa ID: 3
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: Contratação de empresa especializada para prestação de serviços contínuos de transporte terrestre e aquaviário para alunos de acordo com a necessidade da Secretaria Municipal de Educação do município de Dormentes/PE.
+Informação Complementar: None
+Valor Total Estimado (R$): 2288634.01
+Valor Total Homologado (R$): None
+Processo: 078/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 31/10/2025 16:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 03/11/2025 09:51:15
+Data Atualização: 03/11/2025 09:51:15
+Data Atualização Global: 03/11/2025 13:27:10
+Data Inclusão: 03/11/2025 09:51:15
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: https://bnccompras.com/Process/ProcessView?param1=[gkz]MzXg1hCx/YoWaVoqzF_hfQwX4jSxeGMxP58aNuni17YE87hZVLVMqaj39uRM3Bzf5i09j_Hfp0XfrtWemjageqym7f_xWW72EFUF47xAuzQ=
+Link Processo Eletrônico: None
+Usuário Responsável: Bolsa Nacional De Compras - BNC
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 28
+======================================================================
+CNPJ do Órgão: 76002641000147
+Órgão (Razão Social): MUNICIPIO DE RIO NEGRO
+UF: PR
+Município: Rio Negro
+Unidade: Departamento de Assistência à Saúde -das
+Ano da Compra: 2025
+Número da Compra: PCE 89
+Sequencial Compra: 456
+Número Controle PNCP: 76002641000147-1-000456/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: Aquisição de ataduras e compressas com apresentação de amostra
+Informação Complementar: None
+Valor Total Estimado (R$): 184911.05
+Valor Total Homologado (R$): None
+Processo: 373/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 04/11/2025 00:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 03/11/2025 14:12:03
+Data Atualização: 03/11/2025 14:12:03
+Data Atualização Global: 03/11/2025 14:12:03
+Data Inclusão: 03/11/2025 14:12:03
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: None
+Link Processo Eletrônico: None
+Usuário Responsável: IPM Sistemas
+SRP (Sistema de Registro de Preços): True
+
+
+
+======================================================================
+PROPOSTA Nº 29
+======================================================================
+CNPJ do Órgão: 76105618000188
+Órgão (Razão Social): MUNICIPIO DE CAMPO LARGO
+UF: PR
+Município: Campo Largo
+Unidade: Fundo Municipal de Saúde
+Ano da Compra: 2025
+Número da Compra: PCE 129
+Sequencial Compra: 660
+Número Controle PNCP: 76105618000188-1-000660/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: Registro de preços para aquisição de enxovais hospitalares (lençóis), à serem utilizados pela Unidade de Pronto Atendimento, e Samu vinculados a
+Secretaria Municipal de Saúde.
+Informação Complementar: None
+Valor Total Estimado (R$): 162290.0
+Valor Total Homologado (R$): None
+Processo: 471/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 04/11/2025 00:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 03/11/2025 16:03:40
+Data Atualização: 03/11/2025 16:03:40
+Data Atualização Global: 13/11/2025 15:13:25
+Data Inclusão: 03/11/2025 16:03:40
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: None
+Link Processo Eletrônico: None
+Usuário Responsável: IPM Sistemas
+SRP (Sistema de Registro de Preços): True
+
+
+
+======================================================================
+PROPOSTA Nº 30
+======================================================================
+CNPJ do Órgão: 95719472000105
+Órgão (Razão Social): MUNICIPIO DE PATO BRAGADO
+UF: PR
+Município: Pato Bragado
+Unidade: Sec. de Ind. Com. Tur. e Desenv. Econ.
+Ano da Compra: 2025
+Número da Compra: PCE 83
+Sequencial Compra: 188
+Número Controle PNCP: 95719472000105-1-000188/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: Contratação de empresa para aquisição de peixes vivos da espécie Tambacu (hibrido de Tambaqui e Pacu), com peso individual mínimo de 1,50 kg e máximo de 2,00 kg, destinados ao repovoamento e manejo sustentável dos lagos do Parque das Águas, localizado no Município de Pato Bragado - PR, incluindo o fornecimento, transporte, entrega e soltura assistida dos exemplares, sob supervisão da Secretaria de Indústria, Comércio, Turismo e Desenvolvimento Econômico, conforme quantidades e condições mínimas relacionadas no Termo de Referência anexo ao Edital.
+Informação Complementar: None
+Valor Total Estimado (R$): 273910.0
+Valor Total Homologado (R$): None
+Processo: 172/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 04/11/2025 00:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 03/11/2025 16:26:00
+Data Atualização: 03/11/2025 16:26:00
+Data Atualização Global: 03/11/2025 16:26:01
+Data Inclusão: 03/11/2025 16:26:00
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: None
+Link Processo Eletrônico: None
+Usuário Responsável: IPM Sistemas
+SRP (Sistema de Registro de Preços): True
+
+
+
+======================================================================
+PROPOSTA Nº 31
+======================================================================
+CNPJ do Órgão: 44951515000142
+Órgão (Razão Social): MUNICIPIO DE TEODORO SAMPAIO
+UF: SP
+Município: Teodoro Sampaio
+Unidade: PREFEITURA MUNICIPAL
+Ano da Compra: 2025
+Número da Compra: 141 | Processo 236
+Sequencial Compra: 219
+Número Controle PNCP: 44951515000142-1-000219/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: Contratacao de empresa para o fornecimento de 01  uma  enceradeira industrial  destinada ao atendimento das necessidades da Secretaria Municipal de Saude.
+Informação Complementar:  
+Valor Total Estimado (R$): 2508.98
+Valor Total Homologado (R$): None
+Processo: 141
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 11/11/2025 00:00:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 04/11/2025 15:01:39
+Data Atualização: 10/11/2025 10:49:32
+Data Atualização Global: 10/11/2025 10:49:40
+Data Inclusão: 04/11/2025 15:01:39
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem:  
+Link Processo Eletrônico: None
+Usuário Responsável: Governançabrasil Tecnologia e Gestão em Serviços
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 32
+======================================================================
+CNPJ do Órgão: 25086596000115
+Órgão (Razão Social): MUNICIPIO DE BERNARDO SAYAO
+UF: TO
+Município: Bernardo Sayão
+Unidade: PREFEITURA MUNICIPAL DE BERNARDO SAYÃO
+Ano da Compra: 2025
+Número da Compra: 000000031
+Sequencial Compra: 75
+Número Controle PNCP: 25086596000115-1-000075/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: Contratação de empresa especializada para a aquisição de um veículo tipo Van acessível, com capacidade para 18 passageiros mais o motorista (18+1), zero quilômetro, sem uso, motor turbo diesel com potência mínima de 140 CV, direção hidráulica ou elétrica, ar-condicionado, porta traseira dupla e porta lateral direita, equipada com todos os dispositivos de segurança exigidos pelo CONTRAN, e com garantia mínima de 12 (doze) meses.O veículo destina-se a atender às demandas da Secretaria Munici
+Informação Complementar: None
+Valor Total Estimado (R$): 396000.0
+Valor Total Homologado (R$): None
+Processo: 000000183
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 05/11/2025 10:49:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 05/11/2025 11:29:48
+Data Atualização: 05/11/2025 11:29:48
+Data Atualização Global: 05/11/2025 11:29:49
+Data Inclusão: 05/11/2025 11:29:48
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: https://bnccompras.com/Process/ProcessView?param1=[gkz]dbYWNggNYU_lsl277JU9YdM/GE8f0RYTZDlcfDk3gh6n0WAvPSblRquwN/zwyfGfZzihWNcr_NvpcYwNFFVjAFt1Ardavbd3wBIfDyHUCwU=
+Link Processo Eletrônico: None
+Usuário Responsável: Bolsa Nacional De Compras - BNC
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 33
+======================================================================
+CNPJ do Órgão: 45142353000164
+Órgão (Razão Social): MUNICIPIO DE BALSAMO
+UF: SP
+Município: Bálsamo
+Unidade: PREFEITURA MUNICIPAL DE BALSAMO
+Ano da Compra: 2025
+Número da Compra: 37
+Sequencial Compra: 66
+Número Controle PNCP: 45142353000164-1-000066/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: Registro de Preços para a Aquisição de Cestas Básicas, conforme especificações constantes do Termo de Referência
+Informação Complementar: Registro de Preços para a Aquisição de Cestas Básicas, conforme especificações constantes do Termo de Referência
+
+Valor Total Estimado (R$): 177828.0
+Valor Total Homologado (R$): None
+Processo: 37
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 13/11/2025 00:01:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 05/11/2025 16:39:26
+Data Atualização: 05/11/2025 16:39:26
+Data Atualização Global: 05/11/2025 16:39:26
+Data Inclusão: 05/11/2025 16:39:26
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: http://177.39.199.170:8079/COMPRASEDITAL/
+Link Processo Eletrônico: None
+Usuário Responsável: MUNICIPIO DE BÁLSAMO
+SRP (Sistema de Registro de Preços): True
+
+
+
+======================================================================
+PROPOSTA Nº 34
+======================================================================
+CNPJ do Órgão: 08948697000139
+Órgão (Razão Social): MUNICIPIO DE POMBAL
+UF: PB
+Município: Pombal
+Unidade: Prefeitura Municipal de Pombal
+Ano da Compra: 2025
+Número da Compra: 16
+Sequencial Compra: 219
+Número Controle PNCP: 08948697000139-1-000219/2025
+Modalidade: Credenciamento
+Modalidade ID: 12
+Modo de Disputa: Não se aplica
+Modo de Disputa ID: 5
+Tipo Instrumento Convocatório: Edital de Chamamento Público
+Tipo Instrumento Cod.: 4
+Objeto: CREDENCIAMENTO DE HOSPEDAGEM DESTINADO AO GRUPO DE IDOSOS PARTICIPANTES DOS PROGRAMAS DA SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL EM DESLOCAMENTO AO ARAJARA PARK
+Informação Complementar: None
+Valor Total Estimado (R$): 16185.0
+Valor Total Homologado (R$): None
+Processo: 2025.11.433
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 12/11/2025 08:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 05/11/2025 16:47:22
+Data Atualização: 05/11/2025 16:47:22
+Data Atualização Global: 05/11/2025 16:47:22
+Data Inclusão: 05/11/2025 16:47:22
+Amparo Legal: Lei 14.133/2021, Art. 79, II
+Descrição Amparo Legal: Credenciamento: na hipótese de contratação com seleção a critério de terceiros: caso em que a seleção do contratado está a cargo do beneficiário direto da prestação.
+Link Sistema Origem: 
+Link Processo Eletrônico: None
+Usuário Responsável: Elmar Tecnologia
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 35
+======================================================================
+CNPJ do Órgão: 41882879000120
+Órgão (Razão Social): CAMARA MUNICIPAL DE SAO JOSE DO ALEGRE
+UF: MG
+Município: São José do Alegre
+Unidade: Câmara de São José do Alegre
+Ano da Compra: 2025
+Número da Compra: 17
+Sequencial Compra: 18
+Número Controle PNCP: 41882879000120-1-000018/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: AQUISIÇÃO DE EQUIPAMENTOS DESTINADOS À INSTALAÇÃO DO POSTO DE IDENTIFICAÇÃO CIVIL PARA EMISSÃO DE CARTEIRA DE IDENTIDADE, CONFORME ACORDO DE COOPERAÇÃO TÉCNICA ENTRE A POLÍCIA CIVIL DO ESTADO DE MINAS GERAIS E A CÂMARA MUNICIPAL DE SÃO JOSÉ DO ALEGRE/MG.
+Informação Complementar: 
+Valor Total Estimado (R$): 26544.56
+Valor Total Homologado (R$): None
+Processo: 17/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 07/11/2025 11:30:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 07/11/2025 11:16:10
+Data Atualização: 07/11/2025 11:16:10
+Data Atualização Global: 07/11/2025 11:16:10
+Data Inclusão: 07/11/2025 11:16:10
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: None
+Link Processo Eletrônico: None
+Usuário Responsável: Planejar Consultores Associados Ltda
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 36
+======================================================================
+CNPJ do Órgão: 46482840000139
+Órgão (Razão Social): MUNICIPIO DE CARAGUATATUBA
+UF: SP
+Município: Caraguatatuba
+Unidade: SECRETARIA MUNICIPAL DE ASSUNTOS JURÍDICOS
+Ano da Compra: 2025
+Número da Compra: 839
+Sequencial Compra: 993
+Número Controle PNCP: 46482840000139-1-000993/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: AQUISIÇAO DE CONJUNTO PARA COLETA SELETIVA DE LIXO, CONTENDO 5 LIXEIRAS DE 60 LITROS CADA, NAS CORES VERMELHA, AZUL, AMARELA, VERDE E MARROM, COM SUPORTE METÁLICO E AQUISIÇÃO DE CABO EXTENSOR.
+Informação Complementar: SC4572
+SC4689
+Valor Total Estimado (R$): 889.26
+Valor Total Homologado (R$): None
+Processo: PC 001079/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 06/11/2025 00:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 07/11/2025 14:28:05
+Data Atualização: 07/11/2025 14:28:05
+Data Atualização Global: 07/11/2025 14:28:05
+Data Inclusão: 07/11/2025 14:28:05
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: https://pmcaraguatatuba.geosiap.net.br/portal-transparencia/licitacoes/processo/85955
+Link Processo Eletrônico: None
+Usuário Responsável: EMBRAS - EMPRESA BRASILEIRA DE TECNOLOGIA LTDA
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 37
+======================================================================
+CNPJ do Órgão: 13698766000133
+Órgão (Razão Social): MUNICIPIO DE MONTE SANTO
+UF: BA
+Município: Monte Santo
+Unidade: FUNDO MUNICIPAL DE SAUDE
+Ano da Compra: 2025
+Número da Compra: 057
+Sequencial Compra: 243
+Número Controle PNCP: 13698766000133-1-000243/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Fechado
+Modo de Disputa ID: 2
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: OBJETO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA CONFECÇÃO E FORNECIMENTO DE FARDAMENTO COMPLETO PARA OS PROFISSIONAIS DO SERVIÇO DE ATENDIMENTO MÓVEL DE URGÊNCIA (SAMU), VISANDO ATENDER ÀS NECESSIDADES OPERACIONAIS E DE PADRONIZAÇÃO VISUAL DA EQUIPE DO HOSPITAL MUNICIPAL MONSENHOR BERENGUER, NO MUNICÍPIO DE MONTE SANTO/BA.
+Informação Complementar: None
+Valor Total Estimado (R$): 45640.0
+Valor Total Homologado (R$): None
+Processo: 246/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 07/11/2025 08:00:00
+Data Encerramento: 13/11/2025 23:59:59
+Data Publicação PNCP: 07/11/2025 21:34:20
+Data Atualização: 07/11/2025 21:34:20
+Data Atualização Global: 07/11/2025 21:34:48
+Data Inclusão: 07/11/2025 21:34:20
+Amparo Legal: Lei 14.133/2021, Art. 1º, § 2º
+Descrição Amparo Legal: As contratações realizadas no âmbito das repartições públicas sediadas no exterior obedecerão às peculiaridades locais e aos princípios básicos estabelecidos nesta Lei, na forma de regulamentação específica a ser editada por ministro de Estado.
+Link Sistema Origem: None
+Link Processo Eletrônico: None
+Usuário Responsável: IBDM Modernização Assessoria e Consultoria
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 38
+======================================================================
+CNPJ do Órgão: 44568277000190
+Órgão (Razão Social): MUNICIPIO DE HERCULANDIA
+UF: SP
+Município: Herculândia
+Unidade: PREFEITURA MUNICIPAL DE HERCULÂNDIA
+Ano da Compra: 2025
+Número da Compra: 44
+Sequencial Compra: 113
+Número Controle PNCP: 44568277000190-1-000113/2025
+Modalidade: Pregão - Eletrônico
+Modalidade ID: 6
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE SEGURANÇA DO TRABALHO, INCLUINDO O GERENCIAMENTO, CONTROLE E DISPENSAÇÃO DE EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL (EPIS), PARA ATENDER ÀS NECESSIDADES DA PREFEITURA MUNICIPAL DE HERCULÂNDIA-SP, PELO PERÍODO DE 12 (DOZE) MESES
+Informação Complementar: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE SEGURANÇA DO TRABALHO, INCLUINDO O GERENCIAMENTO, CONTROLE E DISPENSAÇÃO DE EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL (EPIS), PARA ATENDER ÀS NECESSIDADES DA PREFEITURA MUNICIPAL DE HERCULÂNDIA-SP, PELO PERÍODO DE 12 (DOZE) MESES
+
+Valor Total Estimado (R$): 53258.4
+Valor Total Homologado (R$): None
+Processo: 44
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 13/11/2025 00:01:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 08/11/2025 18:29:12
+Data Atualização: 08/11/2025 18:29:12
+Data Atualização Global: 12/11/2025 08:36:43
+Data Inclusão: 08/11/2025 18:29:12
+Amparo Legal: Lei 14.133/2021, Art. 28, I
+Descrição Amparo Legal: pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns
+Link Sistema Origem: http://transparencia.herculandia.sp.gov.br:5656/comprasedital/
+Link Processo Eletrônico: None
+Usuário Responsável: Fiorilli Software
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 39
+======================================================================
+CNPJ do Órgão: 44951515000142
+Órgão (Razão Social): MUNICIPIO DE TEODORO SAMPAIO
+UF: SP
+Município: Teodoro Sampaio
+Unidade: PREFEITURA MUNICIPAL
+Ano da Compra: 2025
+Número da Compra: 149 | Processo 248
+Sequencial Compra: 232
+Número Controle PNCP: 44951515000142-1-000232/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: Contratacao de empresa para o fornecimento de borracha granulada para utilizacao em campos de grama sintetica  em atendimento a solicitacao da Secretaria Municipal de Esporte.
+Informação Complementar:  
+Valor Total Estimado (R$): 22480.8
+Valor Total Homologado (R$): None
+Processo: 149
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 11/11/2025 00:00:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 10/11/2025 08:05:42
+Data Atualização: 10/11/2025 08:05:42
+Data Atualização Global: 10/11/2025 08:05:51
+Data Inclusão: 10/11/2025 08:05:42
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem:  
+Link Processo Eletrônico: None
+Usuário Responsável: Governançabrasil Tecnologia e Gestão em Serviços
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 40
+======================================================================
+CNPJ do Órgão: 11335591000174
+Órgão (Razão Social): FUNDO MUNICIPAL DE SAUDE
+UF: GO
+Município: Carmo do Rio Verde
+Unidade: FMS
+Ano da Compra: 2025
+Número da Compra: 1616
+Sequencial Compra: 73
+Número Controle PNCP: 11335591000174-1-000073/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: AQUISIÇÃO DE BANDEJA INOX E CAMERA DE CONSERVAÇÃO DOS ITENS FRACASSADOS DO PREGAO N° 014/2025 DESTINADOS A NOVA UNIDADE BASICA DE SAUDE MARIA APARECIDA ALVES.
+Informação Complementar: 
+Valor Total Estimado (R$): 28490.41
+Valor Total Homologado (R$): None
+Processo: 2025005149
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 11/11/2025 08:00:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 10/11/2025 08:50:05
+Data Atualização: 10/11/2025 08:50:05
+Data Atualização Global: 10/11/2025 08:50:05
+Data Inclusão: 10/11/2025 08:50:05
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: 
+Link Processo Eletrônico: None
+Usuário Responsável: Prodata Informática
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 41
+======================================================================
+CNPJ do Órgão: 46482840000139
+Órgão (Razão Social): MUNICIPIO DE CARAGUATATUBA
+UF: SP
+Município: Caraguatatuba
+Unidade: SECRETARIA DE ADMINISTRAÇÃO
+Ano da Compra: 2025
+Número da Compra: 847
+Sequencial Compra: 1002
+Número Controle PNCP: 46482840000139-1-001002/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: Aquisição de Protetor Solar e Repelente
+Informação Complementar: PI 48843/2025
+SESSÃO 14/11
+Valor Total Estimado (R$): 0.0
+Valor Total Homologado (R$): None
+Processo: PC 001089/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 10/11/2025 00:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 10/11/2025 11:03:07
+Data Atualização: 10/11/2025 11:03:07
+Data Atualização Global: 10/11/2025 11:03:07
+Data Inclusão: 10/11/2025 11:03:07
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: https://pmcaraguatatuba.geosiap.net.br/portal-transparencia/licitacoes/processo/85967
+Link Processo Eletrônico: None
+Usuário Responsável: EMBRAS - EMPRESA BRASILEIRA DE TECNOLOGIA LTDA
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 42
+======================================================================
+CNPJ do Órgão: 01603719000180
+Órgão (Razão Social): MUNICIPIO DE FOZ DO JORDAO
+UF: PR
+Município: Foz do Jordão
+Unidade: GABINETE SEC ADMINISTRACAO - PACO MUNICIPAL
+Ano da Compra: 2025
+Número da Compra: 29
+Sequencial Compra: 99
+Número Controle PNCP: 01603719000180-1-000099/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Aberto
+Modo de Disputa ID: 1
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: CONTRATACAO DE EMPRESA ESPECIALIZADA NO FORNECIMENTO DE UMA PORTA DE EUCATEX COM MATERIAL E MAO DE OBRA DE INSTALACAO INCLUSA PARA ATENDER A DEMANDA DO MUNICIPIO DE FOZ DO JORDAOPR
+Informação Complementar: Inexistente
+Valor Total Estimado (R$): 1147.9
+Valor Total Homologado (R$): None
+Processo: 294
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 11/11/2025 08:00:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 10/11/2025 11:09:55
+Data Atualização: 10/11/2025 11:09:55
+Data Atualização Global: 10/11/2025 11:09:55
+Data Inclusão: 10/11/2025 11:09:55
+Amparo Legal: Lei 14.133/2021, Art. 1º, § 2º
+Descrição Amparo Legal: As contratações realizadas no âmbito das repartições públicas sediadas no exterior obedecerão às peculiaridades locais e aos princípios básicos estabelecidos nesta Lei, na forma de regulamentação específica a ser editada por ministro de Estado.
+Link Sistema Origem: None
+Link Processo Eletrônico: None
+Usuário Responsável: Equiplano Sistemas LTDA / Equiplano Sistemas 
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 43
+======================================================================
+CNPJ do Órgão: 20856995000102
+Órgão (Razão Social): SERVICO AUTONOMO MUNICIPAL DE AGUA E ESGOTO DE ANDIRA
+UF: PR
+Município: Andirá
+Unidade: Unidade administrativa
+Ano da Compra: 2025
+Número da Compra: 11
+Sequencial Compra: 42
+Número Controle PNCP: 20856995000102-1-000042/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Aberto-Fechado
+Modo de Disputa ID: 3
+Tipo Instrumento Convocatório: Edital
+Tipo Instrumento Cod.: 1
+Objeto: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM PLANO DE TELEFONIA MÓVEL, PARA ATENDER O SAMAE - SERVIÇO AUTÔNOMO MUNICIPAL DE ÁGUA E ESGOTO DE ANDIRÁ.
+Informação Complementar: None
+Valor Total Estimado (R$): 15000.0
+Valor Total Homologado (R$): None
+Processo: 170/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 11/11/2025 00:01:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 10/11/2025 11:23:35
+Data Atualização: 10/11/2025 11:23:35
+Data Atualização Global: 11/11/2025 10:05:37
+Data Inclusão: 10/11/2025 11:23:35
+Amparo Legal: Lei 14.133/2021, Art. 1º, § 2º
+Descrição Amparo Legal: As contratações realizadas no âmbito das repartições públicas sediadas no exterior obedecerão às peculiaridades locais e aos princípios básicos estabelecidos nesta Lei, na forma de regulamentação específica a ser editada por ministro de Estado.
+Link Sistema Origem: None
+Link Processo Eletrônico: None
+Usuário Responsável: Elotech Gestão Pública Ltda
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 44
+======================================================================
+CNPJ do Órgão: 46634598000171
+Órgão (Razão Social): MUNICIPIO DE TIETE
+UF: SP
+Município: Tietê
+Unidade: PREFEITURA MUNICIPAL DE TIETÊ - SP
+Ano da Compra: 2025
+Número da Compra: 422
+Sequencial Compra: 611
+Número Controle PNCP: 46634598000171-1-000611/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: Material para reforma da quadra poliesportiva da Unidade Escolar
+Informação Complementar: A aquisição dos materiais de pintura e construção descritos neste Termo de Referência é 
+necessária para a realização de manutenção preventiva e corretiva da quadra poliesportiva da 
+EMEB Maria José Dal Bó Giovanetti Polastre, localizada no Bairro Bertola. 
+Os serviços de manutenção visam: 
+Garantir a segurança dos usuários, prevenindo acidentes decorrentes de pisos irregulares ou 
+deteriorados; 
+Proporcionar condições adequadas para a prática de atividades esportivas e recreativas; 
+Preservar o patrimônio público, evitando danos maiores que possam gerar custos futuros mais 
+elevados; 
+Manter a estética e funcionalidade da quadra, assegurando um ambiente propício para a 
+comunidade escolar e demais usuários. 
+Considerando a urgência e a especificidade dos materiais, bem como o baixo valor estimado da 
+aquisição, a contratação se enquadra nos critérios de dispensa de licitação, conforme previsto 
+na legislação vigente.
+Valor Total Estimado (R$): 3255.82
+Valor Total Homologado (R$): None
+Processo: 422/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 10/11/2025 09:00:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 10/11/2025 12:06:18
+Data Atualização: 10/11/2025 12:06:18
+Data Atualização Global: 10/11/2025 12:06:28
+Data Inclusão: 10/11/2025 12:06:18
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: 
+Link Processo Eletrônico: None
+Usuário Responsável: CONAM Consultoria em Administração Municipal
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 45
+======================================================================
+CNPJ do Órgão: 46634598000171
+Órgão (Razão Social): MUNICIPIO DE TIETE
+UF: SP
+Município: Tietê
+Unidade: PREFEITURA MUNICIPAL DE TIETÊ - SP
+Ano da Compra: 2025
+Número da Compra: 421
+Sequencial Compra: 612
+Número Controle PNCP: 46634598000171-1-000612/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: aquisição de chuveiros, veda rosca e fita isolante para instalação na sede da delegação de atletas que disputarão os "87º Jogos Abertos do Interior 2025" em Ribeirão Preto
+Informação Complementar: Tietê, 21 de outubro de 2025
+
+Requisição: nº 4209/2025
+Tipo: Material
+Modalidade: Dispensa 
+	                                                                                                                                                                                                                                                                     
+                                               JUSTIFICATIVA
+
+            
+           Compra de 06 chuveiros 220 V, 02 veda roscas e 02 fitas isolantes para serem colocados nos banheiros dos ginásio onde a delegação dos atletas de Tietê - SP estarão locados para a disputa dos &#147;87º Jogos Abertos do Interior 2025&#148; na cidade de Ribeirão Preto &#150; SP, com a delegação de 53 pessoas, entre atletas e comissões técnicas, uma vez que no ginásio onde estará locada a delegação não possui chuveiros para o banho das pessoas acima descritas.  
+        Justifico, portanto, a compra dos chuveiros, veda rosca e fita isolante para instalação dos chuveiros para o banho dos atletas da SEJUL.
+           Entrega por conta da empresa, pagamento via boleto (30 dias), prazo de entrega do produto em 15 dias e local da entrega Rua Nerval Ferreira Braga, 90 &#150; Nova Tietê &#150; Tietê - SP
+           Não há pregão vigente.
+           Forma de cotação será por preço Global. 
+           CRITÉRIO DE JULGAMENTO Menor preço global, uma vez que agiliza o prazo de entrega, compatibilidade de itens, garantindo a qualidade dos itens, eficiência no processo de manejo e controle destes, dentre outros fatores. Ademais, cabe observar o princípio da economicidade, uma vez que a escolha por uma única entrega diminui a incidência de três diferentes fretes e evita possíveis conflitos com os fornecedores vencedores, considerada a estimativa do baixo valor da mercadoria que poderia tornar seu transporte inviável.
+
+
+Fabio Vidotto Beloto
+Secretário de Esportes, Juventude e Lazer
+Valor Total Estimado (R$): 542.18
+Valor Total Homologado (R$): None
+Processo: 421/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 10/11/2025 09:00:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 10/11/2025 12:28:16
+Data Atualização: 10/11/2025 12:28:16
+Data Atualização Global: 10/11/2025 12:28:33
+Data Inclusão: 10/11/2025 12:28:16
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: 
+Link Processo Eletrônico: None
+Usuário Responsável: CONAM Consultoria em Administração Municipal
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 46
+======================================================================
+CNPJ do Órgão: 46634598000171
+Órgão (Razão Social): MUNICIPIO DE TIETE
+UF: SP
+Município: Tietê
+Unidade: PREFEITURA MUNICIPAL DE TIETÊ - SP
+Ano da Compra: 2025
+Número da Compra: 420
+Sequencial Compra: 613
+Número Controle PNCP: 46634598000171-1-000613/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: Impressora de cheques 
+Tecnologia matricial
+Imprime pré-data
+Emite relatório dos cheques emitidos
+Informação Complementar: Justifica se a compra da impressora de cheques, por estar quebrada a impressora atual, por ser de aquisição antiga não possui assistência técnica.
+Valor Total Estimado (R$): 1890.0
+Valor Total Homologado (R$): None
+Processo: 420/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 10/11/2025 09:00:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 10/11/2025 13:13:29
+Data Atualização: 10/11/2025 13:13:29
+Data Atualização Global: 10/11/2025 13:13:46
+Data Inclusão: 10/11/2025 13:13:29
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: 
+Link Processo Eletrônico: None
+Usuário Responsável: CONAM Consultoria em Administração Municipal
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 47
+======================================================================
+CNPJ do Órgão: 45098362000103
+Órgão (Razão Social): FUNDO MUNICIPAL DO MEIO AMBIENTE- FMMA
+UF: GO
+Município: Buriti Alegre
+Unidade: FUNDO MUNICIPAL DO MEIO AMBIENTE- FMMA
+Ano da Compra: 2025
+Número da Compra: (6602) | 7256-0
+Sequencial Compra: 29
+Número Controle PNCP: 45098362000103-1-000029/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: SOLICITA A COMPRA DE CARTÃO DE MEMÓRIA PARA MANUTENÇÃO DAS ATIVIDADES DESEMPENHADAS POR ESTA SECRETARIA MUNICIPAL DE MEIO AMBIENTE. A SECRETARIA MUNICIPAL DE MEIO AMBIENTE RECEBEU UM DRONE POR MEIO DE DOAÇÃO DO MINISTÉRIO PÚBLICO, VISANDO MODERNIZAR E APRIMORAR AS ATIVIDADES DE FISCALIZAÇÃO, MONITORAMENTO AMBIENTAL E O ACOMPANHAMENTO DE PROJETOS NA ZONA URBANA E RURAL DO MUNICÍPIO. O CARTÃO DE MEMÓRIA É UM ITEM ESSENCIAL E INDISPENSÁVEL PARA O PLENO FUNCIONAMENTO E UTILIZAÇÃO DO DRONE. SUA AQUISIÇÃO VISA GARANTIR A CAPACIDADE DE GRAVAÇÃO CONTÍNUA DE IMAGENS E VÍDEOS DE ALTA RESOLUÇÃO: DURANTE MISSÕES DE FISCALIZAÇÃO DE DESMATAMENTO, MONITORAMENTO DE ÁREAS DE RISCO, ACOMPANHAMENTO DE NASCENTES E FISCALIZAÇÃO DE EMPREENDIMENTOS IN LOCO;  ARMAZENAMENTO SEGURO: PRESERVAR O MATERIAL PROBATÓRIO COLETADO, QUE SERÁ UTILIZADO EM PROCESSOS ADMINISTRATIVOS, RELATÓRIOS DE IMPACTO AMBIENTAL E COMO EVIDÊNCIA PARA AÇÕES JUDICIAIS.
+Informação Complementar: None
+Valor Total Estimado (R$): 0.0
+Valor Total Homologado (R$): None
+Processo: 7256/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 10/11/2025 15:00:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 10/11/2025 15:07:55
+Data Atualização: 10/11/2025 15:07:55
+Data Atualização Global: 10/11/2025 15:07:56
+Data Inclusão: 10/11/2025 15:07:55
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: None
+Link Processo Eletrônico: None
+Usuário Responsável: Megasoft Informática
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 48
+======================================================================
+CNPJ do Órgão: 10497795000149
+Órgão (Razão Social): FUNDO MUNICIPAL DE SAUDE
+UF: RJ
+Município: Nova Iguaçu
+Unidade: GERAL
+Ano da Compra: 2025
+Número da Compra: 2
+Sequencial Compra: 44
+Número Controle PNCP: 10497795000149-1-000044/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: DISPENSA DE LICITAÇÃO ELETRÔNICA PARA A CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A AQUISIÇÃO DE CONJUNTO ODONTOLÓGICO PEDIÁTRICO TEMÁTICO, COMPOSTO POR CADEIRA, EQUIPO, CUSPIDEIRA, REFLETOR LED E MOCHO, SENSORIALMENTE ADAPTADO, COM VISTAS A EQUIPAR O CENTRO DE ESPECIALIDADES ODONTOLÓGICAS (CEO) DA SECRETARIA MUNICIPAL DE NOVA IGUAÇU, PARA O ATENDIMENTO DE CRIANÇAS COM TRANSTORNO DO ESPECTRO AUTISTA (TEA), ALTA ANSIEDADE ODONTOLÓGICA E HIPERSENSIBILIDADE SENSORIAL, CONFORME DESCRITO E ESPECIFICADO NO TERMO DE REFERÊNCIA, ANEXO VI DO EDITAL.
+Informação Complementar: None
+Valor Total Estimado (R$): 50737.5
+Valor Total Homologado (R$): None
+Processo: PC 155284/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 07/11/2025 00:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 10/11/2025 15:30:01
+Data Atualização: 10/11/2025 15:30:01
+Data Atualização Global: 10/11/2025 15:47:33
+Data Inclusão: 10/11/2025 15:30:01
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: https://pmnovaiguacu.geosiap.net.br/portal-transparencia/licitacoes/processo/5257
+Link Processo Eletrônico: None
+Usuário Responsável: EMBRAS - EMPRESA BRASILEIRA DE TECNOLOGIA LTDA
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 49
+======================================================================
+CNPJ do Órgão: 01146604000103
+Órgão (Razão Social): MUNICIPIO DE ITAPURANGA
+UF: GO
+Município: Itapuranga
+Unidade: FMAS - FUNDO MUNIC. ASSISTENCIA SOCIAL
+Ano da Compra: 2025
+Número da Compra: 19896
+Sequencial Compra: 180
+Número Controle PNCP: 01146604000103-1-000180/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: A AQUISIÇÃO DE DOIS (02) CLIMATIZADORES DE AR, COM CAPACIDADE DE 100 LITROS, DESTINADOS AO SERVIÇO DE CONVIVÊNCIA E FORTALECIMENTO DE VÍNCULOS – CONVIVER
+Informação Complementar: A AQUISIÇÃO DE DOIS (02) CLIMATIZADORES DE AR, COM CAPACIDADE DE 100 LITROS, DESTINADOS AO SERVIÇO DE CONVIVÊNCIA E FORTALECIMENTO DE VÍNCULOS – CONVIVER, VINCULADO À SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL, COM O OBJETIVO DE PROPORCIONAR MELHORES CONDIÇÕES DE CONFORTO TÉRMICO E BEM-ESTAR ÀS USUÁRIAS DO REFERIDO SERVIÇO
+Valor Total Estimado (R$): 3346.67
+Valor Total Homologado (R$): None
+Processo: 19896
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 10/11/2025 16:12:05
+Data Encerramento: 13/11/2025 23:59:59
+Data Publicação PNCP: 10/11/2025 16:19:48
+Data Atualização: 10/11/2025 16:21:58
+Data Atualização Global: 10/11/2025 16:21:58
+Data Inclusão: 10/11/2025 16:19:48
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: 
+Link Processo Eletrônico: None
+Usuário Responsável: CENTI
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 50
+======================================================================
+CNPJ do Órgão: 46200846000176
+Órgão (Razão Social): MUNICIPIO DE LENCOIS PAULISTA
+UF: SP
+Município: Lençóis Paulista
+Unidade: Prefeitura Municipal de Lençóis Paulista
+Ano da Compra: 2025
+Número da Compra: 12107
+Sequencial Compra: 4401
+Número Controle PNCP: 46200846000176-1-004401/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: AQUISICAO DE EQUIPAMENTOS DIVERSOS 
+Informação Complementar: 
+Valor Total Estimado (R$): 24866.66
+Valor Total Homologado (R$): None
+Processo: S12107
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 11/11/2025 07:30:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 10/11/2025 16:23:00
+Data Atualização: 10/11/2025 16:23:00
+Data Atualização Global: 10/11/2025 16:23:01
+Data Inclusão: 10/11/2025 16:23:00
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: 
+Link Processo Eletrônico: None
+Usuário Responsável: CONAM Consultoria em Administração Municipal
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 51
+======================================================================
+CNPJ do Órgão: 93592384000160
+Órgão (Razão Social): CAMARA MUNICIPAL DE SAO LUIZ GONZAGA
+UF: RS
+Município: São Luiz Gonzaga
+Unidade: CAMARA MUNICIPAL DE SAO LUIZ GONZAGA/RS
+Ano da Compra: 2025
+Número da Compra: 27
+Sequencial Compra: 84
+Número Controle PNCP: 93592384000160-1-000084/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇO DE ASSISTENCIA TECNICA (MANUTENÇÃO PREVENTIVA E CORRETIVA) PARA EQUIPAMENTOS DE TELECOMUNICAÇÃO DA CAMARA MUNICIPAL DE VEREADORES DE SÃO LUIZ GONZAGA/RS
+Informação Complementar: 
+Valor Total Estimado (R$): 20833.0
+Valor Total Homologado (R$): None
+Processo: 107
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 11/11/2025 00:01:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 10/11/2025 16:45:16
+Data Atualização: 12/11/2025 19:46:15
+Data Atualização Global: 12/11/2025 19:46:15
+Data Inclusão: 10/11/2025 16:45:16
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: 
+Link Processo Eletrônico: None
+Usuário Responsável: Abase Sistemas
+SRP (Sistema de Registro de Preços): True
+
+
+
+======================================================================
+PROPOSTA Nº 52
+======================================================================
+CNPJ do Órgão: 01756741000160
+Órgão (Razão Social): MUNICIPIO DE BRAZABRANTES
+UF: GO
+Município: Brazabrantes
+Unidade: FME - FUNDO MUNICIPAL DE EDUCAÇÃO
+Ano da Compra: 2025
+Número da Compra: 188
+Sequencial Compra: 193
+Número Controle PNCP: 01756741000160-1-000193/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: REGISTRO DE PREÇOS PARA SERVIÇOS DE TACÓGRAFO 
+Informação Complementar: Registro de Preços para contratação de empresa especializada na prestação de serviços de Tacógrafo dos veículos do transporte escolar do Munícipio de Brazabrantes.
+Valor Total Estimado (R$): 6705.0
+Valor Total Homologado (R$): None
+Processo: 188
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 10/11/2025 00:00:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 10/11/2025 16:50:21
+Data Atualização: 10/11/2025 16:50:21
+Data Atualização Global: 10/11/2025 16:50:23
+Data Inclusão: 10/11/2025 16:50:21
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: 
+Link Processo Eletrônico: None
+Usuário Responsável: CENTI
+SRP (Sistema de Registro de Preços): True
+
+
+
+======================================================================
+PROPOSTA Nº 53
+======================================================================
+CNPJ do Órgão: 01583490000169
+Órgão (Razão Social): SANTA FE CAMARA MUNICIPAL
+UF: PR
+Município: Santa Fé
+Unidade: Câmara de Santa Fé
+Ano da Compra: 2025
+Número da Compra: 21
+Sequencial Compra: 27
+Número Controle PNCP: 01583490000169-1-000027/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: AQUISIÇÃO DE 02(DUAS) PLACAS DE HOMENAGEM EM AÇO INOX ESCOVADO COM GRAVAÇÃO EM BAIXO RELEVO COM BRASÃO COLORIDO DA CÂMARA MUNICIPAL, TAMANHO 14 X 19 CM, EM QUADRO EM IMPRESSÃO UV AZUL ROYAL, TAMANHO 17,5 X 23,75 CM, MOLDURA EM ALUMÍNIO; COM ESTOJO PRETO, E 02(DUAS) MEDALHAS DE TÍTULO DE MÉRITO COMUNITÁRIO EM AÇO INOX GRAVADO, TAMANHO 8,5 X 8 CM, COM CAIXA DE MADEIRA.
+Informação Complementar: 
+Valor Total Estimado (R$): 1140.0
+Valor Total Homologado (R$): None
+Processo: 27
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 11/11/2025 00:00:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 10/11/2025 16:59:49
+Data Atualização: 10/11/2025 16:59:49
+Data Atualização Global: 10/11/2025 17:00:06
+Data Inclusão: 10/11/2025 16:59:49
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: None
+Link Processo Eletrônico: None
+Usuário Responsável: Elotech Gestão Pública Ltda
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 54
+======================================================================
+CNPJ do Órgão: 01583490000169
+Órgão (Razão Social): SANTA FE CAMARA MUNICIPAL
+UF: PR
+Município: Santa Fé
+Unidade: Câmara de Santa Fé
+Ano da Compra: 2025
+Número da Compra: 22
+Sequencial Compra: 28
+Número Controle PNCP: 01583490000169-1-000028/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: AQUISIÇÃO DE 01 (UM) CONJUNTO DE MESA COM 06 (SEIS) CADEIRAS, COM TAMPO DE GRANITO NATURAL; DIMENSÕES MÍNIMAS DA MESA: ALTURA: 75CM, LARGURA: 1,50M, PROFUNDIDADE: 75CM; DIMENSÕES MÍNIMAS DAS CADEIRAS: ALTURA: 1,07M; LARGURA: 41CM; PROFUNDIDADE: 40CM; MESA E CADEIRAS TUBULARES, COM ESTRUTURA REFORÇADA EM TUBOS DE AÇO; CADEIRAS COM ASSENTO E ENCOSTO ESTOFADO EM COURINO SINTÉTICO DE FÁCIL LIMPEZA; PÉS E BASE COM SAPATILHAS.
+Informação Complementar: 
+Valor Total Estimado (R$): 1400.0
+Valor Total Homologado (R$): None
+Processo: 28
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 11/11/2025 00:00:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 10/11/2025 16:59:53
+Data Atualização: 10/11/2025 16:59:53
+Data Atualização Global: 10/11/2025 17:00:01
+Data Inclusão: 10/11/2025 16:59:53
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: None
+Link Processo Eletrônico: None
+Usuário Responsável: Elotech Gestão Pública Ltda
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 55
+======================================================================
+CNPJ do Órgão: 08085417000106
+Órgão (Razão Social): MUNICIPIO DE SAO RAFAEL
+UF: RN
+Município: São Rafael
+Unidade: MUNICIPIO DE SÃO RAFAEL
+Ano da Compra: 2025
+Número da Compra: 71
+Sequencial Compra: 107
+Número Controle PNCP: 08085417000106-1-000107/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: Aquisição de materiais e ornamentos para a decoração natalina
+Informação Complementar: 
+Valor Total Estimado (R$): 36956.3
+Valor Total Homologado (R$): None
+Processo: 111
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 13/11/2025 23:59:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 11/11/2025 02:25:52
+Data Atualização: 11/11/2025 02:25:52
+Data Atualização Global: 11/11/2025 02:25:53
+Data Inclusão: 11/11/2025 02:25:52
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: 
+Link Processo Eletrônico: None
+Usuário Responsável: TOP DOWN CONSULTORIA LTDA
+SRP (Sistema de Registro de Preços): True
+
+
+
+======================================================================
+PROPOSTA Nº 56
+======================================================================
+CNPJ do Órgão: 14901848000104
+Órgão (Razão Social): FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE NOVA ROMA-GO
+UF: GO
+Município: Nova Roma
+Unidade: FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+Ano da Compra: 2025
+Número da Compra: (1497) | 76-0
+Sequencial Compra: 9
+Número Controle PNCP: 14901848000104-1-000009/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: Contratação de empresa para prestação se serviços na confecção de camisetas, bonés, garrafas para utilização em viagem com idosos realizada pelo Serviço de Convivência e Fortalecimento de Vínculos (SCFV).
+Informação Complementar: None
+Valor Total Estimado (R$): 5891.0
+Valor Total Homologado (R$): None
+Processo: 7018/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 11/11/2025 00:01:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 11/11/2025 07:46:44
+Data Atualização: 11/11/2025 07:46:44
+Data Atualização Global: 13/11/2025 07:17:27
+Data Inclusão: 11/11/2025 07:46:44
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: None
+Link Processo Eletrônico: None
+Usuário Responsável: Megasoft Informática
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 57
+======================================================================
+CNPJ do Órgão: 01603719000180
+Órgão (Razão Social): MUNICIPIO DE FOZ DO JORDAO
+UF: PR
+Município: Foz do Jordão
+Unidade: PREFEITURA MUNICIPAL DE FOZ DO JORDÃO - PR
+Ano da Compra: 2025
+Número da Compra: 0000029
+Sequencial Compra: 129
+Número Controle PNCP: 01603719000180-1-000129/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: CONTRATAÇAO DE EMPRESA ESPECIALIZADA NO FORNECIMENTO DE UMA PORTA DE EUCATEX COM MATERIAL E MAO DE OBRA DE INSTALAÇAO INCLUSA PARA ATENDER A DEMANDA DO MUNICIPIO DE FOZ DO JORDAOPR
+Informação Complementar: None
+Valor Total Estimado (R$): 1147.9
+Valor Total Homologado (R$): None
+Processo: 311/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 11/11/2025 08:55:00
+Data Encerramento: 13/11/2025 23:59:00
+Data Publicação PNCP: 11/11/2025 09:00:38
+Data Atualização: 11/11/2025 09:00:38
+Data Atualização Global: 11/11/2025 09:00:38
+Data Inclusão: 11/11/2025 09:00:38
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: https://bllcompras.com/Process/ProcessView?param1=[gkz]0gGrHlzLgMxzw_12/NT8_r45SCEi7gF2qadTxqiYnqmgP1KqXEz9US4amdx3oZet56WRBe0oinwQx9M7aFFpvoeINKWj0HODJmtF_YWaf4o=
+Link Processo Eletrônico: None
+Usuário Responsável: BLL Compras
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 58
+======================================================================
+CNPJ do Órgão: 03788239000166
+Órgão (Razão Social): MUNICIPIO DE TANGARA DA SERRA
+UF: MT
+Município: Tangará da Serra
+Unidade: CAMARA MUNICIPAL DE TANGARA DA SERRA
+Ano da Compra: 2025
+Número da Compra: 26
+Sequencial Compra: 315
+Número Controle PNCP: 03788239000166-1-000315/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: PROCESSO 59 - DISPENSA 26/2025 - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA IMPLANTAÇÃO E CONFIGURAÇÃO DE SISTEMA
+CHATBOT PARA WHATSAPP E SISTEMA DE ATENDIMENTO VIA WHATSAPP.
+1DOC - PROC. ADMINISTRATIVO 
+Informação Complementar: PROCESSO 59 - DISPENSA 26/2025 - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA IMPLANTAÇÃO E CONFIGURAÇÃO DE SISTEMA
+CHATBOT PARA WHATSAPP E SISTEMA DE ATENDIMENTO VIA WHATSAPP.
+1DOC - PROC. ADMINISTRATIVO 1.132/2025.
+Valor Total Estimado (R$): 34167.92
+Valor Total Homologado (R$): None
+Processo: 26
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 12/11/2025 00:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 11/11/2025 10:35:16
+Data Atualização: 11/11/2025 10:35:16
+Data Atualização Global: 11/11/2025 10:35:19
+Data Inclusão: 11/11/2025 10:35:16
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: 
+Link Processo Eletrônico: None
+Usuário Responsável: CENTI
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 59
+======================================================================
+CNPJ do Órgão: 46482840000139
+Órgão (Razão Social): MUNICIPIO DE CARAGUATATUBA
+UF: SP
+Município: Caraguatatuba
+Unidade: SECRETARIA MUNICIPAL DE ASSUNTOS JURÍDICOS
+Ano da Compra: 2025
+Número da Compra: 791
+Sequencial Compra: 1007
+Número Controle PNCP: 46482840000139-1-001007/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: Aquisição, confecção e instalação de pia de granito com cuba e gabinete e CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA CONFECÇÃO DE BIOMBO
+Informação Complementar: PI 48.413/2025
+Valor Total Estimado (R$): 5634.64
+Valor Total Homologado (R$): None
+Processo: PC 001024/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 05/11/2025 00:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 11/11/2025 15:18:07
+Data Atualização: 11/11/2025 15:18:07
+Data Atualização Global: 11/11/2025 15:18:07
+Data Inclusão: 11/11/2025 15:18:07
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: https://pmcaraguatatuba.geosiap.net.br/portal-transparencia/licitacoes/processo/85886
+Link Processo Eletrônico: None
+Usuário Responsável: EMBRAS - EMPRESA BRASILEIRA DE TECNOLOGIA LTDA
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 60
+======================================================================
+CNPJ do Órgão: 13810833000160
+Órgão (Razão Social): MUNICIPIO DE RUY BARBOSA
+UF: BA
+Município: Ruy Barbosa
+Unidade: Prefeitura Municipal de Ruy Barbosa
+Ano da Compra: 2025
+Número da Compra: 026
+Sequencial Compra: 249
+Número Controle PNCP: 13810833000160-1-000249/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: AQUISICAO DE COLCHAO DE ESPUMA TAMANHOS CASAL E SOLTEIRO, PARA DOACAO AS FAMILIAS EM SITUACAO DE VULNERABILIDADE SOCIAL E ECONOMICA, ATENDENDO A DEMANDA DA SECRETARIA MUNICIPAL DE ASSISTENCIA SOCIAL DO MUNICIPIO DE RUY BARBOSA/BA.
+Informação Complementar: 
+Valor Total Estimado (R$): 52100.0
+Valor Total Homologado (R$): None
+Processo: 099
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 12/11/2025 00:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 11/11/2025 15:57:57
+Data Atualização: 11/11/2025 15:57:57
+Data Atualização Global: 11/11/2025 15:57:57
+Data Inclusão: 11/11/2025 15:57:57
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: None
+Link Processo Eletrônico: None
+Usuário Responsável: IPMBRASIL PUBLICAÇÕES MUNICIPAIS 
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 61
+======================================================================
+CNPJ do Órgão: 46482840000139
+Órgão (Razão Social): MUNICIPIO DE CARAGUATATUBA
+UF: SP
+Município: Caraguatatuba
+Unidade: SECRETARIA MUNICIPAL DE ESPORTES E RECREAÇÃO
+Ano da Compra: 2025
+Número da Compra: 853
+Sequencial Compra: 1009
+Número Controle PNCP: 46482840000139-1-001009/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: Contratação de empresa especializada na prestação de serviços de desentupimento de redes de esgoto e gordura, limpeza de caixas de inspeção e lavagem de caixas e dutos, abertura e fechamentos das tampas. 
+Informação Complementar: None
+Valor Total Estimado (R$): 9900.0
+Valor Total Homologado (R$): None
+Processo: PC 001097/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 11/11/2025 00:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 11/11/2025 16:33:08
+Data Atualização: 11/11/2025 16:33:08
+Data Atualização Global: 11/11/2025 16:33:08
+Data Inclusão: 11/11/2025 16:33:08
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: https://pmcaraguatatuba.geosiap.net.br/portal-transparencia/licitacoes/processo/85977
+Link Processo Eletrônico: None
+Usuário Responsável: EMBRAS - EMPRESA BRASILEIRA DE TECNOLOGIA LTDA
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 62
+======================================================================
+CNPJ do Órgão: 46482840000139
+Órgão (Razão Social): MUNICIPIO DE CARAGUATATUBA
+UF: SP
+Município: Caraguatatuba
+Unidade: SECRETARIA DE SAUDE
+Ano da Compra: 2025
+Número da Compra: 854
+Sequencial Compra: 1010
+Número Controle PNCP: 46482840000139-1-001010/2025
+Modalidade: Dispensa
+Modalidade ID: 8
+Modo de Disputa: Dispensa Com Disputa
+Modo de Disputa ID: 4
+Tipo Instrumento Convocatório: Aviso de Contratação Direta
+Tipo Instrumento Cod.: 2
+Objeto: AÇÃO JUDICIAL - Aquisição de Cateter Uretral para Paciente A. L. Jr.
+Informação Complementar: None
+Valor Total Estimado (R$): 31717.56
+Valor Total Homologado (R$): None
+Processo: PC 001098/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 11/11/2025 00:00:00
+Data Encerramento: 14/11/2025 00:00:00
+Data Publicação PNCP: 11/11/2025 17:43:05
+Data Atualização: 11/11/2025 17:43:05
+Data Atualização Global: 11/11/2025 17:43:05
+Data Inclusão: 11/11/2025 17:43:05
+Amparo Legal: Lei 14.133/2021, Art. 75, II
+Descrição Amparo Legal: Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras
+Link Sistema Origem: https://pmcaraguatatuba.geosiap.net.br/portal-transparencia/licitacoes/processo/85978
+Link Processo Eletrônico: None
+Usuário Responsável: EMBRAS - EMPRESA BRASILEIRA DE TECNOLOGIA LTDA
+SRP (Sistema de Registro de Preços): False
+
+
+
+======================================================================
+PROPOSTA Nº 63
+======================================================================
+CNPJ do Órgão: 18151467000106
+Órgão (Razão Social): CONSORCIO PUBLICO INTERMUNICIPAL DE SAUDE DO TRIANGULO MINEIRO
+UF: MG
+Município: Uberlândia
+Unidade: CONSÓRCIO PÚBLICO INTERMUNICIPAL DE SAÚDE DO TRIÂNGULO MINEIRO - AMVAP SAÚDE
+Ano da Compra: 2025
+Número da Compra: 21
+Sequencial Compra: 60
+Número Controle PNCP: 18151467000106-1-000060/2025
+Modalidade: Credenciamento
+Modalidade ID: 12
+Modo de Disputa: Não se aplica
+Modo de Disputa ID: 5
+Tipo Instrumento Convocatório: Edital de Chamamento Público
+Tipo Instrumento Cod.: 4
+Objeto: [LICITANET] - Futura e eventual contratação de pessoa jurídica especializada para a realização de procedimentos médicos diversos, visando atender os municípios consorciados do AMVAP SAÚDE.
+Informação Complementar: 
+Valor Total Estimado (R$): 2525073.1
+Valor Total Homologado (R$): None
+Processo: 73/2025
+Situação ID: 1
+Situação Nome: Divulgada no PNCP
+Data Abertura Proposta: 13/11/2025 00:00:00
+Data Encerramento: 13/11/2025 23:59:59
+Data Publicação PNCP: 13/11/2025 07:36:16
+Data Atualização: 13/11/2025 08:54:31
+Data Atualização Global: 13/11/2025 08:54:31
+Data Inclusão: 13/11/2025 07:36:16
+Amparo Legal: Lei 14.133/2021, Art. 79, I
+Descrição Amparo Legal: Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.
+Link Sistema Origem: https://portal.licitanet.com.br/acesso-visitante/WkptaGw1U2s=
+Link Processo Eletrônico: None
+Usuário Responsável: Licitanet Licitações Eletrônicas LTDA
+SRP (Sistema de Registro de Preços): False
+
+
+
