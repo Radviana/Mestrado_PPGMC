@@ -52,4 +52,3 @@ python contratos_total.py
 ```
 
 Esse script faz paginação no endpoint de propostas do PNCP e grava `dados_contratos.json` e em seguida gera `fichas_contratos.txt` a partir do JSON.# Mestrado_PPGMC
-# Mestrado_PPGMC
