@@ -104,18 +104,11 @@ BASE_URL = "https://pncp.gov.br/api/consulta/v1/contratacoes/proposta"
 
 base_dir = Path(__file__).parent
 
-# Pega o dia atual
-hoje = datetime.now()
-
-# Formata para YYYYMMDD
-hoje_string = hoje.strftime("%Y%m%d")
-
-parametros_consulta = {"dataFinal": hoje_string, "pagina": 1}  # Formato AAAAMMDD
-"""parametros_consulta = {
-    'dataInicial': 20251101, #Formato AAAAMMDD
-    'dataFinal': 20251101,   #Formato AAAAMMDD
-    'pagina': 1
-}"""
+parametros_consulta = {
+    'dataFinal': 20251231,      #Formato AAAAMMDD
+    'pagina': 1,                #Página inicial
+    'tamanhoPagina': 50         #Número de registros por página (Máx: 50)
+}
 
 headers = {"accept": "*/*"}
 NOME_ARQUIVO = base_dir / "dados_contratacoes.json"
