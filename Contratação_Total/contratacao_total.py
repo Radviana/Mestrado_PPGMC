@@ -5,20 +5,41 @@ from pathlib import Path
 from datetime import datetime
 
 
+def ler_json(caminho_arquivo: str):
+    # Lê um arquivo JSON e retorna seu conteúdo (dict ou list).
+    caminho = Path(caminho_arquivo)
+    if not caminho.exists():
+        raise FileNotFoundError(f"Arquivo não encontrado: {caminho_arquivo}")
+
+    with open(caminho, "r", encoding="utf-8") as f:
+        dados = json.load(f)
+    return dados
+
+
+def encontrar_propostas(obj):
+    # Encontra a lista de propostas no objeto JSON.
+    if isinstance(obj, dict):
+        data = obj.get("data")
+        if isinstance(data, list):
+            return data
+
+    return []
+
 def formatar_data(d):
-    "Formata datas ISO em dd/mm/yyyy ou dd/mm/yyyy hh:mm:ss."
+    #Formata datas ISO em dd/mm/yyyy ou dd/mm/yyyy hh:mm:ss.
     if not d:
-        return "-"
+        return "-"                                                                              # Retorna hífen se vazio
     try:
-        return datetime.fromisoformat(d.replace("Z", "")).strftime("%d/%m/%Y %H:%M:%S")
+        return datetime.fromisoformat(d.replace("Z", "")).strftime("%d/%m/%Y %H:%M:%S")         # Retorna formato com hora
     except ValueError:
         try:
-            return datetime.strptime(d, "%Y-%m-%d").strftime("%d/%m/%Y")
+            return datetime.strptime(d, "%Y-%m-%d").strftime("%d/%m/%Y")                        # Retorna formato só data
         except Exception:
-            return d  # retorna o original se falhar
+            return d                                                                            # Retorna o original se falhar
 
 
 def parse_proposta(data: dict) -> dict:
+    # Dicionário que extrai e formata os campos relevantes de uma proposta.
     return {
         "CNPJ do Órgão": data.get("orgaoEntidade", {}).get("cnpj", "-"),
         "Órgão (Razão Social)": data.get("orgaoEntidade", {}).get("razaoSocial", "-"),
@@ -33,9 +54,7 @@ def parse_proposta(data: dict) -> dict:
         "Modalidade ID": data.get("modalidadeId", "-"),
         "Modo de Disputa": data.get("modoDisputaNome", "-"),
         "Modo de Disputa ID": data.get("modoDisputaId", "-"),
-        "Tipo Instrumento Convocatório": data.get(
-            "tipoInstrumentoConvocatorioNome", "-"
-        ),
+        "Tipo Instrumento Convocatório": data.get("tipoInstrumentoConvocatorioNome", "-"),
         "Tipo Instrumento Cod.": data.get("tipoInstrumentoConvocatorioCodigo", "-"),
         "Objeto": data.get("objetoCompra", "-"),
         "Informação Complementar": data.get("informacaoComplementar", "-"),
@@ -59,7 +78,9 @@ def parse_proposta(data: dict) -> dict:
     }
 
 
+
 def imprimir_ficha(ficha: dict, indice=None):
+    # Formata em texto a ficha da proposta.
     linhas = []
     linhas.append("=" * 70)
     if indice is not None:
@@ -73,27 +94,8 @@ def imprimir_ficha(ficha: dict, indice=None):
     return "\n".join(linhas)
 
 
-def ler_json(caminho_arquivo: str):
-    "Lê um arquivo JSON e retorna seu conteúdo (dict ou list)."
-    caminho = Path(caminho_arquivo)
-    if not caminho.exists():
-        raise FileNotFoundError(f"Arquivo não encontrado: {caminho_arquivo}")
-
-    with open(caminho, "r", encoding="utf-8") as f:
-        dados = json.load(f)
-    return dados
-
-
-def encontrar_propostas(obj):
-    if isinstance(obj, dict):
-        data = obj.get("data")
-        if isinstance(data, list):
-            return data
-
-    return []
-
-
 def salvar_txt(fichas: list[str], caminho_saida: str):
+    # Salva as fichas formatadas em "imprimir_ficha" em um arquivo de texto.
     with open(caminho_saida, "w", encoding="utf-8") as f:
         for ficha in fichas:
             f.write(ficha + "\n\n")
@@ -105,9 +107,9 @@ BASE_URL = "https://pncp.gov.br/api/consulta/v1/contratacoes/proposta"
 base_dir = Path(__file__).parent
 
 parametros_consulta = {
-    'dataFinal': 20251231,      #Formato AAAAMMDD
-    'pagina': 1,                #Página inicial
-    'tamanhoPagina': 50         #Número de registros por página (Máx: 50)
+    "dataFinal": 20251231,  # Formato AAAAMMDD
+    "pagina": 1,  # Página inicial
+    "tamanhoPagina": 50,  # Número de registros por página (Máx: 50)
 }
 
 headers = {"accept": "*/*"}
@@ -149,16 +151,16 @@ try:
 
         # Condições de parada:
         #  - se não veio item algum
-        #  - se numero_pagina >= total_pages (quando total_pages informado)
-        #  - se paginasRestantes == 0 (quando informado)
         if not page_items:
-            print("Nenhum item retornado nesta página; finalizando.")
+            print("\nNenhum item retornado nesta página; finalizando.")
             break
+        #  - se numero_pagina >= total_pages (quando total_pages informado)
         if total_pages is not None and numero_pagina >= total_pages:
-            print("Última página atingida.")
+            print("\nÚltima página atingida.")
             break
+        #  - se paginasRestantes == 0 (quando informado)
         if paginas_restantes is not None and paginas_restantes == 0:
-            print("Não há mais páginas restantes.")
+            print("\nNão há mais páginas restantes.")
             break
 
         # Avança para a próxima página
@@ -180,7 +182,7 @@ try:
         json.dump(resultado, f, indent=4, ensure_ascii=False)
 
     print(
-        f"Dados agregados salvos em {NOME_ARQUIVO} (total {len(all_data)} registros)."
+        f"\nDados agregados salvos em {NOME_ARQUIVO} (total {len(all_data)} registros)."
     )
 
 except requests.exceptions.RequestException as e:
