@@ -102,16 +102,16 @@ hoje = datetime.now()
 # Formata para YYYYMMDD
 hoje_string = hoje.strftime("%Y%m%d")
 
-parametros_consulta = {
+'''parametros_consulta = {
     'dataInicial': hoje_string, #Formato AAAAMMDD
     'dataFinal': hoje_string,   #Formato AAAAMMDD
     'pagina': 1
-}
-'''parametros_consulta = {
-    'dataInicial': 20251101, #Formato AAAAMMDD
-    'dataFinal': 20251101,   #Formato AAAAMMDD
-    'pagina': 1
 }'''
+parametros_consulta = {
+    'dataInicial': 20250101, #Formato AAAAMMDD
+    'dataFinal': 20251231,   #Formato AAAAMMDD
+    'pagina': 1
+}
 
 headers = {'accept': '*/*'}
 NOME_ARQUIVO = base_dir / "dados_contratos.json"
@@ -164,7 +164,7 @@ try:
         current_page = numero_pagina + 1
 
         # Pequena pausa para evitar sobrecarregar a API
-        time.sleep(0.2)
+        time.sleep(0.5)
 
     # Salvar resultados agregados
     resultado = {
