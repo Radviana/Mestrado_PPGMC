@@ -25,17 +25,22 @@ def encontrar_propostas(obj):
 
     return []
 
+
 def formatar_data(d):
-    #Formata datas ISO em dd/mm/yyyy ou dd/mm/yyyy hh:mm:ss.
+    # Formata datas ISO em dd/mm/yyyy ou dd/mm/yyyy hh:mm:ss.
     if not d:
-        return "-"                                                                              # Retorna hífen se vazio
+        return "-"  # Retorna hífen se vazio
     try:
-        return datetime.fromisoformat(d.replace("Z", "")).strftime("%d/%m/%Y %H:%M:%S")         # Retorna formato com hora
+        return datetime.fromisoformat(d.replace("Z", "")).strftime(
+            "%d/%m/%Y %H:%M:%S"
+        )  # Retorna formato com hora
     except ValueError:
         try:
-            return datetime.strptime(d, "%Y-%m-%d").strftime("%d/%m/%Y")                        # Retorna formato só data
+            return datetime.strptime(d, "%Y-%m-%d").strftime(
+                "%d/%m/%Y"
+            )  # Retorna formato só data
         except Exception:
-            return d                                                                            # Retorna o original se falhar
+            return d  # Retorna o original se falhar
 
 
 def parse_proposta(data: dict) -> dict:
@@ -54,7 +59,9 @@ def parse_proposta(data: dict) -> dict:
         "Modalidade ID": data.get("modalidadeId", "-"),
         "Modo de Disputa": data.get("modoDisputaNome", "-"),
         "Modo de Disputa ID": data.get("modoDisputaId", "-"),
-        "Tipo Instrumento Convocatório": data.get("tipoInstrumentoConvocatorioNome", "-"),
+        "Tipo Instrumento Convocatório": data.get(
+            "tipoInstrumentoConvocatorioNome", "-"
+        ),
         "Tipo Instrumento Cod.": data.get("tipoInstrumentoConvocatorioCodigo", "-"),
         "Objeto": data.get("objetoCompra", "-"),
         "Informação Complementar": data.get("informacaoComplementar", "-"),
@@ -76,7 +83,6 @@ def parse_proposta(data: dict) -> dict:
         "Usuário Responsável": data.get("usuarioNome", "-"),
         "SRP (Sistema de Registro de Preços)": data.get("srp", "-"),
     }
-
 
 
 def imprimir_ficha(ficha: dict, indice=None):
@@ -107,7 +113,7 @@ BASE_URL = "https://pncp.gov.br/api/consulta/v1/contratacoes/proposta"
 base_dir = Path(__file__).parent
 
 parametros_consulta = {
-    "dataFinal": 20251231,  # Formato AAAAMMDD
+    "dataFinal": 20261231,  # Formato AAAAMMDD
     "pagina": 1,  # Página inicial
     "tamanhoPagina": 50,  # Número de registros por página (Máx: 50)
 }
