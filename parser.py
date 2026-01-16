@@ -12,44 +12,35 @@ def formatar_data(d):
         return d
 
 
-def parse_proposta(data: dict) -> dict:
+def parse_contrato(data: dict) -> dict:
     return {
+        "Órgão Contratante": data.get("orgaoEntidade", {}).get("razaoSocial", "-"),
         "CNPJ do Órgão": data.get("orgaoEntidade", {}).get("cnpj", "-"),
-        "Órgão (Razão Social)": data.get("orgaoEntidade", {}).get("razaoSocial", "-"),
         "UF": data.get("unidadeOrgao", {}).get("ufSigla", "-"),
         "Município": data.get("unidadeOrgao", {}).get("municipioNome", "-"),
-        "Unidade": data.get("unidadeOrgao", {}).get("nomeUnidade", "-"),
-        "Ano da Compra": data.get("anoCompra", "-"),
-        "Número da Compra": data.get("numeroCompra", "-"),
-        "Sequencial Compra": data.get("sequencialCompra", "-"),
-        "Número Controle PNCP": data.get("numeroControlePNCP", "-"),
-        "Modalidade": data.get("modalidadeNome", "-"),
-        "Modalidade ID": data.get("modalidadeId", "-"),
-        "Modo de Disputa": data.get("modoDisputaNome", "-"),
-        "Modo de Disputa ID": data.get("modoDisputaId", "-"),
-        "Tipo Instrumento Convocatório": data.get(
-            "tipoInstrumentoConvocatorioNome", "-"
-        ),
-        "Tipo Instrumento Cod.": data.get("tipoInstrumentoConvocatorioCodigo", "-"),
-        "Objeto": data.get("objetoCompra", "-"),
-        "Informação Complementar": data.get("informacaoComplementar", "-"),
-        "Valor Total Estimado (R$)": data.get("valorTotalEstimado", "-"),
-        "Valor Total Homologado (R$)": data.get("valorTotalHomologado", "-"),
+
+        "Fornecedor": data.get("nomeRazaoSocialFornecedor", "-"),
+        "CNPJ do Fornecedor": data.get("niFornecedor", "-"),
+        "País": data.get("codigoPaisFornecedor", "-"),
+
+        "Número do Contrato": data.get("numeroContratoEmpenho", "-"),
+        "Ano": data.get("anoContrato", "-"),
+        "Tipo de Contrato": data.get("tipoContrato", {}).get("nome", "-"),
         "Processo": data.get("processo", "-"),
-        "Situação ID": data.get("situacaoCompraId", "-"),
-        "Situação Nome": data.get("situacaoCompraNome", "-"),
-        "Data Abertura Proposta": formatar_data(data.get("dataAberturaProposta")),
-        "Data Encerramento": formatar_data(data.get("dataEncerramentoProposta")),
-        "Data Publicação PNCP": formatar_data(data.get("dataPublicacaoPncp")),
-        "Data Atualização": formatar_data(data.get("dataAtualizacao")),
-        "Data Atualização Global": formatar_data(data.get("dataAtualizacaoGlobal")),
-        "Data Inclusão": formatar_data(data.get("dataInclusao")),
-        "Amparo Legal": data.get("amparoLegal", {}).get("nome", "-"),
-        "Descrição Amparo Legal": data.get("amparoLegal", {}).get("descricao", "-"),
-        "Link Sistema Origem": data.get("linkSistemaOrigem", "-"),
-        "Link Processo Eletrônico": data.get("linkProcessoEletronico", "-"),
-        "Usuário Responsável": data.get("usuarioNome", "-"),
-        "SRP (Sistema de Registro de Preços)": data.get("srp", "-"),
+        "Categoria do Processo": data.get("categoriaProcesso", {}).get("nome", "-"),
+
+        "Objeto": data.get("objetoContrato", "-"),
+        "Valor Inicial (R$)": data.get("valorInicial", "-"),
+        "Valor Global (R$)": data.get("valorGlobal", "-"),
+        "Número de Parcelas": data.get("numeroParcelas", "-"),
+
+        "Data de Assinatura": formatar_data(data.get("dataAssinatura")),
+        "Vigência Início": formatar_data(data.get("dataVigenciaInicio")),
+        "Vigência Fim": formatar_data(data.get("dataVigenciaFim")),
+        "Publicação no PNCP": formatar_data(data.get("dataPublicacaoPncp")),
+        "Última Atualização": formatar_data(data.get("dataAtualizacao")),
+
+        "Usuário Responsável": data.get("usuarioNome", "-")
     }
 
 
@@ -80,21 +71,50 @@ if __name__ == "__main__":
 
     base_dir = Path(__file__).parent
 
-    arquivo_json = base_dir / "dados_contratacoes.json"
-    arquivo_saida = base_dir / "fichas_propostas.txt"
-
-    with open(arquivo_json, "r", encoding="utf-8") as f:
-        dados = json.load(f)
-
-    itens = dados.get("data", [])
-    if not itens:
-        print("Nenhuma proposta encontrada no JSON.")
+    # Encontrar todos os arquivos JSON que começam com "dados_contratos"
+    arquivos_json = sorted(base_dir.glob("dados_contratos*.json"))
+    
+    if not arquivos_json:
+        print("Nenhum arquivo 'dados_contratos*.json' encontrado na pasta.")
         exit()
 
-    fichas_txt = []
-    for i, item in enumerate(itens):
-        ficha = parse_proposta(item)
-        fichas_txt.append(imprimir_ficha(ficha, indice=i))
+    print(f"Encontrados {len(arquivos_json)} arquivo(s) para processar:")
+    for arquivo in arquivos_json:
+        print(f"  - {arquivo.name}")
 
-    salvar_txt(fichas_txt, arquivo_saida)
-    print(f"{len(fichas_txt)} propostas processadas com sucesso.")
+    total_fichas = 0
+
+    # Processar cada arquivo JSON
+    for arquivo_json in arquivos_json:
+        print(f"\nProcessando: {arquivo_json.name}")
+        
+        try:
+            with open(arquivo_json, "r", encoding="utf-8") as f:
+                dados = json.load(f)
+
+            itens = dados.get("data", [])
+            if not itens:
+                print(f"  Nenhuma proposta encontrada em {arquivo_json.name}.")
+                continue
+
+            fichas_txt = []
+            for i, item in enumerate(itens):
+                ficha = parse_contrato(item)
+                fichas_txt.append(imprimir_ficha(ficha, indice=i))
+
+            # Gerar nome do arquivo de saída a partir do arquivo de entrada
+            nome_saida = arquivo_json.name.replace("dados_contratos", "fichas_propostas").replace(".json", ".txt")
+            arquivo_saida = base_dir / nome_saida
+            
+            salvar_txt(fichas_txt, str(arquivo_saida))
+            total_fichas += len(fichas_txt)
+            print(f"  {len(fichas_txt)} propostas processadas.")
+
+        except Exception as e:
+            print(f"  Erro ao processar {arquivo_json.name}: {e}")
+            continue
+
+    if total_fichas > 0:
+        print(f"\n{total_fichas} propostas processadas com sucesso em total.")
+    else:
+        print("\nNenhuma proposta foi processada.")
