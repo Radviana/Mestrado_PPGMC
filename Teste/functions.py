@@ -299,7 +299,7 @@ def stream_resposta(
 def save_resposta(
     client, modelo, requisicao, caminho_saida
 ):  # Salva a resposta do modelo em um arquivo de texto
-    with yaspin(
+    with yaspin.yaspin(
         Spinners.material,
         text="Analisando os dados...",
         color="green",
