@@ -9,7 +9,6 @@ from pathlib import Path
 from datetime import datetime
 from yaspin.spinners import Spinners
 
-
 base_dir = Path(__file__).parent
 
 # Pega o dia atual

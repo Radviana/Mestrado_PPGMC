@@ -4,30 +4,20 @@ import importlib
 import functions  # Arquivo com as funções de instalação e chamada da API
 from pathlib import Path
 
-# Verifica e instala os pacotes necessários listados em requirements.txt
-with open("requirements.txt", "r", encoding="utf-8") as file:
-    requirements = file.readlines()
-
-for req in requirements:
-    req = req.strip()
-    try:
-        importlib.import_module(req)
-        print(f"O módulo {req} já está instalado.")
-    except ImportError:
-        functions.instalar_pacote(req)
-
 base_dir = Path(__file__).parent
 
 dados = functions.api_get()  # Chama a função para obter os dados da API
 
-# dados = base_dir / "fichas_propostas - 04032026.txt"
+# dados = base_dir / f"dados_contratacoes - {functions.hoje_string_arq}.txt"
 # dados_convertidos = txt_para_ollama(dados)
 
 dados = base_dir / f"dados_contratacoes - {functions.hoje_string_arq}.json"
 dados_convertidos = functions.json_para_ollama(dados)
 
 # Inicializa o client Ollama
-functions.subprocess.run(["ollama", "pull", "gemma3"], check=True)  # Certifique-se de que o modelo esteja disponível
+functions.subprocess.run(
+    ["ollama", "pull", "gemma3"], check=True
+)  # Certifique-se de que o modelo esteja disponível
 client = functions.ollama.Client()
 modelo = "gemma3"  # Modelo a ser utilizado, certifique-se de que o modelo esteja disponível no Ollama
 
