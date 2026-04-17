@@ -15,136 +15,164 @@ base_dir = Path(__file__).parent
 hoje = datetime.now()
 
 # Formata para YYYYMMDD
-hoje_string = hoje.strftime("%Y%m%d")
+# hoje_string = hoje.strftime("%Y%m%d")
+# hoje_string =  "20261231"
+hoje_string =  "20260430"
 
 # Formata para DDMMYYYY
-hoje_string_arq = hoje.strftime("%d%m%Y")
+# hoje_string_arq = hoje.strftime("%d-%m-%Y")
+# hoje_string_arq = "31-12-2026"
+hoje_string_arq =  "30-04-2026"
 
 
-def acessar_api(parametros_consulta):
+def api_get():
+    BASE_URL = "https://pncp.gov.br/api/consulta/v1/contratacoes/proposta"
+    MAX_RETRIES = 5
+    BACKOFF_FACTOR = 2
+    TIMEOUT = (5, 60)
+    SLEEP_ENTRE_PAGINAS = 0.3
+
+    base_dir = Path(__file__).parent
+
+    arquivo_json = base_dir / f"dados_contratacoes - {hoje_string_arq}.json"
+    arquivo_saida = base_dir / f"fichas_propostas - {hoje_string_arq}.txt"
+    checkpoint_file = base_dir / f"checkpoint_{hoje_string_arq}.json"
+
+    parametros_consulta = {
+        "dataFinal": hoje_string,
+        "pagina": 1,
+        "tamanhoPagina": 50,
+    }
+
+    session = requests.Session()
+    headers = {"accept": "*/*"}
+
     all_data = []
     total_pages = None
-    headers = {"accept": "*/*"}
-    current_page = parametros_consulta["pagina"]
-    BASE_URL = "https://pncp.gov.br/api/consulta/v1/contratacoes/proposta"
-    NOME_ARQUIVO = base_dir / f"dados_contratacoes - {hoje_string_arq}.json"
+    current_page = 1
 
-    try:
-        while True:
-            print(f"Solicitando página {current_page}...")
-            parametros_consulta["pagina"] = current_page
-            response = requests.get(
-                BASE_URL, params=parametros_consulta, headers=headers
-            )
-
-            if response.status_code != 200:
+    if checkpoint_file.exists(): # Verifica se existe um checkpoint para retomar a coleta
+        try:
+            with open(checkpoint_file, "r", encoding="utf-8") as f:
+                checkpoint = json.load(f)
+                current_page = checkpoint.get("pagina", 1)
+                all_data = checkpoint.get("dados", [])
                 print(
-                    f"Erro na requisição da página {current_page}: {response.status_code}"
+                    f"Retomando da página {current_page} ({len(all_data)} registros)"
                 )
-                print(response.text)
+        except:
+            print("Falha ao carregar checkpoint")
+
+    while True: # Loop principal para paginar pelos resultados
+        print(f"\nPágina {current_page} de {total_pages or '?'}")
+        parametros_consulta["pagina"] = current_page
+
+        response = None
+
+        # Retry com backoff
+        for tentativa in range(1, MAX_RETRIES + 1):
+            try:
+                response = session.get(
+                    BASE_URL,
+                    params=parametros_consulta,
+                    headers=headers,
+                    timeout=TIMEOUT,
+                )
+
+                if response.status_code == 500:
+                    raise Exception("Erro 500")
+
+                if response.status_code != 200:
+                    print(f"HTTP {response.status_code}")
+                    print(response.text[:200])
+                    return
+
                 break
 
+            except Exception as e:
+                espera = BACKOFF_FACTOR**tentativa
+                print(f"Tentativa {tentativa} falhou: {e}")
+                print(f"Aguardando {espera}s...")
+                time.sleep(espera)
+
+        else:
+            print("Falha definitiva")
+            return
+
+        try:
             payload = response.json()
+        except:
+            print("JSON inválido")
+            return
 
-            # Ajuste conforme estrutura da API: aqui os itens estão em 'data'
-            page_items = payload.get("data", [])
-            all_data.extend(page_items)
+        page_items = payload.get("data", [])
+        all_data.extend(page_items)
 
-            # Pegar metadados de paginação (quando disponíveis)
-            if total_pages is None:
-                total_pages = payload.get("totalPaginas")
+        if total_pages is None:
+            total_pages = payload.get("totalPaginas")
 
-            numero_pagina = payload.get("numeroPagina", current_page)
-            paginas_restantes = payload.get("paginasRestantes", None)
+        numero_pagina = payload.get("numeroPagina", current_page)
+        paginas_restantes = payload.get("paginasRestantes")
 
-            print(
-                f"Recebidos {len(page_items)} itens. página {numero_pagina}/{total_pages} - restantes: {paginas_restantes}"
-            )
+        print(f"{len(page_items)} itens | Página {numero_pagina}/{total_pages}")
 
-            # Condições de parada:
-            #  - se não veio item algum
-            if not page_items:
-                print("\nNenhum item retornado nesta página; finalizando.")
-                break
-            #  - se numero_pagina >= total_pages (quando total_pages informado)
-            if total_pages is not None and numero_pagina >= total_pages:
-                print("\nÚltima página atingida.")
-                break
-            #  - se paginasRestantes == 0 (quando informado)
-            if paginas_restantes is not None and paginas_restantes == 0:
-                print("\nNão há mais páginas restantes.")
-                break
-
-            # Avança para a próxima página
-            current_page = numero_pagina + 1
-
-            # Pequena pausa para evitar sobrecarregar a API
-            time.sleep(0.2)
-
-        # Salvar resultados agregados
+        # Salva o progresso a cada página
         resultado = {
             "data": all_data,
             "totalRegistros": len(all_data),
             "totalPaginas": total_pages,
-            "numeroPagina": 1,
-            "paginasRestantes": 0,
-            "empty": len(all_data) == 0,
         }
-        with open(NOME_ARQUIVO, "w", encoding="utf-8") as f:
-            json.dump(resultado, f, indent=4, ensure_ascii=False)
 
-        print(
-            f"\nDados agregados salvos em {NOME_ARQUIVO} (total {len(all_data)} registros)."
-        )
+        with open(arquivo_json, "w", encoding="utf-8") as f:
+            json.dump(resultado, f, indent=2, ensure_ascii=False)
 
-    except requests.exceptions.RequestException as e:
-        print(f"Erro de conexão: {e}")
-    except json.JSONDecodeError:
-        print("Resposta não é JSON válido.")
-        print(response.text)
-    except IOError as e:
-        print(f"Erro ao escrever arquivo: {e}")
+        with open(checkpoint_file, "w", encoding="utf-8") as f:
+            json.dump({"pagina": numero_pagina + 1, "dados": all_data}, f)
 
+        # Condições de parada
+        if not page_items:
+            break
 
-def api_get():
+        if total_pages and numero_pagina >= total_pages:
+            break
 
-    parametros_consulta = {
-        "dataFinal": hoje_string,  # Formato AAAAMMDD
-        "pagina": 1,  # Página inicial
-        "tamanhoPagina": 50,  # Número de registros por página (Máx: 50)
-    }
-    arquivo_json = (
-        base_dir / f"dados_contratacoes - {hoje_string_arq}.json"
-    )  # nome do arquivo de entrada
-    arquivo_saida = (
-        base_dir / f"fichas_propostas - {hoje_string_arq}.txt"
-    )  # nome do arquivo de saída
+        if paginas_restantes == 0:
+            break
 
+        current_page = numero_pagina + 1
+        time.sleep(SLEEP_ENTRE_PAGINAS)
+
+    print(f"\nColeta finalizada: {len(all_data)} registros")
+
+    # Remove checkpoint
+    if checkpoint_file.exists():
+        checkpoint_file.unlink()
+
+    # Salva o resultado final
     try:
-        acessar_api(parametros_consulta)
+        dados = all_data  # já está em memória
 
-        dados = ler_json(arquivo_json)
-        propostas = encontrar_propostas(dados)
+        propostas = encontrar_propostas({"data": dados})
 
         if not propostas:
-            print("Nenhuma proposta encontrada no JSON.")
-        else:
-            fichas_txt = []
-            for i, prop in enumerate(propostas):
-                ficha = parser_propostas(prop)
-                texto = imprimir_ficha(ficha, indice=i)
-                fichas_txt.append(texto)
+            print("Nenhuma proposta encontrada")
+            return
 
-            salvar_txt(fichas_txt, arquivo_saida)
-            print(f"\n{len(propostas)} proposta(s) processada(s) com sucesso.\n")
+        fichas_txt = []
+        for i, prop in enumerate(propostas):
+            ficha = parser_propostas(prop)
+            texto = imprimir_ficha(ficha, indice=i)
+            fichas_txt.append(texto)
+
+        salvar_txt(fichas_txt, arquivo_saida)
+
+        print(f"\n{len(propostas)} propostas processadas")
 
     except Exception as e:
-        print(f"Erro ao processar o arquivo: {e}")
-    return arquivo_saida  # Retorna o caminho do arquivo de saída para uso posterior
+        print(f"Erro no processamento: {e}")
 
 
-def encontrar_propostas(obj):
-    # Encontra a lista de propostas no objeto JSON.
+def encontrar_propostas(obj):  # Encontra a lista de propostas no objeto JSON.
     if isinstance(obj, dict):
         data = obj.get("data")
         if isinstance(data, list):
@@ -152,8 +180,7 @@ def encontrar_propostas(obj):
     return []
 
 
-def formatar_data(d):
-    # Formata datas ISO em dd/mm/yyyy ou dd/mm/yyyy hh:mm:ss.
+def formatar_data(d):  # Formata datas ISO em dd/mm/yyyy ou dd/mm/yyyy hh:mm:ss.
     if not d:
         return "-"  # Retorna hífen se vazio
     try:
@@ -169,8 +196,7 @@ def formatar_data(d):
             return d  # Retorna o original se falhar
 
 
-def imprimir_ficha(ficha: dict, indice=None):
-    # Formata em texto a ficha da proposta.
+def imprimir_ficha(ficha: dict, indice=None):  # Formata em texto a ficha da proposta.
     linhas = []
     linhas.append("=" * 70)
     if indice is not None:
@@ -184,7 +210,9 @@ def imprimir_ficha(ficha: dict, indice=None):
     return "\n".join(linhas)
 
 
-def instalar_pacote(package_name):
+def instalar_pacote(
+    package_name,
+):  # Instala um pacote usando pip, caso não esteja instalado.
     print(f"Tentando instalar {package_name}...")
     try:
         subprocess.check_call([sys.executable, "-m", "pip", "install", package_name])
@@ -193,8 +221,9 @@ def instalar_pacote(package_name):
         print(f"Erro ao instalar {package_name}: {e}")
 
 
-def ler_json(caminho_arquivo: str):
-    # Lê um arquivo JSON e retorna seu conteúdo (dict ou list).
+def ler_json(
+    caminho_arquivo: str,
+):  # Lê um arquivo JSON e retorna seu conteúdo (dict ou list).
     caminho = Path(caminho_arquivo)
     if not caminho.exists():
         raise FileNotFoundError(f"Arquivo não encontrado: {caminho_arquivo}")
@@ -204,8 +233,9 @@ def ler_json(caminho_arquivo: str):
     return dados
 
 
-def parser_propostas(data: dict) -> dict:
-    # Dicionário que extrai e formata os campos relevantes de uma proposta.
+def parser_propostas(
+    data: dict,
+) -> dict:  # Dicionário que extrai e formata os campos relevantes de uma proposta.
     return {
         "CNPJ do Órgão": data.get("orgaoEntidade", {}).get("cnpj", "-"),
         "Órgão (Razão Social)": data.get("orgaoEntidade", {}).get("razaoSocial", "-"),
@@ -246,24 +276,34 @@ def parser_propostas(data: dict) -> dict:
     }
 
 
-def salvar_txt(fichas: list[str], caminho_saida: str):
-    # Salva as fichas formatadas em "imprimir_ficha" em um arquivo de texto.
+def salvar_txt(
+    fichas: list[str], caminho_saida: str
+):  # Salva as fichas formatadas em "imprimir_ficha" em um arquivo de texto.
     with open(caminho_saida, "w", encoding="utf-8") as f:
         for ficha in fichas:
             f.write(ficha + "\n\n")
     print(f"\nFichas salvas em: {caminho_saida}")
 
 
-def txt_para_ollama(arquivo):
+def txt_para_ollama(
+    arquivo,
+):  # Lê um arquivo de texto e retorna seu conteúdo como string para uso com Ollama.
     with open(arquivo, "r", encoding="utf-8") as file:
         dados = file.read()
     return dados
 
 
 def json_para_ollama(arquivo):
+    """Lê um arquivo JSON e retorna um gerador com dados individuais"""
     with open(arquivo, "r", encoding="utf-8") as file:
         dados = json.load(file)
-    return dados
+
+    # Se os dados estão em uma chave "data", extrai dela
+    items = dados.get("data", []) if isinstance(dados, dict) else dados
+
+    # Retorna um gerador para processar item por item
+    for item in items:
+        yield item
 
 
 def stream_resposta(
@@ -277,7 +317,7 @@ def stream_resposta(
         tqdm = None  # Define tqdm como None para evitar erros
 
     # Envia o prompt para o modelo e obtém a resposta
-    print("Enviando prompt para o gemma3...")
+    print(f"Enviando prompt para o {modelo}...")
 
     if tqdm:
         with tqdm(desc="Gerando resposta", total=100) as pbar:

@@ -6,126 +6,76 @@ from pathlib import Path
 
 base_dir = Path(__file__).parent
 
-dados = functions.api_get()  # Chama a função para obter os dados da API
-
-# dados = base_dir / f"dados_contratacoes - {functions.hoje_string_arq}.txt"
-# dados_convertidos = txt_para_ollama(dados)
-
-dados = base_dir / f"dados_contratacoes - {functions.hoje_string_arq}.json"
-dados_convertidos = functions.json_para_ollama(dados)
-
-# Inicializa o client Ollama
+"""# Inicializa o client Ollama
 functions.subprocess.run(
-    ["ollama", "pull", "gemma3"], check=True
+    ["ollama", "run", "gemma3"], check=True
 )  # Certifique-se de que o modelo esteja disponível
-client = functions.ollama.Client()
-modelo = "gemma3"  # Modelo a ser utilizado, certifique-se de que o modelo esteja disponível no Ollama
+modelo = "gemma3"  # Modelo a ser utilizado
+client = functions.ollama.Client()"""
 
-req1 = f"""
-Você receberá o JSON {dados_convertidos} de uma licitação pública.
+def req(proposta):
+    return f"""
+    Você é um analista especializado em licitações públicas e tecnologia da informação.
 
-Sua tarefa é classificar se a licitação está relacionada à área de COMPUTAÇÃO, com foco específico em:
+    Analise o conteúdo de {proposta} e determine se a licitação representa uma oportunidade na área de computação, com foco em:
 
-- computadores
-- notebooks
-- supercomputadores
-- servidores
-- equipamentos de informática
+    - computadores
+    - notebooks
+    - servidores
+    - supercomputadores
+    - infraestrutura de TI
 
-Critérios:
-- Considere principalmente o campo "objetoCompra"
-- Considere também "informacaoComplementar" se existir
-- Ignore áreas como saúde, obras, serviços gerais, etc.
+    Regras importantes:
 
-Responda APENAS no formato JSON:
+    1. Se a licitação não for de computação, apenas retorne "Proposta X não é computação" onde X é o número do contrato
 
-{{
-  "eh_computacao": true/false,
-  "categoria_detectada": "computadores | notebooks | servidores | supercomputadores | nenhum",
-  "justificativa": "explicação curta baseada no objetoCompra"
-}}
-"""
+    2. Use principalmente:
+    - "objetoCompra"
+    - "informacaoComplementar"
+    - contexto semântico
 
-req2 = f"""
-Analise a licitação do JSON {dados_convertidos} considerando tanto correspondência EXPLÍCITA quanto IMPLÍCITA com a área de computação.
+    3. Diferencie:
+    - Compra direta de equipamentos
+    - Serviços relacionados à TI
+    - Itens não relacionados
 
-Considere como relevantes:
-- Aquisição de computadores, notebooks, servidores, supercomputadores
-- Equipamentos de TI
-- Infraestrutura computacional
-- Termos genéricos que indiquem tecnologia (ex: "equipamentos de informática", "infraestrutura tecnológica")
+    4. Seja conservador: só marque como computação se houver evidência clara ou plausível.
 
-NÃO considerar:
-- Serviços médicos
-- Obras
-- Alimentação
-- Transporte
-- Serviços administrativos sem relação com TI
+    5. Caso a licitação não seja da área, retorne como "Proposta X não é computação" e siga para a próxima.
 
-Sua tarefa:
+    6. Para a saída, formate exatamente como abaixo, sem alterar a estrutura, mesmo que algum campo seja null ou vazio:
+    Razão social: razão social da empresa contratante,
+    É computação: true/false,
+    Número do contrato: usando o campo Sequencial Compra,
+    Tipo principal: computadores | notebooks | servidores | supercomputadores | infraestrutura_ti | nao_aplicavel,
+    Subtipo: descrição mais específica ou null,
+    Indicadores encontrados: "palavra1", "palavra2",
+    Risco de ser falso positivo: baixo | medio | alto,
+    Justificativa: "explicação técnica baseada nos dados"
+    """
 
-1. Identificar se a licitação pertence à área de computação
-2. Detectar o tipo de equipamento (se houver)
-3. Avaliar o nível de certeza
-
-Responda no formato JSON:
-
-{{
-  "eh_computacao": true/false,
-  "tipo": "computador | notebook | servidor | supercomputador | ti_generico | nenhum",
-  "nivel_confianca": "alto | medio | baixo",
-  "trecho_relevante": "trecho do objetoCompra que justifica",
-  "justificativa": "explicação objetiva"
-}}
-"""
-
-req3 = f"""
-Você é um analista especializado em licitações públicas e tecnologia da informação.
-
-Analise o JSON {dados_convertidos} e determine se a licitação representa uma oportunidade na área de computação, com foco em:
-
-- computadores
-- notebooks
-- servidores
-- supercomputadores
-- infraestrutura de TI
-
-Regras importantes:
-
-1. Use principalmente:
-   - "objetoCompra"
-   - "informacaoComplementar"
-   - contexto semântico
-
-2. Diferencie:
-   - Compra direta de equipamentos
-   - Serviços relacionados à TI
-   - Itens não relacionados
-
-3. Seja conservador: só marque como computação se houver evidência clara ou plausível.
-
-Saída obrigatória:
-
-{{
-  "contrato_numero": número do contrato na ordem do json,
-  "eh_computacao": true/false,
-  "tipo_principal": "computadores | notebooks | servidores | supercomputadores | infraestrutura_ti | nao_aplicavel",
-  "subtipo": "descrição mais específica ou null",
-  "indicadores_encontrados": ["palavra1", "palavra2"],
-  "risco_falso_positivo": "baixo | medio | alto",
-  "justificativa": "explicação técnica baseada nos dados"
-}}
-
-"""
-
-
-caminho_saida_ollama_req1 = base_dir / "resposta_ollama_req1.txt"
-caminho_saida_ollama_req2 = base_dir / "resposta_ollama_req2.txt"
-caminho_saida_ollama_req3 = base_dir / "resposta_ollama_req3.txt"
-
+caminho_saida_ollama_teste = base_dir / f"resposta_ollama_teste_{functions.hoje_string_arq}.txt"
 
 if __name__ == "__main__":
-    functions.save_resposta(client, modelo, req1, caminho_saida_ollama_req1)
-    functions.save_resposta(client, modelo, req2, caminho_saida_ollama_req2)
-    functions.save_resposta(client, modelo, req3, caminho_saida_ollama_req3)
-    os.system("pause")
+    dados = functions.api_get()  # Chama a função para obter os dados da API
+    caminho_dados = base_dir / f"dados_contratacoes - {functions.hoje_string_arq}.json"
+
+"""    with functions.yaspin.yaspin(
+        functions.Spinners.material,
+        text="Analisando os dados...",
+        color="green",
+        timer=1,
+        side="right",
+    ) as spinner:
+        try:
+            primeiro = True
+            for proposta in functions.json_para_ollama(caminho_dados):
+                resposta = client.generate(model=modelo, prompt=req(proposta))
+                modo = "w" if primeiro else "a"
+                with open(caminho_saida_ollama_teste, modo, encoding="utf-8") as file:
+                    file.write(resposta.response + "\n" + "\n")
+                print(f"\nResposta salva em: {caminho_saida_ollama_teste}")
+                primeiro = False
+        except Exception as e:
+            print(f"Erro ao gerar ou salvar a resposta: {e}")
+        spinner.ok("✓ Concluído")"""

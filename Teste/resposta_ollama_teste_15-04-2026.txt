@@ -1,0 +1,10 @@
+Razão social: MUNICIPIO DE POTENGI,
+É computação: false,
+Número do contrato: 62,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "exames laboratoriais", "órteses", "próteses", "materiais especiais", "secretaria municipal de saúde",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra se refere a serviços de coleta, análise e distribuição de resultados de exames laboratoriais, bem como órteses, próteses e materiais especiais para atendimento de pacientes. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se concentra em serviços de saúde, não em tecnologia da informação.
+
+
