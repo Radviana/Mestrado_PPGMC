@@ -1,0 +1,35 @@
+version: '3.8'
+
+#COMPOSE_PROJECT_NAME: pncp
+
+services:
+  ollama:
+    image: ollama/ollama
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    entrypoint: ["/bin/sh", "-c"]
+    command: >
+      "
+      ollama serve &
+      sleep 5 &&
+      ollama pull gemma3 &&
+      wait
+      "
+    restart: unless-stopped
+
+  app:
+    build: .
+    image: pncp-scrapper
+    container_name: pncp-scrapper
+    depends_on:
+      - ollama
+    environment:
+      - OLLAMA_HOST=http://ollama:11434
+    restart: unless-stopped
+
+volumes:
+  ollama_data:
+    name: pncp_ollama_data
