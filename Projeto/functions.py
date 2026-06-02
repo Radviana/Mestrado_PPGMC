@@ -15,12 +15,14 @@ base_dir = Path(__file__).parent
 hoje = datetime.now()
 
 # Formata para YYYYMMDD
-hoje_string = hoje.strftime("%Y%m%d")
-# hoje_string =  "20261231"
+# hoje_string = hoje.strftime("%Y%m%d")
+# hoje_string =  "20260513"
+hoje_string =  "20260531"
 
 # Formata para DDMMYYYY
-hoje_string_arq = hoje.strftime("%d-%m-%Y")
-# hoje_string_arq = "31-12-2026"
+# hoje_string_arq = hoje.strftime("%d-%m-%Y")
+# hoje_string_arq = "13-05-2026"
+hoje_string_arq = "31-05-2026"
 
 
 def api_get():

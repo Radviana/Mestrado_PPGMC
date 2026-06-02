@@ -1,4 +1,5 @@
 import os
+import re
 import time
 import importlib
 import functions  # Arquivo com as funções de instalação e chamada da API
@@ -49,7 +50,7 @@ def req(proposta):
 
 
 if __name__ == "__main__":
-    dados = functions.api_get()  # Chama a função para obter os dados da API
+    #dados = functions.api_get()  # Chama a função para obter os dados da API
     caminho_dados = base_dir / f"dados_contratacoes - {functions.hoje_string_arq}.json" # Define o caminho para o arquivo de dados da API
     caminho_saida_ollama_teste = base_dir / f"resposta_ollama_teste_{functions.hoje_string_arq}.txt" # Define o caminho de saída para o arquivo de resposta
     
@@ -74,11 +75,12 @@ if __name__ == "__main__":
             primeiro = True
             for proposta in functions.json_para_ollama(caminho_dados):
                 resposta = client.generate(model=modelo, prompt=req(proposta))
-                modo = "w" if primeiro else "a"
-                with open(caminho_saida_ollama_teste, modo, encoding="utf-8") as file:
-                    file.write(resposta.response + "\n" + "\n")
-                print(f"\nResposta salva em: {caminho_saida_ollama_teste}")
-                primeiro = False
+                if(re.search("É computação: true", resposta.response, re.IGNORECASE)):
+                    modo = "w" if primeiro else "a"
+                    with open(caminho_saida_ollama_teste, modo, encoding="utf-8") as file:
+                        file.write(resposta.response + "\n" + "\n")
+                        print(f"\nResposta salva em: {caminho_saida_ollama_teste}")
+                        primeiro = False
         except Exception as e:
             print(f"Erro ao gerar ou salvar a resposta: {e}")
         spinner.ok("✓ Concluído")
