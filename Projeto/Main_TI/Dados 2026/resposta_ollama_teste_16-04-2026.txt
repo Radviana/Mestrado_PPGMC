@@ -1,0 +1,299 @@
+Razão social: CAMARA DE VEREADORES DO MUNICIPIO DE PRINCESA,
+É computação: true,
+Número do contrato: 5,
+Tipo principal: infraestrutura_ti,
+Subtipo: A presente licitação trata da contratação de serviços de acesso à internet banda larga, fornecimento, instalação, configuração, operação, suporte técnico e manutenção de equipamentos, visando atender às necessidades de conectividade da Câmara Municipal de Vereadores de Princesa/SC.  Isso indica a necessidade de uma infraestrutura de TI completa, incluindo, mas não se limitando a, servidores e infraestrutura de rede. Embora o objeto da licitação mencione equipamentos, o foco principal é na prestação de serviços associados à infraestrutura de TI.
+Indicadores encontrados: internet banda larga, equipamentos, configuração, operação, suporte técnico, manutenção, rede mundial de computadores, SLA,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da licitação descreve a contratação de serviços relacionados à infraestrutura de TI da Câmara Municipal, com ênfase na instalação, configuração, operação, suporte técnico e manutenção de equipamentos de acesso à internet banda larga. A necessidade de garantir acesso contínuo, estável e seguro à rede mundial de computadores sugere um projeto de infraestrutura de TI abrangente, que é o foco principal desta licitação, em vez da compra direta de computadores, notebooks, servidores ou supercomputadores.
+
+
+Razão social: CAMARA DE VEREADORES DO MUNICIPIO DE PRINCESA,
+É computação: true,
+Número do contrato: 6,
+Tipo principal: infraestrutura_ti,
+Subtipo: A presente licitação visa a contratação de serviços de acesso à internet banda larga, incluindo fornecimento, instalação, configuração, operação, suporte técnico e manutenção de equipamentos. O objeto da licitação é a garantia de conectividade contínua, estável e segura da Câmara Municipal de Princesa/SC, o que se enquadra na área de infraestrutura de TI.
+Indicadores encontrados: internet banda larga, equipamentos, configuração, operação, suporte técnico, manutenção, rede mundial de computadores, SLA, conectividade.
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da licitação descreve a contratação de serviços de acesso à internet banda larga com fornecimento de equipamentos, instalação, configuração, operação e suporte técnico. A necessidade de garantir acesso contínuo, estável e seguro à rede mundial de computadores, conforme especificado, indica uma demanda por infraestrutura de TI, e não a compra direta de computadores, notebooks, servidores ou supercomputadores.
+
+
+Razão social: ASSEMBLEIA LEGISLATIVA DO ESTADO DE SANTA CATARINA,
+É computação: true,
+Número do contrato: 54,
+Tipo principal: servidores,
+Subtipo: Sistema de climatização de precisão para Data Center, especificamente desenvolvido para assegurar condições ideais de temperatura, umidade relativa, redundância operacional e eficiência energética para equipamentos críticos de Tecnologia da Informação e Comunicação (TIC).
+Indicadores encontrados: sistema de climatização, data center, equipamentos críticos de TI, TIC, redundância operacional, eficiência energética, temperatura, umidade relativa,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, detalhando a aquisição de um sistema de climatização de precisão para um Data Center com foco em equipamentos críticos de TI e TIC, com requisitos como temperatura, umidade e redundância, indica fortemente uma oportunidade na área de servidores, que são componentes essenciais de infraestruturas de TI, especialmente em ambientes de data centers.
+
+
+Razão social: MUNICIPIO DE ITAPECURU MIRIM,
+É computação: true,
+Número do contrato: 21,
+Tipo principal: infraestrutura_ti,
+Subtipo: prestação de serviços de manutenção preventiva e corretiva, incluindo a instalação e configuração de software, bem como o fornecimento de peças para equipamentos de informática para atender às demandas da Prefeitura Municipal de Itapecuru Mirim/MA.
+Indicadores encontrados: manutenção, preventiva, corretiva, software, equipamentos de informática,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a necessidade de serviços de manutenção e suporte para equipamentos de informática, indicando uma demanda por infraestrutura de TI, mesmo que não haja uma compra direta de hardware. A inclusão de "software" e "peças para equipamentos de informática" reforça essa interpretação.
+
+Razão social: TRIBUNAL SUPERIOR ELEITORAL,
+É computação: true,
+Número do contrato: 676,
+Tipo principal: servidores,
+Subtipo: null,
+Indicadores encontrados: certificados digitais, TOKENS USB, ICP-Brasil,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "Registro de preços para emissão de certificados digitais dentro das especificações e normas ICP-Brasil, para pessoa física e jurídica, incluindo o fornecimento de dispositivos criptográficos TOKENS USB para armazenamento."  A menção a "TOKENS USB" e o foco em certificados digitais, que dependem de infraestrutura de armazenamento e segurança, indicam uma necessidade de servidores e, possivelmente, de serviços de TI relacionados à gestão desses certificados. A referência à ICP-Brasil (Infraestrutura de Chaves Públicas Brasileira) reforça a necessidade de soluções de TI para garantir a conformidade e a segurança da informação.  O Tribunal Superior Eleitoral, por sua natureza, utiliza intensamente sistemas de informação e segurança digital, o que sustenta a análise de que essa licitação se enquadra na área de computação.
+
+Razão social: POLICIA CIVIL DO DISTRITO FEDERAL,
+É computação: true,
+Número do contrato: 18,
+Tipo principal: computadores,
+Subtipo: Aparelho de telefonia celular (smartphone de alto desempenho), com especificações detalhadas focadas em hardware (processador Snapdragon 8 Gen 2 ou superior, RAM, armazenamento, câmera de alta resolução e caneta stylus), indicando uma compra direta de equipamentos de informática de alta performance.
+Indicadores encontrados: smartphone, Snapdragon 8 Gen 2, RAM, armazenamento, câmera, caneta stylus,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha especificações técnicas de um smartphone de alto desempenho, o que claramente se enquadra na categoria de computadores, e mais especificamente, em dispositivos móveis de alto desempenho que podem ser considerados parte de uma infraestrutura de TI. A solicitação de especificações técnicas detalhadas no item 3.2 reforça a natureza de compra direta de equipamentos de informação.
+
+
+Razão social: MUNICIPIO DE PROMISSAO,
+É computação: true,
+Número do contrato: 22,
+Tipo principal: infraestrutura_ti,
+Subtipo: Contratação de empresa para equipamentos, licença de software e locação de totens de LED com suporte, incluindo fornecimento, instalação, manutenção e suporte técnico. A informação complementar detalha a necessidade de equipamentos de conectividade via satélite, licenças de softwares e serviços digitais contínuos, além da locação de totens de LED indoor para atividades operacionais, administrativas, produção de conteúdo, exibição de conteúdos institucionais e comunicação da prefeitura. Isso indica uma demanda por infraestrutura de TI completa, incluindo hardware, software e serviços associados.
+Indicadores encontrados: "equipamentos", "software", "locação", "totens de LED", "conectividade via satélite", "serviços digitais contínuos",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra e a informação complementar indicam uma demanda por infraestrutura de TI abrangente, incluindo equipamentos de rede, softwares de gestão, serviços de suporte e a locação de totens de LED com tecnologia digital. A natureza do objeto da licitação, com foco em "equipamentos, licença de software e locação de totens de LED", aponta fortemente para uma oportunidade na área de infraestrutura de TI, com ênfase em dispositivos e serviços relacionados à conectividade e comunicação, que são componentes essenciais de qualquer infraestrutura de TI.
+
+Razão social: BARAO DE COCAIS CAMARA DE VEREADORES,
+É computação: true,
+Número do contrato: 7,
+Tipo principal: computadores,
+Subtipo: notebooks, computadores desktop e microfone de lapela sem fio,
+Indicadores encontrados: computação, equipamentos de informática, infraestrutura tecnológica, comunicação institucional, suporte à administração,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "Aquisição de equipamentos e materiais de informática, áudio, vídeo e comunicação, incluindo notebook, computadores desktop e microfone de lapela sem fio, todos conforme especificações técnicas detalhadas no termo de referência, destinados à modernização da infraestrutura tecnológica, ao aprimoramento da comunicação institucional e ao suporte às atividades administrativas e legislativas da Câmara Municipal de Barão de Cocais".  A descrição detalhada dos equipamentos (notebooks, desktops, microfone sem fio) e o foco em "modernização da infraestrutura tecnológica" e "suporte às atividades administrativas e legislativas" indicam claramente uma necessidade de computação. A modalidade de licitação é "Pregão - Eletrônico", o que é comum em aquisições de TI.
+
+
+Razão social: CAMARA MUNICIPAL DE SANTANA DO PARAISO,
+É computação: true,
+Número do contrato: 36,
+Tipo principal: infraestrutura_ti,
+Subtipo: Software e equipamentos para votação eletrônica, incluindo sistema eletrônico de votação e transmissão das sessões, locação de equipamentos e softwares especializados, configuração, customização, implantação, treinamento de usuários, suporte técnico, manutenção preventiva e corretiva.
+Indicadores encontrados: software, equipamentos, configuração, customização, implantação, treinamento, suporte técnico, manutenção, votação eletrônica, transmissão, sistema eletrônico, infraestrutura,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a necessidade de software e equipamentos para votação eletrônica, incluindo serviços de suporte e manutenção. A informação complementar reforça a utilização de um sistema informatizado de votação, o que se enquadra claramente na área de infraestrutura de TI.
+
+
+Razão social: CAMARA MUNICIPAL DE SANTANA DO PARAISO,
+É computação: true,
+Número do contrato: 37,
+Tipo principal: infraestrutura_ti,
+Subtipo: contratação de empresa especializada para fornecimento, em regime de locação mensal, de softwares e equipamentos, incluindo serviços de configuração, customização, implantação, treinamento de usuários, suporte técnico, bem como manutenção preventiva e corretiva durante todo o período de vigência do contrato,
+Indicadores encontrados: softwares, equipamentos, configuração, customização, implantação, treinamento, suporte técnico, manutenção,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("contratação de empresa especializada para fornecimento, em regime de locação mensal, de softwares e equipamentos...") indica uma necessidade de infraestrutura de TI, incluindo serviços de suporte e manutenção, o que se encaixa na definição de infraestrutura de TI. A inclusão de "softwares e equipamentos" sugere a compra de bens de tecnologia, e a descrição detalhada dos serviços (configuração, customização, etc.) reforça essa conclusão.
+
+
+Razão social: NITEROI CAMARA MUNICIPAL,
+É computação: true,
+Número do contrato: 001/2026,
+Tipo principal: infraestrutura_ti,
+Subtipo: Contratação de empresa especializada na prestação de serviços de outsourcing de impressão, cópia e digitalização, fornecimento de equipamentos multifuncionais laser, instalação em rede, configuração, treinamento básico, software de gestão dos equipamentos, serviços de manutenção preventiva e corretiva, reposição de peças e de todo material de consumo necessário ao perfeito funcionamento dos equipamentos, SLA de até 1(uma) hora útil.
+Indicadores encontrados: equipamentos multifuncionais laser, software de gestão dos equipamentos, manutenção preventiva e corretiva, SLA,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a necessidade de fornecimento de equipamentos multifuncionais laser, software de gestão para controle desses equipamentos, serviços de manutenção preventiva e corretiva, e um SLA de até 1 hora útil para atendimento de chamados.  Além disso, a descrição da contratação de serviços de outsourcing de impressão, cópia e digitalização indica uma necessidade de suporte em infraestrutura de TI.  A referência a "instalação em rede, configuração" reforça a natureza de infraestrutura de TI.
+
+
+Razão social: UNIVERSIDADE DO ESTADO DA BAHIA,
+É computação: true,
+Número do contrato: PCE1124220260020,
+Tipo principal: servidores,
+Subtipo: null,
+Indicadores encontrados: Equipamentos Utilitários,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "Equipamentos Utilitários" e a licitação é um Aviso de Contratação Direta (AD) por Dispensa. A universidade, sendo uma instituição de ensino superior, frequentemente necessita de servidores para fins acadêmicos e administrativos.  O valor estimado (R$ 2037.42) sugere uma compra de equipamentos de infraestrutura de TI, mais especificamente servidores,  em linha com a natureza do objeto da licitação.
+
+Razão social: FUNDO MUNICIPAL DE SAUDE DE GUARINOS,
+É computação: true,
+Número do contrato: 2,
+Tipo principal: infraestrutura_ti,
+Subtipo: null,
+Indicadores encontrados: AUTORIZAÇÃO, INSTAURAÇÃO, EQUIPAMENTO, MATERIAL PERMANENTE, UNIDADE BÁSICA DE SAÚDE,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da licitação é a "AUTORIZAÇÃO PARA A INSTAURAÇÃO DE PROCESSO LICITATÓRIO PARA A AQUISIÇÃO DE EQUIPAMENTO E MATERIAL PERMANENTE PARA UNIDADE BÁSICA DE SAÚDE".  A descrição detalha a necessidade de equipamentos e materiais permanentes para uma unidade básica de saúde, o que indica uma aquisição de infraestrutura de TI relacionada à saúde, incluindo computadores, servidores e, possivelmente, infraestrutura de rede e suporte. A modalidade de licitação (Pregão Eletrônico) é comum para aquisições de infraestrutura de TI. A fonte orçamentária é municipal, o que reforça a probabilidade de investimento em equipamentos de TI.
+
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: true,
+Número do contrato: 2507,
+Tipo principal: servidores,
+Subtipo: AQUISIÇÃO DE DISPOSITIVO CONECTOR,
+Indicadores encontrados: dispositivo, conector, Bahia, Hospital Couto Maia,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "AQUISIÇÃO DE DISPOSITIVO CONECTOR", o que sugere a aquisição de componentes de hardware para servidores ou equipamentos de rede. A unidade orgao é o "FUNDO ESTADUAL DE SAUDE - HOSPITAL COUTO MAIA", o que indica uma possível necessidade de hardware para um hospital, um segmento que frequentemente utiliza servidores para suporte a sistemas de saúde e infraestrutura de TI. Além disso, a modalidade de licitação é "Dispensa", que pode indicar uma necessidade urgente e foco em equipamentos de suporte a sistemas.
+
+
+Razão social: CAMARA MUNICIPAL DE TANGUA,
+É computação: true,
+Número do contrato: 3,
+Tipo principal: infraestrutura_ti,
+Subtipo: PRESTAÇÃO DE SERVIÇO DE MANUTENÇÃO PREVENTIVA E CORRETIVA DE COMPUTADORES,
+Indicadores encontrados: computadores, manutenção,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é a "PRESTAÇÃO DE SERVIÇO DE MANUTENÇÃO PREVENTIVA E CORRETIVA DE COMPUTADORES", indicando uma necessidade de suporte e manutenção de equipamentos de informática, que se enquadra na área de infraestrutura de TI. A modalidade de licitação, "Dispensa", sugere um valor de contratação abaixo do limite usual para aquisição de equipamentos, o que reforça a relevância do serviço de manutenção preventiva e corretiva para a infraestrutura de TI da Câmara Municipal de Tanguá.
+
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: true,
+Número do contrato: 2523,
+Tipo principal: infraestrutura_ti,
+Subtipo: null,
+Indicadores encontrados: RADIOS COMUNICADORES, AQUISIÇÃO,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "AQUISIÇÃO DE RADIOS COMUNICADORES", o que indica uma necessidade de infraestrutura de comunicação, e consequentemente, de suporte tecnológico e manutenção da infraestrutura de TI. A modalidade de licitação "Dispensa" para valores abaixo de R$ 50.000,00, embora não detalhe especificamente equipamentos de TI, sugere uma aquisição para uso na área da saúde, que necessita de sistemas de comunicação robustos e, portanto, de infraestrutura de TI associada.
+
+
+Razão social: SECRETARIA DA FAZENDA,
+É computação: true,
+Número do contrato: 12,
+Tipo principal: infraestrutura_ti,
+Subtipo: Serviço de vigilância por meio de sistema eletrônico de alarme com monitoramento 24 (vinte e quatro) horas para a Delegacia da Receita Estadual de Santa Cruz, incluindo instalação, manutenção e pront atendimento a ocorrências. O objeto da compra envolve a aquisição de equipamentos de sistema de alarme em regime de comodato, indicando uma necessidade de infraestrutura de TI para suporte ao sistema de vigilância.
+Indicadores encontrados: sistema eletrônico de alarme, monitoramento 24 (vinte e quatro) horas, instalação, manutenção, sistema de alarme,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a necessidade de um sistema de alarme com monitoramento 24 horas, que requer infraestrutura de TI para sua operação, incluindo hardware (equipamentos de alarme) e software (sistema de monitoramento). A inclusão de comodato de equipamentos e a necessidade de instalação e manutenção confirmam a natureza de infraestrutura de TI da licitação.
+
+Razão social: MUNICIPIO DE MILAGRES,
+É computação: true,
+Número do contrato: 44,
+Tipo principal: infraestrutura_ti,
+Subtipo: null,
+Indicadores encontrados: "Censo Previdenciário", "informações coletadas", "base cadastral", "relatórios gerenciais", "analíticos", "base de dados atualizada", "gestão previdenciária", "equilíbrio atuarial", "planejamento estratégico", "RPPS", "tratamento, análise, cruzamento e saneamento",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a necessidade de contratação de uma empresa especializada para a prestação de serviços técnicos relacionados ao tratamento e análise de dados coletados no Censo Previdenciário.  A descrição envolve a consolidação de dados, elaboração de relatórios, entrega de bases de dados estruturadas e confiáveis, e o suporte à gestão previdenciária, equilíbrio atuarial e planejamento estratégico do RPPS (Regime Próprio de Previdência Social).  Esses serviços estão diretamente relacionados à infraestrutura de TI do município, incluindo a necessidade de processamento, armazenamento e análise de grandes volumes de dados, o que justifica a classificação como área de computação. A utilização de termos como "base de dados atualizada" e "estruturada e confiável" também reforça a natureza de TI do objeto da compra.
+
+Razão social: MUNICIPIO DE ITUMBIARA,
+É computação: true,
+Número do contrato: 168,
+Tipo principal: infraestrutura_ti,
+Subtipo: Aquisição de aparelhos de ar-condicionado tipo split, com capacidade de 12.000 BTUs, incluindo instalação, destinados ao atendimento das novas salas e setores administrativos criados a partir da execução da dispensa nº 15/2026, no âmbito da Câmara Municipal de Itumbiara.
+Indicadores encontrados: ar-condicionado, instalação, salas administrativas, setores administrativos,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "Aquisição de aparelhos de ar-condicionado tipo split, com capacidade de 12.000 BTUs, incluindo instalação, destinados ao atendimento das novas salas e setores administrativos criados a partir da execução da dispensa nº 15/2026, no âmbito da Câmara Municipal de Itumbiara", indica uma necessidade de infraestrutura de TI relacionada ao climatização de ambientes, o que se enquadra na categoria "infraestrutura_ti".  A inclusão de "instalação" também reforça a natureza de um projeto de TI ligado à implantação de equipamentos.
+
+
+Razão social: MUNICIPIO DE ITUMBIARA,
+É computação: true,
+Número do contrato: 169,
+Tipo principal: infraestrutura_ti,
+Subtipo: Supriimentos de informática, incluindo toners, cilindros, fusores e refis de tinta originais, destinados à manutenção e ao pleno funcionamento das impressoras utilizadas pelos diversos setores da Câmara Municipal de Itumbiara.
+Indicadores encontrados: impressoras, toners, cilindros, fusores, refis de tinta, manutenção, equipamentos, informática,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, conforme detalhado no "objetoCompra" e na "informacaoComplementar", refere-se à aquisição de suprimentos de informática, especificamente toners, cilindros, fusores e refis de tinta para impressoras. Este tipo de compra está diretamente relacionada à manutenção e ao funcionamento de equipamentos de TI, indicando uma necessidade de infraestrutura de TI para a Câmara Municipal de Itumbiara.
+
+
+Razão social: SUBSECRETARIA DA ADMINISTRACAO CENTRAL DE LICITACOES,
+É computação: true,
+Número do contrato: 306,
+Tipo principal: infraestrutura_ti,
+Subtipo: Equipamentos/Materiais para Laboratório,
+Indicadores encontrados: equipamentos, laboratório,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("AQUISIÇÃO DE BENS DA(S) FAMÍLIA(S):\n0830-EQUIPAMENTOS/MATERIAIS P/LABORATORIO") indica a aquisição de equipamentos para laboratório, o que se enquadra na categoria de infraestrutura de TI, especificamente equipamentos de laboratório que podem incluir computadores, notebooks ou servidores. A unidade contratante é a CELIC, que é o órgão responsável pela tecnologia da informação e comunicação do estado do Rio Grande do Sul.
+
+
+Razão social: SERVICO INTERMUNICIPAL DE AGUA E ESGOTO,
+É computação: true,
+Número do contrato: 29,
+Tipo principal: servidores,
+Subtipo: null,
+Indicadores encontrados: firewall, equipamento de proteção de dados,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é a “Licença de renovação para equipamento de proteção de dados (firewall) Aker AFW modelo 338 (versão 7.1), pelo período de 36 (trinta e seis) meses”. Firewalls são componentes críticos de infraestruturas de TI, especialmente servidores, e protegem dados sensíveis. A empresa é um serviço intermunicipal, o que sugere a necessidade de infraestrutura de TI para a gestão e operação de seus serviços. Portanto, a licitação se encaixa na área de servidores, sendo uma oportunidade na área de computação.
+
+Razão social: MUNICIPIO DE VILHENA,
+É computação: true,
+Número do contrato: 341,
+Tipo principal: infraestrutura_ti,
+Subtipo: Sistema de alarme, aparelhos de vigilância eletrônica (televisores, câmeras, DVR), equipamentos de escritório (relógio ponto, ar condicionado, cadeiras), roçadeira profissional.
+Indicadores encontrados: sistema de alarme, vigilância eletrônica, câmeras de segurança, DVR, ar condicionado, relógio ponto, equipamentos de escritório, roçadeira.
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a aquisição de um sistema de alarme completo com componentes de vigilância eletrônica (televisores, câmeras, DVR) e outros equipamentos de infraestrutura de TI, como relógio ponto e ar condicionado, indicando uma necessidade de suporte e modernização da infraestrutura de TI do Tiro de Guerra. A compra é justificada pela melhoria da operacionalidade e condições de trabalho, o que se alinha à área de computação, mesmo que a especificação seja abrangente.
+
+
+Razão social: FUNDO MUNICIPAL DE SAUDE DE GOIANDIRA,
+É computação: true,
+Número do contrato: 43,
+Tipo principal: infraestrutura_ti,
+Subtipo: Manutenção corretiva de aparelhos de processamento de dados (tablets) para atividades da Secretaria Municipal de Saúde,
+Indicadores encontrados: tablet, manutenção, dados, processamento,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, conforme descrito no "objetoCompra" e "informacaoComplementar", refere-se à manutenção corretiva de tablets, que são dispositivos de informática e, portanto, se enquadra na área de infraestrutura de TI, especificamente no suporte e manutenção de equipamentos de processamento de dados. A necessidade de manutenção de tablets para atividades da Secretaria Municipal de Saúde indica um serviço ligado à infraestrutura de TI da entidade.
+
+Razão social: MUNICIPIO DE SARAPUI,
+É computação: true,
+Número do contrato: 51,
+Tipo principal: infraestrutura_ti,
+Subtipo: Suportes articulados para monitor e calculadoras de mesa,
+Indicadores encontrados: monitor, calculadoras, mesas, equipamentos de escritório,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, conforme detalhado em "objetoCompra", visa a "melhoria das condições ergonômicas e operacionais dos postos de trabalho do setor de finanças, planejamento e tributação" através da disponibilização de "suportes articulados para monitor e calculadoras de mesa".  Essa descrição aponta para a necessidade de fornecer equipamentos de escritório e infraestrutura de apoio, o que se encaixa na categoria de infraestrutura de TI, principalmente considerando os componentes mencionados. Apesar de não haver menção direta a computadores, notebooks ou servidores, a compra se alinha com o suporte necessário para o uso desses equipamentos no ambiente de trabalho, e como o objeto da compra é para melhorar o fluxo de trabalho, a compra está relacionada com a infraestrutura de TI.
+
+Razão social: CAMARA MUNICIPAL DE MOSSAMEDES,
+É computação: true,
+Número do contrato: 6,
+Tipo principal: infraestrutura_ti,
+Subtipo: null,
+Indicadores encontrados: AQUISÇÃO DE EQUIPAMENTO DE TECNOLOGIA, PLENARIO,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "AQUISÇÃO DE EQUIPAMENTO DE TECNOLOGIA PARA O PLENARIO DA CÂMARA MUNICIPAL", sugere a aquisição de equipamentos de TI para uso em um plenário, que normalmente envolve computadores, infraestrutura de rede, suporte e, possivelmente, servidores para armazenamento de dados. A modalidade de dispensa e o valor estimado (R$ 5823,66) reforçam a ideia de uma compra direta de equipamentos e, portanto, um projeto de infraestrutura de TI.
+
+
+Razão social: PENHA CAMARA DE VEREADORES,
+É computação: true,
+Número do contrato: 63,
+Tipo principal: infraestrutura_ti,
+Subtipo: Contratação de serviços de e-mail corporativo por meio da aquisição de licenças do Google Workspace,
+Indicadores encontrados: Google Workspace, e-mail corporativo,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "Contratação de serviços de e-mail corporativo por meio da aquisição de licenças do Google Workspace", indica a necessidade de adquirir licenças de um software de e-mail corporativo, o que se enquadra na área de infraestrutura de TI, especificamente no suporte e gerenciamento de e-mail. Embora não se trate da compra direta de hardware (computadores, notebooks, servidores, supercomputadores), a licença do Google Workspace é um componente crucial de uma infraestrutura de TI, garantindo a comunicação e o acesso a informações para os órgãos da CVP.
+
+
+Razão social: CAMARA MUNICIPAL DA LAPA,
+É computação: true,
+Número do contrato: 22,
+Tipo principal: infraestrutura_ti,
+Subtipo: Aquisição de equipamentos de informática (Nobreak Profissional, Filtros de Linha, Memória RAM),
+Indicadores encontrados: informática, equipamentos, nobreak, filtro de linha, memória ram,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a aquisição de equipamentos de informática, especificamente nobreak profissional, filtros de linha e memória RAM.  A Câmara Municipal da Lapa, como órgão, necessita de infraestrutura de TI básica, o que se encaixa na definição de infraestrutura de TI. A compra de equipamentos é uma modalidade comum dentro dessa área.
+
+
+Razão social: CAMARA MUNICIPAL DE AGUAS LINDAS DE GOIAS,
+É computação: true,
+Número do contrato: 10738,
+Tipo principal: infraestrutura_ti,
+Subtipo: Sistema de áudio profissional (microfones, mesa digital, caixas acústicas e conectores),
+Indicadores encontrados: sistema de áudio, microfones, mesa digital, caixas acústicas, instalação integral, modernização tecnológica, transparência,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a aquisição de um sistema de áudio profissional, o que envolve equipamentos e instalação de tecnologia de informação, sendo a modernização tecnológica e garantia da transparência das sessões no plenário da Câmara Municipal uma aplicação dentro da área de infraestrutura de TI.
+
+
+Razão social: MUNICIPIO DE PORANGATU,
+É computação: true,
+Número do contrato: 01801612000146-1-000368/2026,
+Tipo principal: computadores,
+Subtipo: CONSERTO FONTE/PLACA MÃE DE COMPUTADOR,
+Indicadores encontrados: computador, fonte, placa mãe, equipamentos de informática, socioassistenciais,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é o "CONSERTO FONTE/PLACA MÃE DE COMPUTADOR", o que indica uma necessidade de manutenção e reparo de equipamentos de informática utilizados em serviços socioassistenciais. Embora não se trate da compra direta de novos computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI, a licitação se enquadra na área de computação devido à necessidade de suporte e manutenção de equipamentos existentes, o que é uma parte fundamental de qualquer infraestrutura de TI. A dispensa de licitação por valor inferior a R$ 50.000,00, conforme a Lei 14.133/2021, também é um fator relevante, pois implica uma solução mais rápida e eficiente para o problema.
+
+Razão social: AGENCIA ESTADUAL DE DEFESA SANITARIA ANIMAL E VEGETAL,
+É computação: true,
+Número do contrato: 3,
+Tipo principal: infraestrutura_ti,
+Subtipo: null,
+Indicadores encontrados: “ecossistema de software”, “aplicativos”, “infraestrutura tecnológica”, “DTIC/IAGRO”, “manutenção”, “sustentação”, “evolução”,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "Contratação emergencial de empresa(s) especializada(s) em prestação de serviços de informática para atendimento das demandas da DTIC/IAGRO”, indica claramente a necessidade de suporte e evolução de um ecossistema de TI, o que se enquadra na área de infraestrutura de TI. A menção a "UST" (Unidade de Serviço Técnico) reforça a natureza de serviço e suporte, e não a compra direta de equipamentos. A urgência da situação (emergencial)  justifica a forma de contratação, mas o foco do objeto da compra aponta para serviços e suporte de TI.
+

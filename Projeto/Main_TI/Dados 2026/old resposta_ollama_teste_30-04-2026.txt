@@ -1,0 +1,9 @@
+Razão social: MUNICIPIO DE VENANCIO AIRES,
+É computação: false,
+Número do contrato: 78,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: consultas, dermatologia, procedimentos,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação é para "Credenciamento de pessoas jurídicas para prestação de serviços de consultas e procedimentos de dermatologia". Não há menção a equipamentos de TI, como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. O foco é em serviços de saúde, o que não se enquadra na área de computação.
+

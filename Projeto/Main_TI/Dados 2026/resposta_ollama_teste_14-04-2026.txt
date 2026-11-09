@@ -1,0 +1,57 @@
+Razão social: MUNICIPIO DE NILOPOLIS,
+É computação: true,
+Número do contrato: 10,
+Tipo principal: infraestrutura_ti,
+Subtipo: PLATAFORMA DE COMUNICAÇÃO E ATENDIMENTO DIGITAL, INTELIGÊNCIA ARTIFICIAL GENERATIVA INTEGRADA À PLATAFORMA WHATSAPP, CAIXA DE EMAIL INSTITUCIONAIS, SUPORTE TÉCNICO, HOSPEDAGEM, CONFIGURAÇÃO E SUPORTE TÉCNICO,
+Indicadores encontrados: "plataforma de comunicação", "inteligência artificial generativa", "whatsapp", "caixa de email", "suporte técnico", "hospedagem", "configuração",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a implantação e manutenção de uma plataforma de comunicação digital com IA generativa integrada ao WhatsApp, além do fornecimento de caixas de email institucionais e suporte técnico. Essa descrição indica uma necessidade de infraestrutura de TI completa, que engloba servidores, armazenamento, redes e suporte, e não apenas a compra de equipamentos de computação. A referência a inteligência artificial generativa sugere um componente computacional avançado.
+
+Razão social: CAMARA MUNICIPAL DE UTINGA,
+É computação: true,
+Número do contrato: 005,
+Tipo principal: computadores,
+Subtipo: Chamada pública visando a futura e eventual contratação de empresa para aquisição de equipamentos de informática e eletrônico (impressora, notebook e celular), para atender a demanda da Câmara Municipal de Utinga,
+Indicadores encontrados: equipamento de informática, notebook, celular, impressora,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, conforme detalhado em "objetoCompra", refere-se à aquisição de equipamentos de informática (impressora, notebook e celular). Isso indica diretamente uma necessidade de compra de computadores e seus componentes, caracterizando uma oportunidade na área de computação.
+
+
+Razão social: CAMARA MUNICIPAL DE BOM DESPACHO,
+É computação: true,
+Número do contrato: 04,
+Tipo principal: infraestrutura_ti,
+Subtipo: fornecimento, instalação, configuração e manutenção de sistema de alarmes e monitoramento,
+Indicadores encontrados: sistema de alarmes, monitoramento, sensores, centrais, dispositivos de alerta,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a necessidade de "sistema de alarmes e monitoramento" destinado à segurança patrimonial da Câmara Municipal. Isso implica na aquisição e manutenção de componentes e serviços de TI, incluindo equipamentos como sensores, centrais e dispositivos de alerta, o que se enquadra na área de infraestrutura de TI.
+
+
+Razão social: MUNICIPIO DE QUIRINOPOLIS,
+É computação: true,
+Número do contrato: 98,
+Tipo principal: infraestrutura_ti,
+Subtipo: null,
+Indicadores encontrados: equipamentos de informática, tecnologia da informação, TI, estrutura tecnológica,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("AQUISIÇÃO DE EQUIPAMENTOS DE INFORMÁTICA / TECNOLOGIA DA INFORMAÇÃO (TI)") e a informação complementar ("A PRESENTE SOLICITAÇÃO DE DISPENSA VISA À AQUISIÇÃO DE EQUIPAMENTOS DE INFORMÁTICA...") indicam claramente a aquisição de equipamentos de TI para melhorar a estrutura tecnológica do município. A menção à "Superintendência de Comunicação" e à "produção, edição e divulgação de conteúdos institucionais" reforça essa interpretação, implicando a necessidade de computadores, servidores e, possivelmente, infraestrutura de rede para suportar essas atividades. A dispensa de licitação, considerando a necessidade de aprimoramento tecnológico, sugere uma demanda por soluções de infraestrutura de TI.
+
+Razão social: MUNICIPIO DE SANTA TERESINHA,
+É computação: true,
+Número do contrato: 22,
+Tipo principal: infraestrutura_ti,
+Subtipo: fornecimento de licenciamento de Software em ERP de Sistema de Gestão Pública, com instalação, implantação, migração de dados, customização, treinamento de usuários, manutenção e suporte técnico de softwares de gestão municipal.
+Indicadores encontrados: ERP, Sistema de Gestão Pública, Software, Implantação, Migração de dados, Customização, Treinamento de usuários, Manutenção, Suporte técnico,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a aquisição de um sistema ERP completo, incluindo suporte técnico e manutenção, o que se enquadra claramente em infraestrutura de TI para a administração pública municipal. A referência a "Software em ERP de Sistema de Gestão Pública" indica uma necessidade de suporte e gerenciamento de sistemas que integram diversos componentes de TI.
+
+Razão social: MUNICIPIO DE BELO HORIZONTE,
+É computação: true,
+Número do contrato: 237,
+Tipo principal: infraestrutura_ti,
+Subtipo: Participação de servidor(s) no evento ?Congresso Agile Trends Gov 2026, foco em aprimoramento profissional e conhecimento de tendências em gestão e metodologias ágeis, incluindo temas como inovação, gestão de pessoas e inteligência artificial (IA). A iniciativa visa aumentar a eficiência operacional da gerência de TIC, promovendo a troca de experiências entre técnicos e gestores que vivenciam metodologias ágeis no cotidiano. A participação do servidor contribuirá para a redução da burocracia interna, a aceleração de entregas através de métodos como Scrum e Kanban, o conhecimento de ferramentas para planejar a transformação digital e implementar uma cultura de inovação sustentável, e a aplicação prática em projetos críticos de TIC.
+Indicadores encontrados: Agile, Trends, Gov, IA, Scrum, Kanban, Transformação Digital, Inovação, Gestão de Pessoas, Inteligência Artificial, Metodologias Ágeis.
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, aliado à informação complementar, indica a participação do servidor em um evento focado em tendências de gestão e metodologias ágeis, incluindo IA e outras tecnologias de TI. Essa participação visa o aprimoramento profissional e a aplicação de conhecimentos na gestão da infraestrutura de TI da Secretaria Municipal de Fazenda, o que se enquadra na categoria de "infraestrutura de TI".
+
+

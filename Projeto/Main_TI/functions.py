@@ -1,13 +1,13 @@
 import sys
 import json
 import time
-import ollama
-import yaspin
+#import ollama
+#import yaspin
 import requests
 import subprocess
 from pathlib import Path
 from datetime import datetime
-from yaspin.spinners import Spinners
+#from yaspin.spinners import Spinners
 
 base_dir = Path(__file__).parent
 
@@ -17,12 +17,12 @@ hoje = datetime.now()
 # Formata para YYYYMMDD
 # hoje_string = hoje.strftime("%Y%m%d")
 # hoje_string =  "20260513"
-hoje_string =  "20260531"
+hoje_string =  "20270531"
 
 # Formata para DDMMYYYY
 # hoje_string_arq = hoje.strftime("%d-%m-%Y")
 # hoje_string_arq = "13-05-2026"
-hoje_string_arq = "31-05-2026"
+hoje_string_arq = "31-05-2027"
 
 
 def api_get():
@@ -30,7 +30,7 @@ def api_get():
     MAX_RETRIES = 5
     BACKOFF_FACTOR = 2
     TIMEOUT = (5, 60)
-    SLEEP_ENTRE_PAGINAS = 0.3
+    SLEEP_ENTRE_PAGINAS = 1
 
     base_dir = Path(__file__).parent
 

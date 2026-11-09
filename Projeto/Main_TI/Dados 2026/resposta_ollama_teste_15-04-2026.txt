@@ -1,0 +1,125 @@
+Razão social: MUNICIPIO DE PALMEIRAS,
+É computação: true,
+Número do contrato: 006,
+Tipo principal: infraestrutura_ti,
+Subtipo: null,
+Indicadores encontrados: sistema informatizado, gestão eficiente, contratações públicas,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da licitação detalha a contratação de um sistema informatizado para a gestão de contratações públicas do município. Essa descrição indica uma necessidade de infraestrutura de TI abrangente, que engloba a implementação, licenciamento e manutenção de um sistema customizável, o que se alinha com a oferta de serviços de infraestrutura de TI, incluindo suporte, atualizações e manutenção de hardware e software, e potencialmente serviços de gerenciamento de TI. A menção a "necessidades da Prefeitura Municipal de Palmeiras – Bahia" reforça a natureza de suporte e infraestrutura de TI.
+
+
+Razão social: MUNICIPIO DE MANGARATIBA,
+É computação: true,
+Número do contrato: 52,
+Tipo principal: infraestrutura_ti,
+Subtipo: Solução integrada de gestão educacional na modalidade SaaS (Software as a Service), contemplando licenciamento de uso, implantação/configuração, treinamento, suporte técnico-operacional, manutenção/atualizações, e serviços de hospedagem em nuvem (cloud). O objeto da licitação se refere à implementação de uma solução de gestão educacional baseada em nuvem, o que indica a necessidade de infraestrutura de TI para suportar essa solução, incluindo servidores, rede e serviços de nuvem.
+Indicadores encontrados: SaaS, nuvem, hospedagem, gerenciamento educacional, suporte técnico-operacional,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a necessidade de uma solução de gestão educacional baseada em nuvem, que intrinsecamente requer infraestrutura de TI, incluindo servidores, serviços de nuvem e suporte técnico-operacional. A descrição do objeto e a modalidade de licitação (Pregão Eletrônico) indicam uma oportunidade na área de infraestrutura de TI para atender às necessidades do município de Mangaratiba.
+
+Razão social: MUNICIPIO DE MANGARATIBA,
+É computação: true,
+Número do contrato: 54,
+Tipo principal: infraestrutura_ti,
+Subtipo: Solução integrada de gestão educacional (SaaS) contemplando licenciamento de uso, implantação/configuração, treinamento, suporte técnico-operacional, manutenção/atualizações, e serviços de hospedagem em nuvem (cloud). O objeto da compra se refere à implementação de uma solução de gestão educacional baseada em nuvem, o que se enquadra na área de infraestrutura de TI.
+Indicadores encontrados: SaaS, nuvem, hospedagem, gestão educacional, automação, suporte técnico,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da licitação detalha a necessidade de uma solução de gestão educacional baseada em modelo SaaS, que envolve hospedagem em nuvem, suporte técnico e serviços relacionados à infraestrutura de TI, indicando claramente um foco em infraestrutura de TI para o setor educacional.
+
+
+Razão social: CAMARA MUNICIPAL DE MESQUITA,
+É computação: true,
+Número do contrato: 001,
+Tipo principal: infraestrutura_ti,
+Subtipo: null,
+Indicadores encontrados: software como serviço, gestão legislativa, plenário digital, terminais de votação, painéis eletrônicos, tablets, modernização, automação, atividades legislativas, administrativas, integração com portal legislativo,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da licitação envolve a contratação de um serviço tecnológico (SaaS) para gestão legislativa, incluindo a disponibilização de software para o plenário digital, terminais de votação, painéis eletrônicos e tablets.  Embora não se trate da compra direta de computadores, notebooks, servidores ou supercomputadores, o contrato abrange uma infraestrutura de TI completa para suportar as atividades legislativas e administrativas da Câmara Municipal de Mesquita,  representando uma oportunidade na área de infraestrutura de TI para a modernização e automação do processo legislativo.
+
+Razão social: MUNICIPIO DE TUPA,
+É computação: true,
+Número do contrato: 102,
+Tipo principal: infraestrutura_ti,
+Subtipo: REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL AQUISIÇÃO DE MATERIAL MÉDICO-HOSPITALAR E INSUMOS DE ENFERMAGEM, VISANDO ATENDER A DEMANDA DAS UNIDADES DE SAÚDE DA REDE ATENÇÃO BÁSICA, UNIDADE DE PRONTO ATENDIMENTO (UPA), AMBULATÓRIO MÉDICO DE ESPECIALIDADES MUNICIPAIS, VIGILÂNCIA EM SAÚDE E DEPARTAMENTO ODONTOLÓGICO DESTE MUNICÍPIO DE TUPÃ/SP, PELO PERÍODO DE 12 (DOZE) MESES.
+Indicadores encontrados: material médico-hospitalar, insumos de enfermagem, rede atenção básica, unidade de pronto atendimento (upa), ambulatório médico de especialidades, vigilância em saúde, departamento odontológico,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra refere-se à aquisição de material médico-hospitalar e insumos de enfermagem para unidades de saúde do município, o que claramente se enquadra na infraestrutura de TI necessária para o funcionamento dessas unidades (servidores, equipamentos de informática, etc.). A descrição detalhada do objeto de compra reforça a relevância da área de TI para a efetivação da demanda das unidades de saúde.
+
+Razão social: MUNICIPIO DE CAMPO MAIOR,
+É computação: true,
+Número do contrato: 002,
+Tipo principal: infraestrutura_ti,
+Subtipo: Credenciamento de pessoa(s) jurídica(s) para prestarem atendimento aos usuários do Sistema Único Saúde, em média e alta complexidade, em atendimentos ambulatorial para melhoria nos atendimentos de saúde e disponibilização de profissionais para atendimento médico geral e especializado, incluindo consultas, exames, procedimentos e deslocamento ao município.  O objeto da licitação envolve a necessidade de suporte de TI, incluindo manutenção e possível atualização de equipamentos (não especificamente detalhado, mas implícito na necessidade de atendimento a sistemas de saúde).
+Indicadores encontrados: "Sistema Único Saúde", "atendimentos ambulatorial", "consultas", "exames", "serviços de TI", "manutenção", "atendimento médico", "servidor",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a necessidade de atendimento de usuários do Sistema Único Saúde, o que implica diretamente na necessidade de infraestrutura de TI para suportar esses serviços. A menção a "consultas, exames, procedimentos" reforça a necessidade de hardware e software para processamento de dados e suporte aos profissionais de saúde. A modalidade de credenciamento sugere que a entidade contratada precisará de suporte em TI para operar seus sistemas, o que se alinha com a área de infraestrutura de TI.
+
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: true,
+Número do contrato: 2440,
+Tipo principal: servidores,
+Subtipo: FONTE E DISCO SSD,
+Indicadores encontrados: fonte, ssd,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("FONTE E DISCO SSD") indica a aquisição de componentes de armazenamento, que são essenciais para servidores e, em menor escala, para notebooks. A modalidade de dispensa, com valor estimado de R$ 5857.50, sugere a aquisição de itens de infraestrutura de TI para o hospital regional, reforçando a relevância da compra para a área de computação.
+
+
+Razão social: MUNICIPIO DE BOTUCATU,
+É computação: true,
+Número do contrato: 138,
+Tipo principal: infraestrutura_ti,
+Subtipo: PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE LEVANTAMENTO DE DADOS, ANÁLISE, PREENCHIMENTO, TRANSMISSÃO E HOMOLOGAÇÃO DAS INFORMAÇÕES RELATIVAS À EXECUÇÃO ORÇAMENTÁRIA E FINANCEIRA DO MUNICÍPIO JUNTO AO SISTEMA DE INFORMAÇÕES SOBRE ORÇAMENTOS PÚBLICOS EM EDUCAÇÃO – SIOPE, MEDIANTE A UTILIZAÇÃO DE SISTEMA INFORMATIZADO ACESSÍVEL EM AMBIENTE WEB, QUE PERMITA A ANÁLISE E O PROCESSAMENTO DE DADOS CONTÁBEIS PROVENIENTES DE ARQUIVOS XML DOS BALANCETES MENSAIS, EM CONFORMIDADE COM AS DIRETRIZES DO SISTEMA AUDESP DO TRIBUNAL DE CONTAS DO ESTADO DE SÃO PAULO, POSSIBILITANDO O PREENCHIMENTO, VALIDAÇÃO E TRANSMISSÃO ELETRÔNICA DAS INFORMAÇÕES AO SIOPE, DE MODO A ASSEGURAR A INTEGRIDADE, CONSISTÊNCIA E CONFORMIDADE DOS DADOS COM AS REGRAS DOS ÓRGÃOS DE CONTROLE, BEM COMO O ATENDIMENTO AOS PRAZOS, NORMAS E DEMAIS REQUISITOS LEGAIS APLICÁVEIS À PRESTAÇÃO DE CONTAS DA APLICAÇÃO DE RECURSOS NA EDUCAÇÃO.
+Indicadores encontrados: SIOPE, sistema informatizado, arquivos XML, balancetes mensais, sistema AUDESP, dados contábeis, transmissão eletrônica, conformidade, órgãos de controle, SIOPE.
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da licitação se refere à prestação de serviços técnicos relacionados à gestão e transmissão de dados financeiros e orçamentários do município para o SIOPE, utilizando sistemas informatizados e arquivos eletrônicos. A necessidade de homologação das informações junto aos órgãos de controle (Tribunal de Contas do Estado de São Paulo) e a utilização de sistemas como o AUDESP indicam fortemente a necessidade de suporte em infraestrutura de TI e gestão de dados, o que se encaixa na categoria de infraestrutura de TI.
+
+Razão social: CAMARA MUNICIPAL DE FLORES DE GOIAS,
+É computação: true,
+Número do contrato: 10,
+Tipo principal: infraestrutura_ti,
+Subtipo: null,
+Indicadores encontrados: certificados digitais, emissão, renovação, sistemas oficiais, assinatura eletrônica, rotinas administrativas,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "Registro de Preços para futura, eventual e parcelada aquisição de certificados digitais A1". A descrição detalha a necessidade de emissão e renovação de certificados digitais, vinculados a sistemas oficiais e utilizados para assinatura eletrônica e rotinas administrativas.  A Câmara Municipal, como órgão, necessita de infraestrutura de TI para operar, e a aquisição de certificados digitais se encaixa diretamente nessa necessidade, configurando uma oportunidade na área de infraestrutura de TI. A natureza do registro de preços, que permite aquisições futuras, reforça a relevância da infraestrutura de TI para a operação da Câmara Municipal.
+
+
+Razão social: SUPERINTENDENCIA DE ESTUDOS ECONOMICOS E SOCIAIS DA BA,
+É computação: true,
+Número do contrato: PCE1762020260028,
+Tipo principal: computadores,
+Subtipo: kits com teclado e mouse sem fio,
+Indicadores encontrados: teclado, mouse, sem fio,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é a aquisição de "04 kits com teclado e mouse sem fio", que são componentes essenciais para computadores. A licitação se enquadra na modalidade de Dispensa, comum para valores abaixo de R$ 50.000,00, o que indica a aquisição de equipamentos de informática, uma área relacionada à computação.
+
+
+Razão social: SUPERINTENDENCIA DE ESTUDOS ECONOMICOS E SOCIAIS DA BA,
+É computação: true,
+Número do contrato: PCE1762020260027,
+Tipo principal: computadores,
+Subtipo: Aquisição de 73 webcams,
+Indicadores encontrados: webcams,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é a aquisição de "73 webcams", o que indica uma necessidade de equipamentos de informática, especificamente dispositivos utilizados para videoconferência e comunicação, que são componentes típicos de infraestrutura de TI e, neste caso, computadores. A modalidade de licitação "Dispensa" também sugere uma aquisição de menor porte, comum em compras de equipamentos de informática.
+
+
+Razão social: MUNICIPIO DE SENADOR CANEDO,
+É computação: true,
+Número do contrato: 155,
+Tipo principal: infraestrutura_ti,
+Subtipo: null,
+Indicadores encontrados: equipamentos, manutenção preventiva, manutenção corretiva, garantia, peças, emissão de laudos técnicos,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, conforme detalhado em "objetoCompra", refere-se à aquisição de equipamentos, incluindo computadores (implícito pela necessidade de manutenção e peças), bem como à prestação de serviços de manutenção preventiva e corretiva. A menção a "laudos técnicos" sugere um componente de infraestrutura de TI, já que a manutenção de equipamentos de TI frequentemente requer análise técnica e relatórios. A dispensa eletrônica, por si só, não desqualifica a necessidade de equipamentos e serviços relacionados à TI.
+
+
+Razão social: MUNICIPIO DE GUAPO,
+É computação: true,
+Número do contrato: 132,
+Tipo principal: computadores,
+Subtipo: MONITOR MULTIPARÂMETRO "15" MODULAR,
+Indicadores encontrados: monitor, multiparamétrico, modular, ambulatório,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("AQUISIÇÃO DE MONITOR MULTIPARÂMETRO \"15\" MODULAR DESTINADO AO AMBULATÓRIO 14HS DE GUAPÓ - GO.") indica claramente a aquisição de um equipamento de informática, especificamente um monitor multiparamétrico. A menção ao "ambulatório" e a localização do equipamento sugere um uso em ambiente de saúde, que necessita de equipamentos de informática para suporte a atividades médicas.  A natureza do objeto da compra é, portanto, inerentemente ligada à área de computação, e mais especificamente ao segmento de equipamentos para ambientes clínicos e de saúde.
+

@@ -1,0 +1,1876 @@
+Razão social: MUNICIPIO DE POTENGI,
+É computação: false,
+Número do contrato: 62,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "",
+Risco de ser falso positivo: alto,
+Justificativa: "O objeto da compra refere-se a 'credenciamento de Fornecimento de serviços de coleta, análise e distribuição de resultados de exames laboratoriais, bem como órteses, próteses e materiais especiais'.  Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da compra ou na informação complementar. A licitação se concentra em serviços de saúde, o que não se enquadra na área de computação."
+
+Razão social: MUNICIPIO DE MONTEZUMA,
+É computação: false,
+Número do contrato: 001,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: alimentacao, marmitex, refeicoes,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra se refere ao fornecimento de alimentação, especificamente marmitex e refeições self-service, para atender a funcionários da prefeitura. Não há menção a equipamentos de informática, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação é de credenciamento para empresas que forneçam esses serviços de alimentação.
+
+Razão social: MUNICIPIO DE SANTA MARIA DO SUACUI,
+É computação: false,
+Número do contrato: 47,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: null,
+Risco de ser falso positivo: baixo,
+Justificativa: "O objeto da licitação refere-se ao credenciamento de veículos, especificamente Vans, Ônibus, Micro-ônibus e Caminhão Guincho para utilização pelas secretarias municipais. Não há menção a equipamentos de TI como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da compra, nem mesmo no campo 'informação complementar'. A modalidade de licitação (Credenciamento) indica que o foco é na autorização de uso de veículos, e não na aquisição de bens de tecnologia."
+
+Razão social: CONSORCIO INTERMUNICIPAL DE SAUDE DO ALTO DO RIO PARA,
+É computação: false,
+Número do contrato: 22,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: veículos, prestação de serviços, municípios,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação refere-se ao "credenciamento para locação de veículos destinados à prestação de serviços aos municípios". Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se concentra na obtenção de serviços de locação de veículos, o que não se enquadra na área de computação.
+
+Razão social: MUNICIPIO DE SOBRAL,
+É computação: false,
+Número do contrato: 24,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: citopatologia, tabela sigtap, gerenciamento de tabelas,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação refere-se ao "credenciamento de empresas especializadas em exames de citopatologia", conforme a tabela SIGTAP. Isso indica um serviço de saúde, e não a compra de equipamentos de TI como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A menção à "tabela SIGTAP" reforça a natureza do serviço de gerenciamento de dados relacionados a exames, sem indicação de hardware ou software computacional.
+
+Razão social: MUNICIPIO DE PALMAS DE MONTE ALTO,
+É computação: false,
+Número do contrato: 112,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: credenciamento, consultas, cirurgias, exames laboratoriais, saúde,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação refere-se a "credenciamento de pessoas físicas e jurídicas para a prestação de serviços médicos especializados", o que se concentra em serviços de saúde e não envolve a compra de equipamentos de informática como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI.  A descrição do objeto compra não menciona, sequer indiretamente, a aquisição de qualquer tipo de equipamento de TI.
+
+Razão social: FUNDO MUNICIPAL DE SAUDE DE PORTO GRANDE,
+É computação: false,
+Número do contrato: 001,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "análises clínicas", "laboratoriais", "SUS",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação refere-se a "credenciamento de pessoa jurídica para prestação de serviços laboratoriais de análises clínicas destinados ao atendimento dos usuários do Sistema Único de Saúde (SUS)".  A descrição não indica a necessidade de equipamentos de TI, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. O objeto da licitação é exclusivamente de serviços laboratoriais.
+
+
+Razão social: FUNDO MUNICIPAL DE SAUDE DE CAIBI SC,
+É computação: false,
+Número do contrato: 317,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: consultas, sessões, exames especializados, saúde,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação é para "credenciamento de pessoas físicas e jurídicas prestadoras de serviços em saúde e correlatos", o que se refere a serviços de saúde e não à compra de equipamentos de informática como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI.  A descrição do objeto compra não aponta para a necessidade de tecnologia da informação.
+
+Razão social: MUNICIPIO DE SANTA BARBARA,
+É computação: false,
+Número do contrato: 179,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: transporte rodoviário, passagens, deslocamento de servidores,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação se refere ao credenciamento de empresas para transporte rodoviário de servidores municipais e outros munícipes. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A necessidade de passagens para deslocamento, embora possa ser suportada por tecnologia, é o foco principal do objeto da licitação.
+
+Razão social: MINISTERIO DA ECONOMIA,
+É computação: false,
+Número do contrato: 0717700/0001,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: mercadorias apreendidas, leilão,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é a alienação de mercadorias apreendidas pela Receita Federal, o que se refere a bens bens de natureza física (imóveis ou bens móveis). Não há menção a equipamentos de TI, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da compra, informação complementar ou outros campos relevantes. O edital, disponível em [http://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/717700/1/2026](http://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/717700/1/2026), detalha o leilão de bens apreendidos, não incluindo nenhum item relacionado à tecnologia da informação.
+
+Razão social: MUNICIPIO DE PIRACANJUBA,
+É computação: false,
+Número do contrato: 95,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: controle externo de qualidade, programa nacional de controle de qualidade, laboratório municipal, exames, resultados de exames,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação trata da compra de "prestação de serviço de controle externo de qualidade" do Programa Nacional de Controle de Qualidade, referente a um laboratório municipal (Laboratório Municipal de Piracanjuba). A informação complementar detalha a necessidade de renovação anual e a verificação da qualidade dos resultados de exames realizados, indicando uma atividade de análise laboratorial, e não a aquisição de equipamentos de TI como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A referência à SUVISA (Superintendência Vigilância Sanitária) reforça a natureza do serviço de controle de qualidade em um ambiente laboratorial, e não uma demanda por soluções de TI.
+
+
+Razão social: MUNICIPIO DE MIRASSOLANDIA,
+É computação: false,
+Número do contrato: 9,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "obras", "Iluminação pública",
+Risco de ser falso positivo: alto,
+Justificativa: "O objeto da licitação é para 'obras de Iluminação pública na pista de caminhada'.  A licitação se refere a obras de infraestrutura física, não a equipamentos de TI, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A informação complementar está vazia, não há menção a tecnologia da informação, e o contexto do objeto da compra não sugere a necessidade de soluções computacionais."
+
+Razão social: MUNICIPIO DE HUMBERTO DE CAMPOS,
+É computação: false,
+Número do contrato: 6,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: obras, reforma, ampliação, escola, engenharia,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação refere-se à execução de obras de reforma e ampliação de uma escola municipal. A descrição do objeto não menciona a necessidade de computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI.  A contratação é de serviços de engenharia para a construção civil, e não de soluções de tecnologia da informação.
+
+Razão social: MUNICIPIO DE ACARAPE,
+É computação: false,
+Número do contrato: 21,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: PAVIMENTAÇÃO, RUA, INTERTRAVADO,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação trata da "pavimentação de uma rua", que é um serviço de construção civil e infraestrutura de obras, e não envolve a aquisição de equipamentos de TI como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A descrição da licitação não menciona nenhum item relacionado à computação.
+
+
+Razão social: MUNICIPIO DE CORDEIROPOLIS,
+É computação: false,
+Número do contrato: 83,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: agua mineral, gás (GLP), Secretarias da Prefeitura Municipal,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "Registro de preços para fornecimento de água mineral e gás (GLP) para as Secretarias da Prefeitura Municipal de Cordeirópolis". Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da compra ou nas informações complementares. A licitação se concentra em insumos de consumo, e não em equipamentos de TI.
+
+Razão social: FUNDO MUNICIPAL DE EDUCACAO DE BANDEIRANTES DO TOCANTINS - FME,
+É computação: false,
+Número do contrato: 5,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: null,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "Solicitação de abertura de processo administrativo para aquisição de gêneros alimentícios da agricultura familiar via Chamada Pública – PNAE". A licitação se refere à aquisição de alimentos, e não de equipamentos de informática como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A informação complementar e o contexto da licitação não indicam a necessidade de tecnologia da informação.
+
+Razão social: MUNICIPIO DE SANTA IZABEL DO OESTE,
+É computação: false,
+Número do contrato: 60,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: null,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da licitação é a concessão de direito real de uso de um imóvel público, especificamente um barracão industrial, para fins de indústria e comércio. Não há menção a equipamentos de informática, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da compra ou na informação complementar. A licitação se trata de um leilão para a aquisição de um imóvel, e não de bens de tecnologia.
+
+Razão social: UNIVERSIDADE ESTADUAL DO OESTE DO PARANA,
+É computação: false,
+Número do contrato: 88,
+Tipo principal: infraestrutura_ti,
+Subtipo: null,
+Indicadores encontrados: "serviços de engenharia civil", "área da saúde", "hospital", "hospital universitário", "credenciamento",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação refere-se a "Credenciamento de pessoas jurídicas na área da saúde para a prestação de Serviços de Engenharia Civil com Ênfase na Área Hospitalar e de Saúde no HOSPITAL UNIVERSITÁRIO DO OESTE DO PARANA – HUOP".  A descrição do objeto compra e a informação complementar ("Novos ciclos credenciamentode 1º a 05 de cada mês, enquanto o edital estiver vigênte") indicam fortemente a prestação de serviços de engenharia civil e saúde, não a compra de equipamentos de TI como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI.  A esfera de atuação é hospitalar, o que reforça a natureza dos serviços.
+
+
+Razão social: CONSELHO REGIONAL DE MEDICINA DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: PCS-013,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "bem imóvel", "leilão", "CREMEB",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação é a alienação de um bem imóvel pertencente ao CREMEB. A informação complementar detalha o processo de leilão online e a justificativa da licitação está relacionada à viabilização financeira da nova sede e modernização das instalações. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A compra é de um imóvel, não de equipamentos de tecnologia.
+
+Razão social: MUNICIPIO DE IPIRA,
+É computação: false,
+Número do contrato: 41,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: fardamento, creches, escolas, ensino fundamental, ensino II, Rede Municipal de Ensino,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação refere-se à contratação de fardamento para alunos de creches e escolas públicas. Não há menção a equipamentos de TI, como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A descrição do objeto compra está focada em vestuário escolar, o que indica uma compra direta de bens, e não um serviço ou fornecimento de tecnologia da informação.
+
+
+Razão social: MUNICIPIO DE LAMIM,
+É computação: false,
+Número do contrato: 14,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: rede pública de saúde, atendimento, assistência,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação trata da contratação de serviços médicos especializados para a rede pública de saúde do município de Lamim. Não há menção a equipamentos de informática, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A descrição se refere a uma demanda de saúde, e não a compras de tecnologia da informação.
+
+Razão social: MUNICIPIO DE GOIANESIA,
+É computação: false,
+Número do contrato: 152,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "",
+Risco de ser falso positivo: baixo,
+Justificativa: "O objeto da compra refere-se à aquisição de um caminhão para a Secretaria Municipal de Meio Ambiente e Serviços Urbanos. Não há menção a equipamentos de informática, servidores, computadores, notebooks, supercomputadores ou infraestrutura de TI no objeto da compra. A licitação trata de serviços relacionados à manutenção de veículos automotores, o que não se enquadra na área de computação."
+
+
+Razão social: MUNICIPIO DE GOIANESIA,
+É computação: false,
+Número do contrato: 154,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: caminhão, frota, secretaria municipal de meio ambiente e serviços urbanos,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra refere-se à aquisição de peças e prestação de serviços para um caminhão da frota municipal.  Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se destina à manutenção de um veículo, o que não se enquadra na área de computação.
+
+Razão social: TELEMACO BORBA CAMARA DE VEREADORES,
+É computação: false,
+Número do contrato: 5,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: limpeza, conservação, mão de obra exclusiva,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra se refere à contratação de serviços de limpeza e conservação, o que não se enquadra nas categorias de equipamentos de computação (computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI). A descrição do objeto da licitação não menciona, sequer remotamente, a necessidade de equipamentos de TI.
+
+Razão social: SUBPREFEITURA CIDADE ADEMAR,
+É computação: false,
+Número do contrato: 37,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: engenharia, readequação, área pública,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra, "Contratação de empresa de engenharia ou arquitetura para readequação de área pública municipal", indica a contratação de serviços de engenharia/arquitetura para reforma de um espaço físico. Não há menção a equipamentos de TI, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A informação complementar direciona para um sistema de compras eletrônico, mas não revela detalhes sobre a necessidade de tecnologia da informação.
+
+Razão social: FUNDO MUNICIPAL DE SAÚDE DE PEDRO AFONSO,
+É computação: false,
+Número do contrato: 5,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "carcaças de animais", "lixo hospitalar", "Unidades Básicas de Saúde", "Centro de Especialidades",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra refere-se à coleta e destinação de resíduos de saúde animal, o que está relacionado à gestão de resíduos, e não à computação. Embora a TI possa ser utilizada na gestão desses resíduos, o objeto da licitação em si não envolve a aquisição de equipamentos de informática, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação visa a contratação de serviços de recolhimento, transporte e destinação final, o que se enquadra em serviços de gestão ambiental e saúde, e não em computação.
+
+Razão social: MUNICIPIO DE AREALVA,
+É computação: false,
+Número do contrato: 20,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: materiais esportivos, Termo de Referência,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("Registro de Preços para a Aquisição de Materiais Esportivos...") indica a aquisição de bens de consumo, sem relação com equipamentos de informática, servidores, supercomputadores ou infraestrutura de TI. A informação complementar detalha a documentação encaminhada, reforçando a natureza da compra.
+
+
+Razão social: MUNICIPIO DE SANTA RITA DO PASSA QUATRO,
+É computação: false,
+Número do contrato: 13,
+Tipo principal: infraestrutura_ti,
+Subtipo: null,
+Indicadores encontrados: "caçambas metálicas", "locação de serviços", "poliguindaste", "serviços",
+Risco de ser falso positivo: baixo,
+Justificativa: "O objeto da licitação refere-se à locação de caçambas metálicas, um serviço de infraestrutura de TI relacionado à gestão de resíduos e à organização municipal. A informação complementar detalha a necessidade de uma sessão pública presencial para garantir a verificação detalhada das especificidades do serviço, considerando a dificuldade de avaliação em ambiente eletrônico e potenciais problemas de logística.  Embora não se trate da compra direta de equipamentos de TI (computadores, notebooks, servidores, etc.), a licitação impacta a infraestrutura de suporte à gestão municipal, o que se enquadra na área de TI em um contexto mais amplo."
+
+Razão social: MUNICIPIO DE PEDRO AFONSO,
+É computação: false,
+Número do contrato: 28,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: materiais de expediente,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "Registro de preços para a aquisição de materiais de expediente diversos".  A descrição é genérica e não especifica a aquisição de equipamentos de computação como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI.  A referência a "suprir as demandas dos diversos setores, departamentos e secretarias" indica a compra de materiais de escritório, e não de equipamentos de TI.
+
+
+Razão social: MUNICIPIO DE CANARANA,
+É computação: false,
+Número do contrato: 29,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: ,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra refere-se ao "cadastramento de profissionais" para avaliação de propostas técnicas em uma futura licitação para contratação de uma agência de propaganda. Não há menção a equipamentos de TI, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da compra. A modalidade de licitação é "Credenciamento", que é um serviço de pré-qualificação e não uma compra de bens de capital ou serviços de tecnologia da informação.
+
+
+Razão social: MUNICIPIO DE IGARAPE-ACU,
+É computação: false,
+Número do contrato: 3/2026-003,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "construção", "unidades habitacionais",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação se refere à construção de 40 unidades habitacionais, conforme Termo de Compromisso nº 975444/2025. Embora a construção possa envolver o uso de tecnologia, o edital não especifica a necessidade de computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se concentra na construção física das unidades habitacionais.
+
+Razão social: MUNICIPIO DE PIRACANJUBA,
+É computação: false,
+Número do contrato: 122,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: adesivos, campanha, prevenção à violência sexual,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra refere-se à aquisição de adesivos para uma campanha de prevenção à violência sexual contra crianças e adolescentes. A descrição detalhada da campanha e o foco na prevenção social indicam que a licitação se refere a materiais de divulgação e não a equipamentos ou infraestrutura de TI, como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A informação complementar reforça essa interpretação, mencionando a campanha "Faça Bonito" e a atuação do CREAS.
+
+
+Razão social: MUNICIPIO DE BORDA DA MATA,
+É computação: false,
+Número do contrato: 69,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: exames, testes, epidemiológico,
+Risco de ser falso positivo: baixo,
+Justificativa: "O objeto da licitação refere-se à realização de exames e testes para atender ao setor epidemiológico, o que indica a necessidade de serviços de saúde e diagnóstico, e não a aquisição de equipamentos de informática como computadores, notebooks, servidores ou supercomputadores. A infraestrutura de TI está implícita nos serviços de saúde, mas não é o foco principal do objeto da compra."
+
+
+Razão social: MUNICIPIO DE LAGOA VERMELHA,
+É computação: false,
+Número do contrato: 134,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: auxílio financeiro, patrocínio, Calendário Oficial de Eventos,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação é para "selecionar ações ou atividades alusivas ao Calendário Oficial de Eventos do Município de Lagoa Vermelha, a serem realizados no segundo trimestre de ano de 2026, para a concessão de auxílio financeiro através de patrocínio".  Não há menção a equipamentos de TI (computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI) no objeto da compra ou informação complementar. A licitação se concentra em suporte financeiro e eventos municipais, não em tecnologia da informação.
+
+Razão social: MUNICIPIO DE IRACEMA,
+É computação: false,
+Número do contrato: 16,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: null,
+Risco de ser falso positivo: baixo,
+Justificativa: "O objeto da licitação refere-se à construção de unidades habitacionais. O edital não menciona a necessidade de equipamentos de informática, como computadores, notebooks, servidores ou supercomputadores, nem a contratação de serviços de infraestrutura de TI. A descrição foca na execução de obras de construção civil."
+
+Razão social: SAO PAULO SECRETARIA DA ADMINISTRACAO PENITENCIARIA,
+É computação: false,
+Número do contrato: 1536,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: credenciamento,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação é "Chamada Pública nº 01/2026 para o período de maio a agosto de 2026.", que se refere a "Credenciamento". O edital trata de credenciamento de fornecedores, sem especificar a aquisição de equipamentos de TI (computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI). A modalidade de licitação "Credenciamento" (modalidadeId: 12) indica que a licitação se destina a habilitar empresas para futuros processos, mas não a compra direta de bens de informática. A lei amparadora (Lei 14.133/2021, Art. 79, I) trata de contratações paralelas e não excludentes, que pode ser um caminho, mas não indica um objeto de compra de equipamentos de TI.
+
+
+Razão social: MUNICIPIO DE ANISIO DE ABREU,
+É computação: false,
+Número do contrato: 21,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: manutenção preventiva e corretiva, veículos,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra se refere à prestação de serviços mecânicos para manutenção de veículos, o que não se enquadra nas categorias de computação (computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI). A descrição dos serviços é genérica e não indica a necessidade de equipamentos de TI.
+
+Razão social: MUNICIPIO DE JITAUNA,
+É computação: false,
+Número do contrato: 31,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: null,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "Contratação de empresa especializada para execução da pavimentação da área de circulação de veículos da Rodoviária Municipal de Jitaúna-BA."  A licitação se refere à construção de uma obra de infraestrutura física (pavimentação), e não à aquisição de equipamentos de TI, softwares, serviços de suporte ou qualquer outra atividade relacionada à computação. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da compra ou nas informações complementares disponíveis.
+
+
+Razão social: MUNICIPIO DE JITAUNA,
+É computação: false,
+Número do contrato: 32,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: null,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "Contratação de empresa especializada para execução de serviços de manutenção e reassentamento de paralelepípedos em vias e logradouros do município de Jitaúna-BA.".  Este objeto se refere à construção civil e manutenção de vias públicas, não envolvendo a aquisição de equipamentos de TI, como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação é uma concorrência para obras, e não para tecnologia da informação.
+
+Razão social: MUNICIPIO DE JITAUNA,
+É computação: false,
+Número do contrato: 33,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: null,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação trata da "pavimentação em paralelepípedo em diversas ruas do Município de Jitaúna-BA", o que se refere a obras de infraestrutura física. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da licitação, na informação complementar ou no contexto semântico do objeto. A licitação está focada em serviços de construção.
+
+Razão social: MUNICIPIO DE ITUACU,
+É computação: false,
+Número do contrato: 19,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: pavimentação, acesso, Balneário da Gruta da Mangabeira,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação se refere à execução de pavimentação de acesso a um balneário, o que indica uma obra de infraestrutura física. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da licitação, na informação complementar ou no contexto do edital. A licitação é para uma obra de construção civil, e não para serviços ou equipamentos de tecnologia da informação.
+
+Razão social: MUNICIPIO DE CAPAO DA CANOA,
+É computação: false,
+Número do contrato: 302,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: null,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação é "Contratação de empresa para realizar a manutenção do veículo escolar placas JCA6B72".  Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da compra, informação complementar ou qualquer outro campo disponível. A licitação se refere à manutenção de um veículo escolar, o que está relacionado à área de transporte e não à computação.
+
+Razão social: MUNICIPIO DE IPIRA,
+É computação: false,
+Número do contrato: 43,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: enxoval, recém-nascido, gestantes, vulnerabilidade social, CRAS,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação trata da contratação de enxoval para recém-nascido, especificamente "kits natalidade" para gestantes em situação de vulnerabilidade social atendidas pelo CRAS. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se concentra em bens de consumo e assistência social, o que a torna totalmente fora do escopo da área de computação.
+
+Razão social: SAO PAULO SECRETARIA DA ADMINISTRACAO PENITENCIARIA,
+É computação: false,
+Número do contrato: 1551,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: null,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "AQUISIÇÃO DE GENEROS ALIMENTICIOS HORTIFRUTIGRANJEIROS - PPAIS, para os meses de Maio a Agosto de 2026". Este objeto se refere a insumos alimentícios para presídios, não havendo menção a equipamentos de TI, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se enquadra em compras de suprimentos, não em tecnologia da informação.
+
+Razão social: MUNICIPIO DE MERIDIANO,
+É computação: false,
+Número do contrato: 38,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: exames laboratoriais, saúde,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação é para "realização de exames laboratoriais", conforme solicitado pela Secretaria Municipal de Saúde.  A descrição da licitação não menciona equipamentos de TI (computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI). A informação complementar reforça a natureza do serviço (registro de preços para prestação de serviços de exames laboratoriais) e não indica a necessidade de tecnologia da informação. A modalidade de licitação (Pregão - Presencial) também não aponta para a compra de equipamentos de TI. Portanto, a licitação não se enquadra em nenhuma das categorias de computação listadas.
+
+
+Razão social: MUNICIPIO DE TERESOPOLIS,
+É computação: false,
+Número do contrato: 80,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: medicamentos, tabela CMED, mandados judiciais, requisições judiciais, tratamento preventivo, curativo, doenças crônicas, saúde, qualidade de vida,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação é para aquisição de medicamentos, especificamente para atender mandados judiciais e demandas do setor de requisições judiciais no tratamento de doenças crônicas. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se concentra na saúde e no fornecimento de medicamentos, o que a torna irrelevante para a área de computação.
+
+Razão social: SAO PAULO SECRETARIA DA ADMINISTRACAO PENITENCIARIA,
+É computação: false,
+Número do contrato: 1573,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "gêneros alimentícios", "HORTIFRUTIGRANJEIROS", "Penitenciária", "CB PM Marcelo Pires da Silva",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra se refere à aquisição de gêneros alimentícios para uma unidade prisional. Não há menção a equipamentos de TI, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da compra, informação complementar ou contexto geral da licitação. A licitação se enquadra na compra de bens e serviços de consumo.
+
+Razão social: MUNICIPIO DE PIRAJUI,
+É computação: false,
+Número do contrato: 25,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "Materiais de Laboratório",
+Risco de ser falso positivo: alto,
+Justificativa: "O objeto da licitação refere-se à aquisição de 'Materiais de Laboratório', sem menção a equipamentos de computação, servidores, notebooks, supercomputadores ou infraestrutura de TI.  A descrição do objeto compra não indica a necessidade de compra de equipamentos de informática."
+
+Razão social: MUNICIPIO DE MAGE,
+É computação: false,
+Número do contrato: 20,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: limpeza, conservação, ajardinamento, resíduos sólidos,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra refere-se à contratação de serviços de limpeza, conservação e destinação de resíduos sólidos em áreas verdes do município. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se concentra em atividades de manutenção e limpeza, estando distante da área de tecnologia da informação.
+
+Razão social: MUNICIPIO DE MATIPO,
+É computação: false,
+Número do contrato: 002/2026,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: obra, cobertura metálica, adequação de dependências,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação se refere à "Construção de cobertura metálica e adequação das dependências da quadra do Bairro Boa Vista".  A descrição da obra não menciona equipamentos de TI, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A referência ao Convênio nº 1481002053/2023 com a SEDESE indica um projeto de construção civil, o que exclui qualquer relação com a área de computação.
+
+
+Razão social: SECRETARIA DE ESTADO DA ADMINISTRACAO,
+É computação: false,
+Número do contrato: 60,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: medicamentos, hipertensivos, cardiovascular,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("REGISTRO DE PREÇOS PARA AQUISIÇÃO DE MEDICAMENTOS ANTI-HIPERTENSIVOS E DO SISTEMA CARDIOVASCULAR") refere-se a fármacos e equipamentos médicos para tratamento cardiovascular, não abrangendo a área de computação, que inclui computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A informação complementar reforça a natureza do objeto da compra como medicamentos.
+
+
+Razão social: MUNICIPIO DE SELVIRIA,
+É computação: false,
+Número do contrato: 002,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: transporte escolar, veículos, motoristas, monitores,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação refere-se à contratação de serviços de transporte escolar, com fornecimento de veículos e pessoal. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A descrição detalha aspectos operacionais da prestação do serviço, focando em logística e atendimento educacional, e não em soluções tecnológicas.
+
+
+Razão social: SAECIL-SUPERINT.DE AGUA E ESGOTO DA CIDADE DE LEME,
+É computação: false,
+Número do contrato: 123,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: produtos químicos, ETA, armazenamento,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação refere-se à aquisição de reservatórios para armazenamento de produtos químicos destinados à Estação de Tratamento de Água e Esgoto (ETA) do Município de Leme.  Não há menção a equipamentos de computação, servidores, notebooks, supercomputadores ou infraestrutura de TI. A licitação é para a compra de reservatórios, o que se enquadra em bens de infraestrutura, não em tecnologia da informação.
+
+Razão social: MUNICIPIO DE BUJARU,
+É computação: false,
+Número do contrato: 23.108,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "perfuração de poço artesiano",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação é para aquisição de "máquina para perfuração de poço artesiano". A descrição do objeto não indica a necessidade de equipamentos de TI, como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se refere a um serviço específico de perfuração, e não a uma necessidade de tecnologia da informação.
+
+
+Razão social: MUNICIPIO DE UTINGA,
+É computação: false,
+Número do contrato: PE-004/2026,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: veículos, máquinas, administrativas,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação refere-se à locação de veículos e máquinas destinados ao atendimento das demandas operacionais e administrativas das secretarias municipais. A descrição não menciona a necessidade de equipamentos de computação (computadores, notebooks, servidores, supercomputadores) ou infraestrutura de TI. A ênfase está na locação de bens físicos para suporte administrativo.
+
+Razão social: MUNICIPIO DE PALMEIRAS,
+É computação: true,
+Número do contrato: 006,
+Tipo principal: infraestrutura_ti,
+Subtipo: Contratação de empresa especializada para prestação de serviços de implantação, licenciamento de uso e manutenção de sistema informatizado, customizável, destinado à gestão eficiente das contratações públicas. O objeto da licitação envolve a implementação de um sistema informatizado para a gestão de contratações públicas, o que se enquadra na área de infraestrutura de TI.
+Indicadores encontrados: sistema informatizado, gestão eficiente, customizável,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da licitação descreve a contratação de um sistema informatizado para gestão de contratações públicas, o que se alinha diretamente com a infraestrutura de TI, incluindo serviços de implantação, licenciamento, manutenção e customização. A menção a "sistema informatizado" e a "gestão eficiente" reforçam a natureza de suporte e infraestrutura de TI.
+
+
+Razão social: MUNICIPIO DE TANABI,
+É computação: false,
+Número do contrato: 31,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: alimentação, lanches, marmitex,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação se refere ao fornecimento de alimentação pronta, conforme termo de referência, sem menção a equipamentos de TI, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação é para suprir demandas de alimentação do município, não possuindo relação com a área de tecnologia da informação.
+
+Razão social: MUNICIPIO DE PROMISSAO,
+É computação: false,
+Número do contrato: 21,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: lanche, pacientes, acompanhantes,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("Aquisição de kits de lanche para pacientes e acompanhantes assistidos pelo município") não possui nenhuma relação com computação, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação trata-se de aquisição de materiais para fins de alimentação, e não de equipamentos ou serviços de TI.
+
+
+Razão social: MUNICIPIO DE UTINGA,
+É computação: false,
+Número do contrato: PE-005/2026,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: eventos, festividades,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra se refere à contratação de empresa especializada para prestação de serviços relacionados à realização de eventos e festividades promovidas pelo município. Não há menção a equipamentos de TI, como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A descrição do objeto é genérica e não indica a necessidade de tecnologia da informação.
+
+
+Razão social: SAO PAULO SECRETARIA DA ADMINISTRACAO PENITENCIARIA,
+É computação: false,
+Número do contrato: 1619,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: generos alimenticios, hortifruti, leite, papeis,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "AQUISIÇÃO DE GENEROS ALIMENTICIOS, HORTIFRUTIGRANJEIROS, LEITE E DERIVADOS, PPAIS", o que indica uma compra de bens de consumo e materiais de escritório, sem relação com equipamentos de informática, computadores, servidores, notebooks ou supercomputadores, tampouco com infraestrutura de TI. O edital é um "Chamamento Público" para credenciamento, o que implica em critérios para fornecedores e não em especificação de bens de tecnologia.
+
+Razão social: MUNICIPIO DE MANGARATIBA,
+É computação: true,
+Número do contrato: 52,
+Tipo principal: infraestrutura_ti,
+Subtipo: Solução integrada de gestão educacional na modalidade SaaS (Software as a Service), contemplando licenciamento de uso, implantação/configuração, treinamento, suporte técnico-operacional, manutenção/atualizações, e serviços de hospedagem em nuvem (cloud). O objeto da licitação se refere a um sistema de gestão educacional que inclui a hospedagem em nuvem, o que se enquadra na infraestrutura de TI.
+Indicadores encontrados: SaaS, nuvem, hospedagem, gestão educacional, infraestrutura,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha especificamente a necessidade de uma solução integrada de gestão educacional que inclui serviços de hospedagem em nuvem, o que claramente se alinha com a oferta de infraestrutura de TI. A descrição abrangente do objeto, que vai além da simples aquisição de hardware, reforça a natureza da licitação como uma oportunidade na área de computação, focada em soluções de TI para o setor educacional.
+
+Razão social: MUNICIPIO DE MANGARATIBA,
+É computação: false,
+Número do contrato: 53,
+Tipo principal: infraestrutura_ti,
+Subtipo: null,
+Indicadores encontrados: "solução integrada de conectividade dedicada", "necessidades da Prefeitura Municipal de Mangaratiba",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação descreve a contratação de uma "solução integrada de conectividade dedicada" para a Prefeitura Municipal de Mangaratiba.  Embora a licitação não mencione diretamente computadores, notebooks, servidores ou supercomputadores, a necessidade de uma "conectividade dedicada" indica a prestação de serviços de infraestrutura de TI, que geralmente envolvem a gestão e suporte da infraestrutura de rede e, possivelmente, a administração de servidores e outros equipamentos de TI. A natureza "integrada" da solução sugere um pacote de serviços, e não apenas a compra de equipamentos isolados. A natureza da licitação, como "Pregão - Eletrônico", também tende a favorecer a aquisição de serviços e soluções de TI. Dada a alta probabilidade de a solução envolver componentes de TI, o risco de um falso positivo é alto.
+
+Razão social: MUNICIPIO DE MANGARATIBA,
+É computação: true,
+Número do contrato: 54,
+Tipo principal: infraestrutura_ti,
+Subtipo: Solução integrada de gestão educacional (SaaS) contemplando licenciamento de uso, implantação/configuração, treinamento, suporte técnico-operacional, manutenção/atualizações, e serviços de hospedagem em nuvem (cloud). O objeto da licitação envolve a automação e gestão de serviços públicos de educação, o que se enquadra diretamente em infraestrutura de TI, incluindo a necessidade de suporte técnico-operacional, manutenção e hospedagem em nuvem.
+Indicadores encontrados: SaaS, nuvem, suporte técnico, hospedagem, gestão educacional,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da licitação detalha a necessidade de uma solução integrada de gestão educacional baseada em nuvem, abrangendo todos os serviços típicos de infraestrutura de TI – desde a implantação e configuração até o suporte técnico e manutenção. A modalidade SaaS (Software as a Service) reforça a natureza de serviço de TI, indicando uma solução completa e gerenciada pela fornecedora.
+
+
+Razão social: MUNICIPIO DE MANGARATIBA,
+É computação: false,
+Número do contrato: 55,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: solução integrada de conectividade dedicada,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação descreve a contratação de uma solução integrada de conectividade dedicada para a Prefeitura Municipal de Mangaratiba. Isso se refere a serviços de infraestrutura de rede e conectividade, e não à compra direta de equipamentos como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A descrição é vaga e não especifica a aquisição de hardware.
+
+
+Razão social: TRIBUNAL DE JUSTIÇA DO ESTADO DO PARA,
+É computação: false,
+Número do contrato: 46,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "imóvel urbano", "instalação", "funcionamento", "Comarca",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação é a prospecção do mercado imobiliário para a futura locação de um imóvel urbano destinado à instalação de uma Comarca judicial.  Não há menção a equipamentos de TI, servidores, computadores, notebooks, supercomputadores ou infraestrutura de TI.  A licitação se refere a um serviço imobiliário relacionado à infraestrutura física do judiciário, e não a soluções de TI.
+
+Razão social: CAMARA MUNICIPAL DE MESQUITA,
+É computação: true,
+Número do contrato: 001,
+Tipo principal: infraestrutura_ti,
+Subtipo: Software como Serviço (SaaS) para gestão legislativa, módulos de processo legislativo, gabinete do vereador, gestão do plenário, integração com o portal legislativo, módulo do plenário digital, terminais de votação, integração com painéis eletrônicos e tablets, modernização e automação das atividades legislativas e administrativas.
+Indicadores encontrados: software, serviço, legislativo, plenário, virtualização, automação,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da licitação detalha a contratação de um software como serviço (SaaS) para gestão legislativa, o que implica na necessidade de infraestrutura de TI para suporte e operação desse software, incluindo, possivelmente, a necessidade de equipamentos de rede, servidores para hospedagem do software, e o uso de tablets e terminais de votação, o que se enquadra na categoria de infraestrutura de TI. Além disso, a modernização e automação das atividades legislativas implica na utilização de tecnologia para otimizar os processos.
+
+
+Razão social: MUNICIPIO DE TUPA,
+É computação: true,
+Número do contrato: 102,
+Tipo principal: servidores,
+Subtipo: REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL AQUISIÇÃO DE MATERIAL MÉDICO-HOSPITALAR E INSUMOS DE ENFERMAGEM, VISANDO ATENDER A DEMANDA DAS UNIDADES DE SAÚDE DA REDE ATENÇÃO BÁSICA, UNIDADE DE PRONTO ATENDIMENTO (UPA), AMBULATÓRIO MÉDICO DE ESPECIALIDADES MUNICIPAIS, VIGILÂNCIA EM SAÚDE E DEPARTAMENTO ODONTOLÓGICO DESTE MUNICÍPIO DE TUPÃ/SP, PELO PERÍODO DE 12 (DOZE) MESES.
+Indicadores encontrados: material médico-hospitalar, insumos de enfermagem, saúde,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha especificamente “MATERIAL MÉDICO-HOSPITALAR E INSUMOS DE ENFERMAGEM”, o que indica a aquisição de equipamentos e suprimentos diretamente relacionados a infraestrutura de TI para uso em serviços de saúde, incluindo servidores e outros equipamentos de informática.
+
+
+Razão social: MUNICIPIO DE CAMPO MAIOR,
+É computação: false,
+Número do contrato: 002,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "Sistema Único Saúde", "atendimentos ambulatorial", "consultas", "exames", "procedimentos",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação refere-se a "credenciamento de pessoa(s) jurídica(s) para prestarem atendimento aos usuários do Sistema Único Saúde" e "atendimentos ambulatorial" para melhorar os serviços de saúde.  Embora a licitação envolva a utilização de tecnologia, o foco principal é no credenciamento de empresas para fornecer serviços de saúde, e não na compra de equipamentos de informática (computadores, notebooks, servidores, etc.) ou infraestrutura de TI. O objeto da licitação é mais próximo de um serviço de consultoria e suporte para a saúde, do que da compra de hardwares.
+
+
+Razão social: SECRETARIA DE ESTADO DA SAUDE,
+É computação: false,
+Número do contrato: 2206,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: Vale Refeição, cartão eletrônico,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação trata de "Credenciamento de empresas especializadas, interessadas na prestação de serviços de implementação, gerenciamento, administração e fornecimento de Vale Refeição...".  Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se refere à contratação de serviços relacionados a um benefício (Vale Refeição) e não à aquisição de bens de tecnologia.
+
+Razão social: MUNICIPIO DE ANTONIO PRADO,
+É computação: false,
+Número do contrato: 198,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: pó de brita, pedrisco, brita,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é para aquisição de materiais de construção (pó de brita, pedrisco e brita), e não de equipamentos de TI. A informação complementar reforça este fato, mencionando a repetição parcial de um pregão presencial para a aquisição destes materiais de construção.  A licitação não apresenta nenhuma relação com computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI.
+
+
+Razão social: MUNICIPIO DE ESTRELA,
+É computação: false,
+Número do contrato: 61,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: gneros alimenticios, registro de preços,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação é "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS - REGISTRO DE PREÇOS".  A descrição do objeto não aponta para a aquisição de equipamentos de TI, como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI.  A licitação se refere a produtos alimentícios, o que indica uma compra direta de bens, e não um serviço ou equipamento de TI.
+
+
+Razão social: MUNICIPIO DE ESTRELA,
+É computação: false,
+Número do contrato: 62,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: gêneros alimentícios, registro de preços,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação é "AQUISIÇÃO DE GÊNEROS ALIMENTICIOS - REGISTRO DE PREÇOS". Este item se refere a alimentos e não à aquisição de equipamentos de TI, como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A modalidade de licitação (Pregão Eletrônico) e o órgão remetente não indicam uma necessidade de TI.
+
+
+Razão social: MINISTERIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO,
+É computação: false,
+Número do contrato: 739,
+Tipo principal: infraestrutura_ti,
+Subtipo: Contração de empresa especializada na prestação de serviços de Outsourcing de Impressão, incluindo solução corporativa de impressão, reprodução e digitalização de documentos (Outsourcing de Impressão) na modalidade franquia mensal de páginas mais excedente, para atendimento de necessidades da Superintendência Federal da Agricultura e Pecuária no Estado de Mato Grosso - SFA/MT.
+Indicadores encontrados: impressão, reprodução, digitalização, outsourcing,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra, conforme "objetoCompra" e "informacaoComplementar", refere-se a um serviço de outsourcing de impressão e digitalização, que engloba infraestrutura de TI (hardware e software de impressão) e serviços associados. Embora não trate da compra direta de computadores, notebooks, servidores ou supercomputadores, a licitação se enquadra em serviços de infraestrutura de TI, especificamente no contexto de uma operação de impressão. A natureza do serviço (franquia de páginas e suprimentos) implica necessidade de suporte técnico e gerenciamento de equipamentos, o que representa uma componente de infraestrutura de TI.
+
+Razão social: MUNICIPIO DE GUIRATINGA,
+É computação: false,
+Número do contrato: 27,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: insumos, diabéticos, tratamento,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da licitação refere-se à aquisição de "insumos de diabéticos" para um paciente específico, conforme determinação judicial. Não há menção a equipamentos de computação, servidores, notebooks, supercomputadores ou infraestrutura de TI. A licitação se enquadra em um pregão eletrônico para aquisição de bens comuns, e a necessidade é específica para o tratamento de uma doença, não uma demanda por soluções de TI.
+
+Razão social: MUNICIPIO DE GOIANDIRA,
+É computação: false,
+Número do contrato: 97,
+Tipo principal: nao_aplicavel,
+Subtipo: SOLICITAÇÃO DE PRESTAÇÃO DE SERVIÇO DE FORNECIMENTO DE REFEIÇÃO COM MÃO DE OBRA, ALIMENTOS E DESCARTAVEIS (BANDEJA E GARFOS), PARA PREPARAÇÃO DE ARROZ CARRETEIRO EM PANELA DE BARRO OU FERRO,) PARA SER SERVIDO A POPULAÇÃO QUE FOR PRESTIGIAR O EVENTO, PARA AS COMEMORAÇÃO DO ANIVERSARIO DA CIDADE DE GOIANDIRA, SENDO UM JANTAR PARA 1.500,00 PESSOAS, NA DATA DE 06 DE MAIO DE 2026, PARA MANUTENÇÃO DAS ATIVIDADES DAS FESTIVIDADES DO MUNICIPIO.
+Indicadores encontrados: refeição, alimentos, arroz carreteiro, panela de barro,
+Risco de ser falso positivo: alto,
+Justificativa: A licitação se refere à contratação de serviços de alimentação para um evento cívico municipal, não envolvendo a aquisição ou manutenção de equipamentos de TI, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. O objeto da compra é claramente focado em serviços e suprimentos alimentícios.
+
+Razão social: MUNICIPIO DE IBIQUERA,
+É computação: false,
+Número do contrato: 8,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: materiais de construção, manutenção, conservação, insumos correlatos,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação se refere à aquisição de materiais de construção em geral, incluindo materiais hidráulicos, de jardinagem e demais insumos correlatos para manutenção, conservação e execução de serviços. Não há menção a equipamentos de informática, servidores, computadores, notebooks, supercomputadores ou infraestrutura de TI. A licitação é focada em suprimentos para atividades de construção e manutenção municipal.
+
+Razão social: ESTADO DO CEARA,
+É computação: false,
+Número do contrato: 7864,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: materiais de limpeza, higienização, restaurantes universitários,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra refere-se a "Materiais para limpeza e higienização para os Restaurantes Universitários (RU’s)", o que não se enquadra nas categorias de computação (computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI). A informação complementar reforça essa conclusão, detalhando a aquisição de itens para limpeza e higienização em ambientes de restaurantes universitários, sem qualquer menção a tecnologia da informação.
+
+
+Razão social: MUNICIPIO DE CAMPO ALEGRE DE LOURDES,
+É computação: false,
+Número do contrato: 27,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: materiais de informática,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação descreve "Registro de preços para eventual contratação de empresa(s) para o fornecimento de materiais de informática, visando atender as necessidades das diversas secretarias do município de Campo Alegre de Lourdes-BA."  A descrição é genérica e não especifica a aquisição de equipamentos como computadores, notebooks, servidores ou supercomputadores.  A licitação se concentra em "materiais de informática" de forma ampla, o que sugere mais um catálogo de preços do que a aquisição direta de hardware de TI,  e não se enquadra em nenhuma das categorias de computação listadas. A modalidade de licitação é "Pregão - Eletrônico", o que indica a possibilidade de compra de componentes de TI, mas o objeto da licitação não demonstra a intenção de compra de equipamentos de TI.
+
+
+Razão social: MUNICIPIO DE MARACAS,
+É computação: false,
+Número do contrato: 45,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: de\r\nspachante, regularização, licenciamento, transferência, frota municipal, Secretarias Municipais, Termo de Referência,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação se refere à contratação de serviços de gerenciamento de frota municipal, incluindo regularização e licenciamento de veículos. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. O foco está na prestação de serviços administrativos relacionados à frota, o que se distancia da área de computação.
+
+Razão social: SUPERINTENDENCIA MUNICIPAL DE TRANSPORTES E TRÂNSITO,
+É computação: false,
+Número do contrato: 6,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "pragas", "vetores", "urbanas",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra refere-se à contratação de serviços de controle de pragas e vetores urbanos, utilizando materiais e mão de obra especializada. Não há menção a equipamentos de TI (computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI) no objeto da licitação. A necessidade de desinsetização e dedetização é um serviço de manutenção preventiva, não relacionada à tecnologia da informação.
+
+Razão social: MUNICIPIO DE URU,
+É computação: false,
+Número do contrato: 19,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: Estruturas, Montagem, Desmontagem, Operação, Transporte, Manutenção, Insumos,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação se refere à locação de estruturas para eventos, incluindo montagem, desmontagem, operação, transporte, manutenção e insumos. Não há menção explícita a equipamentos de informática, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A descrição do objeto compra está focada em serviços de locação de estruturas, e não em soluções de tecnologia da informação.
+
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 2389,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: POLIDOCANOL,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "POLIDOCANOL 1", que é um material médico-hospitalar. A análise do contexto e dos dados fornecidos não revela qualquer relação com computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se enquadra em uma dispensa de licitação para compras de baixo valor, o que não indica uma oportunidade na área de computação.
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 2410,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: AQUISIÇÃO, DETERMINAÇÃO JUDICIAL,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "AQUISIÇÃO PARA DETERMINAÇÃO JUDICIAL", o que indica uma necessidade de aquisição de bens para uso judicial. A descrição da licitação não menciona explicitamente a compra de equipamentos de TI (computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI), nem serviços relacionados. A modalidade de licitação é "Dispensa", o que sugere uma compra direta de bens, mas sem evidências que apontem para equipamentos de TI.  A referência a "determinação judicial" também sugere um uso específico dos bens, sem relação direta com a área de TI.
+
+
+Razão social: MUNICIPIO DE ITAUNA DO SUL,
+É computação: false,
+Número do contrato: 40,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: cloro granulado, endemias,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "aquisição de cloro granulado para atender a demanda do setor de endemias."  Não há menção a equipamentos de TI, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da compra ou nas informações complementares. A licitação se refere a uma necessidade sanitária básica, não relacionada à área de tecnologia da informação.
+
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 2414,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: pneus, borrachudo, 7.50, aro 16, lonas, nao remoldado,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("26 10 00 00192657 8 PNEU convencional borrachudo referencia 7 50 aro 16 12 lonas nao remoldado e nao") refere-se a pneus para veículos, não a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se enquadra em uma compra direta de materiais, especificamente pneus, e não em equipamentos de TI.
+
+Razão social: HOSPITAL OPHIR LOYOLA,
+É computação: false,
+Número do contrato: 82,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: null,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "AQUISIÇÃO DE FILTROS PARA AUTOCLAVE". A descrição indica uma compra de peças para um equipamento médico (autoclave), e não envolve equipamentos de computação, servidores, notebooks, supercomputadores ou infraestrutura de TI. A modalidade de licitação ("Dispensa") também não sugere a aquisição de bens de informática.
+
+
+Razão social: BRIGADA MILITAR DO ESTADO DO RIO GRANDE DO SUL,
+É computação: false,
+Número do contrato: 115,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: insignias, brasos, escudos, medalhas, trofeus, brindes,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("AQUISIÇÃO DE BENS DA(S) FAMÍLIA(S):\n0215-SERVICOS: INSIGNIAS/BRASOES/ESCUDOS/MEDALHAS/TROFEUS/BRINDES;") refere-se à aquisição de itens decorativos (insignias, medalhas, troféus) e brindes, que não se enquadram nas categorias de computação, notebooks, servidores, supercomputadores ou infraestrutura de TI. A modalidade de licitação (Dispensa) também não sugere a compra de equipamentos de TI. A descrição "SERVICOS" também não indica um objeto relacionado à área de TI.
+
+Razão social: UNIVERSIDADE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 483,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: CAIXAS SIARC,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "CAIXAS SIARC", que se refere a "Caixas de Interface de Acesso para o SIARC" (Sistema de Acompanhamento de Infraestrutura e Recursos de Computação) da Universidade do Estado da Bahia. Este sistema é focado em gerenciamento de TI, mas a compra se refere a "CAIXAS SIARC" e não a equipamentos de computação (computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI) em si. A modalidade de licitação é "Dispensa", o que sugere uma compra pontual de itens, mas não uma contratação de serviços ou equipamentos de TI complexos.  A informação complementar e o objeto da compra não indicam a aquisição de hardware de computação.
+
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 2436,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: '',
+Risco de ser falso positivo: alto,
+Justificativa: "O objeto da compra é 'ALICATE ortopédico de corte com 37cm'. A licitação trata de um instrumento de corte médico, e não de computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. O valor estimado da compra (R$ 4.760,00) também não indica a aquisição de equipamentos de informática. A informação complementar está vazia e não fornece nenhuma indicação de itens relacionados à tecnologia da informação."
+
+Razão social: FUNDO MUNICIPAL DE SAUDE DE PARANA TOCANTINS,
+É computação: false,
+Número do contrato: 006A,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: manutenção preventiva, corretiva, gerador, hospital,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra refere-se à manutenção de um gerador em um hospital municipal, envolvendo fornecimento de peças, materiais, deslocamento e mão de obra. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se enquadra em um serviço de manutenção, e não em um fornecimento de equipamentos de TI.
+
+
+Razão social: UNIVERSIDADE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 484,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: agua mineral,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "AGUA MINERAL". A licitação se refere a um aviso de contratação direta com valor total estimado de R$3180.0, utilizando a modalidade "Dispensa". Não há informações sobre a aquisição de equipamentos de informática (computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI) no objeto da compra ou na informação complementar. A licitação se refere a uma compra de água mineral, o que não se enquadra na área de computação.
+
+
+Razão social: POLICIA MILITAR DA BAHIA,
+É computação: false,
+Número do contrato: 263,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "",
+Risco de ser falso positivo: alto,
+Justificativa: "O objeto da compra é 'LUVA DE PROCEDIMENTO E PANO MULTIUSO'. A licitação refere-se a itens de consumo e não inclui equipamentos de informática, servidores, notebooks, supercomputadores ou infraestrutura de TI. A situação da compra é 'Divulgada no PNCP' e o tipo do instrumento de convocatório é 'Aviso de Contratação Direta', o que indica uma dispensa de licitação para valores abaixo de R$ 50.000,00, reforçando a natureza de compra de materiais de consumo."
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: true,
+Número do contrato: 2440,
+Tipo principal: servidores,
+Subtipo: FONTE E DISCO SSD,
+Indicadores encontrados: SSD, fonte,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "FONTE E DISCO SSD", o que indica a aquisição de componentes de servidores. A modalidade de licitação (Dispensa) e o valor estimado (R$ 5857.50) podem ser compatíveis com a aquisição de hardware para servidores, especialmente em um contexto de saúde como o Hospital Regional Prado Valadares. A lei de licitações (Lei 14.133/2021) permite a dispensa para valores inferiores a R$ 50.000,00, o que facilita a aquisição de equipamentos de infraestrutura de TI.
+
+
+Razão social: APUCARANA-CAMARA MUNICIPAL,
+É computação: false,
+Número do contrato: 27,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "televisão", "votação", "painel eletrônico",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação refere-se ao fornecimento de uma televisão de 98 polegadas para uso como painel eletrônico de votação. Apesar de envolver tecnologia de visualização, a licitação não se enquadra nas áreas de computação, notebooks, servidores, supercomputadores ou infraestrutura de TI.  O foco é em um equipamento específico (televisão) e sua aplicação em um contexto eleitoral, não em soluções de TI abrangentes ou em equipamentos de alta performance relacionados a essas áreas.
+
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 2444,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: '',
+Risco de ser falso positivo: alto,
+Justificativa: "O objeto da compra ('QUADRO DE AVISO EM ACRÍLICO COM 6 DISPLAYS') não se enquadra em nenhuma das categorias de equipamentos de TI (computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI). A licitação refere-se à aquisição de materiais de escritório, não de equipamentos tecnológicos.".
+
+Razão social: MUNICIPIO DE ITUMBIARA,
+É computação: false,
+Número do contrato: 164,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: equipamentos de cozinha, utensílios,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS DE COZINHA , VISANDO ATENDER AS NECESSIDADES DO FUNDO MUNICIPAL DE SAÚDE") refere-se a itens de cozinha para um fundo de saúde, o que não se enquadra em computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação é uma compra direta de bens de consumo, e não de soluções de tecnologia.
+
+Razão social: FUNDO ESTADUAL DE SAÚDE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 2446,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: CURATIVO, gel antisseptico, feridas, polihexanida PHMB,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "CURATIVO em gel antisseptico para uso em feridas composto de polihexanida PHMB".  Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da compra, na informação complementar ou em qualquer outro campo relevante. A licitação se refere a um produto médico, não a equipamentos de TI.
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: true,
+Número do contrato: 2448,
+Tipo principal: servidores,
+Subtipo: Gravador de voz com inteligência artificial (relacionado a serviços de análise de áudio que podem ser suportados por servidores com capacidade de processamento),
+Indicadores encontrados: inteligência artificial, voz, gravador,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é um "gravador de voz com inteligência artificial".  Embora o foco seja o dispositivo, a menção à inteligência artificial sugere que a utilização deste dispositivo envolve processamento de dados, que pode necessitar de recursos computacionais significativos.  Adicionalmente, o objeto de compra se encaixa no escopo de servidores para armazenamento e processamento de dados de áudio. A modalidade de licitação (Dispensa) é comum para aquisições de equipamentos de TI, e a natureza do objeto (gravador com IA) indica uma necessidade de poder de processamento que transcende uma simples compra de hardware.
+
+
+Razão social: PATOS DE MINAS CAMARA MUNICIPAL,
+É computação: false,
+Número do contrato: 11,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: toners, almoxarifado,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "AQUISIÇÃO DE TONERS PARA ABASTECIMENTO DO ALMOXARIFADO DA CÂMARA MUNICIPAL". A descrição indica a aquisição de suprimentos de escritório, especificamente toners, para o almoxarifado da Câmara Municipal. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A referência à Lei 14.133/2021, Art. 75, II, que permite a dispensa de licitação para valores inferiores a R$ 50.000,00, reforça que se trata de uma compra de materiais de escritório, não de equipamentos de TI.
+
+Razão social: FUNDO MUNICIPAL DE SAUDE DE ARENOPOLIS,
+É computação: false,
+Número do contrato: 26,
+Tipo principal: infraestrutura_ti,
+Subtipo: null,
+Indicadores encontrados: manutenção, reparos, veículo,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é a "manutenção e reparos no veículo L-200 Triton", o que indica uma necessidade de suporte e serviços relacionados à infraestrutura de TI de um veículo, e não a compra direta de computadores, notebooks, servidores ou supercomputadores. A licitação se enquadra em serviços de suporte a ativos de TI, e não em itens de hardware de computação.
+
+
+Razão social: FUNDO MUNICIPAL DE SAUDE DE ARENOPOLIS,
+É computação: false,
+Número do contrato: 27,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: veículo, peças, saúde,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é a "contratação de empresa para fornecimento de peças para veículo H20 de placa SDG-9J33".  Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A compra se refere especificamente a peças para um veículo utilizado pelo Fundo Municipal de Saúde, o que indica uma necessidade de manutenção e reparo, e não uma aquisição de equipamentos de TI.
+
+
+Razão social: MUNICIPIO DE ARENOPOLIS,
+É computação: false,
+Número do contrato: 58,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "veículo Caminhão Volkswagem 11.140", "manutenção e reparos",
+Risco de ser falso positivo: alto,
+Justificativa: "O objeto da licitação se refere à manutenção e reparos de um veículo específico (Caminhão Volkswagem 11.140), o que indica uma necessidade de serviços de manutenção e reparos, e não a aquisição de equipamentos de TI como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A descrição do objeto compra não apresenta elementos que indiquem uma necessidade de tecnologia da informação.".
+
+Razão social: MUNICIPIO DE ARENOPOLIS,
+É computação: false,
+Número do contrato: 59,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: veículo, manutenção, reparos,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra refere-se à manutenção e reparos de um veículo (caminhão Ford cargo 1519). Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação está relacionada à frota municipal e serviços de manutenção, o que não se enquadra nas áreas de computação analisadas.
+
+Razão social: MUNICIPIO DE BOTUCATU,
+É computação: false,
+Número do contrato: 138,
+Tipo principal: infraestrutura_ti,
+Subtipo: Prestação de serviços técnicos de levantamento de dados, análise, preenchimento, transmissão e homologação das informações relativas à execução orçamentária e financeira do município junto ao Sistema de Informações sobre Orçamentos Públicos em Educação – SIOPE, mediante a utilização de sistema informatizado acessível em ambiente web. A licitação foca na utilização de um sistema informatizado para o processamento e transmissão de dados contábeis, o que se encaixa em serviços de infraestrutura de TI.
+Indicadores encontrados: sistema informatizado, SIOPE, dados contábeis, arquivos XML, homologação,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação descreve a necessidade de um sistema informatizado para coleta, processamento e transmissão de dados contábeis ao SIOPE, o que se enquadra na prestação de serviços de infraestrutura de TI relacionados à gestão de dados e sistemas de informação, não envolvendo a compra de hardware como computadores, notebooks, servidores ou supercomputadores.
+
+Razão social: FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE ARENOPOLIS,
+É computação: false,
+Número do contrato: 9,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: veículo Gol, manutenção, reparos,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação refere-se à manutenção e reparo de um veículo específico (Gol de Placa ONQ-0186). Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se concentra em serviços relacionados à manutenção de um automóvel, o que não se enquadra na área de computação.
+
+
+Razão social: FUNDO MUNICIPAL DE SAUDE DE ARENOPOLIS,
+É computação: false,
+Número do contrato: 28,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: veículo, peças, saúde,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é para fornecimento de peças para um veículo (Citroen C3) pertencente ao Fundo Municipal de Saúde de Arenópolis. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se refere a um item de manutenção veicular, e não a serviços ou equipamentos de TI.
+
+Razão social: ESTADO DO CEARA,
+É computação: false,
+Número do contrato: 8512,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: FESTIVIDADES, HOMENAGENS, SERVIÇOS DE TERCEIROS,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação ("COT 11/2026-SERVIÇOS DE TERCEIROS-FESTIVIDADES E HOMENAGENS") e a informação complementar ("SERVIÇOS NECESSÁRIOS AO FUNCIONAMENTO DA ESCOLA.") indicam claramente que se trata de uma contratação de serviços, não da aquisição de equipamentos de TI como computadores, notebooks, servidores ou supercomputadores, tampouco de infraestrutura de TI. A referência a "Festividades e Homenagens" reforça ainda mais essa interpretação.
+
+
+Razão social: FUNDO MUNICIPAL DE SAUDE DE ARENOPOLIS,
+É computação: false,
+Número do contrato: 29,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: veículo Van Master, peças,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra refere-se ao fornecimento de peças para um veículo (Van Master) e não há menção a equipamentos de TI, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se concentra em manutenção e reparo de um veículo específico, o que não se enquadra na área de computação.
+
+Razão social: ESTADO DO CEARA,
+É computação: false,
+Número do contrato: 8522,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: alimentação, escolar, alunos, desenvolvimento saudável, segurança alimentar e nutricional, vulnerabilidade social,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra (ALIMENTAÇÃO ESCOLAR CONVENCIONAL 03) refere-se à fornecimento de refeições para alunos em uma escola. A informação complementar detalha a necessidade de garantir segurança alimentar e nutricional, bem como a atenção a alunos em vulnerabilidade social. Não há menção a equipamentos de TI, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da compra ou na descrição. A licitação é de compra direta e, portanto, não se enquadra na área de computação.
+
+Razão social: ESTADO DO CEARA,
+É computação: false,
+Número do contrato: 8535,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: MATERIAL LABORATORIAL, pesquisas, reposição de estoque, substituição de itens,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "MATERIAL LABORATORIAL", que não se relaciona diretamente com computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A informação complementar menciona a necessidade de reposição de estoque e substituição de itens, o que indica uma compra de materiais de consumo, e não de equipamentos de tecnologia da informação. A compra direta de dispensas geralmente se concentra em itens de pequeno valor e uso imediato, o que a torna improvável que envolva a aquisição de equipamentos de TI.
+
+Razão social: FUNDACAO INTEGRADA MUNICIPAL DE ENSINO SUPERIOR,
+É computação: false,
+Número do contrato: 140,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: Cavaletes, Aventais, Pintura,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("AQUISIÇÃO DE CAVALETES E AVENTAIS PARA PINTURA") refere-se a equipamentos de proteção individual (EPIs) utilizados em atividades de pintura. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da licitação ou em qualquer outro dado disponível. A dispensa de licitação é baseada no valor estimado, e não na necessidade de equipamentos de TI.
+
+
+Razão social: ESTADO DO CEARA,
+É computação: false,
+Número do contrato: 8543,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: alimentação, merenda escolar, aluno, desenvolvimento saudável,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "Material de consumo - Gênero de alimentação - Merenda escolar". A informação complementar detalha a aquisição de gêneros alimentícios para alunos em uma unidade escolar, sem qualquer menção a equipamentos de TI, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação é uma compra direta para suprimentos alimentícios e não se enquadra em nenhuma área relacionada à computação.
+
+Razão social: CAMARA MUNICIPAL DE INHUMAS,
+É computação: false,
+Número do contrato: 20,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "necessaires", "tecido poliéster", "identidade visual", "tassel",
+Risco de ser falso positivo: alto,
+Justificativa: "O objeto da compra refere-se à aquisição de nécessaires personalizadas, que são itens de material de escritório e não possuem relação com equipamentos de informática, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A descrição detalhada das nécessaires (material, dimensões, acabamento) não indica nenhuma necessidade de tecnologia da informação."
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 2449,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "",
+Risco de ser falso positivo: alto,
+Justificativa: "O objeto da compra é 'PINCEL MARCADOR'. A análise do contexto e dos dados disponíveis não demonstra qualquer relação com equipamentos de computação, servidores, notebooks, supercomputadores ou infraestrutura de TI. A licitação é para um material de escritório, o que indica uma compra direta de insumos e não uma contratação relacionada à área de tecnologia da informação."
+
+Razão social: BAHIA SECRETARIA DA ADMINISTRACAO,
+É computação: false,
+Número do contrato: 238,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: '',
+Risco de ser falso positivo: alto,
+Justificativa: "O objeto da compra ('cinto de seguranca em nylon tipo paraquedista e bota para eletricista') não possui relação com equipamentos de TI, como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação é de compra direta, conforme 'Aviso de Contratação Direta', e o valor estimado é de R$ 1428,00, o que demonstra a aquisição de materiais de proteção individual, e não de bens de tecnologia."
+
+Razão social: CAMARA MUNICIPAL DE BARRETOS,
+É computação: false,
+Número do contrato: 6,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: consultoria, governança, compliance, modelo, sistemas estruturantes, indicadores de resultado de gestão,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação refere-se à contratação de serviços de consultoria para a reformulação do modelo de governança e compliance da Câmara Municipal de Barretos, envolvendo reestruturação de unidades técnicas, mapeamento de processos e adequação de sistemas. Não há menção à aquisição de equipamentos de TI, como computadores, notebooks, servidores ou supercomputadores, nem à infraestrutura de TI. A consultoria é focada em aspectos de gestão e governança, o que a torna distante da área de computação.
+
+
+Razão social: BAHIA SECRETARIA DA ADMINISTRACAO,
+É computação: false,
+Número do contrato: 239,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: '',
+Risco de ser falso positivo: alto,
+Justificativa: "O objeto da compra é 'Bota de amarrar em couro', que é um item de vestuário. A licitação não tem relação com computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A modalidade de licitação é 'Dispensa' e 'Dispensa Com Disputa', indicando uma compra direta de um único item, o que não envolve a aquisição de bens de tecnologia."
+
+Razão social: CAMARA MUNICIPAL DE FLORES DE GOIAS,
+É computação: false,
+Número do contrato: 10,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: certificados digitais, assinatura eletrônica, emissão de certificados,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação refere-se à "aquisição de certificados digitais A1". Embora a licitação possa utilizar tecnologia da informação, o objeto principal é a aquisição de certificados digitais, que são ferramentas de software e infraestrutura digital, e não a compra direta de hardware de computação (computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI). A descrição da necessidade da Câmara Municipal foca na emissão, renovação e uso desses certificados, e não na compra de equipamentos de TI em si. A dispensa da licitação (modalidade Dispensa) também sugere uma necessidade específica e de baixo valor, o que reforça a natureza do objeto como serviços relacionados à TI, e não a compra de equipamentos de computacionais.
+
+
+Razão social: MUNICIPIO DE MATO RICO,
+É computação: false,
+Número do contrato: 3,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: iluminação pública, sistema de iluminação,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação trata especificamente do fornecimento e substituição de luminárias para um sistema de iluminação pública. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A descrição da licitação foca exclusivamente em iluminação, indicando que não se trata de uma oportunidade na área de computação.
+
+Razão social: MUNICIPIO DE ITAPURANGA,
+É computação: false,
+Número do contrato: 49,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: show musical, cantor e banda, evento, festa,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra refere-se à contratação de um show musical para um evento específico, não envolvendo equipamentos de TI, computadores, servidores, notebooks, supercomputadores ou infraestrutura de TI. A informação complementar reforça essa análise.
+
+Razão social: AGENCIA REGULADORA DOS SERVICOS DE SANEAMENTO DAS BACIAS DOS RIOS PIRACICABA, CAPIVARI E JUNDIAI,
+É computação: false,
+Número do contrato: 23,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "água", "colaboradores", "eventos",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra se refere ao fornecimento de água em embalagens e copos para consumo de colaboradores e participantes de eventos, sem qualquer menção a equipamentos de informática, servidores, infraestrutura de TI ou serviços relacionados à computação. A licitação é de compra direta de bens de consumo.
+
+Razão social: INSTITUTO DE PREVIDENCIA SOCIAL DE JUCURUTU,
+É computação: true,
+Número do contrato: 1,
+Tipo principal: infraestrutura_ti,
+Subtipo: null,
+Indicadores encontrados: certificação, prova, PREVI, Jucurutu,
+Risco de ser falso positivo: medio,
+Justificativa: O objeto da compra é a contratação de uma instituição para aplicação de prova para fins de certificação dos 12 Agentes do PREVI Jucurutu, seguindo a Portaria MTP nº 1.467/2022.  A certificação de agentes normalmente envolve o uso de infraestrutura de TI, incluindo, possivelmente, computadores, servidores e softwares associados. A natureza da "prova" sugere o uso de tecnologia para avaliação, o que se encaixa no conceito de infraestrutura de TI, mesmo que não haja especificação explícita de equipamentos. Além disso, a referência a "títulos e/ou experiências prévias" pode implicar na utilização de sistemas de gestão e análise de dados, outra vertente da infraestrutura de TI.
+
+
+Razão social: MUNICIPIO DE ESPIRITO SANTO DO PINHAL,
+É computação: false,
+Número do contrato: 408,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: concreto usinado,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("AQUISIÇÃO DE SERVIÇO PARA ENTREGA DE CONCRETO USINADO FCK 25") refere-se à aquisição de um serviço de entrega de concreto, e não à compra de equipamentos de computação, servidores, notebooks ou infraestrutura de TI. A descrição "Concreto Usinado FCK 25" não indica nenhuma relação com a área de computação. A modalidade de licitação ("Dispensa") também não sugere a aquisição de bens de informática.
+
+
+Razão social: SILVANIA CAMARA MUNICIPAL,
+É computação: false,
+Número do contrato: 23,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: manutenção de impressoras, impressoras tanque de tinta, computadores, nobreaks, componentes eletrônicos,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra se refere à manutenção de equipamentos de informática (impressoras, computadores, nobreaks) e componentes eletrônicos. Não há menção a servidores, notebooks, supercomputadores ou infraestrutura de TI. A licitação é uma dispensa de licitação para serviços de manutenção, e não para a compra de equipamentos de computação.
+
+Razão social: FUNDACAO UNIVERSIDADE DO ESTADO DE MATO GROSSO,
+É computação: false,
+Número do contrato: 62,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: material de consumo, festividades, homenagens, coffee break,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("BBG - Aquisição de Material de Consumo - Material para festividades e homenagens - Coffee Break Campus de Barra do Bugres - 2026") refere-se a itens de consumo, como material para festividades e coffee break, não abrangendo a aquisição de equipamentos de TI, como computadores, notebooks, servidores ou supercomputadores, nem a infraestrutura de TI. A licitação é uma dispensa de licitação com valor estimado baixo, o que reforça a natureza não relacionada à computação do objeto.
+
+Razão social: MUNICIPIO DE IBATE,
+É computação: false,
+Número do contrato: 51,
+Tipo principal: infraestrutura_ti,
+Subtipo: CONTRATAÇÃO DE EMPRESA PARA SERVIÇO DE MANUTENÇÃO EM CAMERAS DE SEGURANÇA, reparo, manutenção e reconfiguração em câmeras do sistema de vídeo monitoramento, incluindo reconfiguração de equipamentos, troca de cabos de rede, troca e fusão em fibra óptica, troca de terminais, realinhamento e reposicionamento de câmeras, com fornecimento de todos os materiais, componentes e insumos necessários à plena execução dos serviços.
+Indicadores encontrados: câmeras, rede, fibra óptica, equipamentos, sistema de vídeo monitoramento,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra se refere à manutenção e reparo de um sistema de vigilância por vídeo, que é um componente central da infraestrutura de TI de um município. A descrição detalhada dos serviços (troca de cabos, reconfiguração de equipamentos) indica a necessidade de atuação em equipamentos de TI, ainda que não se trate da compra direta de novos computadores, notebooks, servidores ou supercomputadores. A atividade está dentro do escopo de infraestrutura de TI.
+
+
+Razão social: FUNDO MUNICIPAL DE SAUDE DE GOIANDIRA,
+É computação: false,
+Número do contrato: 41,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: mobiliario, material permanente, posto de saúde, secretaria municipal de saúde,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação, conforme o `objetoCompra` e a `informacaoComplementar`, refere-se à aquisição de mobiliário (material permanente) para uso em um posto de saúde. Não há menção a equipamentos de informática, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se encaixa em uma compra direta de bens de consumo duráveis, não relacionado à área de computação.
+
+
+Razão social: MUNICIPIO DE AGUDOS DO SUL,
+É computação: false,
+Número do contrato: 48,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: toretes, toldos, rede municipal de ensino,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO, FABRICAÇÃO E INSTALAÇÃO DE TOLDOS...") refere-se a estruturas e materiais para toldos, não a equipamentos de computação, infraestrutura de TI ou componentes como computadores, notebooks, servidores ou supercomputadores. A menção à "rede municipal de ensino" sugere um contexto educacional, mas não indica a necessidade de soluções de TI. A modalidade de licitação ("Dispensa") também é um fator que indica que o valor da licitação não envolve a compra de equipamentos de informática.
+
+
+Razão social: MUNICIPIO DE POSSE,
+É computação: false,
+Número do contrato: 64,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: perícia médica, fundos previdência social,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação refere-se à contratação de empresa especializada em perícia médica e requerimentos de aposentadorias por invalidez, atendendo demandas do fundo previdência social municipal. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da licitação ou informações complementares. A atividade descrita está relacionada à área da saúde e previdenciária, não à computação.
+
+
+Razão social: CAMARA MUNICIPAL DE CALDAS NOVAS,
+É computação: false,
+Número do contrato: 24,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "soprador de folhas", "protetores auriculares",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("AQUISIÇÃO DE 01 SOPRADOR DE FOLHAS COSTAL E 02 PROTETORES AURICULARES") indica a aquisição de itens de escritório, não relacionados à área de computação, servidores, notebooks, supercomputadores ou infraestrutura de TI. A modalidade de licitação "Dispensa" e o valor estimado de R$ 5042,28 reforçam essa conclusão.
+
+
+Razão social: MUNICIPIO DE ESPERANCA,
+É computação: false,
+Número do contrato: 67,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: materiais permanentes, Secretarias,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação é "Aquisição de materiais permanentes destinados a atender às necessidades das diversas Secretarias do Município, para o exercício de 2026".  Esta descrição é genérica e não aponta para a aquisição de equipamentos de computação (computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI). A menção a "materiais permanentes" sugere a compra de bens de consumo, como papel, canetas, etc., e não de equipamentos de tecnologia. A modalidade de licitação é "Dispensa", o que indica uma compra de baixo valor, mas ainda assim não justifica a aquisição de equipamentos de TI.
+
+Razão social: MUNICIPIO DE AGUDOS DO SUL,
+É computação: false,
+Número do contrato: 49,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: cestas básicas, famílias em vulnerabilidade social,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("AQUISIÇÃO DE CESTAS BÁSICAS PARA ATENDIMENTO DE FAMÍLIAS EM VULNERABILIDADE SOCIAL") se refere à aquisição de cestas básicas, não havendo nenhuma menção ou previsão para equipamentos de TI, como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação é uma compra direta para fins sociais, o que a torna completamente distante da área de computação.
+
+
+Razão social: SERVICO AUTONOMO DE AGUA E ESGOTOS,
+É computação: false,
+Número do contrato: 144,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: manutenção, tubulações,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra se refere à "manutenção corretiva eficiente em tubulações de grande diâmetro (DN 600)". A descrição da necessidade de manutenção não indica a necessidade de computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação é para serviços de manutenção, não para equipamentos de TI.
+
+Razão social: SECRETARIA DA EDUCACAO-SEC,
+É computação: false,
+Número do contrato: 238,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: formulario, timbrado, processo,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "FORMULARIO timbrado Capa de Processo", que se refere a um documento de escritório e não a equipamentos de TI, softwares, infraestrutura ou serviços relacionados à computação, como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se enquadra em uma compra direta de material de escritório, e não em uma contratação de serviços ou equipamentos de TI.
+
+Razão social: UNIVERSIDADE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 499,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "ortografia", "edição", "revista",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "REVISAO ORTOGRAFICA e editoracao da Revista Mundos do Trabalho". A descrição indica apenas serviços de revisão e edição textual, sem qualquer menção à aquisição de equipamentos de TI, como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI.  A modalidade de licitação é "Dispensa" e o valor estimado é baixo, o que reforça a natureza do serviço de edição e revisão.
+
+Razão social: UNIVERSIDADE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 500,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: forno, microondas,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("AQUISIÇÃO DE FORNO MICROONDAS") não se relaciona com a área de computação, equipamentos de TI, servidores, notebooks, supercomputadores ou infraestrutura de TI. A licitação é para a aquisição de um forno microondas, um eletrodoméstico, e não tem relação com tecnologia da informação.
+
+
+Razão social: UNIVERSIDADE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 501,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "tinta acrilica", "demarcacao de piso", "cor CINZA e broxa",
+Risco de ser falso positivo: alto,
+Justificativa: "O objeto da compra se refere a 'Tinta acrílica a base de solvente para demarcação de piso na cor CINZA e broxa 15x19 e meio'. Este item não se enquadra em computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação trata especificamente de materiais de pintura para fins de demarcação, o que não envolve tecnologia da informação ou computação.",
+
+Razão social: UNIVERSIDADE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 502,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: Cabo HDMI, fibra optica,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("Cabo HDMI 2 ponto 1 e 8k fibra optica de 5 metros") é um acessório de rede, especificamente um cabo HDMI com fibra óptica. A licitação não envolve a compra de equipamentos de computação (computadores, notebooks, servidores, supercomputadores) ou infraestrutura de TI.  A relação com a área de TI é extremamente tênue e, portanto, a licitação não representa uma oportunidade na área de computação.
+
+
+Razão social: UNIVERSIDADE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 503,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: placas de sinalizacao, poliestireno,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra, "Placas de sinalizacao 45 x 30 cm em poliestireno", refere-se a materiais de sinalização, não relacionados a equipamentos de computação, servidores, notebooks, supercomputadores ou infraestrutura de TI. A licitação é uma compra direta (Aviso de Contratação Direta) com valor estimado baixo, o que reforça a natureza não computacional do objeto.
+
+Razão social: UNIVERSIDADE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 504,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: null,
+Risco de ser falso positivo: alto,
+Justificativa: "O objeto da compra é 'Aquisição de material de consumo para os Laboratórios do curso de Medicina Veterinária'. A descrição não menciona equipamentos de informática, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação é uma compra direta de materiais de consumo para um curso de medicina veterinária, o que a exclui da área de computação."
+
+Razão social: UNIVERSIDADE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 506,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: livro, impressão,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "Impressão de livro". A análise do contexto da licitação não revela nenhuma evidência de envolvimento com computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A compra se destina à impressão de um livro, o que se distancia significativamente das atividades de tecnologia da informação.
+
+Razão social: UNIVERSIDADE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 508,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: luvas nitrílicas,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "Aquisição de luvas nitrílicas", que não se relaciona com computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação é um Aviso de Contratação Direta com dispensa, o que indica uma compra de bens de consumo e não um serviço ou equipamento de TI.
+
+Razão social: UNIVERSIDADE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 509,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: Agitador Mecanico,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("Aquisição de Agitador Mecanico") se refere a um equipamento de laboratório de física ou química, não estando relacionado a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação é uma compra direta, conforme o "Aviso de Contratação Direta" e a justificativa legal (Lei 14.133/2021, Art. 75, II) se aplica a valores inferiores a R$ 50.000,00.
+
+Razão social: UNIVERSIDADE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 510,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: Reagente,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "Aquisição de Reagente", que se refere a materiais de laboratório, e não a equipamentos de computação, servidores, notebooks, supercomputadores ou infraestrutura de TI. A licitação se enquadra em uma dispensa de licitação por valores inferiores a R$ 50.000,00, mas o objeto não tem relação com a área de computação.
+
+Razão social: COMPANHIA BAIANA DE PESQUISA MINERAL CBPM,
+É computação: false,
+Número do contrato: PCE1590020260029,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: null,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("BLOCO PARA RASCUNHO TIMBRADO EM PAPEL 100 POR CENTO RECICLAVEL") refere-se a material de escritório, especificamente papel, e não possui nenhuma relação com equipamentos de computação, servidores, notebooks, supercomputadores ou infraestrutura de TI. A licitação se enquadra em Dispensa, o que indica uma compra de pequeno valor para suprimentos de escritório, e não para a aquisição de bens de tecnologia.
+
+Razão social: SUPERINTENDENCIA DE ESTUDOS ECONOMICOS E SOCIAIS DA BA,
+É computação: true,
+Número do contrato: PCE1762020260028,
+Tipo principal: computadores,
+Subtipo: kits com teclado e mouse sem fio,
+Indicadores encontrados: teclado, mouse, sem fio,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "Aquisição de 04 kits com teclado e mouse sem fio", o que indica a aquisição de componentes básicos para a operação de computadores. A modalidade de dispensa e o valor estimado (R$ 576.28) também são consistentes com a aquisição de equipamentos de entrada. Embora não mencione especificamente computadores ou notebooks, o objeto da compra é intrinsecamente relacionado à área de computação.
+
+Razão social: SUPERINTENDENCIA DE ESTUDOS ECONOMICOS E SOCIAIS DA BA,
+É computação: true,
+Número do contrato: PCE1762020260027,
+Tipo principal: servidores,
+Subtipo: null,
+Indicadores encontrados: webcams, aquisição,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é a "Aquisição de 73 webcams". Embora as webcams sejam componentes que podem ser utilizadas em sistemas de videoconferência e, portanto, em infraestruturas de TI, o foco principal da licitação é a compra de dispositivos de vídeo, sugerindo uma necessidade de suporte para reuniões e atividades que podem demandar a utilização de servidores para a transmissão de dados e a infraestrutura de TI para garantir o funcionamento do sistema de videoconferência. A modalidade de dispensa, combinada com o valor estimado, sugere uma compra de equipamentos de infraestrutura de TI para suporte a atividades de videoconferência.
+
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 2471,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: rodo, borracha, poliuretano, alumino, nylon,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra refere-se a "RODO com borracha dupla em poliuretano e cabo de alumino com manopla de 140 cm x 23 mm base em nylon". Este item é um equipamento médico (rodo), e não possui relação com computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação é uma dispensa de contratação direta para aquisição de material médico.
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 2473,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: cola bastão,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "COLA BASTÃO", um item médico, e não possui nenhuma relação com computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação é um Aviso de Contratação Direta com dispensa, o que indica uma compra direta de bens de consumo, e não um processo de tecnologia da informação.
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 2476,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: null,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "PERFIL EM U", que se refere a um perfil de profissional de saúde. A descrição da licitação não menciona a aquisição de equipamentos de TI (computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI). A modalidade de disputa é "Dispensa", o que sugere uma compra de pequeno valor, mas não indica a necessidade de equipamentos de TI. O objeto da compra é genérico e não direcionado à área de tecnologia da informação.
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 2478,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: pallet, empilhável,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "PALLET vazado empilhável". Este item se refere a materiais de acondicionamento e movimentação, e não possui relação com computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação trata de uma compra direta de bens, não de serviços ou equipamentos de TI.
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 2483,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: saco, acondicionamento, alimentos,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("AQUISIÇÃO DE SACO PARA ACONDICIONAMENTO DE ALIMENTOS") está relacionado à aquisição de materiais de embalagem para alimentos, e não se enquadra nas categorias de equipamentos de TI, como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação também não possui informações relevantes que sugiram a necessidade de serviços de TI ou a compra de equipamentos de informática. A análise do contexto semântico e da descrição do objeto da compra indicam que se trata de uma compra de materiais de embalagem.
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 2486,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: Cesto Expositor, Hospital Couto Maia,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra, "AQUISIÇÃO DE CESTO EXPOSITOR", se refere a um item de mobiliário para hospital, e não a equipamentos de computação, servidores, notebooks, supercomputadores ou infraestrutura de TI. A licitação se enquadra em dispensa de licitação por valor inferior a R$ 50.000,00, o que não indica necessariamente a compra de tecnologia da informação.
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 2487,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "Instrumentos Equipamentos",
+Risco de ser falso positivo: alto,
+Justificativa: "O objeto da compra é 'Aquisição de Instrumentos Equipamentos e Suprimentos Médicos e Cirúrgicos'.  A licitação trata de itens médicos e cirúrgicos, e não de computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI.  O objeto da licitação não indica nenhuma necessidade de equipamentos de TI."
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 2491,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: FITA IMPRESSAO ROTULADORA,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("FITA IMPRESSAO ROTULADORA BROTHER") refere-se a material de escritório e impressão, não a equipamentos de computação, servidores, notebooks, supercomputadores ou infraestrutura de TI. A licitação é para um fundo de saúde e, portanto, não se enquadra na área de computação.
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 2492,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: aparelho de barbear descartável, hospital regional,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação é "APARELHO DE BARBEAR DESCARTÁVEL". A análise do contexto e dos dados fornecidos não indica a necessidade de computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se refere à compra de um item médico específico, o que não se enquadra nas categorias de tecnologia da informação.
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 2495,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: saco plástico, capacidade 20kg,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "SACO PLÁSTICO PEBD TRASPARENTE PARA CAPACIDADE 20KG 50x70 cm PODENDO VARIAR".  A licitação trata da aquisição de sacos plásticos, um item de embalagem e armazenamento, e não se enquadra nas categorias de equipamentos de informática (computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI) contempladas na análise. A informação complementar e o objeto da compra não indicam a necessidade de soluções de TI.
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 2496,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: null,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "ALTEPLASE 10mg", um medicamento, e não se relaciona com computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se enquadra em uma dispensa de licitação para valores inferiores a R$ 50.000,00, com base na Lei 14.133/2021, Art. 75, II, o que não sugere a necessidade de equipamentos de TI.
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 2502,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: estabilizador de tensão, ,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é um "ESTABILIZADOR de tensão com potencia nominal de 1500 VA bivolt". Este item é um equipamento elétrico de proteção, não relacionado a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação trata de um componente de infraestrutura elétrica, e não de tecnologia da informação.
+
+
+Razão social: MUNICIPIO DE NOVA ROMA,
+É computação: false,
+Número do contrato: 16,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "administrativo", "rotinas", "Departamento Pessoal",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "Contratação de empresa especializada para prestação de serviços de apoio administrativo às rotinas do Departamento Pessoal da Prefeitura Municipal de Nova Roma – GO.".  Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da compra ou na informação complementar. A licitação se refere a serviços administrativos, não a equipamentos de TI.
+
+
+Razão social: COMPANHIA DE ENGENHARIA HIDRICA E DE SANEAMENTO DA BAHIA CERB,
+É computação: false,
+Número do contrato: 31,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: null,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("EPIS FARDAMENTO") refere-se a uniformes e vestuário, não envolvendo equipamentos de TI, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A empresa é uma companhia de engenharia hídrica e saneamento, o que indica que a licitação se refere a serviços relacionados à sua área de atuação, e não a tecnologia da informação.
+
+Razão social: SECRETARIA DO MEIO AMBIENTE,
+É computação: false,
+Número do contrato: 57,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: null,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("LUVA E CAIXA ORGANIZADORA") não se relaciona com computação, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação trata de materiais de consumo e organização, não de equipamentos ou serviços de TI.
+
+Razão social: DEFENSORIA PUBLICA DO ESTADO DA BAHIA,
+É computação: false,
+Número do contrato: 81,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: cabo de rede, UTP, CAT 5E, PVC, ANATEL,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra refere-se a "cabos de rede UTP CAT 5E" e "caixas com 305m selo ANATEL". Embora relacionados à infraestrutura de rede, a descrição não indica a aquisição de computadores, notebooks, servidores, supercomputadores ou componentes de infraestrutura de TI. A compra se restringe a cabos de rede, o que não se enquadra nas categorias de interesse.
+
+Razão social: FUNDO MUNICIPAL DE SAÚDE,
+É computação: false,
+Número do contrato: 10,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: enxoval hospitalar, SAMU, UPA 24h, UPED, Hospital Materno Infantil de Juazeiro,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra se refere à aquisição de enxoval hospitalar, incluindo equipamentos médicos e materiais. A descrição não menciona computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação é para atender necessidades de serviços especializados de saúde, o que indica uma compra de bens de consumo médico, e não de equipamentos de TI.
+
+Razão social: MUNICIPIO DE SENADOR CANEDO,
+É computação: true,
+Número do contrato: 155,
+Tipo principal: infraestrutura_ti,
+Subtipo: DISPENSA ELETRONICA - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA AQUISIÇÃO DE EQUIPAMENTOS, BEM COMO PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO PREVENTIVA E CORRETIVA PARA MANUTENÇÃO DA GARANTIA, COM FORNECIMENTO DE PEÇAS, INSUMOS, MÃO DE OBRA E EMISSÃO DE LAUDOS TÉCNICOS,
+Indicadores encontrados: equipamentos, manutenção preventiva, manutenção corretiva, garantia, peças, mão de obra, laudos técnicos,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, descrito como "DISPENSA ELETRONICA - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA AQUISIÇÃO DE EQUIPAMENTOS, BEM COMO PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO PREVENTIVA E CORRETIVA", indica a necessidade de fornecimento de equipamentos de TI e a contratação de serviços relacionados à manutenção, garantindo a continuidade e o bom funcionamento da infraestrutura de TI do município. A dispensa eletrônica, aliada ao valor estimado (R$ 64.053,87), sugere uma necessidade de manutenção e suporte para equipamentos de TI, o que se encaixa na categoria de infraestrutura de TI.
+
+
+Razão social: ESTADO DO CEARA,
+É computação: false,
+Número do contrato: 8683,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "quadra", "laboratório de informática", "reforma", "escola", "estrutura física",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("REFORMA DA QUADRA E LABORATÓRIO DE INFORMÁTICA") refere-se à reforma de um espaço físico dentro de uma escola. A informação complementar detalha a necessidade de reparos estruturais e melhorias no laboratório de informática, sem mencionar a aquisição de equipamentos de TI como computadores, notebooks, servidores ou supercomputadores. A licitação está focada na reforma da infraestrutura existente, o que não se enquadra nas áreas de computação especificadas.
+
+Razão social: MUNICIPIO DE ESPIRITO SANTO DO PINHAL,
+É computação: false,
+Número do contrato: 409,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: gnero alimenticio, cafe da manha, corpo de bombeiros,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação (Aquisição de gêneros alimentícios destinados ao café da manhã do Corpo de Bombeiros) é totalmente focado em alimentos e não possui nenhuma relação com equipamentos de TI, como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se encaixa em uma compra direta de bens e serviços relacionados à alimentação.
+
+Razão social: FUNDACAO UNIVERSIDADE DE PERNAMBUCO,
+É computação: false,
+Número do contrato: 139,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: null,
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação é uma "Dispensa de Licitação" com base na Lei 14.133/2021, aplicada a um hospital universitário (HOSPITAL UNIVERSITÁRIO OSWALDO CRUZ). O objeto da compra (0040609437.000064/2026-85 IFOSFAMIDA 1G) não indica a aquisição de equipamentos de TI (computadores, notebooks, servidores, etc.).  A dispensação de licitação é utilizada para situações emergenciais ou calamidades, o que, neste caso, sugere a compra de bens para atender a uma necessidade imediata no hospital e não a um projeto de infraestrutura de TI.
+
+
+Razão social: MUNICIPIO DE SILVANIA,
+É computação: false,
+Número do contrato: 16099,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: gaveteiro, mobiliario,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra se refere à aquisição de um gaveteiro para escritório, especificamente um armário com gavetas e sistema de abertura. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A descrição do objeto da compra foca em mobiliário de escritório e não tem relação com a área de tecnologia da informação.
+
+Razão social: SECRETARIA DE EDUCACAO E ESPORTES,
+É computação: false,
+Número do contrato: 13,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: brinquedos infláveis, translado, montagem, desmontagem,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra se refere à locação de brinquedos infláveis para fins educativos, sem qualquer menção a equipamentos de TI, computadores, servidores, notebooks, supercomputadores ou infraestrutura de TI. A descrição da licitação está focada em serviços de locação e transporte de brinquedos infláveis, o que não se enquadra nas áreas de computação analisadas.
+
+Razão social: MUNICIPIO DE LENCOIS PAULISTA,
+É computação: false,
+Número do contrato: 3576,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "materiais eletricos", "compra",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "AQUISICAO DE MATERIAIS ELETRICOS ". Este item não se enquadra nas categorias de computação (computadores, notebooks, servidores, supercomputadores, infraestrutura de TI) listadas, sendo uma compra genérica de materiais eletrônicos. Não há informações que indiquem a aquisição de equipamentos de TI.
+
+
+Razão social: Associação de Apoio ao CMEI - PROFESSORA CONCEICAO VILANI CAMPOS DUTRA BRAGA,
+É computação: false,
+Número do contrato: 005,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: higiene, limpeza, itens,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("Contratação de empresa especializada para fornecimento de itens de Higiene e Limpeza...") não se relaciona com computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação refere-se à aquisição de materiais de limpeza e higiene, não tendo qualquer componente de tecnologia da informação.
+
+Razão social: CONSORCIO INTERMUNICIPAL DE SAUDE DO OESTE DO PARANA,
+É computação: false,
+Número do contrato: 23,
+Tipo principal: infraestrutura_ti,
+Subtipo: null,
+Indicadores encontrados: "desligamento da alta tensão", "emissão de ART", "equipamentos de segurança (conjunto de aterramento, vara de manobra, constatador de tensão)", "materiais necessários para reposição e conserto",
+Risco de ser falso positivo: alto,
+Justificativa: A licitação se refere à contratação de serviços de consultoria e fornecimento de materiais elétricos para reparo de cabos de alta tensão em uma unidade de saúde. Apesar da menção a "equipamentos de segurança" e "materiais elétricos", o objeto da compra não envolve a aquisição de computadores, notebooks, servidores ou supercomputadores. A necessidade do serviço de agendamento com a COPEL e a emissão de ART indicam um serviço de infraestrutura de TI focado em segurança e manutenção de instalações elétricas, e não em tecnologia de informação para uso direto.
+
+
+Razão social: ESTADO DO CEARA,
+É computação: false,
+Número do contrato: 8714,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: null,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("MANUTENÇÃO E CONSERVAÇÃO DE MÁQUINAS E EQUIPAMENTOS") é genérico e não especifica a aquisição de equipamentos de TI, como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se refere à manutenção e conservação de equipamentos existentes, o que está fora do escopo da área de computação.
+
+
+Razão social: FUNDO MUNICIPAL DE SAUDE DE CATURAI,
+É computação: false,
+Número do contrato: 20,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "lanternagem", "pintura automotiva", "veículos automotores",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação se refere à manutenção de veículos automotores (VW Saveiro e Van) com serviços de lanternagem e pintura automotiva, recuperação estrutural e preparação de superfície. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se concentra exclusivamente em serviços de manutenção de veículos, o que não se enquadra na área de computação.
+
+Razão social: ESTADO DO CEARA,
+É computação: false,
+Número do contrato: 8719,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: material educativo, equipamento esportivo, aulas, educação física,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "MATERIAL EDUCATIVO E ESPORTIVO." e a informação complementar detalha o uso desses materiais em aulas de educação física e atividades escolares.  Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da compra ou na informação complementar. A licitação se enquadra em uma dispensa de licitação por valores inferiores a R$ 50.000,00, o que é incompatível com a aquisição de equipamentos de TI complexos.
+
+
+Razão social: MUNICIPIO DE NOVA ITABERABA,
+É computação: false,
+Número do contrato: 119,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: poda, manejo, resíduos de árvores,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da licitação refere-se à execução de serviços de poda e manejo de árvores, incluindo a destinação de resíduos, localizados em áreas urbanas. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A descrição do objeto da compra está focada em serviços ambientais e manutenção de espaços públicos, o que não se enquadra na área de tecnologia da informação.
+
+Razão social: ESTADO DO CEARA,
+É computação: false,
+Número do contrato: 8722,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: MATERIAL LABORATORIAL, NECESSIDADES PEDAGOGICAS,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "MATERIAL LABORATORIAL" e a informação complementar menciona "ATENDER AS NECESSIDADES PEDAGOGICAS DA EEEP MARIA MÔSA DA SILVA". Isso indica a aquisição de materiais para fins laboratoriais, sem qualquer menção a equipamentos de informática, servidores, supercomputadores ou infraestrutura de TI. A licitação se enquadra em uma dispensa de licitação por valores inferiores a R$ 50.000,00, o que é comum para itens de laboratório. A natureza da compra é claramente focada em materiais, não em tecnologia da informação.
+
+
+Razão social: MUNICIPIO DE NOVA ITABERABA,
+É computação: false,
+Número do contrato: 120,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: poda, manejo, resíduos de árvores,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra se refere à execução de serviços de poda e manejo de árvores, com a destinação de resíduos. Não há menção a equipamentos de TI, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da licitação. A descrição do objeto é focada em atividades de jardinagem e gestão de resíduos florestais.
+
+Razão social: ESTADO DO CEARA,
+É computação: false,
+Número do contrato: 8724,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "material de consumo", "hidráulico",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "Aquisição de Material de Consumo (hidráulico)", que se refere a peças e materiais de uso geral, sem relação com equipamentos de informática, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A informação complementar "Atender as demandas desta IES" (Instituto de Ensino Superior) também não indica a aquisição de equipamentos de TI. A licitação se concentra em itens hidráulicos, o que a exclui da área de computação.
+
+Razão social: MUNICIPIO DE CHAPADAO DO CEU,
+É computação: false,
+Número do contrato: 273,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: show musical, evento, artista local,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("CONTRATAÇÃO DE ARTISTA LOCAL PARA APRESENTAÇÃO DE SHOW MUSICAL") e a informação complementar ("CONTRATAÇÃO DE ARTISTA LOCAL PARA APRESENTAÇÃO DE SHOW MUSICAL, DURANTE O EVENTO DENOMINADO FESTA DO TRABALHADOR") indicam claramente uma contratação de um serviço artístico, e não a aquisição de equipamentos de TI, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se refere a um evento cultural, e não a uma necessidade de TI.
+
+
+Razão social: MUNICIPIO DE GUAPO,
+É computação: false,
+Número do contrato: 131,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: tendas, estruturas, atendimento, eventos institucionais, ações administrativas, atendimento ao público, campanhas, atividades externas, administração municipal,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra, "Aquisição de tendas destinadas ao atendimento das necessidades das secretarias e demais órgãos da administração pública do Município de Guapó - GO, com a finalidade de disponibilizar estruturas adequadas para a realização de eventos institucionais, ações administrativas, atendimento ao público, campanhas, atividades externas e demais iniciativas promovidas pela administração municipal," refere-se a tendas para fins de atendimento e eventos. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A compra se encaixa em uma dispensa de licitação, o que indica a aquisição de bens de consumo, não de equipamentos de TI.
+
+Razão social: ESTADO DO CEARA,
+É computação: false,
+Número do contrato: 8726,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "material educativo", "esportivo",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "Aquisição de material educativo e esportivo."  Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI no objeto da compra, informação complementar ou outros campos relevantes. A licitação se concentra em materiais didáticos e esportivos, o que não se enquadra nas áreas de computação.
+
+Razão social: MUNICIPIO DE JACAREI,
+É computação: false,
+Número do contrato: 313,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: alambrados, Campo Santa Rita,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra refere-se à troca de alambrados de um campo, o que não se enquadra nas categorias de equipamentos de TI como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A justificativa da compra também não remete a aspectos relacionados à tecnologia da informação.
+
+Razão social: ESTADO DO CEARA,
+É computação: false,
+Número do contrato: 8727,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: FESTIVIDADES, HOMENAGENS,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("FESTIVIDADES E HOMENAGENS") indica uma aquisição de bens de consumo e não possui relação com equipamentos de informática, servidores, computadores, notebooks, supercomputadores ou infraestrutura de TI. A licitação se concentra em itens de festividade e homenagem.
+
+
+Razão social: MUNICIPIO DE GUAPO,
+É computação: true,
+Número do contrato: 132,
+Tipo principal: computadores,
+Subtipo: MONITOR MULTIPARÂMETRO "15" MODULAR,
+Indicadores encontrados: monitor, multiparamétrico,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "AQUISIÇÃO DE MONITOR MULTIPARÂMETRO "15" MODULAR DESTINADO AO AMBULATÓRIO 14HS DE GUAPÓ - GO.", indica a aquisição de um equipamento de informática, especificamente um monitor multiparamétrico, o que se enquadra na categoria de computadores. A modalidade de licitação, "Dispensa", sugere um valor relativamente baixo, o que é comum em compras diretas de equipamentos.
+
+
+Razão social: MUNICIPIO DE NOVA ROMA,
+É computação: false,
+Número do contrato: 17,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: brindes, centros de mesa, vidro, sorteados,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra se refere à aquisição de brindes para uma celebração, especificamente centros de mesa em vidro e prêmios a serem sorteados. Não há menção a equipamentos de informática, computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A descrição detalha um evento comemorativo, o que indica uma compra de bens de consumo, e não um serviço ou equipamento de tecnologia da informação.
+
+Razão social: MUNICIPIO DE NOVA ROMA,
+É computação: false,
+Número do contrato: 18,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: buffet, refeições, evento comemorativo,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra refere-se à contratação de serviços de buffet para um evento comemorativo, o que indica uma compra de bens de consumo e serviços relacionados, e não a aquisição de equipamentos de computação, servidores, supercomputadores ou infraestrutura de TI.  A descrição detalha a preparação, fornecimento e distribuição de refeições, sem menção a tecnologia da informação.
+
+Razão social: MUNICIPIO DE PIRAI,
+É computação: false,
+Número do contrato: 94,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: null,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "Aquisição de caixa de som e microfone", que se refere a dispositivos de áudio e não está relacionado a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se enquadra em uma dispensa de licitação por valores inferiores a R$ 50.000,00, o que não indica uma oportunidade na área de computação.
+
+Razão social: ESTADO DO CEARA,
+É computação: false,
+Número do contrato: 8729,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: material de limpeza, higienização,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra (Cotação Eletrônica para "MATERIAL DE CONSUMO - MATERIAL DE LIMPEZA E PRODUÇÃO DE HIGIENIZAÇÃO") se refere a materiais de limpeza e higienização, não contemplando a aquisição de equipamentos de informática (computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI). A informação complementar reforça o foco em limpeza e higienização da instituição, sem menção a tecnologias da informação.
+
+
+Razão social: ESTADO DO CEARA,
+É computação: false,
+Número do contrato: 8730,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "festividades", "homenagens",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("MATERIAL PARA FESTIVIDADES E HOMENAGENS") e a informação complementar ("AQUISIÇÃO DE MATERIAL PARA FESTIVIDADES E HOMENAGENS") indicam claramente que a licitação se refere a itens de consumo para eventos e celebrações, sem qualquer relação com equipamentos de TI, computadores, servidores, notebooks, supercomputadores ou infraestrutura de TI. A unidade contratante também é uma escola pública ("EEP Gerado Jose Dias de Loiola"), o que reforça a natureza não tecnológica da compra.
+
+Razão social: SECRETARIA DE SAUDE,
+É computação: false,
+Número do contrato: 228,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "cultura", "placa agar", "neissiera",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("MEIO DE CULTURA - PLACA AGAR CHOCOLATE, ISOLAMENTO SELETIVO DE NEISSEIRA GONORRHOEAE E NEISSERIA MENINGITIDIS") refere-se a materiais de laboratório e cultura microbiana, não se enquadrando em equipamentos de computação, servidores, supercomputadores ou infraestrutura de TI. A licitação trata de um item específico para fins de pesquisa e diagnóstico, não abrangendo a área de tecnologia da informação.
+
+Razão social: CAMARA MUNICIPAL DE SAO MARCOS,
+É computação: false,
+Número do contrato: 7,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: mesa de som, sonorização, áudio, manutenção, reparo,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "MANUTENÇÃO E CONSERTO DE MESA DE SOM", que se refere a equipamentos de áudio e sonorização. A informação complementar detalha a manutenção corretiva de cabos de áudio e ajustes operacionais de uma mesa de som digital. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se concentra exclusivamente em serviços relacionados à manutenção e reparo de equipamentos de áudio, portanto, não representa uma oportunidade na área de computação.
+
+
+Razão social: ESTADO DO CEARA,
+É computação: false,
+Número do contrato: 8732,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: limpeza, conservação, higienização, dedetização, salubridade, ambiente escolar,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("LIMPEZA E CONSERVAÇÃO ") refere-se a serviços de limpeza e conservação de um ambiente escolar. Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A informação complementar reforça a natureza dos serviços, mencionando higienização de caixas d’água e dedetização, atividades relacionadas à manutenção de um ambiente, não à tecnologia da informação.
+
+
+Razão social: MUNICIPIO DE LENCOIS PAULISTA,
+É computação: false,
+Número do contrato: 3637,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: Equipamentos diversos,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "AQUISICAO DE EQUIPAMENTOS DIVERSOS ".  A descrição é muito genérica para inferir a aquisição de computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A dispensa de licitação por valores inferiores a R$ 50.000,00 também não indica especificamente a área de computação. A informação complementar está vazia.
+
+
+Razão social: MUNICIPIO DE GOIANIRA,
+É computação: false,
+Número do contrato: 34,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: engenharia de segurança, medicina do trabalho,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra (CONTRATAÇÃO DE EMPRESA PARA A PRESTAÇÃO DE SERVIÇOS EM ENGENHARIA DE SEGURANÇA E MEDICINA DO TRABALHO) se refere a serviços de consultoria e inspeção de segurança, e não à aquisição de equipamentos de TI como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A referência à "engenharia de segurança" sugere foco em avaliação de riscos e segurança do trabalho, sem relação direta com a tecnologia da informação.
+
+Razão social: ESTADO DO CEARA,
+É computação: false,
+Número do contrato: 8736,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: alimentação, alunos, CEJA,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra ("Aquisição - Material de Consumo - Gêneros de Alimentação") e a informação complementar ("A presente aquisição visa o fornecimento de alimentação, que contribua para o crescimento e desenvolvimento saudável dos alunos matriculados na CEJA João da Silva Ramos") indicam claramente a compra de alimentos e materiais de consumo, sem qualquer menção a equipamentos de TI, computadores, servidores ou infraestrutura de TI. A licitação se concentra em suprimentos para uma instituição de ensino, o que não se enquadra na área de computação.
+
+Razão social: ESTADO DO CEARA,
+É computação: false,
+Número do contrato: 8737,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "Material de Expediente", "Centro Cearense de Idiomas",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "Aquisição de Material de Consumo - Material de Expediente." A informação complementar indica que se trata de aquisição para o "Centro Cearense de Idiomas – Unidade Russas", o que sugere materiais de escritório e suporte administrativo, e não equipamentos de informática como computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A dispensa de licitação por valor inferior a R$ 50.000,00 também reforça a natureza de compra de materiais de consumo.
+
+Razão social: ESTADO DO CEARA,
+É computação: false,
+Número do contrato: 8738,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "boroscópio digital", "vistorias", "compartimentos internos", "tubulações", "segurança institucional",
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "AQUISIÇÃO DE BOROSCÓPIO DIGITAL", um equipamento específico para vistorias. A informação complementar detalha o uso em locais de difícil acesso, como compartimentos internos e tubulações, evidenciando uma aplicação focada em um equipamento específico e não em uma solução de TI abrangente envolvendo computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação não possui elementos que sugiram a aquisição de equipamentos de TI.
+
+
+Razão social: ESTADO DO CEARA,
+É computação: false,
+Número do contrato: 8739,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: material químico, escola,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "MATERIAL QUÍMICO" e a informação complementar indica que se trata de necessidades da escola EEEP PROFESSORA LYSIA PIMENTEL GOMES SAMPAIO SALES em Sobral, Ceará.  Não há menção a computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI. A licitação se enquadra em dispensa de licitação para valores inferiores a R$ 50.000,00, o que não indica a necessidade de equipamentos de TI.
+

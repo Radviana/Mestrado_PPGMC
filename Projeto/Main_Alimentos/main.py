@@ -7,21 +7,26 @@ from pathlib import Path
 
 base_dir = Path(__file__).parent
 
+
 def req(proposta):
     return f"""
-    Você é um analista especializado em licitações públicas e tecnologia da informação.
+    Você é um analista especializado em licitações públicas e alimentos.
 
-    Analise o conteúdo de {proposta} e determine se a licitação representa uma oportunidade na área de computação, com foco em:
+    Analise o conteúdo de {proposta} e determine se a licitação representa uma oportunidade na área de alimentação e nutrição, com foco em:
 
-    - computadores
-    - notebooks
-    - servidores
-    - supercomputadores
-    - infraestrutura de TI
+    - hortifruti
+    - frutas
+    - legumes
+    - verduras
+    - alimentos perecíveis
+    - merenda escolar
+    - gêneros alimentícios
+    - produtos agropecuários
 
     Regras importantes:
 
-    1. Se a licitação não for de computação, apenas retorne "Proposta X não é computação" onde X é o número do contrato
+    1. Se a licitação não estiver relacionada a alimentos, retorne apenas:
+       "Proposta X não é alimentação", onde X é o número do contrato.
 
     2. Use principalmente:
     - "objetoCompra"
@@ -29,19 +34,17 @@ def req(proposta):
     - contexto semântico
 
     3. Diferencie:
-    - Compra direta de equipamentos
-    - Serviços relacionados à TI
-    - Itens não relacionados
+    - Compra direta de alimentos
+    - Serviços de alimentação ou nutrição
+    - Itens não relacionados a alimentos
 
-    4. Seja conservador: só marque como computação se houver evidência clara ou plausível.
+    4. Seja conservador: marque como alimentação somente quando houver evidência clara ou plausível.
 
-    5. Caso a licitação não seja da área, retorne como "Proposta X não é computação" e siga para a próxima.
-
-    6. Para a saída, formate exatamente como abaixo, sem alterar a estrutura, mesmo que algum campo seja null ou vazio:
+    5. Para a saída, mantenha exatamente esta estrutura, mesmo que os campos estejam vazios:
     Razão social: razão social da empresa contratante,
-    É computação: true/false,
+    É alimentação: true/false,
     Número do contrato: usando o campo Sequencial Compra,
-    Tipo principal: computadores | notebooks | servidores | supercomputadores | infraestrutura_ti | nao_aplicavel,
+    Tipo principal: hortifruti | frutas | legumes | verduras | pereciveis | merenda_escolar | alimentos | nao_aplicavel,
     Subtipo: descrição mais específica ou null,
     Indicadores encontrados: "palavra1", "palavra2",
     Risco de ser falso positivo: baixo | medio | alto,
@@ -75,7 +78,7 @@ if __name__ == "__main__":
             primeiro = True
             for proposta in functions.json_para_ollama(caminho_dados):
                 resposta = client.generate(model=modelo, prompt=req(proposta))
-                if(re.search("É computação: true", resposta.response, re.IGNORECASE)):
+                if re.search("É alimentação: true", resposta.response, re.IGNORECASE):
                     modo = "w" if primeiro else "a"
                     with open(caminho_saida_ollama_teste, modo, encoding="utf-8") as file:
                         file.write(resposta.response + "\n" + "\n")

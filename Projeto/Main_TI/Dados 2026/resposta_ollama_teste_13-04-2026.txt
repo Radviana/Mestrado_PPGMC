@@ -1,0 +1,20 @@
+Razão social: SECRETARIA DE ESTADO DA EDUCACAO E DA CIENCIA E TECNOLOGIA,
+É computação: true,
+Número do contrato: 81,
+Tipo principal: infraestrutura_ti,
+Subtipo: FORNECIMENTO DE PLATAFORMA DIGITAL DE GESTÃO PEDAGÓGICA, INCLUINDO CORREÇÃO DE REDAÇÃO NO MODELO ENEM E ELABORAÇÃO E APLICAÇÃO DE SIMULADOS IMPRESSOS COM TRI,
+Indicadores encontrados: plataforma digital, gestão pedagógica, simulados, correção de redação, ENEM,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha o fornecimento de uma "plataforma digital de gestão pedagógica", o que implica na aquisição e implementação de infraestrutura de TI para o setor educacional, incluindo a correção de redação do ENEM e a elaboração de simulados. A menção a "simulados impressos com TRI" sugere a necessidade de hardware e software relacionados à computação e testes.  A esfera de atuação (educação) e a natureza do objeto da compra apontam fortemente para a necessidade de investimentos em infraestrutura de TI.
+
+
+Razão social: FUNDO MUNICIPAL DE SAÚDE,
+É computação: true,
+Número do contrato: 10,
+Tipo principal: infraestrutura_ti,
+Subtipo: Registro de Preços para eventual Aquisição de bicicletas elétricas e motocicletas, com acessórios, destinadas aos Agentes Comunitários de Saúde e Agentes de Combate a Endemias do Município de Brasilândia/MS, o que envolve a necessidade de infraestrutura de TI para suporte e manutenção desses equipamentos.
+Indicadores encontrados: "bicicletas elétricas", "motocicletas", "acessórios", "Agentes Comunitários de Saúde", "Agentes de Combate a Endemias", "infraestrutura de TI",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra envolve a aquisição de veículos elétricos e motocicletas destinados a agentes de saúde, o que implica na necessidade de infraestrutura de TI para o gerenciamento, manutenção e suporte desses equipamentos, conforme evidenciado na justificativa da licitação e na necessidade de análise minuciosa das planilhas de custos.
+
+

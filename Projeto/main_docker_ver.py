@@ -1,7 +1,7 @@
 import os
 import time
 import importlib
-import functions  # Arquivo com as funções de instalação e chamada da API
+import Main_TI.functions as functions  # Arquivo com as funções de instalação e chamada da API
 from pathlib import Path
 
 base_url = os.getenv("OLLAMA_HOST", "http://localhost:11434")
