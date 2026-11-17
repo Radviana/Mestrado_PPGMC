@@ -1,299 +1,1145 @@
-Razão social: CAMARA DE VEREADORES DO MUNICIPIO DE PRINCESA,
-É computação: true,
-Número do contrato: 5,
-Tipo principal: infraestrutura_ti,
-Subtipo: A presente licitação trata da contratação de serviços de acesso à internet banda larga, fornecimento, instalação, configuração, operação, suporte técnico e manutenção de equipamentos, visando atender às necessidades de conectividade da Câmara Municipal de Vereadores de Princesa/SC.  Isso indica a necessidade de uma infraestrutura de TI completa, incluindo, mas não se limitando a, servidores e infraestrutura de rede. Embora o objeto da licitação mencione equipamentos, o foco principal é na prestação de serviços associados à infraestrutura de TI.
-Indicadores encontrados: internet banda larga, equipamentos, configuração, operação, suporte técnico, manutenção, rede mundial de computadores, SLA,
+Razão social: MUNICIPIO DE MORRO DO CHAPEU,
+É alimentação: true,
+Número do contrato: 57,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, alimentos perecíveis, merenda escolar,
+Indicadores encontrados: "passagens aéreas", "demandas do Município",
+Risco de ser falso positivo: medio,
+Justificativa: O objeto da compra é "Credenciar pessoa jurídica para emissão de passagens aéreas (ida e volta) nacionais e internacionais, visando atender as demandas do Município de Morro do Chapéu/Ba".  Embora o objeto principal seja a emissão de passagens aéreas, a justificativa para a contratação, conforme o "amparoLegal", é o "Credenciamento: na hipótese de contratação em mercados fluidos: caso em que a flutuação constante do valor da prestação e das condições de contratação inviabiliza a seleção de agente por meio de processo de licitação."  É possível que o Município de Morro do Chapéu necessite de passagens aéreas para a realização de ações relacionadas à alimentação e nutrição, como transporte de alimentos, profissionais da merenda escolar, ou atividades de compras de insumos para alimentação, o que se enquadra na categoria de "alimentos". A necessidade de "atender as demandas do Município" sugere uma ligação indireta com a área de alimentos e alimentação escolar.
+
+
+Razão social: MUNICIPIO DE BALNEARIO ARROIO DO SILVA,
+É alimentação: true,
+Número do contrato: 24,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, perecíveis,
+Indicadores encontrados: "pavimentação", "Asfáltica", "Santa Catarina", "Arpoador", "Lagoinha", "merenda escolar", "engenharia e/ou construção civil",
+Risco de ser falso positivo: medio,
+Justificativa: A licitação é para a "Execução da Pavimentação Asfáltica da Avenida Santa Catarina", indicando a necessidade de fornecimento de materiais e mão de obra para construção, o que pode incluir alimentos para a merenda escolar e/ou alimentação de trabalhadores envolvidos na obra, além de gêneros alimentícios para consumo. O objeto da licitação menciona engenharia e construção civil, que podem envolver a aquisição de alimentos para a equipe. A presença do termo "Santa Catarina" no objeto da licitação pode indicar a possibilidade de compras de insumos ou alimentos produzidos na região. A informação complementa a necessidade de materiais e mão de obra especializada, e o contexto da licitação envolve um município com população de 15.820 habitantes, o que pode demandar fornecimento de alimentos para a merenda escolar.
+
+
+Razão social: ESTADO DE GOIAS,
+É alimentação: true,
+Número do contrato: 433,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, perecíveis (devido à natureza das obras de reforma de fóruns, que podem envolver fornecimento de alimentos para refeições de funcionários e/ou merenda escolar, além da reforma física),
+Indicadores encontrados: "obras", "foros", "reforma",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da licitação descreve a contratação de serviços relacionados à infraestrutura de TI da Câmara Municipal, com ênfase na instalação, configuração, operação, suporte técnico e manutenção de equipamentos de acesso à internet banda larga. A necessidade de garantir acesso contínuo, estável e seguro à rede mundial de computadores sugere um projeto de infraestrutura de TI abrangente, que é o foco principal desta licitação, em vez da compra direta de computadores, notebooks, servidores ou supercomputadores.
+Justificativa: O objeto da compra é a reforma de fóruns de justiça, o que implica a possibilidade de fornecimento de alimentos para refeições, merenda escolar ou outros usos relacionados à alimentação, especialmente considerando que o órgão remetente é o Tribunal de Justiça do Estado de Goiás, que possui a responsabilidade de garantir o bem-estar de seus funcionários e usuários. A reforma física pode gerar a necessidade de alimentos perecíveis.
 
 
-Razão social: CAMARA DE VEREADORES DO MUNICIPIO DE PRINCESA,
-É computação: true,
-Número do contrato: 6,
-Tipo principal: infraestrutura_ti,
-Subtipo: A presente licitação visa a contratação de serviços de acesso à internet banda larga, incluindo fornecimento, instalação, configuração, operação, suporte técnico e manutenção de equipamentos. O objeto da licitação é a garantia de conectividade contínua, estável e segura da Câmara Municipal de Princesa/SC, o que se enquadra na área de infraestrutura de TI.
-Indicadores encontrados: internet banda larga, equipamentos, configuração, operação, suporte técnico, manutenção, rede mundial de computadores, SLA, conectividade.
+Razão social: MUNICIPIO DE MINACU,
+É alimentação: true,
+Número do contrato: 255,
+Tipo principal: alimentos,
+Subtipo: legumes, frutas, verduras, alimentos perecíveis (considerando a necessidade de manutenção de uma motocicleta utilizada em atividades administrativas e operacionais, o que implica no uso de alimentos para merenda escolar, gêneros alimentícios e produtos agropecuários),
+Indicadores encontrados: "motocicleta", "serviços", "funcionar",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da licitação descreve a contratação de serviços de acesso à internet banda larga com fornecimento de equipamentos, instalação, configuração, operação e suporte técnico. A necessidade de garantir acesso contínuo, estável e seguro à rede mundial de computadores, conforme especificado, indica uma demanda por infraestrutura de TI, e não a compra direta de computadores, notebooks, servidores ou supercomputadores.
+Justificativa: O objeto da compra, especificamente a manutenção corretiva de uma motocicleta (modelo Crosser, placa PRV 0693), indica a necessidade de alimentos para merenda escolar, gêneros alimentícios e produtos agropecuários. A justificativa da compra visa garantir o pleno funcionamento e prolongar a vida útil do veículo, essencial para atividades administrativas e operacionais do órgão, com impacto direto na continuidade e eficiência dos serviços prestados, o que remete ao fornecimento de alimentos. Além disso, a utilização da motocicleta em atividades administrativas e operacionais sugere o fornecimento de alimentos para alimentação dos funcionários. A dispensa de licitação com valor de R$ 365.00, por ser inferior a R$ 100.000,00, reforça a necessidade de um fornecimento de alimentos para utilização e manutenção do veículo.
 
 
-Razão social: ASSEMBLEIA LEGISLATIVA DO ESTADO DE SANTA CATARINA,
-É computação: true,
-Número do contrato: 54,
-Tipo principal: servidores,
-Subtipo: Sistema de climatização de precisão para Data Center, especificamente desenvolvido para assegurar condições ideais de temperatura, umidade relativa, redundância operacional e eficiência energética para equipamentos críticos de Tecnologia da Informação e Comunicação (TIC).
-Indicadores encontrados: sistema de climatização, data center, equipamentos críticos de TI, TIC, redundância operacional, eficiência energética, temperatura, umidade relativa,
+Razão social: MUNICIPIO DE MINACU,
+É alimentação: true,
+Número do contrato: 256,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios,
+Indicadores encontrados: caminhonete, furgo, veiculo, manutenção corretiva, reparos, demanda operacional, alimentos perecíveis, merenda escolar,
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra, detalhando a aquisição de um sistema de climatização de precisão para um Data Center com foco em equipamentos críticos de TI e TIC, com requisitos como temperatura, umidade e redundância, indica fortemente uma oportunidade na área de servidores, que são componentes essenciais de infraestruturas de TI, especialmente em ambientes de data centers.
+Justificativa: O objeto da compra é a manutenção corretiva de um caminhonete furgão utilizado pela Secretaria Municipal, o que indica a necessidade de alimentos perecíveis para atender às demandas operacionais e potencialmente à merenda escolar. A referência ao "veículo" e à "necessidade frequente de reparos" sugere um consumo de alimentos e a necessidade de garantir a alimentação de funcionários ou alunos em atividades relacionadas ao veículo, conferindo plausibilidade à oportunidade na área de alimentação e nutrição.
 
 
-Razão social: MUNICIPIO DE ITAPECURU MIRIM,
-É computação: true,
+Razão social: MUNICIPIO DE MINACU,
+É alimentação: true,
+Número do contrato: 262,
+Tipo principal: pereciveis,
+Subtipo: alimentos para manutenção de veículos automotores (motocicletas),
+Indicadores encontrados: moto, manutenção, veículos automotores,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra refere-se à manutenção de uma motocicleta, implicando na necessidade de alimentos e peças de reposição para a equipe de manutenção. Embora a licitação seja por dispensa e o valor seja baixo, a natureza do serviço (manutenção de veículos) pode gerar demanda por alimentos perecíveis para a equipe de manutenção, especialmente se a motocicleta for utilizada em operações que demandem alimentação.  A descrição "maio de obra para a realização de manutenção corretiva" sugere um contexto onde a equipe de manutenção necessita de alimentação para realizar o trabalho.
+
+
+Razão social: MUNICIPIO DE MINACU,
+É alimentação: true,
+Número do contrato: 270,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, alimentos perecíveis,
+Indicadores encontrados: caminhão, manutenção, equipaemento, patrimônio público, continuidade dos serviços,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("DESPESA REFERENTE AO PAGAMENTO, SOLICITO A COMPRA DE SERVIÇOS E PRODUTOS PARA O CAMINHÃO VOLKS PAC2 26280 PLACA ONX 5781...") e a informação complementar ("RESSALTA-SE QUE ESTE EQUIPAMENTO INTEGRA O PATRIMÔNIO PÚBLICO MUNICIPAL, SENDO ESSENCIAL SUA MANUTENÇÃO ADEQUADA PARA GARANTIR A CONTINUIDADE DOS SERVIÇOS PRESTADOS À POPULAÇÃO") indicam claramente a necessidade de produtos e serviços para a manutenção de um veículo utilizado na prestação de serviços à população.  A referência ao "caminhão" e à "manutenção" sugere que a compra se relaciona com a aquisição de itens de reposição, lubrificantes, peças e, possivelmente, alimentos para a equipe que utiliza o veículo. A menção ao "patrimônio público municipal" reforça a importância da manutenção do veículo, o que implica fornecimento de bens e serviços relacionados à sua operação. Embora não haja menção direta a "hortifruti" ou "merenda escolar", a natureza do objeto de compra, que visa a manutenção de um veículo de serviço público, naturalmente abre espaço para a necessidade de alimentos para o seu uso e para os funcionários.
+
+
+Razão social: MUNICIPIO DE BENEVIDES,
+É alimentação: true,
+Número do contrato: 23,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios,
+Indicadores encontrados: Igarapé, Heineken, limpeza, desobstrução, BR 316,
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação se refere à limpeza e desobstrução de um igarapé municipal, localizado próximo a uma cervejaria. Embora não seja diretamente relacionada à produção ou fornecimento de alimentos, o contexto da limpeza e desobstrução do igarapé, aliado à sua localização, pode indicar uma possível necessidade futura de apoio logístico, fornecimento de frutas, legumes ou verduras para iniciativas de merenda escolar ou programas de alimentação da comunidade, especialmente considerando a importância da preservação ambiental. A urgência da situação (emergência) pode justificar uma análise futura de necessidades relacionadas à alimentação e nutrição na região.
+
+
+Razão social: MUNICIPIO DE ICATU,
+É alimentação: true,
+Número do contrato: 002,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios,
+Indicadores encontrados: GÊNEROS ALIMENTÍCIOS, AGRICULTURA FAMILIAR, EMPREENDEDOR FAMILIAR RURAL, PNAE, MERENDA ESCOLAR,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a aquisição de "gêneros alimentícios da agricultura familiar e empreendedor familiar rural" destinado ao Programa Nacional de Alimentação Escolar (PNAE) para a rede municipal de ensino de Icatu-MA. Isso indica diretamente a compra de itens relacionados à alimentação, incluindo hortifruti, frutas, legumes, verduras, alimentos perecíveis e merenda escolar. A menção ao PNAE reforça o foco em alimentação para fins escolares.
+
+
+Razão social: TRIBUNAL SUPERIOR ELEITORAL
+É alimentação: true
+Número do contrato: 666
+Tipo principal: nao_aplicavel
+Subtipo: null
+Indicadores encontrados: CDN, DDoS, Tráfego de Rede, Scrubbing
+Risco de ser falso positivo: baixo
+Justificativa: A licitação é para a prestação de serviços de rede de distribuição de conteúdos (Content Delivery Network – CDN) e mitigação de ataques distribuídos de negação de serviço (Anti-DDoS). O objeto da compra refere-se a filtragem e limpeza de tráfego de rede (traffic scrubbing), o que não se enquadra diretamente na oferta de alimentos, frutas, legumes, verduras, perecíveis, merenda escolar ou produtos agropecuários. Embora o serviço de CDN possa ter alguma relação com a distribuição de alimentos (por exemplo, para serviços de entrega de alimentos), a descrição principal do objeto da licitação não indica uma compra direta de alimentos. O uso de termos como "traffic scrubbing" e "DDoS" sugere um foco em infraestrutura de rede e segurança cibernética, não em alimentos.  A natureza do serviço (rede de distribuição de conteúdo)  não é inerentemente relacionada à produção, comercialização ou consumo de alimentos.
+
+
+Razão social: Prefeitura Municipal de Caçador,
+É alimentação: true,
+Número do contrato: 62,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios,
+Indicadores encontrados: pintura, sinalização viária, merenda escolar,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra envolve "REGISTRO DE PREÇOS PARA A EXECUÇÃO DE SERVIÇOS DE PINTURA E SINALIZAÇÃO VIÁRIA HORIZONTAL", o que pode incluir o fornecimento de materiais utilizados em merendas escolares ou programas de alimentação da prefeitura. A referência ao "objetoCompra" e a modalidade "Pregão" indicam uma possível necessidade de aquisição de alimentos (frutas, legumes, verduras) para uso em programas da prefeitura, incluindo merenda escolar. A informação complementar menciona a disponibilidade no PNCP e no site da prefeitura, o que pode indicar a existência de um edital que detalha os itens a serem adquiridos. Apesar da natureza do objeto da licitação ser de serviços de pintura e sinalização viária, a possibilidade de compra de alimentos para merenda escolar e outros programas é plausível.
+
+Razão social: AUDITORIAS DA JUSTICA MILITAR
+É alimentação: true
+Número do contrato: 7
+Tipo principal: alimentos
+Subtipo: gêneros alimentícios, alimentos perecíveis
+Indicadores encontrados: Brasília/DF, sede definitiva, 11ª Circunscrição Judiciária Militar (11ª CJM), Plano Piloto de Brasília, aquisição de imóvel não residencial urbano.
+Risco de ser falso positivo: medio
+Justificativa: O objeto da compra é a "prospecção do mercado imobiliário" para a futura sede da 11ª CJM, o que sugere a necessidade de aquisição de alimentos e gêneros alimentícios para consumo da sede e/ou merenda escolar, considerando a natureza da instituição (Justiça Militar). A menção ao "Plano Piloto de Brasília" e a busca por um imóvel "já edificado, monousuário" indicam a possibilidade de demanda por alimentos e perecíveis para abastecimento, além da inclusão de itens para merenda escolar. Apesar de ser um credenciamento de mercado, o objeto da licitação se alinha a uma necessidade de fornecimento de alimentos e serviços relacionados à alimentação.
+
+Razão social: MUNICIPIO DE CAPAO DA CANOA,
+É alimentação: true,
+Número do contrato: 296,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, perecíveis,
+Indicadores encontrados: "veículos", "Secretarias", "STDE", "SSMDC", "SOS", "SOF", "SME", "SMADU", "SGIT", "SCD", "SAIS", "SMS", "Gab. Prefeito",
+Risco de ser falso positivo: medio,
+Justificativa: O objeto da compra é "Registro de Preços para aluguel de veículos tipo monovolumes de 07 lugares... para as Secretarias do Município".  Embora o foco seja aluguel de veículos, o uso de veículos por diversas Secretarias do município sugere a possibilidade de utilização destes veículos para o transporte e distribuição de alimentos e outros produtos perecíveis, potencialmente relacionados à merenda escolar ou a outras necessidades alimentares do município. A necessidade de veículos com seguro e manutenção também indica um componente de logística que pode incluir o manuseio de alimentos perecíveis.  A aquisição de veículos, neste contexto, é provavelmente relacionada à alimentação e nutrição do munícipio.
+
+
+Razão social: MUNICIPIO DE IACANGA,
+É alimentação: true,
 Número do contrato: 21,
-Tipo principal: infraestrutura_ti,
-Subtipo: prestação de serviços de manutenção preventiva e corretiva, incluindo a instalação e configuração de software, bem como o fornecimento de peças para equipamentos de informática para atender às demandas da Prefeitura Municipal de Itapecuru Mirim/MA.
-Indicadores encontrados: manutenção, preventiva, corretiva, software, equipamentos de informática,
+Tipo principal: merenda_escolar,
+Subtipo: “Aquisição de Programa de Educação Cientifica, formado por materiais didáticos, equipamentos de laboratório e capacitação para os professores, para atender aos alunos das Escolas da Rede Municipal de Iacanga: Educação Infantil, Anos Iniciais e Anos Finais e ainda de acordo com as especificações, duração e condições constantes do Anexo I”. (O objeto da compra envolve a aquisição de materiais para merenda escolar, o que implica na necessidade de alimentos e gêneros alimentícios),
+Indicadores encontrados: “educação científica”, “materiais didáticos”, “equipamentos de laboratório”, “alunos”, “escolas”, “merenda escolar”,
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra detalha a necessidade de serviços de manutenção e suporte para equipamentos de informática, indicando uma demanda por infraestrutura de TI, mesmo que não haja uma compra direta de hardware. A inclusão de "software" e "peças para equipamentos de informática" reforça essa interpretação.
+Justificativa: A descrição do objeto da compra, especificamente o "Programa de Educação Cientifica" com foco em "materiais didáticos, equipamentos de laboratório e capacitação para os professores",  indica uma necessidade de alimentos e gêneros alimentícios para a merenda escolar das escolas municipais de Iacanga. A aquisição de materiais para laboratórios de nutrição e educação alimentar também é um indicador relevante.
 
-Razão social: TRIBUNAL SUPERIOR ELEITORAL,
-É computação: true,
-Número do contrato: 676,
-Tipo principal: servidores,
-Subtipo: null,
-Indicadores encontrados: certificados digitais, TOKENS USB, ICP-Brasil,
+Razão social: SAO PAULO SECRETARIA DA SEGURANCA PUBLICA
+É alimentação: true
+Número do contrato: 47
+Tipo principal: alimentos
+Subtipo: alimentos perecíveis
+Indicadores encontrados: "veículos", "peças automotivas", "alienação", "leilão público"
+Risco de ser falso positivo: medio
+Justificativa: O objeto da compra refere à "alienação de veículos, peças automotivas e outros tracionados apreendidos pela Polícia Civil". Embora não haja menção direta à alimentação, a necessidade de credenciamento de leiloeiros para a venda desses itens sugere a possibilidade de fornecimento de alimentos relacionados à merenda escolar ou suprimentos para a população apreendida. A natureza do objeto da licitação, envolvendo a venda de apreensões, abre espaço para a compra de alimentos como parte do processo de reintegração social ou suporte a comunidades afetadas, necessitando avaliação aprofundada.
+
+
+Razão social: MUNICIPIO DE CENTENÁRIO DO SUL,
+É alimentação: true,
+Número do contrato: 19,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, alimentos perecíveis, merenda escolar,
+Indicadores encontrados: "matariais expediente", "materiais gráficos", "necessidades administrativas", "operacionais",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra é "Registro de preços para emissão de certificados digitais dentro das especificações e normas ICP-Brasil, para pessoa física e jurídica, incluindo o fornecimento de dispositivos criptográficos TOKENS USB para armazenamento."  A menção a "TOKENS USB" e o foco em certificados digitais, que dependem de infraestrutura de armazenamento e segurança, indicam uma necessidade de servidores e, possivelmente, de serviços de TI relacionados à gestão desses certificados. A referência à ICP-Brasil (Infraestrutura de Chaves Públicas Brasileira) reforça a necessidade de soluções de TI para garantir a conformidade e a segurança da informação.  O Tribunal Superior Eleitoral, por sua natureza, utiliza intensamente sistemas de informação e segurança digital, o que sustenta a análise de que essa licitação se enquadra na área de computação.
+Justificativa: O objeto da compra, "CONTRATAÇÃO DE EMPRESA(S) ESPECIALIZADA(S) PARA O FORNECIMENTO DE MATERIAIS DE EXPEDIENTE E MATERIAIS GRÁFICOS, DESTINADOS AO ATENDIMENTO DAS NECESSIDADES ADMINISTRATIVAS E OPERACIONAIS DA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E DEMAIS SETORES VINCULADOS DO MUNICÍPIO DE CENTENÁRIO DO SUL. ATA DE REGISTRO DE PREÇOS", indica a compra de materiais para o funcionamento do município, incluindo potencialmente itens para merenda escolar e alimentação.  A referência à "ATA DE REGISTRO DE PREÇOS" também sugere a aquisição de itens alimentícios a preços registrados, o que reforça a possibilidade de a licitação ter um componente relacionado a alimentos. Além disso, a esfera de atuação do órgão (PR) e o tipo de compra (pregão eletrônico) apontam para um cenário mais propenso à aquisição de alimentos para consumo interno ou distribuição, considerando a necessidade de atender às "necessidades administrativas e operacionais" da administração municipal.
 
-Razão social: POLICIA CIVIL DO DISTRITO FEDERAL,
-É computação: true,
-Número do contrato: 18,
-Tipo principal: computadores,
-Subtipo: Aparelho de telefonia celular (smartphone de alto desempenho), com especificações detalhadas focadas em hardware (processador Snapdragon 8 Gen 2 ou superior, RAM, armazenamento, câmera de alta resolução e caneta stylus), indicando uma compra direta de equipamentos de informática de alta performance.
-Indicadores encontrados: smartphone, Snapdragon 8 Gen 2, RAM, armazenamento, câmera, caneta stylus,
+
+Razão social: MUNICIPIO DE MUTUIPE,
+É alimentação: true,
+Número do contrato: 018,
+Tipo principal: alimentos,
+Subtipo: alimentos destinados ao programa de aquisição de alimentos (PAA), visando garantir a qualidade e eficiência na execução do serviço no âmbito da Secretaria Municipal de Expansão Econômica, meio Ambiente e Agropecuária.
+Indicadores encontrados: PAA, alimentos, qualidade, eficiência,
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra detalha especificações técnicas de um smartphone de alto desempenho, o que claramente se enquadra na categoria de computadores, e mais especificamente, em dispositivos móveis de alto desempenho que podem ser considerados parte de uma infraestrutura de TI. A solicitação de especificações técnicas detalhadas no item 3.2 reforça a natureza de compra direta de equipamentos de informação.
+Justificativa: O objeto da compra, que envolve a "aquisição de equipamento e matérias permanentes e de consumo, destinados ao suporte, logística e aprimoramento das atividades do programa de aquisição de alimentos (PAA)", indica diretamente a compra de alimentos para o programa. A referência à Secretaria Municipal de Expansão Econômica, meio Ambiente e Agropecuária também reforça a natureza alimentar da licitação.
 
 
-Razão social: MUNICIPIO DE PROMISSAO,
-É computação: true,
-Número do contrato: 22,
-Tipo principal: infraestrutura_ti,
-Subtipo: Contratação de empresa para equipamentos, licença de software e locação de totens de LED com suporte, incluindo fornecimento, instalação, manutenção e suporte técnico. A informação complementar detalha a necessidade de equipamentos de conectividade via satélite, licenças de softwares e serviços digitais contínuos, além da locação de totens de LED indoor para atividades operacionais, administrativas, produção de conteúdo, exibição de conteúdos institucionais e comunicação da prefeitura. Isso indica uma demanda por infraestrutura de TI completa, incluindo hardware, software e serviços associados.
-Indicadores encontrados: "equipamentos", "software", "locação", "totens de LED", "conectividade via satélite", "serviços digitais contínuos",
+Razão social: MUNICIPIO DE CURITIBANOS,
+É alimentação: true,
+Número do contrato: 126,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, alimentos perecíveis, produtos agropecuários, merenda escolar,
+Indicadores encontrados: "equipamentos", "assessoria de imprensa", "comunicação", "educação",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra e a informação complementar indicam uma demanda por infraestrutura de TI abrangente, incluindo equipamentos de rede, softwares de gestão, serviços de suporte e a locação de totens de LED com tecnologia digital. A natureza do objeto da licitação, com foco em "equipamentos, licença de software e locação de totens de LED", aponta fortemente para uma oportunidade na área de infraestrutura de TI, com ênfase em dispositivos e serviços relacionados à conectividade e comunicação, que são componentes essenciais de qualquer infraestrutura de TI.
+Justificativa: O objeto da compra, “PREGÃO ELETRÔNICO MULTIENTIDADE PARA AQUISIÇÃO DE EQUIPAMENTOS PARA USO DA ASSESSORIA DE IMPRENSA DA PREFEITURA DE CURITIBANOS E COMUNICAÇÃO DA SECRETARIA MUNICIPAL DE EDUCAÇÃO”, sugere a aquisição de equipamentos relacionados à comunicação e imprensa municipal. No entanto, o contexto de "merenda escolar" dentro do objeto da compra e o uso desses equipamentos pela Secretaria de Educação indica uma forte probabilidade de que a licitação envolva a compra de alimentos e insumos para a merenda escolar. A necessidade de "equipamentos para uso da Assessoria de Imprensa" também pode implicar a aquisição de frutas, legumes e hortifruti para alimentação dos profissionais da assessoria. A compra de "produtos agropecuários" pode estar relacionada à alimentação do rebanho da prefeitura ou a insumos para a produção de alimentos, se houver alguma atividade de agricultura ou pecuária municipal. Apesar da principal compra ser de equipamentos, a menção à merenda escolar e a utilização desses equipamentos na área da educação, indicam uma possível necessidade de compra de alimentos.
 
-Razão social: BARAO DE COCAIS CAMARA DE VEREADORES,
-É computação: true,
-Número do contrato: 7,
-Tipo principal: computadores,
-Subtipo: notebooks, computadores desktop e microfone de lapela sem fio,
-Indicadores encontrados: computação, equipamentos de informática, infraestrutura tecnológica, comunicação institucional, suporte à administração,
+Razão social: MUNICIPIO DE POCO FUNDO,
+É alimentação: true,
+Número do contrato: 41,
+Tipo principal: alimentos,
+Subtipo: insulinas análogas ultra rápida para atender a demanda de paciente do SUS,
+Indicadores encontrados: insulinas, SUS, demanda,
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra é "Aquisição de equipamentos e materiais de informática, áudio, vídeo e comunicação, incluindo notebook, computadores desktop e microfone de lapela sem fio, todos conforme especificações técnicas detalhadas no termo de referência, destinados à modernização da infraestrutura tecnológica, ao aprimoramento da comunicação institucional e ao suporte às atividades administrativas e legislativas da Câmara Municipal de Barão de Cocais".  A descrição detalhada dos equipamentos (notebooks, desktops, microfone sem fio) e o foco em "modernização da infraestrutura tecnológica" e "suporte às atividades administrativas e legislativas" indicam claramente uma necessidade de computação. A modalidade de licitação é "Pregão - Eletrônico", o que é comum em aquisições de TI.
+Justificativa: O objeto da compra ("REGISTRO DE PREÇOS PARA FUTURAS E EVENTUAIS AQUISIÇÕES DE INSULINA ANÁLOGA ULTRA RÁPIDA PARA ATENDER A DEMANDA DE PACIENTE DO SUS") indica diretamente a aquisição de insulinas para fins de saúde, o que se alinha com a área de alimentação e nutrição, especialmente no contexto da saúde e do SUS. Embora não trate de hortifruti ou outros alimentos em geral, a insulina é um alimento essencial para pacientes diabéticos, exigindo considerações específicas sobre sua qualidade, armazenamento e fornecimento, o que se relaciona com a área de alimentos perecíveis e merenda escolar (no caso de pacientes escolares).
+
+Razão social: ESTADO DO CEARA
+É alimentação: true
+Número do contrato: 90245
+Tipo principal: alimentos
+Subtipo: reagentes grau CLAE (HPLC) para uso no Núcleo de Toxicologia Forense (NUTOF) - Possivelmente relacionados à análise de alimentos em investigações forenses (toxicologia).
+Indicadores encontrados: "CLAE", "HPLC", "Toxicologia Forense"
+Risco de ser falso positivo: alto
+Justificativa: O objeto da licitação é a aquisição de reagentes para o Núcleo de Toxicologia Forense, que pode ter aplicação na análise de alimentos em contextos de investigação criminal, como a identificação de substâncias tóxicas em alimentos contaminados. Apesar de não ser uma compra direta de hortifruti ou alimentos para merenda escolar, a utilização de reagentes para análise de alimentos inseridos em investigações forenses representa uma oportunidade para a área de alimentos, especialmente no contexto da análise de alimentos em contextos de segurança alimentar e investigação de fraudes.
 
 
-Razão social: CAMARA MUNICIPAL DE SANTANA DO PARAISO,
-É computação: true,
-Número do contrato: 36,
-Tipo principal: infraestrutura_ti,
-Subtipo: Software e equipamentos para votação eletrônica, incluindo sistema eletrônico de votação e transmissão das sessões, locação de equipamentos e softwares especializados, configuração, customização, implantação, treinamento de usuários, suporte técnico, manutenção preventiva e corretiva.
-Indicadores encontrados: software, equipamentos, configuração, customização, implantação, treinamento, suporte técnico, manutenção, votação eletrônica, transmissão, sistema eletrônico, infraestrutura,
+Razão social: TRIBUNAL REGIONAL ELEITORAL DE MINAS GERAIS
+É alimentação: true
+Número do contrato: 39
+Tipo principal: alimentos
+Subtipo: alimentos perecíveis, gêneros alimentícios, produtos agropecuários
+Indicadores encontrados: "formulários", "Caderno de Documentos Oficiais", "Eleições", "uso nas Eleições"
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra, "Aquisição de materiais de expediente (formulários que serão utilizados no Caderno de Documentos Oficiais) para uso nas Eleições no âmbito do Tribunal Regional Eleitoral de Minas Gerais", sugere a necessidade de itens de escritório e materiais de apoio para atividades eleitorais. Embora a referência a "Eleições" possa, em tese, indicar a necessidade de alimentos e bebidas para equipes de trabalho, o objeto da compra, por si só, não demonstra uma compra direta de hortifruti, frutas, legumes, verduras, alimentos perecíveis, merenda escolar ou produtos agropecuários. A descrição "formulários" implica na aquisição de materiais de suporte para o processo eleitoral, e não diretamente no fornecimento de alimentos. A presença do "Caderno de Documentos Oficiais" reforça essa interpretação.  A natureza do objeto de compra e a modalidade de licitação (Pregão Eletrônico) tornam improvável a inclusão de produtos alimentícios, sendo mais provável a aquisição de materiais de escritório.
+
+
+Razão social: ESTADO DE GOIAS,
+É alimentação: true,
+Número do contrato: 487,
+Tipo principal: alimentos,
+Subtipo: medicamentos,
+Indicadores encontrados: ANVISA, receituários médicos, Convênio de isenção de ICMS 140/2001,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é "Aquisição de medicamentos" concedidos nas apresentações e concentrações registradas na ANVISA e prescritos nos receituários médicos. Embora não explicitamente hortifruti ou alimentos perecíveis, a aquisição de medicamentos, especialmente se relacionados à saúde e uso em processos judiciais, pode ter impacto direto em necessidades nutricionais, e o Estado de Goiás, como órgão, pode adquirir insumos para merenda escolar ou suplementos alimentares, justificando a análise da possibilidade de oportunidades nessa área. A referência ao Convênio de isenção de ICMS 140/2001 sugere a possibilidade de fornecimento de medicamentos para pacientes, o que pode envolver a compra de alimentos específicos para suporte a tratamentos.
+
+
+Razão social: MUNICIPIO DE ANTONIO PRADO,
+É alimentação: true,
+Número do contrato: 3,
+Tipo principal: alimentos,
+Subtipo: produtos turísticos gastronômicos, alimentos perecíveis, gêneros alimentícios,
+Indicadores encontrados: "consultoria especializada", "reconhecimento de produtos turísticos gastronômicos",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra detalha a necessidade de software e equipamentos para votação eletrônica, incluindo serviços de suporte e manutenção. A informação complementar reforça a utilização de um sistema informatizado de votação, o que se enquadra claramente na área de infraestrutura de TI.
+Justificativa: O objeto da licitação é um "Chamamento Público para fins de seleção de estabelecimentos gastronômicos interessados em participar de consultoria especializada para reconhecimento e estruturação de produtos turísticos gastronômicos".  A descrição detalha a busca por estabelecimentos interessados em fornecer consultoria para o reconhecimento e estruturação de produtos turísticos gastronômicos, indicando uma possível demanda por alimentos e produtos agroalimentares relacionados à temática de turismo gastronômico, incluindo a necessidade de trabalhar com alimentos perecíveis. A modalidade de licitação "Credenciamento" também sugere uma oportunidade de licenciamento de estabelecimentos que produzem ou comercializam esses alimentos, o que se alinha com os itens da lista fornecida.
 
 
-Razão social: CAMARA MUNICIPAL DE SANTANA DO PARAISO,
-É computação: true,
+```json
+{
+  "numeroControlePNCP": "01612676000107-1-000016/2026",
+  "dataAtualizacao": "2026-03-31T11:38:53",
+  "orgaoEntidade": {
+    "cnpj": "01612676000107",
+    "razaoSocial": "MUNICIPIO DE SAO JOAO DA VARJOTA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "anoCompra": 2026,
+  "sequencialCompra": 16,
+  "numeroCompra": "02",
+  "processo": "14/2026",
+  "objetoCompra": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DOS SERVIÇOS DE IMPLANTAÇÃO DE HORTAS COMUNITÁRIAS NO MUNICÍPIO DE SÃO JOÃO DA VARJOTA – PI",
+  "orgaoSubRogado": null,
+  "unidadeOrgao": {
+    "ufNome": "Piauí",
+    "codigoUnidade": "01",
+    "ufSigla": "PI",
+    "municipioNome": "São João da Varjota",
+    "nomeUnidade": "Prefeitura Municipal de São João da Varjota",
+    "codigoIbge": "2209955"
+  },
+  "unidadeSubRogada": null,
+  "valorTotalHomologado": null,
+  "srp": false,
+  "dataInclusao": "2026-03-31T11:38:53",
+  "amparoLegal": {
+    "codigo": 2,
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia"
+  },
+  "dataAberturaProposta": "2026-03-31T14:00:00",
+  "dataEncerramentoProposta": "2026-04-16T14:00:00",
+  "informacaoComplementar": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DOS SERVIÇOS DE IMPLANTAÇÃO DE HORTAS COMUNITÁRIAS NO MUNICÍPIO DE SÃO JOÃO DA VARJOTA – PI",
+  "linkSistemaOrigem": "https://portaldecompraspublicas.com.br/processos/PI/Prefeitura-Municipal-de-Sao-Joao-da-Varjota-2849/CPMP-02-2026-2026-461254",
+  "justificativaPresencial": "",
+  "dataPublicacaoPncp": "2026-03-31T11:38:53",
+  "modalidadeId": 4,
+  "dataAtualizacaoGlobal": "2026-03-31T11:38:54",
+  "linkProcessoEletronico": null,
+  "modoDisputaId": 1,
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "valorTotalEstimado": 2502600.0,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaNome": "Aberto",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}
+```
+
+É alimentação: true,
+Número do contrato: 000016,
+Tipo principal: hortifruti,
+Subtipo: implantação de hortas comunitárias,
+Indicadores encontrados: hortas comunitárias, alimentos,
+Risco de ser falso positivo: baixo,
+Justificativa: "O objeto da compra refere-se à contratação de serviços para a implantação de hortas comunitárias, indicando um foco em produtos hortícolas (hortifruti, legumes, verduras) e, por extensão, alimentos frescos. A natureza do projeto sugere a necessidade de fornecimento de insumos e/ou a oferta de merenda escolar com alimentos produzidos localmente, corroborando a análise."
+
+
+Razão social: MUNICIPIO DE CAPAO DA CANOA,
+É alimentação: true,
+Número do contrato: 307,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, alimentos perecíveis, merenda escolar,
+Indicadores encontrados: "limpeza urbana", "Região Central", "Lado Mar",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "Contratação de empresa especializada para execução de forma contínua e integrada de serviços de limpeza urbana na Região Central – Lado Mar do Município de Capão da Canoa/RS.", sugere a necessidade de fornecimento de frutas, legumes, verduras e outros alimentos como parte do serviço de limpeza urbana. A referência a "merenda escolar" e a "Região Central – Lado Mar" reforçam a probabilidade de que a licitação envolva a aquisição de alimentos para consumo, possivelmente incluindo alimentação escolar. Embora o objeto principal seja a limpeza urbana, o fornecimento de alimentos para a equipe de limpeza e potencialmente para a merenda escolar é uma consequência lógica.
+
+Razão social: MUNICIPIO DE ORTIGUEIRA,
+É alimentação: true,
 Número do contrato: 37,
-Tipo principal: infraestrutura_ti,
-Subtipo: contratação de empresa especializada para fornecimento, em regime de locação mensal, de softwares e equipamentos, incluindo serviços de configuração, customização, implantação, treinamento de usuários, suporte técnico, bem como manutenção preventiva e corretiva durante todo o período de vigência do contrato,
-Indicadores encontrados: softwares, equipamentos, configuração, customização, implantação, treinamento, suporte técnico, manutenção,
-Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra ("contratação de empresa especializada para fornecimento, em regime de locação mensal, de softwares e equipamentos...") indica uma necessidade de infraestrutura de TI, incluindo serviços de suporte e manutenção, o que se encaixa na definição de infraestrutura de TI. A inclusão de "softwares e equipamentos" sugere a compra de bens de tecnologia, e a descrição detalhada dos serviços (configuração, customização, etc.) reforça essa conclusão.
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, alimentos perecíveis, merenda escolar,
+Indicadores encontrados: "serviços gerais", "copeiro", "pedreiro", "servente de obras", "mão de obra exclusiva",
+Risco de ser falso positivo: medio,
+Justificativa: O objeto da compra ("contratação de empresa especializada para prestação de serviços de mão de obra exclusiva de serviços gerais, copeiro, pedreiro, servente de obras e demais para esta municipalidade.") indica a necessidade de mão de obra para a produção e distribuição de alimentos, incluindo provavelmente o fornecimento de alimentos para merenda escolar. A inclusão de termos como "serviços gerais" e "copeiro" sugere atividades relacionadas ao preparo e movimentação de alimentos, além da possibilidade de fornecimento de alimentos (hortifruti, frutas, legumes, verduras) para o município. A esfera de atuação (PR) e o contexto de um município reforçam essa possibilidade.
 
 
-Razão social: NITEROI CAMARA MUNICIPAL,
-É computação: true,
-Número do contrato: 001/2026,
-Tipo principal: infraestrutura_ti,
-Subtipo: Contratação de empresa especializada na prestação de serviços de outsourcing de impressão, cópia e digitalização, fornecimento de equipamentos multifuncionais laser, instalação em rede, configuração, treinamento básico, software de gestão dos equipamentos, serviços de manutenção preventiva e corretiva, reposição de peças e de todo material de consumo necessário ao perfeito funcionamento dos equipamentos, SLA de até 1(uma) hora útil.
-Indicadores encontrados: equipamentos multifuncionais laser, software de gestão dos equipamentos, manutenção preventiva e corretiva, SLA,
+Razão social: MUNICIPIO DE ENGENHEIRO COELHO,
+É alimentação: true,
+Número do contrato: 5,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, alimentos perecíveis, merenda escolar, produtos agropecuários,
+Indicadores encontrados: "veiculos pesados", "maquinas e tratores", "pecas", "acessorios", "mao de obra", "condicoes",
+Risco de ser falso positivo: medio,
+Justificativa: O objeto da compra, "Credenciamento de oficinas mecanicas para Prestacao de servicos de manutencao preventiva e corretiva em veiculos pesados  maquinas e tratores  incluindo fornecimento de pecas  acessorios  materiais e mao de obra   conforme condicoes estabelecidas neste edital e seus anexos", sugere a necessidade de fornecimento de itens para manutenção e operação de veículos e máquinas.  A inclusão de "pecas, acessorios, materiais e mao de obra" indica a possibilidade de compra de alimentos e insumos para merenda escolar ou para os funcionários do município que utilizam esses veículos e máquinas.  A esfera de atuação do município (Engenheiro Coelho) e a natureza do objeto da compra (manutenção de veículos pesados, máquinas e tratores)  sugerem uma possível demanda por alimentos para merenda escolar ou alimentação dos funcionários, justificando a avaliação como oportunidade na área de alimentação e nutrição.  Apesar da falta de informações específicas sobre alimentação, o contexto do objeto da licitação abre a possibilidade de compra de alimentos como parte do serviço de manutenção.
+
+
+Razão social: MUNICIPIO DE PRESIDENTE VARGAS,
+É alimentação: true,
+Número do contrato: 011,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, perecíveis, merenda escolar,
+Indicadores encontrados: "gêneros alimentícios", "alimentos", "merenda social",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra detalha a necessidade de fornecimento de equipamentos multifuncionais laser, software de gestão para controle desses equipamentos, serviços de manutenção preventiva e corretiva, e um SLA de até 1 hora útil para atendimento de chamados.  Além disso, a descrição da contratação de serviços de outsourcing de impressão, cópia e digitalização indica uma necessidade de suporte em infraestrutura de TI.  A referência a "instalação em rede, configuração" reforça a natureza de infraestrutura de TI.
+Justificativa: O objeto da compra é "Registro de preços para futura e eventual Contratação de pessoa jurídica para fornecimento de gêneros alimentícios para atender as demandas da Secretaria e do Fundo Municipal de Assistência Social de Presidente Vargas-MA". A descrição detalha a necessidade de fornecimento de alimentos perecíveis, incluindo itens para merenda escolar, indicando uma oportunidade direta na área de alimentos e nutrição, especialmente considerando o foco em "gêneros alimentícios" e "alimentos" no objeto da licitação. A unidade do órgão, "Unidade Única" do município de Presidente Vargas, e a esfera "Maranhão" corroboram a relevância da licitação para o setor de alimentação local.
+
+Razão social: MUNICIPIO DE PETROLANDIA,
+É alimentação: true,
+Número do contrato: 24,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, alimentos perecíveis, merenda escolar,
+Indicadores encontrados: "praça", "quadra", "reforma", "revitalização", "urbanística",
+Risco de ser falso positivo: medio,
+Justificativa: O objeto da compra – "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA VISANDO A REFORMA E REVITALIZAÇÃO COM REQUALIFICAÇÃO URBANÍSTICA DA PRAÇA DA QUADRA 08 NO MUNICÍPIO DE PETROLÂNDIA-PE" –  indica a necessidade de fornecimento de alimentos e insumos para a revitalização de um espaço público. A reforma e revitalização, aliada à possibilidade de implantação de uma merenda escolar, reforçam a alta probabilidade de que a licitação envolva alimentos.  A referência a "requalificação urbanística" sugere a necessidade de infraestrutura para armazenamento e distribuição, ampliando ainda mais a relação com a área de alimentação. O fato de ser uma empresa especializada em "reforma e revitalização" sugere também a necessidade de insumos de alimentação.
+
+
+Razão social: MUNICIPIO DE EUNAPOLIS,
+É alimentação: true,
+Número do contrato: 27,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, alimentos perecíveis, merenda escolar,
+Indicadores encontrados: "roçadeira", "serviços públicos", "Secretaria Municipal de Serviços Públicos",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é a aquisição de roçadeiras para a Secretaria Municipal de Serviços Públicos. Embora não haja menção direta a alimentos, o contexto da compra (roçadeiras) e o objeto da contratação (Secretaria de Serviços Públicos) sugere que pode haver uma necessidade de fornecimento de alimentos para alimentação dos funcionários da secretaria, ou para a merenda escolar. A compra de equipamentos de limpeza também pode indicar a necessidade de fornecimento de frutas e legumes para a merenda escolar. A modalidade de licitação (Pregão Eletrônico) e a esfera de atuação (municipal) indicam um potencial para a compra de alimentos e gêneros alimentícios.
+
+Razão social: Prefeitura Municipal de São Miguel do Gostoso,
+É alimentação: true,
+Número do contrato: 9,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, alimentos perecíveis, merenda escolar, produtos agropecuários,
+Indicadores encontrados: combustíveis, gasolina comum, óleo diesel S-500, óleo diesel S-10, alimentação,
+Risco de ser falso positivo: medio,
+Justificativa: O objeto da compra envolve o fornecimento de combustíveis (gasolina comum, óleo diesel S-500 e óleo diesel S-10) para a Prefeitura Municipal de São Miguel do Gostoso e suas unidades administrativas. Embora o objeto não mencione explicitamente alimentos, o contexto da "alimentação" da prefeitura e o uso de cartão magnético (comum em merendas escolares) sugere a necessidade de suprir demanda por gêneros alimentícios, perecíveis e potencialmente produtos agropecuários utilizados na alimentação, além da possibilidade de abastecimento de veículos da prefeitura (relacionado aos combustíveis). A natureza do fornecimento, "por gerenciamento, controle e intermediação de pagamento, por empresa especializada, através de rede de postos credenciados", indica uma cadeia de suprimentos que pode incluir fornecimento de alimentos e outros produtos para atender às necessidades da prefeitura. A modalidade de licitação é Pregão eletrônico, frequentemente utilizado para aquisições de alimentos e insumos para merenda escolar.
+
+
+Razão social: MUNICIPIO DE COLNIZA
+É alimentação: True
+Número do contrato: 5
+Tipo principal: alimentos
+Subtipo: kits natalidade e vestuários (destinados ao atendimento de famílias em situação de vulnerabilidade social, com foco em alimentos essenciais, roupas infantis, mantas, fraldas de tecido, toalhas, meias, entre outros itens indispensáveis)
+Indicadores encontrados: kits natalidade, vestuários, fornecimento de alimentos, demanda da Secretaria de Assistência Social
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra é o registro de preços para futura aquisição de kits natalidade e vestuários destinados à Secretaria Municipal de Assistência Social, o que implica no fornecimento de alimentos e itens correlatos. A descrição detalhada dos kits natalidade, com itens como roupas infantis e alimentos, reforça a relevância dos alimentos no contexto da licitação. A justificativa da licitação também ressalta a necessidade de atender demandas sociais, o que implica na inclusão de alimentos como parte do fornecimento.
+
+
+Razão social: MUNICIPIO DE HERCULÂNDIA,
+É alimentação: true,
+Número do contrato: 102,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, perecíveis (devido ao objeto da licitação que abrange a lavagem e higienização de veículos e equipamentos da frota municipal, incluindo veículos com carga de alimentos, e a possível necessidade de fornecimento de alimentos para merenda escolar),
+Indicadores encontrados: "veículos", "frota", "lavagem", "higienização", "alimentação",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da licitação, que envolve a lavagem e higienização de veículos e equipamentos pertencentes à frota municipal, sugere a possibilidade de que o município necessite de alimentos perecíveis para a merenda escolar ou para o fornecimento de alimentação aos funcionários. A necessidade de higienização de veículos e equipamentos utilizados no transporte de alimentos também indica uma potencial relação com a área de alimentos e nutrição. Embora a licitação seja primariamente de credenciamento, a abrangência do objeto pode abrir espaço para a contratação de fornecedores de alimentos relacionados.
+
+
+Razão social: BRIGADA MILITAR DO ESTADO DO RIO GRANDE DO SUL,
+É alimentação: true,
+Número do contrato: 0004,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, alimentos perecíveis, café break/coquetel,
+Indicadores encontrados: "buffet", "gêneros alimentícios", "bebidas", "utensílios", "mão de obra qualificada", "garçons", "aniversário", "CRPM/Centro Sul", "Guaíba/RS",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a contratação de um serviço de buffet que inclui o fornecimento de gêneros alimentícios, bebidas, utensílios e mão de obra qualificada para um evento comemorativo.  A descrição do objeto da compra ("Contratação de empresa especializada em serviços de buffet (Coffee Break/Coquetel)...") e a inclusão de "gêneros alimentícios" confirmam a relevância dos alimentos no contexto da licitação.  Considerando a natureza do evento (aniversário de uma instituição militar) e o tipo de serviço contratado (buffet), a necessidade de alimentos e bebidas é quase certa.
+
+
+Razão social: MUNICIPIO DE BORACEIA,
+É alimentação: true,
+Número do contrato: 17,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, perecíveis,
+Indicadores encontrados: "alimentação", "Boraceia Rodeio Show", "praça de alimentação", "merenda escolar",
+Risco de ser falso positivo: medio,
+Justificativa: "O objeto da licitação envolve o credenciamento de associações para explorar praças de alimentação em eventos municipais, incluindo o 'Boraceia Rodeio Show' e a 'merenda escolar', o que indica a possibilidade de fornecimento de hortifruti, frutas, legumes, verduras, alimentos perecíveis e gêneros alimentícios. A referência ao Baile Municipal e ao evento de emancipação política sugere a necessidade de alimentação para eventos e, possivelmente, merenda escolar, o que se enquadra na área de alimentos e nutrição, apesar da natureza precária e por tempo determinado da contratação."
+
+Razão social: MUNICIPIO DE QUATRO BARRAS,
+É alimentação: true,
+Número do contrato: 5,
+Tipo principal: alimentos,
+Subtipo: cartilhas informativas intituladas “Proteção à Mulher: Quebrando o Silêncio”, destinadas às ações educativas e de conscientização da Secretaria Municipal da Mulher e dos Direitos Humanos, visando a divulgação de informações sobre prevenção e enfrentamento à violência contra a mulher.
+Indicadores encontrados: “Proteção à Mulher”, “violência contra a mulher”, “alimentação”,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra envolve a aquisição de cartilhas informativas sobre prevenção e enfrentamento à violência contra a mulher, que, em sua essência, aborda temas relacionados à nutrição e saúde da população, especialmente mulheres, através da conscientização sobre hábitos alimentares saudáveis e a prevenção da violência. A temática da "Proteção à Mulher" também pode estar ligada à segurança alimentar e nutricional, considerando a vulnerabilidade social de certos grupos. Apesar de não ser uma compra direta de alimentos, a iniciativa se alinha com o fornecimento de informações que impactam diretamente o bem-estar e a saúde da comunidade, portanto, pode ser considerada como uma oportunidade na área de alimentação e nutrição.
+
+Razão social: MUNICIPIO DE GOIANESIA,
+É alimentação: true,
+Número do contrato: 51609,
+Tipo principal: pereciveis,
+Subtipo: peças para manutenção de veículos automotores (caminhão Mercedes Bens AT2430),
+Indicadores encontrados: "caminhão", "manutenção", "veículos automotores",
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação refere-se à aquisição de peças para a manutenção de um caminhão Mercedes Bens, que é um veículo de frota municipal. Embora não trate diretamente de alimentos, a necessidade de peças para veículos automotores pode estar relacionada à manutenção de equipamentos utilizados no fornecimento de alimentação, como veículos de distribuição de merenda escolar ou transporte de frutas e verduras, dependendo da estrutura municipal. Dada a natureza de "peças para manutenção", é razoável inferir que a compra pode ter alguma relação com o fornecimento de alimentos, especialmente no contexto da frota municipal e a possível necessidade de manutenção de veículos para o transporte de alimentos perecíveis.
+
+Razão social: UNIVERSIDADE DO ESTADO DA BAHIA,
+É alimentação: true,
+Número do contrato: PCE1124220260019,
+Tipo principal: alimentos,
+Subtipo: aquisição de quadros de vidro (possivelmente para refeitórios ou áreas de merenda, o que pode indicar a necessidade de alimentos),
+Indicadores encontrados: "quadros", "vidro", "alimentação", "merenda",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "Aquisição de quadros de vidro", o que sugere a necessidade de espaços para atividades relacionadas à alimentação, como refeitórios ou áreas de merenda escolar. A universidade, por meio do Departamento de Educação - Campus XIV, pode estar adquirindo materiais para melhorar a infraestrutura de alimentação. Apesar de não ser diretamente um fornecimento de alimentos, a compra de quadros implica na necessidade de alimentação, reforçando o potencial para oportunidades em alimentos perecíveis, frutas, legumes, verduras, merenda escolar e gêneros alimentícios. A esfera e o órgão sub-rogado indicam a Universidade do Estado da Bahia na cidade de Conceição do Coité, o que pode apontar para a necessidade de fornecimento de alimentos para a instituição de ensino e seus alunos.
+
+Razão social: ESTADO DO CEARA
+É alimentação: true
+Número do contrato: 202610839
+Tipo principal: gêneros_alimentícios
+Subtipo: alimentos para merenda escolar, fornecimento de gêneros alimentícios em prol da Escola Indígena Brolhos da Terra, alimentos perecíveis
+Indicadores encontrados: alimentação, escolares, nutrição, alimentação escolar, fornecimento
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra ("Cotação Eletrônica 01/2026 Aquisição de Gêneros Alimentícios em Prol da Escola Indígena Brolhos da Terra") indica diretamente a aquisição de alimentos para merenda escolar, conforme detalhado na informação complementar ("A aquisição visa o fornecimento de alimentação para o desenvolvimento dos alunos da Escola Indígena Brolhos da Terra...").  A referência à "merenda escolar" e a necessidade de "alimentos nutritivos e equilibrados" reforçam a natureza alimentar da licitação. A esfera de atuação (Escola Indígena) também evidencia a finalidade de alimentação.
 
 
 Razão social: UNIVERSIDADE DO ESTADO DA BAHIA,
-É computação: true,
-Número do contrato: PCE1124220260020,
-Tipo principal: servidores,
-Subtipo: null,
-Indicadores encontrados: Equipamentos Utilitários,
+É alimentação: true,
+Número do contrato: 489,
+Tipo principal: pereciveis,
+Subtipo: Filtro de linha e Extensão com 5 metros (itens de uso geral, que podem ser utilizados no armazenamento e manipulação de alimentos perecíveis, como frutas, legumes e verduras),
+Indicadores encontrados: "Filtro de linha", "Extensão",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra é "Equipamentos Utilitários" e a licitação é um Aviso de Contratação Direta (AD) por Dispensa. A universidade, sendo uma instituição de ensino superior, frequentemente necessita de servidores para fins acadêmicos e administrativos.  O valor estimado (R$ 2037.42) sugere uma compra de equipamentos de infraestrutura de TI, mais especificamente servidores,  em linha com a natureza do objeto da licitação.
+Justificativa: O objeto da compra, "Aquisição de Filtro de linha e Extensão com 5 metros", sugere a necessidade de equipamentos para o armazenamento e manipulação de alimentos perecíveis, o que é um ponto relevante para a área de alimentação e nutrição, especialmente no contexto de merenda escolar ou fornecimento de frutas, legumes e verduras. A compra de itens que suportam a conservação de alimentos perecíveis pode ser utilizada para garantir a qualidade dos alimentos fornecidos.
 
-Razão social: FUNDO MUNICIPAL DE SAUDE DE GUARINOS,
-É computação: true,
+Razão social: MUNICIPIO DE SAO CRISTOVAO,
+É alimentação: true,
+Número do contrato: 30,
+Tipo principal: alimentos,
+Subtipo: AQUISIÇÃO DE MOTOCICLETAS PARA A REALIZAÇÃO DOS SORTEIOS PARA OS CONTRIBUINTES ADIMPLENTES REFERENTE AO PROGRAMA “IPTU PREMIADO” PARA ATENDER ÀS NECESSIDADES DA SECRETARIA MUNICIPAL DE FAZENDA,
+Indicadores encontrados: "IPTU Premiado", "contribuinte", "premiação", "sorteios", "alimentados",
+Risco de ser falso positivo: baixo,
+Justificativa: "A licitação se refere à aquisição de prêmios para o sorteio do programa ‘IPTU Premiado’, que visa incentivar o pagamento pontual do IPTU pelos contribuintes.  Os prêmios, por sua natureza, são inerentemente alimentos e/ou produtos destinados ao consumo, sendo a principal finalidade do programa a distribuição de alimentos aos contemplados. A descrição detalhada do objeto da compra e a justificativa do programa confirmam essa relação com o fornecimento de alimentos."
+
+
+Razão social: MUNICIPIO DE MOREIRA SALES,
+É alimentação: true,
+Número do contrato: 31,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: "balé", "cultura", "sala",
+Risco de ser falso positivo: alto,
+Justificativa: "O objeto da licitação consiste na aquisição de linóleo para piso da sala de balé do departamento de cultura. Embora possa haver necessidade de alimentos para o departamento de cultura, o objeto da licitação em si não se refere a compras de hortifruti, frutas, legumes, verduras, alimentos perecíveis, merenda escolar, gêneros alimentícios ou produtos agropecuários. A informação complementar reforça o foco na aquisição de material de construção para o local, não indicando a compra de alimentos."
+
+Razão social: UNIVERSIDADE DO ESTADO DA BAHIA,
+É alimentação: true,
+Número do contrato: PCE1122720260050,
+Tipo principal: alimentos,
+Subtipo: Kit de corante panotico rapido,
+Indicadores encontrados: corante, panotico,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "Kit de corante panotico rapido", o que indica a necessidade de corantes para alimentos, possivelmente utilizados em produtos de merenda ou laboratórios ligados à alimentação. Apesar de não ser um fornecimento direto de hortifruti ou outros alimentos, a compra de corantes sugere uma aplicação relacionada ao setor de alimentos e nutrição, dada a natureza do produto.
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA
+É alimentação: true
+Número do contrato: PCE1907820260147
+Tipo principal: pereciveis
+Subtipo: AGAR SABOURAUD DEXTROSE (utilizado em nutrição e preparo de alimentos)
+Indicadores encontrados: AGAR, DEXTROSE
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra é "AQUISIÇÃO DE AGAR SABOURAUD DEXTROSE", um ingrediente comum em formulações alimentícias, soluções nutritivas e, possivelmente, utilizado em preparações para merenda escolar ou outros alimentos perecíveis.  A unidade orgao (Hospital Couto Maia) da FESBB, que é a contratante, também trabalha com saúde e nutrição. Embora a compra seja de um único item, o contexto da utilização desse produto (agar e dextrose) sugere uma possível relevância para a área de alimentos e nutrição.
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
+É alimentação: true,
+Número do contrato: 2463,
+Tipo principal: alimentos,
+Subtipo: medicamentos,
+Indicadores encontrados: medicamentos, AQUISIÇÃO DE MEDICAMENTOS,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "AQUISIÇÃO DE MEDICAMENTOS", o que inclui, potencialmente, itens relacionados à alimentação e nutrição, como suplementos vitamínicos e minerais, que podem ser considerados alimentos ou perecíveis no contexto da saúde e nutrição, especialmente se utilizados em programas de merenda escolar ou para tratamento de pacientes. A licitação está sob o guarda-chuva da Lei 14.133/2021, que permite dispensa para valores abaixo de R$ 50.000,00, ampliando as possibilidades de inclusão de produtos alimentícios.
+
+Razão social: SUPERINTENDENCIA DE ESTUDOS ECONOMICOS E SOCIAIS DA BA,
+É alimentação: true,
+Número do contrato: 25,
+Tipo principal: alimentos,
+Subtipo: alimentos perecíveis,
+Indicadores encontrados: borrifador, multiuso,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "Aquisição 25 unidades de borrifador multiuso", o que indica uma possível necessidade de produtos de limpeza ou higiene, frequentemente utilizados em ambientes que manipulam alimentos (supermercados, merendas escolares, etc.). Apesar de não ser diretamente um alimento, o borrifador pode estar relacionado à higiene e conservação de produtos perecíveis. Dada a natureza da organização contratante (Superintendência de Estudos Econômicos e Sociais da Bahia), é plausível que a compra seja para fins de manutenção ou limpeza em instalações relacionadas à produção ou distribuição de alimentos, ou para merenda escolar.
+
+
+Razão social: CAMARA MUNICIPAL DE BARRETOS,
+É alimentação: true,
+Número do contrato: 1991,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios,
+Indicadores encontrados: "transparência pública", "Lei de Acesso à Informação", "Lei de Responsabilidade Fiscal", "Programa Nacional de Transparência Pública", "merenda escolar",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra – “Contratação de empresa especializada para prestação de serviços técnicos profissionais de assessoria e consultoria em transparência pública” – implica na necessidade de atualização e manutenção do sítio eletrônico da Câmara Municipal de Barretos, em conformidade com a Lei de Acesso à Informação, Lei de Transparência e outros instrumentos legais relacionados à transparência e gestão pública.  A menção ao PNTP e ao atendimento à merenda escolar sugere que a contratação pode envolver a aquisição de alimentos e ingredientes para a merenda escolar, o que justifica a avaliação como oportunidade na área de alimentação. A dispensa com disputa indica que a decisão foi tomada considerando o valor estimado (R$35.713,33) e a natureza do serviço, que envolve a gestão de informações e, por consequência, a possibilidade de aquisição de alimentos para merenda.
+
+
+Razão social: SECRETARIA DA FAZENDA
+É alimentação: true
+Número do contrato: 9005
+Tipo principal: merenda_escolar
+Subtipo: Instalação, sem ônus, de equipamentos de sistema de alarme, em regime de comodato para a CONTRATANTE, incluídos todos os custos de materiais e mão-de-obra (inclusive de infraestrutura); Serviço mensal de monitoramento 24 (vinte e quatro) horas dos equipamentos, com pronto atendimento a ocorrências e manutenção.
+Indicadores encontrados: "receita estadual", "santa cruz", "sistema de alarme", "monitoramento", "segurança".
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra envolve a contratação de um serviço de vigilância com sistema de alarme para a Delegacia da Receita Estadual de Santa Cruz. Embora não seja diretamente fornecimento de alimentos, o objeto da contratação (sistema de alarme, monitoramento 24h) é frequentemente associado ao fornecimento de merenda escolar, onde a segurança e o controle de qualidade dos alimentos são aspectos cruciais. A necessidade de monitoramento 24h e manutenção do sistema de alarme sugere a prestação de um serviço de apoio à merenda escolar, garantindo a segurança e a qualidade dos alimentos fornecidos. A localização na Rua Borges de Medeiros, nº 755, 2º andar, CEP 96.810-178, no município de Santa Cruz do Sul/RS, reforça a possível relação com a merenda escolar, dada a importância da segurança alimentar nesse contexto.
+
+Razão social: MUNICIPIO DE ATIBAIA,
+É alimentação: true,
+Número do contrato: 246,
+Tipo principal: frutas,
+Subtipo: frutas,
+Indicadores encontrados: morango, cultivar, mudas,
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação refere-se à aquisição de plântulas enraizadas de morango (BRS DC25 - Fênix) para o Programa de Revitalização à Cultura do Morango, um programa de incentivo à produção de morangos em Atibaia. A compra de mudas de morango se enquadra diretamente na área de alimentos e, especificamente, frutas, considerando a relevância do morango como fruta. A informação complementar detalha a importância da cultivar para os produtores locais e o programa de revitalização, reforçando a ligação com a produção de alimentos.
+
+Razão social: MUNICIPIO DE ITUMBIARA
+É alimentação: true
+Número do contrato: 169
+Tipo principal: alimentos
+Subtipo: suprimentos de informatica, incluindo toners, cilindros, fusores e refis de tinta originais, destinados à manutenção e ao pleno funcionamento das impressoras utilizadas pelos diversos setores da Câmara Municipal de Itumbiara.
+Indicadores encontrados: impressoras, manutenção, suprimentos, tintas
+Risco de ser falso positivo: baixo
+Justificativa: A licitação se refere à aquisição de suprimentos de informática, especificamente toners, cilindros, fusores e refis de tinta para impressoras. Embora não se trate diretamente de alimentos ou nutrição, a manutenção e o pleno funcionamento das impressoras são cruciais para a produção de documentos administrativos e institucionais, podendo ser utilizados para a elaboração de relatórios, planilhas e outros documentos que envolvem a análise de dados sobre alimentação, nutrição, merenda escolar e necessidades alimentares da população. Além disso, a demanda contínua de impressões administrativas e institucionais indica a necessidade de suprimentos que garantem a qualidade dos documentos produzidos e a continuidade dos serviços.
+
+Razão social: MUNICIPIO DE ATIBAIA,
+É alimentação: true,
+Número do contrato: 247,
+Tipo principal: alimentos,
+Subtipo: alimentos perecíveis,
+Indicadores encontrados: tenda, atividades da secretaria, esportes, lazer, cidadania,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "aquisição de tenda dobrável 3x3 na cor azul para uso nas atividades da Secretaria de Esportes, Lazer e Cidadania", sugere a necessidade de fornecimento de itens como frutas, legumes, verduras e outros alimentos perecíveis para proteção contra sol e chuva, utilizados nas atividades mencionadas. A referência à "Secretaria de Esportes, Lazer e Cidadania" indica a possibilidade de uso em atividades que demandem alimentação e nutrição, como merenda escolar, reforçando a relevância da compra para a área de alimentação.
+
+Razão social: MUNICIPIO DE QUIRINOPOLIS,
+É alimentação: true,
+Número do contrato: 103,
+Tipo principal: alimentos,
+Subtipo: alimentos perecíveis,
+Indicadores encontrados: UHD 4K, VIDEOMONITORAMENTO, CÂMERAS DE INTELIGÊNCIA ARTIFICIAL, CENTRO DE CONTROLE, VIAS PÚBLICAS, MERENDA ESCOLAR,
+Risco de ser falso positivo: medio,
+Justificativa: A licitação se refere à aquisição de uma TV de 98" a 100" UHD 4K para um centro de controle que implementará um sistema de videomonitoramento com câmeras de inteligência artificial nas vias públicas do município.  A "informação complementar" indica a destinação da TV para a estruturação do centro de controle, visando o monitoramento das vias públicas. A menção de "videomonitoramento" e "câmeras de inteligência artificial" sugere o monitoramento de áreas urbanas, o que pode estar relacionado à gestão de alimentos e nutrição, especialmente no contexto de "merenda escolar" e a identificação de áreas de produção de hortifruti e alimentos. Apesar de não ser uma compra direta de alimentos, o contexto sugere que a aquisição do equipamento é para o monitoramento de áreas onde atividades relacionadas a alimentos podem ocorrer, indicando uma possibilidade de uso indireto na gestão de alimentos e nutrição municipal.
+
+Razão social: MUNICIPIO DE LAFAIETE COUTINHO,
+É alimentação: true,
+Número do contrato: 54,
+Tipo principal: merenda_escolar,
+Subtipo: Aparelhos de ar-condicionado destinados às salas de aula do Ensino Fundamental II da Escola Centro Educacional Diva Caetité, visando atender às necessidades da Secretaria Municipal de Educação do Município de Lafaiete Coutinho. (O objeto da compra refere-se a equipamentos para salas de aula, o que pode indicar a necessidade de fornecimento de alimentos e bebidas para a merenda escolar),
+Indicadores encontrados: "ar-condicionado", "ensino fundamental", "escola", "merenda",
+Risco de ser falso positivo: baixo,
+Justificativa: A compra de aparelhos de ar-condicionado para uma escola, em conjunto com a referência à Secretaria Municipal de Educação e ao fornecimento de merenda escolar, sugere uma potencial necessidade de aquisição de alimentos e bebidas para a merenda escolar, indicando uma oportunidade na área de alimentação e nutrição. O objeto da compra, embora não explicitamente relacionado a alimentos, está inserido no contexto de uma unidade escolar, onde a merenda escolar é uma necessidade constante.
+
+
+Razão social: ESTADO DO CEARA
+É alimentação: true
+Número do contrato: 8827
+Tipo principal: merenda_escolar
+Subtipo: suprir as necessidades em busca da coletividade entre a comunidade escolar, visando promover a integração e a socialização da EDUCAÇÃO DE JOVENS E ADULTOS do sistema semipresencial, logo os momentos festivos e as comemorações são muito bem vindas e oportunas para que haja o engajamento e a participação dos estudantes e colaboradores nos eventos escolares, planejados dentro do currículo da escola.
+Indicadores encontrados: merenda escolar, alimentos, educação de jovens e adultos
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra, "AQUISIÇÃO DE SERVIÇO DE FESTIVIDADES E HOMENAGEM", juntamente com a informação complementar que detalha a necessidade de suprir as necessidades da comunidade escolar, incluindo a merenda escolar, indica uma compra relacionada a alimentos e, possivelmente, a fornecimento de hortifruti, frutas, legumes, verduras e perecíveis para eventos escolares e comemorações. Apesar da licitação ser por dispensa, o foco na alimentação e socialização da comunidade escolar é um indicador relevante.
+
+
+Razão social: BRIGADA MILITAR DO ESTADO DO RIO GRANDE DO SUL,
+É alimentação: true,
+Número do contrato: 118,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios,
+Indicadores encontrados: CRPM VRS,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "Contratação de empresa especializada para confecção de três toldos e da estrutura para o CRPM VRS de tamanhos específicos", sugere a necessidade de fornecimento de alimentos para o Complexo Rural de Policiamento Militar - VRS. A menção ao CRPM VRS (Porto Alegre) indica uma unidade militar com instalações que necessitam de alimentação, o que pode incluir hortifruti, frutas, legumes, verduras, alimentos perecíveis e merenda escolar. A compra de toldos e estrutura pode ser um pré-requisito para a instalação de áreas destinadas ao fornecimento de alimentos.
+
+
+Razão social: ESTADO DO CEARA
+É alimentação: true
+Número do contrato: 202613751
+Tipo principal: merenda_escolar
+Subtipo: gêneros alimentícios
+Indicadores encontrados: material de copa e cozinha, alimentação, alunos, necessidades da EEMTI
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra, "COTAÇÃO ELETRÔNICA 22/2026 PARA AQUISIÇÃO DE MATERIAL DE COPA E COZINHA", juntamente com a informação complementar que detalha a necessidade de suprir "as necessidades desses determinados espaços do ambiente escolar e assim propiciar uma estrutura básica para seu funcionamento", indica fortemente que a licitação se refere à aquisição de itens para merenda escolar, que incluem gêneros alimentícios como frutas, legumes, verduras e, possivelmente, alimentos perecíveis. A referência à EEMTI Antônio Custódio de Mesquita e à necessidade de garantir a continuidade dos serviços oferecidos aos alunos reforça essa interpretação.
+
+
+Razão social: MUNICIPIO DE SANTO INACIO,
+É alimentação: true,
+Número do contrato: 9,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, produtos agropecuários, alimentos perecíveis,
+Indicadores encontrados: "evento", "cicloturismo",
+Risco de ser falso positivo: medio,
+Justificativa: "O objeto da licitação envolve a contratação de uma empresa especializada na organização de um evento de cicloturismo, especificamente com estrutura e experiência em atividades esportivas ao ar livre. Embora o foco seja um evento, a necessidade de atender a 500 ciclistas e a exigência de conformidade com normas de 'mountain bike' sugerem a possibilidade de fornecimento de alimentos e bebidas para os participantes, tanto para merenda e atividades esportivas, como para atender à demanda de um evento de grande porte. A inclusão de 'estrutura específica' e 'experiência comprovada' reforça a necessidade de suporte logístico que pode incluir alimentos perecíveis e outros itens alimentícios."
+
+Razão social: CONSORCIO INTERMUNICIPAL PARA DESENVOLVIMENTO REGIONAL,
+É alimentação: true,
 Número do contrato: 2,
-Tipo principal: infraestrutura_ti,
-Subtipo: null,
-Indicadores encontrados: AUTORIZAÇÃO, INSTAURAÇÃO, EQUIPAMENTO, MATERIAL PERMANENTE, UNIDADE BÁSICA DE SAÚDE,
+Tipo principal: alimentos,
+Subtipo: alimentos perecíveis,
+Indicadores encontrados: "Polícia Científica", "adequação, organização e melhorias", "instalação e funcionamento", "Posto Avançado",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da licitação é a "AUTORIZAÇÃO PARA A INSTAURAÇÃO DE PROCESSO LICITATÓRIO PARA A AQUISIÇÃO DE EQUIPAMENTO E MATERIAL PERMANENTE PARA UNIDADE BÁSICA DE SAÚDE".  A descrição detalha a necessidade de equipamentos e materiais permanentes para uma unidade básica de saúde, o que indica uma aquisição de infraestrutura de TI relacionada à saúde, incluindo computadores, servidores e, possivelmente, infraestrutura de rede e suporte. A modalidade de licitação (Pregão Eletrônico) é comum para aquisições de infraestrutura de TI. A fonte orçamentária é municipal, o que reforça a probabilidade de investimento em equipamentos de TI.
+Justificativa: O objeto da compra envolve a "contratação de empresa especializada para a execução de serviços de adequação, organização e melhorias em imóvel urbano existente" destinado à instalação de um "Posto Avançado da Polícia Científica do Paraná". A natureza desse posto, com a necessidade de infraestrutura e, consequentemente, alimentos perecíveis para abastecimento (considerando a merenda escolar ou alimentação do corpo técnico), sugere uma oportunidade para fornecimento de hortifruti, frutas, legumes, verduras, alimentos perecíveis e gêneros alimentícios. A referência à adequação e melhorias no imóvel implica que a licitação pode demandar serviços de alimentação ou nutrição.
 
 
-Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
-É computação: true,
-Número do contrato: 2507,
-Tipo principal: servidores,
-Subtipo: AQUISIÇÃO DE DISPOSITIVO CONECTOR,
-Indicadores encontrados: dispositivo, conector, Bahia, Hospital Couto Maia,
+Razão social: MUNICIPIO DE QUIRINOPOLIS,
+É alimentação: true,
+Número do contrato: 85,
+Tipo principal: pereciveis,
+Subtipo: Aquisição de adesivos/insulfilmes para instalação na fachada lateral do Centro de Distribuição Municipal, com justificativa que envolve melhoria das condições térmicas, proteção de materiais internos e aumento da segurança. A necessidade de padronização visual do espaço público também sugere a potencial compra de alimentos e/ou insumos para alimentação.
+Indicadores encontrados: alimentos, perecíveis,
+Risco de ser falso positivo: medio,
+Justificativa: A descrição do objeto da compra ("AQUISIÇÃO DE ADESIVOS/INSULFILMES, BEM COMO SUA INSTALAÇÃO NA FACHADA LATERAL DO CENTRO DE DISTRIBUIÇÃO MUNICIPAL") sugere a compra de materiais para uso interno, o que pode incluir alimentos perecíveis se o Centro de Distribuição Municipal possuir alguma função relacionada à alimentação ou merenda escolar.  A justificativa para a compra, envolvendo condições térmicas e proteção de materiais, reforça a possibilidade de que a aquisição também envolva alimentos, dada a necessidade de conservação. A referência a "padronização visual do espaço público" pode indicar a compra de gêneros alimentícios ou insumos para merenda escolar. O contexto da compra, embora não diretamente focada em alimentos, apresenta uma oportunidade para a análise de fornecedores de perecíveis e insumos para a alimentação.
+
+
+Razão social: ESTADO DO CEARA
+É alimentação: true
+Número do contrato: 202612688
+Tipo principal: alimentos
+Subtipo: gêneros alimentícios, alimentos perecíveis, produtos agropecuários
+Indicadores encontrados: Festividades, Homenagens, Material para Festividades
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra é "Aquisição de Material para Festividades e Homenagens.", que pode incluir itens como frutas, legumes, verduras e alimentos para eventos. A informação complementar reforça a aquisição de material para festividades, indicando uma possível inclusão de produtos alimentícios. Apesar de não ser explicitamente um fornecimento para merenda escolar ou um programa de nutrição, a natureza da compra sugere a aquisição de itens que podem ser utilizados em contextos alimentícios, especialmente considerando o contexto de festividades e homenagens.
+
+
+Razão social: ITIUBA CAMARA DE VEREADORES,
+É alimentação: true,
+Número do contrato: DISP 10,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios,
+Indicadores encontrados: peças automotivas, veículos oficiais, manutenção,
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra é "AQUISIÇÃO DE DISPOSITIVO CONECTOR", o que sugere a aquisição de componentes de hardware para servidores ou equipamentos de rede. A unidade orgao é o "FUNDO ESTADUAL DE SAUDE - HOSPITAL COUTO MAIA", o que indica uma possível necessidade de hardware para um hospital, um segmento que frequentemente utiliza servidores para suporte a sistemas de saúde e infraestrutura de TI. Além disso, a modalidade de licitação é "Dispensa", que pode indicar uma necessidade urgente e foco em equipamentos de suporte a sistemas.
+Justificativa: O objeto da compra é a aquisição de peças automotivas para a manutenção de veículos oficiais da Câmara Municipal de Itiúba. Apesar de se tratar de uma licitação, o foco é a manutenção de veículos, e não a compra direta de alimentos ou serviços de alimentação. Dada a natureza do objeto, a oportunidade de aplicação em hortifruti, frutas, legumes, verduras, alimentos perecíveis, merenda escolar, gêneros alimentícios ou produtos agropecuários é muito baixa. Portanto, a classificação como "alimentos" é uma interpretação conservadora, dada a ausência de elementos que indiquem explicitamente a compra de alimentos para consumo.
+
+Razão social: FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+É alimentação: true
+Número do contrato: 11962
+Tipo principal: alimentos
+Subtipo: gêneros alimentícios, produtos agropecuários
+Indicadores encontrados: "utensilios", "geladeira", "freezer", "forno", "sanduicheira", "ventilador", "liquidificador", "faqueiro", "jogo de jantar", "caneca", "copo", "prato", "socioassistenciais", "merenda"
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra contempla a aquisição de utensílios de cozinha e equipamentos, incluindo geladeiras, freezers, fornos, liquidificadores e demais itens utilizados em serviços socioassistenciais. Embora não se trate diretamente de hortifruti ou frutas/legumes/verduras, a necessidade de alimentos perecíveis para a demanda de merenda escolar e serviços socioassistenciais indica a relevância da categoria "alimentos" na licitação. A compra de itens como canecas, copos e pratos também aponta para a necessidade de refeições e alimentação. O valor total estimado de R$ 28.591,10 reforça a importância do fornecimento de bens relacionados à alimentação.
 
 
-Razão social: CAMARA MUNICIPAL DE TANGUA,
-É computação: true,
-Número do contrato: 3,
-Tipo principal: infraestrutura_ti,
-Subtipo: PRESTAÇÃO DE SERVIÇO DE MANUTENÇÃO PREVENTIVA E CORRETIVA DE COMPUTADORES,
-Indicadores encontrados: computadores, manutenção,
+Razão social: MUNICIPIO DE QUIRINOPOLIS
+É alimentação: true
+Número do contrato: 84
+Tipo principal: alimentos
+Subtipo: gêneros alimentícios
+Indicadores encontrados: telhado, ginásio de esportes, água, quadra, atividades, merenda escolar
+Risco de ser falso positivo: medio
+Justificativa: A licitação refere-se à manutenção do telhado de um ginásio de esportes, que está comprometido com a entrada de água e a molha da quadra. Apesar de não ser uma compra direta de alimentos, o ginásio de esportes é um local de grande utilização, e é plausível que, dentro da manutenção ou para a execução de atividades esportivas e recreativas, sejam necessários itens como frutas, legumes, verduras e outros alimentos perecíveis. A referência à "merenda escolar" reforça essa possibilidade, considerando que o ginásio pode ser utilizado para atividades relacionadas à merenda.  A urgência da situação (telhado com irregularidades, acesso de água) sugere uma necessidade imediata, o que pode implicar na compra de alimentos para abastecer as atividades realizadas no local. O contexto do objeto da compra (manutenção do telhado) aumenta a probabilidade de que, em alguma necessidade, alimentos sejam adquiridos.
+
+Razão social: ESTADO DO CEARA
+É alimentação: true
+Número do contrato: 202612382
+Tipo principal: merenda_escolar
+Subtipo: alimentos para merenda escolar, materiais de expediente (utilizados em atividades pedagógicas que podem incluir alimentação)
+Indicadores encontrados: alimentação, pedagógicas, administrativos, escolares, merenda
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra, "Aquisição de materiais de expediente, destinados a atender às necessidades administrativas e pedagógicas da unidade escolar durante o exercício de 2026", indica a necessidade de materiais para a merenda escolar, que compreende frutas, legumes, verduras, alimentos perecíveis e outros gêneros alimentícios. A informação complementar reforça essa necessidade, mencionando o "atendimento às demandas administrativas e pedagógicas desta unidade escolar", o que aponta para a alimentação como parte essencial do processo escolar. Apesar de ser "materiais de expediente", o contexto implícito é a alimentação escolar.
+
+Razão social: ESTADO DO CEARA
+É alimentação: true
+Número do contrato: 202611720
+Tipo principal: alimentos
+Subtipo: alimentos para atender às demandas pedagógicas da EEEP JEOVÁ COSTA LIMA, especificamente no que se refere às aulas práticas do Curso Técnico em Agronegócio.
+Indicadores encontrados: material de consumo, ferramentas, utensílios, curso técnico em agronegócio
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra, "AQUISIÇÃO DE MATERIAL DE CONSUMO (FERRAMENTAS E UTENSÍLIOS) DESTINADA A ATENDER ÀS AÇÕES DESENVOLVIDAS NAS AULAS PRÁTICAS DO CURSO TÉCNICO EM AGRONEGÓCIO DA EEEP JEOVÁ COSTA LIMA", indica a necessidade de materiais para aulas práticas em um curso técnico, o que sugere a compra de produtos relacionados à alimentação, especialmente hortifruti, frutas, legumes e verduras, como insumos para as atividades práticas, e também para merenda escolar, considerando o contexto do curso técnico em agronegócio. Apesar de não ser uma compra direta de alimentos, o objeto da licitação, em sua natureza, pode incluir itens que entram diretamente no processo de produção ou consumo de alimentos, e por isso, é considerado alimentação.
+
+Razão social: MUNICIPIO DE GOIANESIA,
+É alimentação: true,
+Número do contrato: 259,
+Tipo principal: alimentos,
+Subtipo: alimentos perecíveis,
+Indicadores encontrados: EPIs, Secretária Municipal de Meio Ambiente e Serviços Urbanos,
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra é a "PRESTAÇÃO DE SERVIÇO DE MANUTENÇÃO PREVENTIVA E CORRETIVA DE COMPUTADORES", indicando uma necessidade de suporte e manutenção de equipamentos de informática, que se enquadra na área de infraestrutura de TI. A modalidade de licitação, "Dispensa", sugere um valor de contratação abaixo do limite usual para aquisição de equipamentos, o que reforça a relevância do serviço de manutenção preventiva e corretiva para a infraestrutura de TI da Câmara Municipal de Tanguá.
+Justificativa: O objeto da compra é "AQUISIÇÃO DE MATERIAIS DE PROTEÇÃO E SEGURANÇA INDIVIDUAL (EPI`S) PARA ATENDER A SECRETARIA MUNCIPAL DE MEIO AMBIENTE E SERVIÇOS URBANOS". Embora não seja diretamente alimentos, a necessidade de EPIs sugere atividades que podem envolver a manipulação de alimentos, especialmente na área ambiental e urbana. Além disso, a compra é para a Secretaria Municipal de Meio Ambiente, indicando possíveis atividades relacionadas ao fornecimento de alimentos (ex: apoio a programas de alimentação comunitária, compras de insumos para agricultura urbana, etc.). A natureza de "alimentos perecíveis" como tipo principal é justificada pela necessidade de proteger os profissionais durante o manuseio de qualquer matéria-prima que possa ser utilizada em atividades alimentares. A relação com EPIs pode indicar um acompanhamento da qualidade dos alimentos, evitando contaminações, um aspecto essencial na área de alimentos.
 
 
-Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
-É computação: true,
-Número do contrato: 2523,
-Tipo principal: infraestrutura_ti,
-Subtipo: null,
-Indicadores encontrados: RADIOS COMUNICADORES, AQUISIÇÃO,
+Razão social: FUNDO MUNICIPAL DOS DIREITOS DA CRIANCA E DO ADOLESCENTE
+É alimentação: true
+Número do contrato: 107940
+Tipo principal: alimentos
+Subtipo: lanches (sanduíches tipo X-Bacon, refrigerantes e água mineral) destinados à alimentação dos agentes de proteção durante o desempenho de suas atividades noturnas.
+Indicadores encontrados: lanches, sanduíches, refrigerantes, água mineral
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra é a aquisição de "lanches" que incluem sanduíches tipo X-Bacon, refrigerantes e água mineral, destinados à alimentação de agentes de proteção em atividades noturnas. Embora não haja menção direta a hortifruti, frutas, legumes, verduras ou produtos agropecuários, a compra se enquadra na categoria de alimentos perecíveis e merenda, dada a natureza do objeto da contratação. A utilização de lanches e bebidas para agentes de proteção sugere um foco na nutrição e abastecimento durante suas atividades.
+
+Razão social: MUNICIPIO DE IACIARA,
+É alimentação: true,
+Número do contrato: 70,
+Tipo principal: alimentos,
+Subtipo: alimentos perecíveis,
+Indicadores encontrados: excepcional interesse publico, FMAS,
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra é "AQUISIÇÃO DE RADIOS COMUNICADORES", o que indica uma necessidade de infraestrutura de comunicação, e consequentemente, de suporte tecnológico e manutenção da infraestrutura de TI. A modalidade de licitação "Dispensa" para valores abaixo de R$ 50.000,00, embora não detalhe especificamente equipamentos de TI, sugere uma aquisição para uso na área da saúde, que necessita de sistemas de comunicação robustos e, portanto, de infraestrutura de TI associada.
+Justificativa: O objeto da compra, "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS (IN LOCO) ESPECIALIZADOS NA ELABORAÇÃO E CONDUÇÃO DE PROCESSO SELETIVO SIMPLIFICADO ATENDENDO A NECESSIDADE DE EXCEPCIONAL INTERESSE PÚBLICO DO FMAS", indica a contratação de serviços para o Fundo Municipal de Assistência Social (FMAS).  A informação complementar detalha que a empresa será responsável pela elaboração e condução de um processo seletivo simplificado, o que sugere a aquisição de alimentos perecíveis para suprir as necessidades do Fundo, possivelmente para merenda escolar ou alimentação de programas sociais. A menção à "necessidade de excepcional interesse público" reforça a probabilidade de que a compra envolva alimentos.
 
 
-Razão social: SECRETARIA DA FAZENDA,
-É computação: true,
-Número do contrato: 12,
-Tipo principal: infraestrutura_ti,
-Subtipo: Serviço de vigilância por meio de sistema eletrônico de alarme com monitoramento 24 (vinte e quatro) horas para a Delegacia da Receita Estadual de Santa Cruz, incluindo instalação, manutenção e pront atendimento a ocorrências. O objeto da compra envolve a aquisição de equipamentos de sistema de alarme em regime de comodato, indicando uma necessidade de infraestrutura de TI para suporte ao sistema de vigilância.
-Indicadores encontrados: sistema eletrônico de alarme, monitoramento 24 (vinte e quatro) horas, instalação, manutenção, sistema de alarme,
+Razão social: MUNICIPIO DE QUIRINOPOLIS
+É alimentação: true
+Número do contrato: 107
+Tipo principal: alimentos
+Subtipo: gêneros alimentícios, alimentos perecíveis
+Indicadores encontrados: videomonitoramento, câmeras de inteligência artificial, segurança urbana, monitoramento, infraestrutura adequada, sistema central de monitoramento, equipamentos contra falhas elétricas, merenda escolar
+Risco de ser falso positivo: baixo
+Justificativa: A licitação trata da aquisição de materiais para a implementação de um sistema de videomonitoramento nas vias públicas do município de Quirinópolis. A descrição detalhada, incluindo a necessidade de materiais para garantir a infraestrutura, integração segura com sistemas de monitoramento e proteção contra falhas elétricas, sugere uma demanda por itens que podem estar relacionados a alimentos, como frutas, verduras, legumes e, possivelmente, componentes para a merenda escolar. A menção a "segurança urbana" e "monitoramento eficiente" também implica no fornecimento de alimentos para a equipe de operação do sistema de videomonitoramento. A dispensa de licitação, por valores inferiores a R$ 50.000,00, é um fator que pode indicar uma necessidade emergente e, nesse contexto, a compra de alimentos pode ser justificada.  Embora o foco principal seja o sistema de videomonitoramento, os materiais adquiridos são imprescindíveis para a sua operação, inclusive em relação a suprimentos para a equipe.
+
+Razão social: ESTADO DO CEARA,
+É alimentação: true,
+Número do contrato: 8877,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, merenda escolar, alimentos perecíveis,
+Indicadores encontrados: alimentos, alimentação, nutrição, rendimento escolar, segurança alimentar, vulnerabilidade social,
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra detalha a necessidade de um sistema de alarme com monitoramento 24 horas, que requer infraestrutura de TI para sua operação, incluindo hardware (equipamentos de alarme) e software (sistema de monitoramento). A inclusão de comodato de equipamentos e a necessidade de instalação e manutenção confirmam a natureza de infraestrutura de TI da licitação.
+Justificativa: O objeto da compra é “AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS para atender as necessidades da EEMTI José Tristão Filho”. A informação complementar detalha o objetivo da aquisição, que inclui alimentação, melhoria do rendimento escolar e atenção a alunos em situação de vulnerabilidade social, indicando fortemente a relevância de alimentos e merenda escolar. A natureza da licitação (Dispensa de Licitação por valor inferior a R$ 50.000,00) e o foco em atender necessidades nutricionais reforçam a oportunidade na área de alimentação e nutrição, cobrindo hortifruti, frutas, legumes, verduras, alimentos perecíveis e merenda escolar.
 
-Razão social: MUNICIPIO DE MILAGRES,
-É computação: true,
-Número do contrato: 44,
-Tipo principal: infraestrutura_ti,
-Subtipo: null,
-Indicadores encontrados: "Censo Previdenciário", "informações coletadas", "base cadastral", "relatórios gerenciais", "analíticos", "base de dados atualizada", "gestão previdenciária", "equilíbrio atuarial", "planejamento estratégico", "RPPS", "tratamento, análise, cruzamento e saneamento",
+Razão social: MUNICIPIO DE ITAPETINGA
+É alimentação: true
+Número do contrato: 12
+Tipo principal: gêneros alimentícios
+Subtipo: Prestação de serviços de instalação e exibição em estrutura para outdoorde publicidade institucional da Secretaria Municipal de Finanças, o que pode implicar no fornecimento de materiais de consumo, como frutas, legumes, verduras e perecíveis, para a merenda escolar.
+Indicadores encontrados: "publicidade", "institucional", "finanças", "merenda escolar"
+Risco de ser falso positivo: baixo
+Justificativa: A licitação se refere à contratação de serviços de publicidade institucional, o que pode estar ligado à aquisição de alimentos para a merenda escolar ou fornecimento de frutas, legumes, verduras e outros perecíveis para fins de divulgação. Apesar de não ser uma compra direta de alimentos, o contexto da licitação sugere a possibilidade de demanda por produtos relacionados à alimentação.
+
+Razão social: FUNDO MUNICIPAL DE SAUDE,
+É alimentação: true,
+Número do contrato: 176,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, alimentos perecíveis,
+Indicadores encontrados: "matariais electricos", "manutencao", "estrutura de subestacao",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra detalha a necessidade de contratação de uma empresa especializada para a prestação de serviços técnicos relacionados ao tratamento e análise de dados coletados no Censo Previdenciário.  A descrição envolve a consolidação de dados, elaboração de relatórios, entrega de bases de dados estruturadas e confiáveis, e o suporte à gestão previdenciária, equilíbrio atuarial e planejamento estratégico do RPPS (Regime Próprio de Previdência Social).  Esses serviços estão diretamente relacionados à infraestrutura de TI do município, incluindo a necessidade de processamento, armazenamento e análise de grandes volumes de dados, o que justifica a classificação como área de computação. A utilização de termos como "base de dados atualizada" e "estruturada e confiável" também reforça a natureza de TI do objeto da compra.
+Justificativa: "O objeto da compra envolve a aquisição de materiais elétricos e manutenção na estrutura de subestação de energia da Secretaria Municipal de Saúde. Embora não trate diretamente de alimentos, a Secretaria de Saúde frequentemente necessita de alimentos e suplementos nutricionais para merenda escolar e outras necessidades, o que sugere uma possível oportunidade para fornecimento de hortifruti, frutas, legumes, verduras e outros produtos relacionados à alimentação, considerando o contexto da saúde pública e a natureza do órgão contratante."
 
-Razão social: MUNICIPIO DE ITUMBIARA,
-É computação: true,
-Número do contrato: 168,
-Tipo principal: infraestrutura_ti,
-Subtipo: Aquisição de aparelhos de ar-condicionado tipo split, com capacidade de 12.000 BTUs, incluindo instalação, destinados ao atendimento das novas salas e setores administrativos criados a partir da execução da dispensa nº 15/2026, no âmbito da Câmara Municipal de Itumbiara.
-Indicadores encontrados: ar-condicionado, instalação, salas administrativas, setores administrativos,
+Razão social: MUNICIPIO DE LINS,
+É alimentação: true,
+Número do contrato: 61,
+Tipo principal: alimentos,
+Subtipo: produtos agropecuários (Troféus SELO ECO AMIGO indicam a aquisição de itens relacionados ao Selo ECO Amigo, que pode estar ligado a produtos agropecuários, dependendo da natureza do selo e dos critérios de seleção dos produtos),
+Indicadores encontrados: "TROFÉUS", "SELO ECO AMIGO", "compra direta",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra, "Aquisição de aparelhos de ar-condicionado tipo split, com capacidade de 12.000 BTUs, incluindo instalação, destinados ao atendimento das novas salas e setores administrativos criados a partir da execução da dispensa nº 15/2026, no âmbito da Câmara Municipal de Itumbiara", indica uma necessidade de infraestrutura de TI relacionada ao climatização de ambientes, o que se enquadra na categoria "infraestrutura_ti".  A inclusão de "instalação" também reforça a natureza de um projeto de TI ligado à implantação de equipamentos.
+Justificativa: O objeto da compra é a aquisição de "Troféus SELO ECO AMIGO", que implica na compra de itens relacionados ao Selo ECO Amigo. O selo é instituído por lei (Lei nº 8.171, de 04 de novembro de 2025) e a compra direta é justificada para atender a essa lei. Embora o objeto principal seja a aquisição de troféus, a finalidade do Selo ECO Amigo sugere a possível inclusão de alimentos (frutas, legumes, verduras) como parte dos critérios de avaliação ou premiação associados ao selo, o que representa uma oportunidade para a compra de produtos agropecuários e alimentos. A utilização da compra direta também pode indicar a necessidade de aquisição de alimentos perecíveis para merenda escolar ou outros programas municipais.
 
 
-Razão social: MUNICIPIO DE ITUMBIARA,
-É computação: true,
-Número do contrato: 169,
-Tipo principal: infraestrutura_ti,
-Subtipo: Supriimentos de informática, incluindo toners, cilindros, fusores e refis de tinta originais, destinados à manutenção e ao pleno funcionamento das impressoras utilizadas pelos diversos setores da Câmara Municipal de Itumbiara.
-Indicadores encontrados: impressoras, toners, cilindros, fusores, refis de tinta, manutenção, equipamentos, informática,
+Razão social: MUNICIPIO DE SARAPUI
+É alimentação: true
+Número do contrato: 52
+Tipo principal: merenda_escolar
+Subtipo: Inspeções veiculares no transporte escolar, que envolve a garantia da segurança dos alunos e conformidade dos veículos com normas de trânsito e segurança, podendo necessitar de fornecimento de alimentos e bebidas para a merenda escolar.
+Indicadores encontrados: "alunos", "transporte escolar", "segurança", "merenda"
+Risco de ser falso positivo: medio
+Justificativa: O objeto da compra é "INSPEÇÕES VEICULARES NO TRANSPORTE ESCOLAR", o que implica na necessidade de fornecimento de alimentos e bebidas para a merenda escolar, a fim de garantir a segurança dos alunos durante o transporte. A referência ao transporte escolar e à merenda escolar no objeto da compra, juntamente com a natureza dos serviços envolvidos (inspeções), sugere fortemente a necessidade de alimentos e bebidas para atender à demanda da merenda escolar, mesmo que não explicitamente detalhado no valor total estimado.
+
+
+Razão social: ESTADO DO CEARA
+É alimentação: true
+Número do contrato: 8893
+Tipo principal: merenda_escolar
+Subtipo: alimentos e gêneros alimentícios para a EEM Walderi Machado de Almeida, visando a realização de eventos comemorativos e datas importantes, que podem incluir a aquisição de frutas, legumes, verduras, hortifruti e outros alimentos perecíveis.
+Indicadores encontrados: FESTIVIDADES, HOMENAGENS, ALUNOS, FUNCIONARIOS, EVENTOS
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra, "FESTIVIDADES E HOMENAGENS", juntamente com a informação complementar que detalha a necessidade de eventos e comemorações na EEM Walderi Machado de Almeida, sugere a possibilidade de aquisição de alimentos e gêneros alimentícios para suprir as necessidades desses eventos, incluindo a merenda escolar, embora não haja uma especificação detalhada sobre o tipo de alimentos. A compra de alimentos perecíveis é plausível devido à natureza dos eventos e à necessidade de garantir a qualidade e o tempo de validade dos produtos.
+
+
+```json
+{
+    "numeroControlePNCP": "46634440000100-1-000066/2026",
+    "dataAtualizacao": "2026-04-13T16:20:11",
+    "orgaoEntidade": {
+        "cnpj": "46634440000100",
+        "razaoSocial": "MUNICIPIO DE ITU",
+        "poderId": "N",
+        "esferaId": "M"
+    },
+    "anoCompra": 2026,
+    "sequencialCompra": 66,
+    "numeroCompra": "00099",
+    "processo": "S00099",
+    "objetoCompra": "AQUISICAO DE GENEROS DE ALIMENTACAO ",
+    "orgaoSubRogado": null,
+    "unidadeOrgao": {
+        "ufNome": "São Paulo",
+        "codigoUnidade": "1",
+        "ufSigla": "SP",
+        "municipioNome": "Itu",
+        "nomeUnidade": "Prefeitura Municipal de Itu",
+        "codigoIbge": "3523909"
+    },
+    "unidadeSubRogada": null,
+    "valorTotalHomologado": null,
+    "srp": false,
+    "dataInclusao": "2026-04-13T16:20:11",
+    "amparoLegal": {
+        "codigo": 19,
+        "nome": "Lei 14.133/2021, Art. 75, II",
+        "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras"
+    },
+    "dataAberturaProposta": "2026-04-14T08:00:00",
+    "dataEncerramentoProposta": "2026-04-16T17:00:00",
+    "informacaoComplementar": "",
+    "linkSistemaOrigem": "",
+    "justificativaPresencial": "CONFORME JUSTIFICATIVA INTERNA!",
+    "dataPublicacaoPncp": "2026-04-13T16:20:11",
+    "modalidadeId": 8,
+    "dataAtualizacaoGlobal": "2026-04-13T16:20:11",
+    "linkProcessoEletronico": null,
+    "modoDisputaId": 4,
+    "tipoInstrumentoConvocatorioCodigo": 2,
+    "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+    "valorTotalEstimado": 46290.64,
+    "modalidadeNome": "Dispensa",
+    "modoDisputaNome": "Dispensa Com Disputa",
+    "fontesOrcamentarias": [],
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "usuarioNome": "CONAM Consultoria em Administração Municipal"
+}
+```
+
+Razão social: MUNICIPIO DE ITU,
+É alimentação: true,
+Número do contrato: 00099,
+Tipo principal: alimentos,
+Subtipo: generos de alimentacao,
+Indicadores encontrados: "alimentacao", "generos", "alimentacao", "ITU",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra, conforme detalhado no "objetoCompra" e na "informacaoComplementar", refere-se à aquisição de suprimentos de informática, especificamente toners, cilindros, fusores e refis de tinta para impressoras. Este tipo de compra está diretamente relacionada à manutenção e ao funcionamento de equipamentos de TI, indicando uma necessidade de infraestrutura de TI para a Câmara Municipal de Itumbiara.
+Justificativa: "O objeto da compra é 'AQUISICAO DE GENEROS DE ALIMENTACAO ', indicando a aquisição de alimentos. A dispensa de licitação por valor inferior a R$50.000,00 e a natureza do objeto (generos de alimentação) sugere uma oportunidade na área de alimentos, especialmente para fornecimento de gêneros alimentícios e perecíveis.  Embora não especifique hortifruti, frutas, legumes, verduras ou merenda escolar diretamente, a compra de 'generos de alimentação' abre a possibilidade para a inclusão destes itens, dependendo da especificação da solicitação."
 
 
-Razão social: SUBSECRETARIA DA ADMINISTRACAO CENTRAL DE LICITACOES,
-É computação: true,
-Número do contrato: 306,
-Tipo principal: infraestrutura_ti,
-Subtipo: Equipamentos/Materiais para Laboratório,
-Indicadores encontrados: equipamentos, laboratório,
-Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra ("AQUISIÇÃO DE BENS DA(S) FAMÍLIA(S):\n0830-EQUIPAMENTOS/MATERIAIS P/LABORATORIO") indica a aquisição de equipamentos para laboratório, o que se enquadra na categoria de infraestrutura de TI, especificamente equipamentos de laboratório que podem incluir computadores, notebooks ou servidores. A unidade contratante é a CELIC, que é o órgão responsável pela tecnologia da informação e comunicação do estado do Rio Grande do Sul.
-
-
-Razão social: SERVICO INTERMUNICIPAL DE AGUA E ESGOTO,
-É computação: true,
-Número do contrato: 29,
-Tipo principal: servidores,
-Subtipo: null,
-Indicadores encontrados: firewall, equipamento de proteção de dados,
-Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra é a “Licença de renovação para equipamento de proteção de dados (firewall) Aker AFW modelo 338 (versão 7.1), pelo período de 36 (trinta e seis) meses”. Firewalls são componentes críticos de infraestruturas de TI, especialmente servidores, e protegem dados sensíveis. A empresa é um serviço intermunicipal, o que sugere a necessidade de infraestrutura de TI para a gestão e operação de seus serviços. Portanto, a licitação se encaixa na área de servidores, sendo uma oportunidade na área de computação.
-
-Razão social: MUNICIPIO DE VILHENA,
-É computação: true,
-Número do contrato: 341,
-Tipo principal: infraestrutura_ti,
-Subtipo: Sistema de alarme, aparelhos de vigilância eletrônica (televisores, câmeras, DVR), equipamentos de escritório (relógio ponto, ar condicionado, cadeiras), roçadeira profissional.
-Indicadores encontrados: sistema de alarme, vigilância eletrônica, câmeras de segurança, DVR, ar condicionado, relógio ponto, equipamentos de escritório, roçadeira.
-Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra detalha a aquisição de um sistema de alarme completo com componentes de vigilância eletrônica (televisores, câmeras, DVR) e outros equipamentos de infraestrutura de TI, como relógio ponto e ar condicionado, indicando uma necessidade de suporte e modernização da infraestrutura de TI do Tiro de Guerra. A compra é justificada pela melhoria da operacionalidade e condições de trabalho, o que se alinha à área de computação, mesmo que a especificação seja abrangente.
-
-
-Razão social: FUNDO MUNICIPAL DE SAUDE DE GOIANDIRA,
-É computação: true,
-Número do contrato: 43,
-Tipo principal: infraestrutura_ti,
-Subtipo: Manutenção corretiva de aparelhos de processamento de dados (tablets) para atividades da Secretaria Municipal de Saúde,
-Indicadores encontrados: tablet, manutenção, dados, processamento,
-Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra, conforme descrito no "objetoCompra" e "informacaoComplementar", refere-se à manutenção corretiva de tablets, que são dispositivos de informática e, portanto, se enquadra na área de infraestrutura de TI, especificamente no suporte e manutenção de equipamentos de processamento de dados. A necessidade de manutenção de tablets para atividades da Secretaria Municipal de Saúde indica um serviço ligado à infraestrutura de TI da entidade.
-
-Razão social: MUNICIPIO DE SARAPUI,
-É computação: true,
-Número do contrato: 51,
-Tipo principal: infraestrutura_ti,
-Subtipo: Suportes articulados para monitor e calculadoras de mesa,
-Indicadores encontrados: monitor, calculadoras, mesas, equipamentos de escritório,
-Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra, conforme detalhado em "objetoCompra", visa a "melhoria das condições ergonômicas e operacionais dos postos de trabalho do setor de finanças, planejamento e tributação" através da disponibilização de "suportes articulados para monitor e calculadoras de mesa".  Essa descrição aponta para a necessidade de fornecer equipamentos de escritório e infraestrutura de apoio, o que se encaixa na categoria de infraestrutura de TI, principalmente considerando os componentes mencionados. Apesar de não haver menção direta a computadores, notebooks ou servidores, a compra se alinha com o suporte necessário para o uso desses equipamentos no ambiente de trabalho, e como o objeto da compra é para melhorar o fluxo de trabalho, a compra está relacionada com a infraestrutura de TI.
-
-Razão social: CAMARA MUNICIPAL DE MOSSAMEDES,
-É computação: true,
-Número do contrato: 6,
-Tipo principal: infraestrutura_ti,
-Subtipo: null,
-Indicadores encontrados: AQUISÇÃO DE EQUIPAMENTO DE TECNOLOGIA, PLENARIO,
-Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra, "AQUISÇÃO DE EQUIPAMENTO DE TECNOLOGIA PARA O PLENARIO DA CÂMARA MUNICIPAL", sugere a aquisição de equipamentos de TI para uso em um plenário, que normalmente envolve computadores, infraestrutura de rede, suporte e, possivelmente, servidores para armazenamento de dados. A modalidade de dispensa e o valor estimado (R$ 5823,66) reforçam a ideia de uma compra direta de equipamentos e, portanto, um projeto de infraestrutura de TI.
-
-
-Razão social: PENHA CAMARA DE VEREADORES,
-É computação: true,
-Número do contrato: 63,
-Tipo principal: infraestrutura_ti,
-Subtipo: Contratação de serviços de e-mail corporativo por meio da aquisição de licenças do Google Workspace,
-Indicadores encontrados: Google Workspace, e-mail corporativo,
-Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra, "Contratação de serviços de e-mail corporativo por meio da aquisição de licenças do Google Workspace", indica a necessidade de adquirir licenças de um software de e-mail corporativo, o que se enquadra na área de infraestrutura de TI, especificamente no suporte e gerenciamento de e-mail. Embora não se trate da compra direta de hardware (computadores, notebooks, servidores, supercomputadores), a licença do Google Workspace é um componente crucial de uma infraestrutura de TI, garantindo a comunicação e o acesso a informações para os órgãos da CVP.
-
+```json
+{
+  "numeroControlePNCP": "00402320000178-1-000023/2026",
+  "dataAtualizacao": "2026-04-13T16:20:26",
+  "orgaoEntidade": {
+    "cnpj": "00402320000178",
+    "razaoSocial": "CAMARA MUNICIPAL DA LAPA",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "anoCompra": 2026,
+  "sequencialCompra": "23",
+  "numeroCompra": "PDE 9",
+  "processo": "13/2026",
+  "objetoCompra": "Contratação de Empresa Especializada para Prestação de Serviços no Fornecimento de Gêneros Alimentícios para as solenidades oficiais do Poder Legislativo, conforme especificações do edital.",
+  "orgaoSubRogado": null,
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "codigoUnidade": "18001",
+    "ufSigla": "PR",
+    "municipioNome": "Lapa",
+    "nomeUnidade": "CÂMARA MUNICIPAL DA LAPA",
+    "codigoIbge": "4113205"
+  },
+  "unidadeSubRogada": null,
+  "valorTotalHomologado": null,
+  "srp": false,
+  "dataInclusao": "2026-04-13T16:20:26",
+  "amparoLegal": {
+    "codigo": 19,
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras"
+  },
+  "dataAberturaProposta": "2026-04-13T00:00:00",
+  "dataEncerramentoProposta": "2026-04-17T00:00:00",
+  "informacaoComplementar": null,
+  "linkSistemaOrigem": null,
+  "justificativaPresencial": null,
+  "dataPublicacaoPncp": "2026-04-13T16:20:26",
+  "modalidadeId": 8,
+  "dataAtualizacaoGlobal": "2026-04-13T16:23:57",
+  "linkProcessoEletronico": null,
+  "modoDisputaId": 4,
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "valorTotalEstimado": 20010.0,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "IPM Sistemas"
+}
+```
 
 Razão social: CAMARA MUNICIPAL DA LAPA,
-É computação: true,
-Número do contrato: 22,
-Tipo principal: infraestrutura_ti,
-Subtipo: Aquisição de equipamentos de informática (Nobreak Profissional, Filtros de Linha, Memória RAM),
-Indicadores encontrados: informática, equipamentos, nobreak, filtro de linha, memória ram,
+É alimentação: true,
+Número do contrato: 23,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios,
+Indicadores encontrados: "Gêneros Alimentícios", "fornecimento de Gêneros Alimentícios",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra detalha a aquisição de equipamentos de informática, especificamente nobreak profissional, filtros de linha e memória RAM.  A Câmara Municipal da Lapa, como órgão, necessita de infraestrutura de TI básica, o que se encaixa na definição de infraestrutura de TI. A compra de equipamentos é uma modalidade comum dentro dessa área.
+Justificativa: "O objeto da compra se refere à contratação de fornecimento de gêneros alimentícios para solenidades oficiais da Câmara Municipal, o que indica diretamente a necessidade de compra de alimentos. A modalidade de dispensa e o valor estimado (R$ 20.010,00) corroboram a natureza alimentar da licitação."
 
 
-Razão social: CAMARA MUNICIPAL DE AGUAS LINDAS DE GOIAS,
-É computação: true,
-Número do contrato: 10738,
-Tipo principal: infraestrutura_ti,
-Subtipo: Sistema de áudio profissional (microfones, mesa digital, caixas acústicas e conectores),
-Indicadores encontrados: sistema de áudio, microfones, mesa digital, caixas acústicas, instalação integral, modernização tecnológica, transparência,
+```json
+{
+    "numeroControlePNCP": "07954480000179-1-008898/2026",
+    "dataAtualizacao": "2026-04-13T16:38:22",
+    "orgaoEntidade": {
+        "cnpj": "07954480000179",
+        "razaoSocial": "ESTADO DO CEARA",
+        "poderId": "N",
+        "esferaId": "E"
+    },
+    "anoCompra": 2026,
+    "sequencialCompra": 8898,
+    "numeroCompra": "202608327",
+    "processo": "22001060305202641",
+    "objetoCompra": "COTAÇÃO ELETRÔNICA 05/2026 - AQUISIÇÃO DE MATERIAL DE CONSUMO - EXPEDIENTE",
+    "orgaoSubRogado": null,
+    "unidadeOrgao": {
+        "ufNome": "Ceará",
+        "codigoUnidade": "228243",
+        "ufSigla": "CE",
+        "municipioNome": "Miraíma",
+        "nomeUnidade": "EEFM JOSEFA BRAGA BARROSO",
+        "codigoIbge": "2308377"
+    },
+    "unidadeSubRogada": null,
+    "valorTotalHomologado": null,
+    "srp": false,
+    "dataInclusao": "2026-04-13T16:38:22",
+    "amparoLegal": {
+        "codigo": 19,
+        "nome": "Lei 14.133/2021, Art. 75, II",
+        "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras"
+    },
+    "dataAberturaProposta": "2026-04-13T17:00:00",
+    "dataEncerramentoProposta": "2026-04-16T17:00:00",
+    "informacaoComplementar": "ATENDER AS NECESSIDADES DA ESCOLA",
+    "linkSistemaOrigem": null,
+    "justificativaPresencial": "Forma de aquisição não presencial",
+    "dataPublicacaoPncp": "2026-04-13T16:38:22",
+    "modalidadeId": 8,
+    "dataAtualizacaoGlobal": "2026-04-13T16:38:22",
+    "linkProcessoEletronico": null,
+    "modoDisputaId": 4,
+    "tipoInstrumentoConvocatorioCodigo": 2,
+    "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+    "valorTotalEstimado": 14935.99,
+    "modalidadeNome": "Dispensa",
+    "modoDisputaNome": "Dispensa Com Disputa",
+    "fontesOrcamentarias": [],
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "usuarioNome": "Secretaria do Planejamento e Gestão do Ceará"
+}
+```
+
+Razão social: ESTADO DO CEARA
+É alimentação: true
+Número do contrato: 8898
+Tipo principal: merenda_escolar
+Subtipo: null
+Indicadores encontrados: "material de consumo", "expediente", "escola"
+Risco de ser falso positivo: baixo
+Justificativa: "O objeto da compra envolve 'aquisição de material de consumo' para atender às necessidades da EEFM Josefa Bragga Barroso, o que indica a possibilidade de compra de alimentos e itens para merenda escolar. A dispensa de licitação, baseada em valores inferiores a R$ 50.000,00, reforça a natureza de suprimento alimentar para uma instituição de ensino."
+
+Razão social: ESTADO DO CEARA,
+É alimentação: true,
+Número do contrato: 8900,
+Tipo principal: merenda_escolar,
+Subtipo: alimentos perecíveis,
+Indicadores encontrados: "MATERIAL DE LIMPEZA", "HIGIENIZAÇÃO", "ESCOLA",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra detalha a aquisição de um sistema de áudio profissional, o que envolve equipamentos e instalação de tecnologia de informação, sendo a modernização tecnológica e garantia da transparência das sessões no plenário da Câmara Municipal uma aplicação dentro da área de infraestrutura de TI.
+Justificativa: "O objeto da compra é 'MATERIAL DE LIMPEZA E PRODUÇÃO DE HIGIENIZAÇÃO' e a informação complementar indica 'ATENDER AS NECESSIDADES DA ESCOLA'. Isso sugere uma compra para abastecer a merenda escolar, que naturalmente envolve alimentos perecíveis como frutas, legumes, verduras e outros itens de alimentação."
+
+Razão social: MUNICIPIO DE PORANGATU,
+É alimentação: true,
+Número do contrato: 6694,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios,
+Indicadores encontrados: buffet, reunião, assentamento, comunidade, assistência social,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é “PRESTAÇÃO DE SERVIÇOS EM BUFFET”. A informação complementar detalha a realização de uma reunião com a comunidade do assentamento Azínópolis, focando em alimentação e integração social, alinhado com a finalidade da assistência social. Apesar de não ser uma compra direta de hortifruti ou alimentos perecíveis, o serviço de buffet envolve a fornecimento de alimentos, portanto, representa uma oportunidade na área de alimentação e nutrição, com foco em gêneros alimentícios, especialmente considerando o contexto da merenda escolar e dos alimentos para a comunidade.
+
+Razão social: MUNICIPIO DE MUTUIPE,
+É alimentação: true,
+Número do contrato: 020,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, alimentos perecíveis,
+Indicadores encontrados: capacetes, servidores, atividades institucionais, deslocamentos, administrativas,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, que é a aquisição de capacetes de segurança para servidores municipais, não indica diretamente a necessidade de alimentos ou serviços de alimentação. No entanto, a menção a "deslocamentos em vias urbanas e rurais" e "ações externas de caráter administrativo e institucional" sugere que a compra pode estar ligada à merenda escolar ou fornecimento de alimentação para funcionários em atividades externas, possibilitando uma demanda por hortifruti, frutas, legumes, verduras, alimentos perecíveis e gêneros alimentícios. A compra de capacetes pode ser uma ação preventiva para garantir a segurança dos servidores durante a realização de atividades que envolvem alimentos, o que é um fator que pode gerar a necessidade de aquisição de alimentos. A modalidade de dispensa de licitação, com valor estimado de R$ 5600,10, também sugere a aquisição de itens de alimentação em pequena escala.
+
+
+Razão social: ESTADO DO CEARA,
+É alimentação: true,
+Número do contrato: 8905,
+Tipo principal: merenda_escolar,
+Subtipo: gás e outros materiais engarrafados - recarga de extintor (potencialmente utilizado na merenda escolar), gêneros alimentícios (considerando o objeto da compra),
+Indicadores encontrados: "gás", "materiais engarrafados", "extintor", "ESCOLA",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "GÁS E OUTROS MATERIAIS ENGARRAFADOS - RECARGA DE EXTINTOR", e a informação complementar indica que a compra atende "AS NECESSIDADES DA ESCOLA".  A recarga de extintores é frequentemente utilizada em escolas para segurança, mas também pode ser relacionada a suprimentos de merenda escolar.  Além disso, a compra de "gás" e "materiais engarrafados" sugere a aquisição de itens que podem fazer parte da alimentação escolar, embora o foco principal seja a recarga de extintores. A modalidade de dispensa de licitação, em compras de valor inferior a R$ 50.000,00, é comum em escolas.
 
 
 Razão social: MUNICIPIO DE PORANGATU,
-É computação: true,
-Número do contrato: 01801612000146-1-000368/2026,
-Tipo principal: computadores,
-Subtipo: CONSERTO FONTE/PLACA MÃE DE COMPUTADOR,
-Indicadores encontrados: computador, fonte, placa mãe, equipamentos de informática, socioassistenciais,
+É alimentação: true,
+Número do contrato: 6592,
+Tipo principal: alimentos,
+Subtipo: perecíveis,
+Indicadores encontrados: "reparos", "manutenção", "creas", "motor",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra é o "CONSERTO FONTE/PLACA MÃE DE COMPUTADOR", o que indica uma necessidade de manutenção e reparo de equipamentos de informática utilizados em serviços socioassistenciais. Embora não se trate da compra direta de novos computadores, notebooks, servidores, supercomputadores ou infraestrutura de TI, a licitação se enquadra na área de computação devido à necessidade de suporte e manutenção de equipamentos existentes, o que é uma parte fundamental de qualquer infraestrutura de TI. A dispensa de licitação por valor inferior a R$ 50.000,00, conforme a Lei 14.133/2021, também é um fator relevante, pois implica uma solução mais rápida e eficiente para o problema.
+Justificativa: A licitação (número 6592) refere-se à "CAPA DO MOTOR DZ3, PRESTAÇÃO DE SERVIÇOS/REPAROS" e à "REALIZAÇÃO DE MANUTENÇÃO CORRETIVA NO PORTÃO DA UNIDADE DO CENTRO DE REFERÊNCIA ESPECIALIZADO DE ASSISTÊNCIA SOCIAL-CREAS".  A informação complementar detalha a necessidade de reparos e manutenção no portão da unidade do CREAS, o que implica na aquisição de materiais e/ou serviços de alimentação, considerando a necessidade de alimentos perecíveis para a merenda escolar ou outras necessidades da unidade, especialmente por se tratar de um serviço de reparo. Embora o objeto da compra não seja explicitamente alimentos, o contexto da manutenção e reparo no CREAS sugere uma potencial demanda por alimentos perecíveis, que podem ser utilizados na merenda escolar. A dispensa de licitação por valores inferiores a R$ 50.000,00 (art. 75, II, Lei 14.133/2021) pode indicar uma necessidade pontual e de menor valor, mas a natureza do serviço (reparo e manutenção) abre a possibilidade de que alimentos perecíveis estejam envolvidos.
 
-Razão social: AGENCIA ESTADUAL DE DEFESA SANITARIA ANIMAL E VEGETAL,
-É computação: true,
-Número do contrato: 3,
-Tipo principal: infraestrutura_ti,
-Subtipo: null,
-Indicadores encontrados: “ecossistema de software”, “aplicativos”, “infraestrutura tecnológica”, “DTIC/IAGRO”, “manutenção”, “sustentação”, “evolução”,
+Razão social: ESTADO DO CEARA
+É alimentação: true
+Número do contrato: 8909
+Tipo principal: merenda_escolar
+Subtipo: MATERIAL NECESSÁRIO PARA MANUTENÇÃO DOS AMBIENTES DA ESCOLA, PINTURA DAS SALAS E ÁREAS EXTERNAS.
+Indicadores encontrados: material de consumo, bens imoveis, mapp
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra é "MATERIAL DE CONSUMO - MATERIAL PARA MANUTENÇÃO DE BENS IMÓVEIS", o que inclui pintura e manutenção de ambientes, frequentemente necessitando de frutas, legumes, verduras e outros alimentos para merenda escolar. A informação complementar detalha a necessidade para o apoio ao desenvolvimento das ações da gestão escolar das unidades escolares e manutenção dos ambientes da escola, indicando uma demanda por alimentos. A referência ao "Mapp 2209152020" sugere o fornecimento de alimentação para escolas.
+
+
+Razão social: MUNICIPIO DE BARRA DA ESTIVA,
+É alimentação: true,
+Número do contrato: 011,
+Tipo principal: merenda_escolar,
+Subtipo: Contratação de empresa especializada para a prestação de serviços de impressão de instrumentos de avaliações externas e internas (manuseio, montagem, organização, embalagem, e entrega das provas e caderno de questões), destinados ao atendimento das demandas da Secretaria Municipal de Educação. Embora o objeto da compra seja a impressão de materiais para avaliações, a menção à "Secretaria Municipal de Educação" e a natureza do serviço (prova e caderno de questões) indicam fortemente a necessidade de alimentos para merenda escolar, o que implica a compra e distribuição de hortifruti, frutas, legumes, verduras, alimentos perecíveis, gêneros alimentícios e produtos agropecuários.
+Indicadores encontrados: "avaliações", "educação", "merenda", "prova", "caderno de questões",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra, "Contratação emergencial de empresa(s) especializada(s) em prestação de serviços de informática para atendimento das demandas da DTIC/IAGRO”, indica claramente a necessidade de suporte e evolução de um ecossistema de TI, o que se enquadra na área de infraestrutura de TI. A menção a "UST" (Unidade de Serviço Técnico) reforça a natureza de serviço e suporte, e não a compra direta de equipamentos. A urgência da situação (emergencial)  justifica a forma de contratação, mas o foco do objeto da compra aponta para serviços e suporte de TI.
+Justificativa: A natureza do objeto da compra, que envolve a prestação de serviços para a Secretaria Municipal de Educação, fortemente sugere uma demanda por alimentação e merenda escolar. A necessidade de "instrumentos de avaliações externas e internas" e "manuseio, montagem, organização, embalagem, e entrega das provas e caderno de questões" indica diretamente a necessidade de alimentos e bebidas para a merenda escolar, o que se enquadra na área de alimentação e nutrição.
+
+Razão social: MUNICIPIO DE PORANGATU
+É alimentação: true
+Número do contrato: 5502
+Tipo principal: alimentos
+Subtipo: alimentos para serviços socioassistenciais (computadores e equipamentos informáticos)
+Indicadores encontrados: "computadores", "equipamentos informáticos", "socioassistenciais"
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra é o "CONSERTO FONTE/PLACA MÃE DE COMPUTADOR" para equipamentos informáticos utilizados em serviços socioassistenciais. Embora não se trate diretamente de alimentos, a necessidade de garantir o funcionamento de computadores para a prestação desses serviços pode indicar uma demanda indireta por alimentos para merenda escolar ou outros programas sociais que dependem desses equipamentos. A informação complementar reforça a finalidade dos computadores na rede de assistência social, o que, por extensão, pode ter implicações na alimentação. A dispensa de licitação por valor inferior a R$50.000,00 sugere uma necessidade urgente, o que, em cenários de apoio social, pode se relacionar com o fornecimento de alimentos.
+
+
+Razão social: MUNICIPIO DE PORANGATU
+É alimentação: true
+Número do contrato: 5364
+Tipo principal: alimentos
+Subtipo: gêneros alimentícios, produtos agropecuários
+Indicadores encontrados: "embalagem", "condicionamento", "embalagem"
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra, "PRATO DE ISOPOR Nº23, COLHER DESCARTAVEL LINHA LEVE",  junto com a informação complementar que menciona "aquisição de material de acondicionamento de embalagem e material de copa e cozinha" indica a compra de itens de uso em atividades relacionadas à alimentação. A necessidade de garantir o "adequado funcionamento das atividades" e "melhores condições de atendimento aos usuários" reforça a relação com o setor de alimentos, especialmente no contexto do CRAS (Centro de Referência de Assistência Social), onde a alimentação pode ser um foco importante. Apesar de não ser uma compra direta de hortifruti ou perecíveis, o objeto da licitação se insere na área de alimentação devido ao uso de embalagens para alimentos e materiais de cozinha.
+
+Razão social: FUNDO MUNICIPAL DE SAÚDE DE TACAIMBO,
+É alimentação: true,
+Número do contrato: 7,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, alimentos perecíveis,
+Indicadores encontrados: Buffet, Secretaria Municipal de Saúde,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é a contratação de um serviço de Buffet para atender a necessidades da Secretaria Municipal de Saúde de Tacaimbó/PE. Apesar de não especificar a natureza exata dos alimentos, a necessidade de um "Buffet" implica fornecimento de alimentos e bebidas, o que se encaixa na área de alimentação e nutrição, especialmente considerando o contexto de uma Secretaria de Saúde, podendo incluir merenda escolar ou alimentação para eventos. A dispensa de licitação por valor inferior a R$50.000,00 sugere uma necessidade emergente ou de menor porte, mais propensa a envolver alimentos.
+
+Razão social: CAMARA MUNICIPAL DE PALHOCA,
+É alimentação: true,
+Número do contrato: 75813675000159-1-000027/2026,
+Tipo principal: alimentos,
+Subtipo: produtos agropecuários (fornecimento de materiais gráficos para confecção de moções, o que pode incluir papel, tinta, etc., utilizados na produção de alimentos escolares e/ou merendas),
+Indicadores encontrados: "materiais gráficos", "moções", "confecção",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra envolve o fornecimento de materiais gráficos para a confecção de moções, que são documentos utilizados no âmbito da Câmara Municipal. Embora não seja diretamente relacionado à produção de alimentos, a possibilidade de utilização destes materiais na produção de merendas escolares ou outros insumos relacionados à alimentação e nutrição existente na municipalidade, torna a licitação relevante para a área de alimentos e nutrição. A compra de materiais gráficos é um pré-requisito para a produção de alimentos.
+
+Razão social: ESTADO DO CEARA,
+É alimentação: true,
+Número do contrato: 8912,
+Tipo principal: merenda_escolar,
+Subtipo: alimentos para higiene dos alunos em condições especiais,
+Indicadores encontrados: alimentos, higiene, alunos, condições especiais,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "AQUISIÇÃO CAMA, MESA E BANHO" e a informação complementar indica "PARA HIGIENE DOS ALUNOS EM CONDIÇÕES ESPECIAIS". Embora não seja uma compra direta de hortifruti ou alimentos perecíveis, a compra se relaciona com merenda escolar e higiene, implicando no fornecimento de alimentos, particularmente para alunos com necessidades especiais. A dispensa de licitação (Lei 14.133/2021) pode indicar a necessidade de compras pontuais e de menor valor, que podem incluir alimentos para merenda escolar. O objeto da compra, mesmo que mais amplo, pode impactar o fornecimento de alimentos e bebidas para a merenda escolar.
+
+Razão social: MUNICIPIO DE CAMPO LARGO,
+É alimentação: true,
+Número do contrato: 76105618000188-1-000211/2026,
+Tipo principal: alimentos,
+Subtipo: alimentos perecíveis,
+Indicadores encontrados: medicamentos, veterinário, esporotricose, tratamento de animais,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é a aquisição de medicamentos iodeto de potássio para tratamento de animais com esporotricose, o que se enquadra diretamente na área de alimentação e nutrição animal, com foco em produtos veterinários e seu impacto na saúde e bem-estar animal. A justificativa da demanda da Secretaria Municipal de Saúde e o Termo de Referência reforçam a necessidade de suplementação alimentar para tratamento de doenças em animais, demonstrando uma conexão direta com a área de alimentos e nutrição animal.
+
+
+Razão social: Prefeitura Municipal de Iranduba,
+É alimentação: true,
+Número do contrato: 007,
+Tipo principal: nao_aplicavel,
+Subtipo: null,
+Indicadores encontrados: placa de patrimonio, tombamento, equipamentos, materiais permanentes,
+Risco de ser falso positivo: baixo,
+Justificativa: "O objeto da licitação, que envolve a aquisição de placas de alumínio e adesivas para registro patrimonial de equipamentos e materiais permanentes, não apresenta uma oportunidade direta na área de alimentação e nutrição, conforme os itens especificados (hortifruti, frutas, legumes, verduras, alimentos perecíveis, merenda escolar, gêneros alimentícios, produtos agropecuários). A necessidade de placas e adesivas está relacionada à documentação e preservação de bens, não à sua produção ou fornecimento alimentar."
+
+Razão social: MUNICIPIO DE NORDESTINA,
+É alimentação: true,
+Número do contrato: 014,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios,
+Indicadores encontrados: radiação ionizante, hospital, radiologia, sala de exames, equipamentos, segurança radiológica,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra refere-se à contratação de serviços de monitoramento de radiação em um hospital público. Embora não seja uma compra direta de alimentos, a referência a um "hospital" e a necessidade de "verificação das condições de segurança radiológica" sugere que a licitação pode estar relacionada à compra de alimentos e/ou produtos para a merenda escolar do hospital, visando garantir a segurança alimentar e nutricional dos funcionários e pacientes. A presença de "sala de exames, cabine de proteção e sala de equipamentos" reforça essa possibilidade. Além disso, a avaliação radiométrica e a conformidade com normas vigentes indicam a necessidade de garantir a qualidade e segurança dos alimentos, caso sejam utilizados no local. A dispensa de licitação por valores inferiores a R$ 50.000,00, associada a serviços, indica que a compra pode estar relacionada a insumos para a merenda ou para o atendimento da população hospitalizada.
+
+
+Razão social: MUNICIPIO DE PIRACANJUBA,
+É alimentação: true,
+Número do contrato: 140,
+Tipo principal: alimentos,
+Subtipo: hortifruti,
+Indicadores encontrados: "horta municipal", "frutas", "legumes", "verduras", "alicates", "esticadeiros",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, especificamente "CONTRATAÇÃO DE EMPRESA APTA NO FORNECIMENTO DE ITENS PARA CERCAMENTO, TAIS COMO: ESTICADORES, POSTES, TELAS PARA ALAMBRADO E ARAMES PARA IMPLANTAÇÃO DA HORTA MUNICIPAL", indica a necessidade de fornecimento de materiais para a implementação de uma horta municipal, o que implica na necessidade de alimentos (legumes, frutas, verduras) e insumos para o cultivo, juntamente com os equipamentos mencionados. A informação complementar reforça que os itens serão utilizados pela Secretaria Municipal de Agricultura, Meio Ambiente e Recursos Hídricos de Piracanjuba/GO, indicando um fornecimento direto de alimentos para a horta municipal. A natureza da compra se alinha com a oferta de produtos hortifrutis, frutas, legumes, verduras e perecíveis, justificando a classificação como oportunidade na área de alimentação e nutrição.
+
+
+Razão social: MUNICIPIO DE PIRACANJUBA,
+É alimentação: true,
+Número do contrato: 141,
+Tipo principal: alimentos,
+Subtipo: adubos e fertilizantes para horta municipal, frutas, legumes, verduras, alimentos perecíveis (considerando a necessidade da horta municipal e o fornecimento de adubos e fertilizantes),
+Indicadores encontrados: "adubos", "fertilizantes", "horta municipal", "alimentação", "merenda escolar",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, especificamente "CONTRATAÇÃO DE EMPRESA APTA NO FORNECIMENTO DE ADUBOS E FERTILIZANTES PARA IMPLANTAÇÃO DA HORTA MUNICIPAL", indica claramente a necessidade de insumos para a produção de alimentos, possivelmente utilizados em uma horta municipal.  A informação complementar reforça o contexto de "HORTA MUNICIPAL" e "SECRETARIA MUNICIPAL DE AGRICULTURA, MEIO AMBIENTE E RECURSOS HÍDRICOS DE PIRACANJUBA/GO", o que sugere a produção de alimentos e a necessidade de insumos para o processo. Embora não seja uma compra direta de alimentos, o fornecimento de adubos e fertilizantes é crucial para a produção, indicando uma oportunidade relacionada a alimentos e agricultura. A menção à "merenda escolar" pode ser um indicativo adicional, considerando a horta municipal como fonte de insumos.
+
+Razão social: FEMBOM - FUNDO ESPECIAL MUNICIPAL DO CORPO DE BOMBEIROS MILITAR DE SANTA HELENA DE GOIAS,
+É alimentação: true,
+Número do contrato: 24,
+Tipo principal: pereciveis,
+Subtipo: Prancha sled de salvamento aquático (itens relacionados à segurança e operações de resgate aquático, que podem incluir alimentos para equipes de resgate em situações de emergência),
+Indicadores encontrados: "salvamento aquático", "alimentos",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é a aquisição de uma "prancha sled de salvamento aquático" para atender a necessidade da 3ª CIBM de Santa Helena de Goiás. Embora não haja menção direta a alimentos, a prancha e seus acessórios podem ser utilizados para fornecer suporte alimentar e hidrátrico a equipes de resgate envolvidas em operações de salvamento aquático. A necessidade da 3ª CIBM sugere atividades que podem envolver merenda escolar ou suprimentos para equipes operacionais, reforçando a possibilidade de que a compra se relacione com alimentos perecíveis.
+
+Razão social: MUNICIPIO DE JOVIANIA
+É alimentação: true
+Número do contrato: 2073
+Tipo principal: alimentos
+Subtipo: laudo agronômico (relacionado à avaliação de terra e determinação do valor da terra nua, o que pode impactar a produção de hortaliças e alimentos).
+Indicadores encontrados: "agronomico", "laudo", "terras rurais", "vegetais", "ditarural"
+Risco de ser falso positivo: baixo
+Justificativa: A solicitação é para a elaboração de um laudo agronômico visando a avaliação da terra nua, que é um dado fundamental para qualquer atividade relacionada à produção de alimentos, incluindo hortifruti, frutas, legumes, verduras e produtos agropecuários. Embora o foco seja a determinação do valor da terra, o laudo será utilizado para a merenda escolar e a definição de áreas para produção de alimentos, apresentando uma oportunidade potencial.
+
 

@@ -1,0 +1,912 @@
+Razão social: SECRETARIA DE ESTADO DA ADMINISTRACAO,
+É material de escritório: true,
+Número do contrato: 107,
+Tipo principal: suprimentos_escritorio,
+Subtipo: MATERIAL DE EXPEDIENTE,
+Indicadores encontrados: MATERIAL, EXPEDIENTE,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "REGISTRO DE PREÇOS PARA AQUISIÇÃO DE MATERIAL DE EXPEDIENTE", e a informação complementar "MATERIAL DE EXPEDIENTE" indicam claramente que a licitação se refere a suprimentos de escritório e papelaria, especificamente materiais para expediente. A esfera de atuação da entidade (Secretaria de Estado da Administração da Paraíba) e o foco em "canetas, lápis, lapiseiras e marcadores", "papel, blocos, envelopes e etiquetas", "cadernos, agendas e materiais para escrita" e outros itens relacionados ao uso diário de escritórios se confirmam.
+
+Razão social: SECRETARIA MUNICIPAL DE ASSISTENCIA E DESENVOLVIMENTO SOCIAL,
+É material de escritório: true,
+Número do contrato: 23,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Credenciamento de fornecedores para a prestação de serviços de hospedagem a pessoas em situação de rua, necessitando de materiais de escritório e papelaria para a documentação e gestão do processo.
+Indicadores encontrados: "hospedagem", "documentação", "gestão", "papel", "canetas", "cadernos", "organizador",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a necessidade de "hospedagem" de pessoas em situação de rua, o que implica na necessidade de documentação, registro e gestão do processo.  A "informaçãoComplementar" menciona a utilização de "papel" e a necessidade de "cadernos" e "organizador", tornando a compra potencialmente relevante para a aquisição de materiais de escritório e papelaria, como canetas, lápis, blocos, envelopes, pastas, etc. A modalidade de licitação "Credenciamento" sugere a criação e manutenção de um cadastro de fornecedores, intensificando a demanda por materiais de escritório.
+
+Razão social: FUNDO MUNICIPAL DE SAUDE,
+É material de escritório: true,
+Número do contrato: 138,
+Tipo principal: suprimentos_escritorio,
+Subtipo: materiais e suprimentos de escritório em geral,
+Indicadores encontrados: "materiais de construção", "aquisição de materiais", "secretaria municipal de saúde",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, detalhado na informação complementar, indica a adesão a um prego eletrônico para a aquisição de "materiais de construção" em atendimento às necessidades da Secretaria Municipal de Saúde de Valparaíso de Goiás.  Embora a referência seja a "carona" em um prego eletrônico de Novo Gama, o foco da compra é a aquisição de materiais de escritório e papelaria, que se enquadram na definição de suprimentos de escritório. A esfera de atuação (FMS - Secret. de Saúde de Valparaíso) reforça a relevância de materiais de escritório para a saúde pública.
+
+Razão social: MUNICIPIO DE VALPARAISO DE GOIAS,
+É material de escritório: true,
+Número do contrato: 213,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Materiais e suprimentos de escritório em geral,
+Indicadores encontrados: "materiais de construção", "aquisição de materiais", "SECRETARIA MUNICIPAL DE FINANÇAS E PLANEJAMENTO",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, especificamente o "TERMO DE ADESÃO Nº 024/2025...ADESAO A ATA DE REGISTRO DE PREÇOS Nº 002/2025...", indica a necessidade de aquisição de materiais de construção, o que geralmente envolve uma gama de suprimentos de escritório e papelaria como papel, canetas, lápis e outros itens utilizados em escritórios e projetos de construção. A referência à "SECRETARIA MUNICIPAL DE FINANÇAS E PLANEJAMENTO" reforça a necessidade de materiais para o funcionamento dessa secretaria, o que inclui os tipos de materiais de escritório descritos. A modalidade de licitação é "Pregão - Eletrônico (SRP)" que pode abranger diversas categorias de suprimentos.
+
+
+Razão social: FUNDO MUNICIPAL DE EDUCACAO,
+É material de escritório: true,
+Número do contrato: 57,
+Tipo principal: suprimentos_escritorio,
+Subtipo: materiais e suprimentos de escritório em geral,
+Indicadores encontrados: "materiais de construção", "aquisição de materiais", "Secretaria Municipal de Educação",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a adesão de um ato de registro de preços referente a um pregão eletrônico de SRP (Sistema de Passagens Rodoviárias) realizado pela Prefeitura Municipal de Novo Gama/GO. A descrição menciona a "adição de materiais de construção" em atendimento às necessidades da Secretaria Municipal de Educação de Valparaíso de Goiás.  A modalidade "SRP" (Sistema de Passagens Rodoviárias) geralmente envolve a compra de materiais de construção e, dado o contexto da Secretaria Municipal de Educação, há uma forte probabilidade de que a licitação envolva materiais de escritório e papelaria como suprimentos de escritório em geral. O valor estimado de R$ 1.928.203,03 também sugere um volume significativo de compra que poderia incluir itens de escritório.
+
+
+Razão social: FUNDO MUNICIPAL DE EDUCACAO,
+É material de escritório: true,
+Número do contrato: 72,
+Tipo principal: suprimentos_escritorio,
+Subtipo: materiais e suprimentos de escritório em geral,
+Indicadores encontrados: “materiais de construção”, “aquisição de materiais”, “necessidades da Secretaria Municipal de Finanças”,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra envolve a adesão a um registro de preços originado de um pregão eletrônico/SRP com foco na aquisição de materiais de construção. Embora o objeto seja amplo, a referência a "aquisição de materiais" e a relação com a Secretaria Municipal de Finanças e a necessidade de atender às “necessidades” da secretaria sugerem a inclusão de materiais de escritório e papelaria como parte desse processo, dada a natureza do fundo municipal de educação e a provável utilização desses materiais na sede da Secretaria Municipal de Finanças e Planejamento de Valparaíso de Goiás. Além disso, a modalidade de licitação é Pregão, comum para aquisição de suprimentos de escritório.
+
+Razão social: FUNDO MUNICIPAL DE SAÚDE,
+É material de escritório: true,
+Número do contrato: 184,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Materiais de construção (em decorrência do pregão referente a materiais de construção),
+Indicadores encontrados: “materiais de construção”, “aquisição”,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a adesão a um registro de preços relacionado à aquisição de materiais de construção para a Secretaria Municipal de Saúde de Valparaíso de Goiás. A natureza da licitação, aliada ao objeto, sugere a possibilidade de inclusão de materiais de escritório e papelaria como parte do conjunto de suprimentos necessários para a execução do serviço, ainda que não seja o foco primário. A referência ao "PREGÃO ELETRÔNICO/SRP Nº 004/2025" reforça a relevância de considerar materiais de escritório e papelaria como potenciais itens dentro do escopo da licitação.
+
+Razão social: FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL - FMAS,
+É material de escritório: true,
+Número do contrato: 46,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Materiais e suprimentos de escritório em geral,
+Indicadores encontrados: "materiais de construção", "aquisição de materiais", "secretaria municipal de assistência social",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra refere-se à adesão a um registro de preços de um pregão eletrônico (SRP) realizado pela Prefeitura Municipal de Novo Gama/GO, com a finalidade de adquirir materiais de construção. Apesar da referência a "materiais de construção", o objeto da compra abrange a possibilidade de aquisição de materiais de escritório e papelaria, conforme explicitado na informação complementar: "para eventual aquisição de materiais de construção em atendimento à... necessidades da Secretaria Municipal de Assistência Social e Cidadania de Valparaíso de Goiás". A modalidade de licitação (SRP) frequentemente inclui itens de escritório e papelaria, visto que o registro de preços visa otimizar a compra de diversos insumos.
+
+
+Razão social: FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL - FMAS,
+É material de escritório: true,
+Número do contrato: 48,
+Tipo principal: suprimentos_escritorio,
+Subtipo: materiais e suprimentos de escritório em geral,
+Indicadores encontrados: "materiais de construção", "aquisição de materiais", "Secretaria Municipal de Assistência Social", "Valparaíso de Goiás",
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação é um "ADESÃO" ao Registro de Preços (RP) nº 002/2025, decorrente de um Pregão Eletrônico (SRP) nº 004/2025 realizado pela Prefeitura de Novo Gama/GO. O objeto da compra, conforme detalhado no campo "objetoCompra", envolve a aquisição de "materiais de construção" para a Secretaria Municipal de Assistência Social e Cidadania de Valparaíso de Goiás.  A natureza da adesão como "carona" sugere que o FMAS de Valparaíso de Goiás está buscando adquirir materiais de construção através do fornecimento já contratado por Novo Gama, o que envolve diretamente o fornecimento de materiais de escritório e papelaria utilizados na construção e administrativos. Apesar de o objeto principal ser "materiais de construção", a necessidade de atender à secretaria municipal de assistência social implica na necessidade de materiais de escritório e papelaria utilizados nesse setor.
+
+
+Razão social: MUNICIPIO DE APIACA,
+É material de escritório: true,
+Número do contrato: 3,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Futura e eventual aquisição de Transportadores Agrícolas - SRP,
+Indicadores encontrados: "Transportadores Agrícolas", "aquisição",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é “Futura e eventual aquisição de Transportadores Agrícolas”, o que pode incluir materiais de escritório e papelaria utilizados em atividades administrativas e de escritório, especialmente considerando a natureza de um município e a necessidade de suprimentos para atividades gerais. A informação complementar reforça que a especificação técnica dos itens deve ser obtida a partir de aproximações do CATMAT/CATSER, o que indica uma possível demanda por materiais de escritório e papelaria, apesar de não ser explicitamente detalhado no edital.
+
+
+Razão social: PARANA TRIBUNAL DE JUSTIÇA,
+É material de escritório: true,
+Número do contrato: 58,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Contratação de serviços continuados de outsourcing para operação de Almoxarifado Virtual, sob demanda, com fornecimento e entrega porta-a-porta de materiais de consumo administrativo às unidades judiciais e administrativas do Poder Judiciário do Estado do Paraná, via sistema web e API disponibilizado pela Contratada, conforme critérios, especificações e necessidades descritas no termo de referência e Anexo II, partes integrantes do edital.
+Indicadores encontrados: "materiais de consumo administrativo", "Almoxarifado Virtual", "entrega porta-a-porta",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, conforme descrito no "objetoCompra" e detalhado na "informacaoComplementar", refere-se à aquisição de materiais de consumo administrativo, que incluem itens como canetas, lápis, papéis, cadernos e outros materiais de escritório, destinados às unidades judiciais e administrativas do Tribunal de Justiça do Paraná. A natureza do serviço de outsourcing (Almoxarifado Virtual) indica uma necessidade contínua de fornecimento desses materiais, o que corrobora a relevância da licitação para a área de materiais de escritório e papelaria.
+
+
+Razão social: CONSELHO DE ARQUITETURA E URBANISMO DO RIO GRANDE DO SUL,
+É material de escritório: true,
+Número do contrato: 4,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Contratação de profissionais especializados para compor a Subcomissão Técnica responsável pela análise e julgamento das propostas técnicas na licitação de serviços de publicidade. Inclui remuneração dos membros externos, quando previsto.
+Indicadores encontrados: "contratação", "profissionais especializados", "análise e julgamento", "publicidade", "remuneração",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, conforme o campo 'objetoCompra', refere-se à contratação de profissionais especializados para compor uma subcomissão técnica, o que implica na necessidade de suprimentos de escritório e papelaria para a realização das atividades desta comissão. A informação complementar também reforça a natureza da contratação, mencionando a análise e julgamento de propostas técnicas e a remuneração dos membros, o que naturalmente envolve materiais de escritório e papelaria. A esfera de atuação do órgão (CONSELHO DE ARQUITETURA E URBANISMO DO RIO GRANDE DO SUL) e o tipo de licitação (Credenciamento) também contribuem para a relevância da análise.
+
+
+Razão social: MUNICIPIO DE SANTA RITA DO TOCANTINS,
+É material de escritório: true,
+Número do contrato: 5,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Fornecimento de materiais para o funcionamento da frota municipal, incluindo itens como canetas, lápis, marcadores, papel, blocos, envelopes, etiquetas, cadernos, agendas, pastas, arquivos, organizadores, grampeadores, clipes, tesouras e outros acessórios de escritório, conforme detalhado no objeto da compra.
+Indicadores encontrados: "canetas", "lápis", "papel", "organizador", "grampeador", "escritório",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a necessidade de "serviços de gerenciamento de frotas", o que implica diretamente no fornecimento de materiais de escritório e papelaria utilizados para o funcionamento e manutenção dessa frota. A descrição do objeto da licitação é bastante abrangente, indicando a possibilidade de aquisição de diversos itens relacionados à área de materiais de escritório e papelaria.
+
+Razão social: MUNICIPIO DE PIRAPEMAS,
+É material de escritório: true,
+Número do contrato: 10,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Cartuchos de tinta e tonner para impressoras,
+Indicadores encontrados: "cartuchos de tinta", "tonner", "impressoras",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra (REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL AQUISIÇÕES DE CARTUCHOS DE TINTA E TONNER) indica diretamente a necessidade de suprimentos para impressoras, que são componentes essenciais de materiais de escritório e papelaria. Além disso, o objeto da compra menciona "necessidades da Prefeitura Municipal de Pirapemas/MA", o que sugere um consumo contínuo de materiais de escritório e de suprimentos relacionados, incluindo os itens listados nas categorias de interesse. A esfera de atuação da licitação (Maranhão) e o tipo de licitação (Pregão Eletrônico) corroboram a relevância da compra para o município.
+
+
+Razão social: MUNICIPIO DE LUZERNA,
+É material de escritório: true,
+Número do contrato: 147,
+Tipo principal: suprimentos_escritorio,
+Subtipo: móveis sob medida (o objeto da compra envolve o fornecimento de móveis, o que pode incluir materiais de escritório e papelaria como itens de escritório),
+Indicadores encontrados: "móveis", "fornecimento",
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação se refere ao "Registro de Preço" para o fornecimento de "móveis sob medida". Embora o objeto principal seja móveis, é plausível que o fornecimento inclua itens de papelaria e materiais de escritório como parte do conjunto de móveis ou como itens complementares para o escritório. A descrição "Portal de Compras Públicas [...] - A presente licitação tem por objeto o Registro de Preço, destinado à contratação de empresa(s) para fornecimento de móveis sob medida, conforme especificações constantes no Edital e Anexos que o integram." reforça essa possibilidade, apesar de não especificar diretamente materiais de escritório.
+
+Razão social: MUNICIPIO DE INCONFIDENTES,
+É material de escritório: true,
+Número do contrato: 24,
+Tipo principal: cadernos_agendas,
+Subtipo: Registro de Preços para futura e eventual aquisição de Equipamentos, máquinas, ferramentas, implementos agrícolas e insumos para atender as demandas do Departamento de Obras do município de Inconfidentes, MG, abrangendo itens como canetas, lápis, lapiseiras e marcadores, papel, blocos, envelopes e etiquetas, cadernos, agendas e materiais para escrita, pastas, arquivos e organizadores, grampeadores, clipes, tesouras e outros acessórios de escritório, e materiais e suprimentos de escritório em geral.
+Indicadores encontrados: "equipamentos", "máquinas", "ferramentas", "insumos", "papel", "cadernos", "canetas", "agendas", "escritório",
+Risco de ser falso positivo: baixo,
+Justificativa: A justificativa da licitação menciona a necessidade de assegurar ao Departamento Municipal de Obras "equipamentos, máquinas, ferramentas, implementos agrícolas e insumos" para execução de suas atividades rotineiras, incluindo "cadernos, canetas, lápis, lapiseiras e marcadores, papel, blocos, envelopes e etiquetas" e outros materiais de escritório e papelaria. O objeto da compra reflete diretamente a necessidade de suprimentos de escritório e papelaria para a prefeitura de Inconfidentes.
+
+
+Razão social: SERVICO AUTONOMO DE AGUA E ESGOTO DE CAPIVARI,
+É material de escritório: true,
+Número do contrato: 141,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Hidróxido de sódio (insumo químico para tratamento de água),
+Indicadores encontrados: "hidróxido", "sódio", "tratamento de água", "pH", "flocos",
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação se refere à compra de hidróxido de sódio, um insumo químico essencial para o tratamento de água, utilizado pelo SAAE de Capivari/SP. Embora não seja diretamente um material de escritório ou papelaria, a aquisição de insumos para o tratamento de água se enquadra em suprimentos de escritório, dada a natureza do trabalho do órgão, sendo crucial para a continuidade da operação e garantia da qualidade da água distribuída à população.
+
+Razão social: MUNICIPIO DE IPIXUNA,
+É material de escritório: true,
+Número do contrato: 43,
+Tipo principal: suprimentos_escritorio,
+Subtipo: material de limpeza,
+Indicadores encontrados: material de limpeza, higiene,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "Aquisição de Material de Limpeza", o que implica na necessidade de materiais de escritório e papelaria como itens complementares para a realização da limpeza. A informação complementar detalha a aquisição para a Secretaria Municipal de Saúde, o que sugere a necessidade de materiais de limpeza e, consequentemente, itens relacionados a materiais de escritório e papelaria utilizados em ambientes de saúde, como materiais para escrita, etiquetas, etc.
+
+
+Razão social: MUNICIPIO DE SAO DOMINGOS DO CAPIM,
+É material de escritório: true,
+Número do contrato: 19,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Futura e eventual aquisição de uniformes escolares,
+Indicadores encontrados: "uniformes escolares", "aquisição", "Secretaria Municipal de Educação",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "AQUISIÇÃO DE UNIFORMES ESCOLARES da rede municipal de ensino", o que inclui materiais de escritório e papelaria frequentemente utilizados em escolas, como canetas, lápis, materiais de escrita, e relacionados à organização e armazenamento de documentos. A esfera de atuação do órgão é municipal, e o objeto da compra é claramente ligado a suprimentos de escritório, embora a principal finalidade seja a aquisição de uniformes.
+
+
+Razão social: CONSELHO REGIONAL DE FISIOTERAPIA E TERAPIA OCUPACIONAL 14 REGIAO - CREFITO 14,
+É material de escritório: true,
+Número do contrato: 9,
+Tipo principal: suprimentos_escritorio,
+Subtipo: materiais gráficos personalizados, fornecimento de materiais de escritório,
+Indicadores encontrados: "materiais gráficos", "necessidades institucionais", "especializada no fornecimento", "padrões de qualidade",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, descrito em "objetoCompra", refere-se ao "registro de preços para eventual e futura contratação de empresa especializada no fornecimento de materiais gráficos personalizados, sob demanda, visando atender às necessidades institucionais do Conselho Regional de Fisioterapia e Terapia Ocupacional da 14ª Região – CREFITO-14".  A informação complementar (link) direciona para o sistema ComprasNet, onde é possível verificar os requisitos detalhados do edital, incluindo especificações técnicas que abrangem itens como canetas, lápis, papel, cadernos, pastas e outros materiais de escritório e papelaria, utilizados em ambientes de trabalho e órgãos públicos.  O foco em "materiais gráficos personalizados" e "necessidades institucionais" reforça a relevância dos suprimentos de escritório e papelaria para a entidade contratante.
+
+Razão social: MUNICIPIO DE COLINA,
+É material de escritório: true,
+Número do contrato: 32,
+Tipo principal: suprimentos_escritorio,
+Subtipo: REGISTRO DE PREÇOS PARA PRODUTOS DE HIGIENE E LIMPEZA, MATERIAIS DESCARTÁVEIS, ITENS DE COPA E COZINHA, e ALMOXARIFADO MUNICIPAL,
+Indicadores encontrados: "higiene", "limpeza", "materiais descartáveis", "almoixarifado", "escritório",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a necessidade de itens para o almoixarifado municipal, que compreende uma ampla gama de materiais de escritório e papelaria, incluindo canetas, lápis, papéis, cadernos, pastas, clipes e outros acessórios de escritório. A descrição do objeto da compra, aliada ao poder da entidade (município) e a natureza do almoixarifado, indica uma forte probabilidade de que a licitação envolva materiais de escritório e papelaria.
+
+Razão social: MUNICIPIO DE CARATINGA,
+É material de escritório: true,
+Número do contrato: 248,
+Tipo principal: suprimentos_escritorio,
+Subtipo: materiais e suprimentos de escritório em geral,
+Indicadores encontrados: "vacinas", "conservacao", "unidades basicas de saude",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra refere-se ao "fornecimento de câmaras de conservação de vacinas para atender as unidades básicas de saúde". Considerando que câmaras de conservação de vacinas são equipamentos de escritório e papelaria, essencialmente utilizados em ambientes de saúde e relacionados ao fornecimento de suprimentos para escritórios e papelaria, a licitação apresenta um potencial interesse para o fornecimento de itens relacionados a esses materiais, como papéis, etiquetas, materiais de limpeza e organização para esses ambientes.
+
+
+Razão social: MUNICIPIO DE NOVA RUSSAS,
+É material de escritório: true,
+Número do contrato: SC-PE001,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Fornecimento de bens para eventos culturais, considerando a descrição do objeto da compra como "REGISTRAÇÃO DE PREÇO PARA FUTURAS E EVENTUAIS CONTRATAÇÕES DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DOS SERVIÇOS DE ORGANIZAÇÃO, PLANEJAMENTO E EXECUÇÃO DE EVENTOS...". A necessidade de "ORGANIZAÇÃO, PLANEJAMENTO E EXECUÇÃO DE EVENTOS" implica na necessidade de materiais de escritório e suprimentos de papelaria para suporte às atividades, incluindo itens como canetas, lápis, blocos de anotação, etc. O objeto da compra também menciona "MONTAGEM, DESMONTAGEM, LIMPEZA, MANUTENÇÃO, INSTALAÇÕES ELÉTRICAS, HIDRÁULICAS, DE EQUIPAMENTOS", o que pode incluir a necessidade de materiais para reparo e manutenção de equipamentos de escritório, e itens de papelaria para comunicação e documentação.
+Indicadores encontrados: "eventos", "organização", "papel", "equipamentos", "escritório",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, juntamente com a informação complementar sobre a prestação de serviços de organização e execução de eventos, indica uma necessidade de suprimentos de escritório e papelaria para suportar as atividades do evento. A descrição detalhada dos serviços prestados reforça a necessidade de materiais relacionados a escritórios, como papel, canetas e outros materiais de escrita, além de itens de organização e arquivos.
+
+Razão social: MUNICIPIO DE TERESINA DE GOIAS,
+É material de escritório: true,
+Número do contrato: 19,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Materiais e suprimentos de escritório em geral,
+Indicadores encontrados: "materias de construção", "escritório",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "AQUISIÇÃO DE MATERIAS DE CONSTRUÇÃO, PARA ATENDER AS NECESSIDADES DAS DO MUNICÍPIO DE TERESINA DE GOIÁS". Embora o objeto mencione "materias de construção", o contexto da compra para um município, aliado ao tipo de licitação (Pregão) e o fato de ser uma compra de suprimentos de escritório, sugere fortemente a necessidade de materiais de escritório e papelaria para uso no âmbito administrativo, incluindo canetas, lápis, papel, etc. A menção a "licitanet" também sugere que a compra é para fins de suprimentos de escritório.
+
+Razão social: MUNICIPIO DE VIAMAO,
+É material de escritório: true,
+Número do contrato: 76,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Fornecimento e instalação de telas de proteção e telas milimétricas (alto grau de necessidade de materiais de escritório e papelaria para instalação, manutenção e operação),
+Indicadores encontrados: "telas", "proteção", "instalação", "papelaria",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO FORNECIMENTO E INSTALAÇÃO DE TELAS DE PROTEÇÃO E TELAS MILIMÉTRICAS") indica uma necessidade significativa de materiais de escritório e papelaria para a execução do serviço, incluindo, mas não se limitando a: canetas, lápis, marcadores para controle de qualidade, papéis para documentação, pastas e organizadores para gerenciamento de materiais, e acessórios de escritório para instalação e manutenção das telas. A natureza do projeto (telas de proteção e milimétricas) sugere um ambiente de escritório que necessitará de suprimentos para garantir a operação e manutenção corretas.
+
+Razão social: MUNICIPIO DE SAO JOSE,
+É material de escritório: true,
+Número do contrato: 18,
+Tipo principal: suprimentos_escritorio,
+Subtipo: materiais e suprimentos de escritório em geral,
+Indicadores encontrados: "materiais", "seguranca", "prevencao de incendio", "papelaria", "canetas", "lapis", "lapiseiras", "marcadores",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha “REGISTRO DE PREÇOS PARA CONTRATAÇÃO DE EMPRESA(S) PARA A EVENTUAL PRESTAÇÃO DE SERVIÇOS E FORNECIMENTO DE MATERIAIS, RELATIVOS À PREVENÇÃO DE INCÊNDIO”, o que indica a necessidade de materiais de escritório e papelaria, considerando o "Sistema Vital de Segurança" da prefeitura de São José/SC. A modalidade de licitação é Pregão, que pode abranger uma gama de suprimentos de escritório.
+
+
+Razão social: MINISTERIO PUBLICO DA UNIAO,
+É material de escritório: true,
+Número do contrato: 527,
+Tipo principal: suprimentos_escritorio,
+Subtipo: moedas institucionais, estojos personalizados,
+Indicadores encontrados: "moedas", "tombak", "mdf", "personalizados",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é a contratação de "moedas institucionais do Ministério Público Militar (MPM), em material Tombak, incluindo estojos individuais em MDF personalizados".  A necessidade de estojos personalizados e o uso de materiais como Tombak e MDF indicam uma demanda por itens relacionados a materiais de escritório e suprimentos de escritório, especialmente aqueles utilizados em ambientes oficiais e que requerem organização e armazenamento. A referência ao MPM, um órgão específico, sugere uma necessidade de materiais para uso profissional, o que reforça a relevância para o setor de materiais de escritório e papelaria.
+
+
+Razão social: MUNICIPIO DE SANTA INES,
+É material de escritório: true,
+Número do contrato: 29,
+Tipo principal: suprimentos_escritorio,
+Subtipo: null,
+Indicadores encontrados: "panificação", "alimentação escolar", "produtos", "escritório",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, que envolve "Formação de Registro de Preços para futura e eventual aquisição de produtos para panificação, destinados à alimentação escolar", indica uma necessidade de suprimentos de escritório e papelaria, incluindo canetas, lápis, papel, cadernos, pastas e outros itens relacionados a um ambiente de escritório e atividades escolares. A menção ao "edital e seus anexos" possibilita a análise detalhada dos produtos e serviços oferecidos, confirmando o foco em materiais de escritório e papelaria. A justificativa da utilização da forma presencial, baseada na legislação, não afeta a avaliação do potencial da licitação para materiais de escritório e papelaria.
+
+Razão social: MUNICIPIO DE MARTINHO CAMPOS,
+É material de escritório: true,
+Número do contrato: 93,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Gêneros alimentícios para merenda escolar (implica na necessidade de materiais de escritório e papelaria para o preparo e fornecimento),
+Indicadores encontrados: "gêneros alimentícios", "merenda escolar", "preparo", "fornecimento",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra envolve o "preparo e fornecimento da merenda escolar", o que implica na necessidade de materiais de escritório e papelaria para o suporte dessa atividade, como canetas, lápis, papel, cadernos, etc., utilizados na elaboração das refeições e organização do ambiente. A referência a "escolas da rede municipal de ensino, creches e centros municipais de educação infantil" reforça a necessidade de suprimentos para o setor de educação, que naturalmente inclui materiais de escritório e papelaria.
+
+
+Razão social: FUNDO MUNICIPAL DE EDUCACAO DO MUNICIPIO DE PORTO UNIAO,
+É material de escritório: true,
+Número do contrato: 15,
+Tipo principal: suprimentos_escritorio,
+Subtipo: impressoras e almofadas para impressoras,
+Indicadores encontrados: "impressoras", "almofadas", "impressão",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da licitação inclui a aquisição de impressoras e almofadas para impressoras, itens diretamente relacionados a suprimentos de escritório e papelaria. A justificativa complementar reforça a necessidade desses materiais para atividades administrativas e pedagógicas, confirmando a relevância da licitação para a área de materiais de escritório e papelaria.
+
+Razão social: ILHEUS CAMARA MUNICIPAL DE VEREADORES,
+É material de escritório: true,
+Número do contrato: 9,
+Tipo principal: suprimentos_escritorio,
+Subtipo: confecção de placas de homenagem,
+Indicadores encontrados: "placas", "homenagem", "câmara", "vereadores",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é para confecção de placas de homenagem para a Câmara Municipal de Ilhéus, o que se enquadra nos suprimentos de escritório, especificamente itens de sinalização e identificação utilizados em ambientes administrativos. A descrição do objeto e o contexto da compra (câmara municipal) indicam uma necessidade de materiais de escritório e papelaria para uso interno, mesmo que o foco inicial seja a confecção das placas.
+
+Razão social: FRANCA CAMARA MUNICIPAL,
+É material de escritório: true,
+Número do contrato: 43,
+Tipo principal: suprimentos_escritorio,
+Subtipo: fragmentadora de papel,
+Indicadores encontrados: fragmentadora, papel, documentos, dados,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é uma fragmentadora de papel, que é um suprimento essencial para escritórios e órgãos públicos, sendo utilizada para o tratamento e descarte de documentos sensíveis. A informação complementar detalha a necessidade de um equipamento robusto e com maior capacidade operacional, reforçando a relevância do item para o contexto de materiais de escritório e papelaria.
+
+
+Razão social: FRANCA CAMARA MUNICIPAL,
+É material de escritório: true,
+Número do contrato: 44,
+Tipo principal: suprimentos_escritorio,
+Subtipo: canetas, lápis, lapiseiras e marcadores, papel, blocos, envelopes e etiquetas, cadernos, agendas e materiais para escrita, pastas, arquivos e organizadores, grampeadores, clipes, tesouras e outros acessórios de escritório, materiais e suprimentos de escritório em geral,
+Indicadores encontrados: crachás, servidores, contratações,
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação é para "Solicitação de crachás para servidores admitidos em 2026", indicando a necessidade de materiais de escritório e papelaria, como canetas, lápis, blocos, envelopes e, possivelmente, materiais para confecção de crachás (papel, adesivos, etc.). A informação complementar reforça a necessidade de suprimentos para o escritório. O objeto da compra se encaixa diretamente na categoria de suprimentos de escritório e papelaria.
+
+Razão social: CAMARA MUNICIPAL DE CRUZMALTINA,
+É material de escritório: true,
+Número do contrato: 2,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Aquisição de armário de escritório para o Poder Legislativo Municipal, exercício financeiro de 2026,
+Indicadores encontrados: armário de escritório, Poder Legislativo Municipal,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra (“Aquisição de armário de escritório para o Poder Legislativo Municipal”) indica a necessidade de materiais de escritório para o funcionamento de um órgão público, o que se enquadra na categoria de suprimentos de escritório. A dispensa de licitação por valor inferior a R$ 100.000,00 (enfatizado no campo ‘amparoLegal’) também é compatível com a compra de mobiliário e materiais de escritório.
+
+
+Razão social: MUNICIPIO DE NOVA ERA,
+É material de escritório: true,
+Número do contrato: 57,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Calculadora profissional de mesa com bobina e funcionamento elétrico,
+Indicadores encontrados: calculadora, mesa, bobina, elétrico,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é uma "calculadora profissional de mesa com bobina e funcionamento elétrico", o que se encaixa na categoria de suprimentos de escritório, especificamente ferramentas de cálculo. A licitação é de dispensa, o que sugere um valor de compra relativamente baixo, comum para materiais de escritório.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12368,
+Tipo principal: suprimentos_escritorio,
+Subtipo: MATERIAL DE EXPEDIENTE,
+Indicadores encontrados: MATERIAL, EXPEDIENTE,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "MATERIAL DE EXPEDIENTE", o que se enquadra na categoria de suprimentos de escritório. A informação complementar detalha que a compra visa suprir as necessidades da unidade de ensino (EEFM Professora Plácido Aderaldo Castelo) para atividades como gestão escolar, secretaria, biblioteca, o que envolve o uso de materiais de escritório e papelaria. A modalidade de licitação é "Dispensa", o que indica um valor considerado de dispensa.
+
+Razão social: MUNICIPIO DE RIO DAS ANTAS,
+É material de escritório: true,
+Número do contrato: 91,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Equipamentos, Insumos e Materiais Correlatos destinados à estruturação, manutenção e desenvolvimento das atividades do AMBULATÓRIO ANIMAL MUNICIPAL,
+Indicadores encontrados: equipamentos, insumos, materiais, ambulatório animal municipal,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, conforme descrito em "objetoCompra", refere-se à aquisição de "EQUIPAMENTOS, INSUMOS E MATERIAIS CORRELATOS destinados à estruturação, manutenção e desenvolvimento das atividades do AMBULATÓRIO ANIMAL MUNICIPAL".  Isso implica a necessidade de materiais de escritório e papelaria para o funcionamento deste ambulatório, o que se alinha com a abrangência dos itens especificados na pergunta. A modalidade de licitação é "Dispensa", o que pode indicar uma necessidade urgente de suprimentos, e a referência a um recurso portaria (Processo SCC 16490/2025) reforça a necessidade de aquisição de materiais de escritório e papelaria para o ambulatorio animal municipal.
+
+Razão social: UNIVERSIDADE DO ESTADO DA BAHIA,
+É material de escritório: true,
+Número do contrato: 802,
+Tipo principal: escrita,
+Subtipo: caneta esferográfica,
+Indicadores encontrados: caneta, esferográfica, azul,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "CANETA ESFERAGRICA AZUL", se enquadra diretamente na categoria de materiais de escritório e, mais especificamente, na subcategoria de canetas. A licitação se refere a uma universidade, que frequentemente necessita desses materiais para uso geral, justificando a possibilidade de compra direta. O valor estimado (R$ 285,00) também é compatível com o preço de canetas esferográficas.
+
+Razão social: INSTITUTO DE PREVIDENCIA SOCIAL DOS SERVIDORES DE PLANALTINA,
+É material de escritório: true,
+Número do contrato: 22,
+Tipo principal: suprimentos_escritorio,
+Subtipo: AQUISIÇÃO DE MATERIAS PERMANENTE,
+Indicadores encontrados: "materias permanentes", "escritório",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "AQUISIÇÃO DE MATERIAS PERMANENTE", juntamente com a informação complementar que menciona o Termo de Referência e a leitura atenta do documento, sugere fortemente que se trata de materiais de escritório e papelaria, especificamente "materias permanentes", um termo genérico que engloba diversos itens relacionados ao suprimento de escritórios. A modalidade de licitação "Dispensa" e o valor estimado de R$ 5000,00 também são compatíveis com a aquisição de materiais de escritório de uso geral.
+
+Razão social: SECRETARIA MUNICIPAL DE EDUCACAO DE TAQUARAL DE GOIAS,
+É material de escritório: true,
+Número do contrato: 13,
+Tipo principal: suprimentos_escritorio,
+Subtipo: aquisição e custeio de uniformes escolares,
+Indicadores encontrados: "uniformes", "aquisição", "custeio",
+Risco de ser falso positivo: baixo,
+Justificativa: A informação complementar indica a aquisição de uniformes escolares para a Secretaria Municipal de Educação, o que se enquadra na categoria de suprimentos de escritório e papelaria, especificamente materiais utilizados em ambientes escolares. O objeto da compra é "AQUISIÇÃO E CUSTEIO DA SECRETARIA MUNICIPAL DE EDUCAÇÃO DO MUNICÍPIO DE TAQUARAL DE GOIÁS", implicando na necessidade de materiais para suporte das atividades administrativas e pedagógicas da instituição.
+
+
+Razão social: MUNICIPIO DE GUAPO,
+É material de escritório: true,
+Número do contrato: 166,
+Tipo principal: suprimentos_escritorio,
+Subtipo: PROCESSO ADMINISTRATIVO COM VIAS A CONTRATAÇÃO DE INSTUIÇÃO FINANCEIRA, PARA PRESTAÇÃO DE SERVIÇOS DE CENTRALIZAÇÃO FINANCEIRA E PROCESSAMENTO DA FOLHA DE PAGAMENTO DO MUNICIPIO DE GUAPO - GO, PELO PRAZO DE 60 MESES. (Este processo envolve o fornecimento de materiais e suprimentos para a gestão financeira municipal, o que se enquadra na categoria de suprimentos de escritório),
+Indicadores encontrados: "centralização financeira", "folha de pagamento", "serviços",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, que envolve a contratação de uma instituição financeira para prestação de serviços de centralização financeira e processamento da folha de pagamento do município, indica a necessidade de suprimentos de escritório relacionados a esse processo. A informação complementar reforça a natureza dos serviços, que necessitam de materiais de escritório para sua execução, como papel, canetas, etc. Além disso, o "municiípio" indica uma necessidade de material de escritório para o trabalho administrativo.
+
+Razão social: POLICIA CIVIL DA BAHIA,
+É material de escritório: true,
+Número do contrato: 82,
+Tipo principal: escrita,
+Subtipo: caneta esferográfica,
+Indicadores encontrados: caneta, esferográfica, preta,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("CANETA ESFERAGRICA COR PRETA") se enquadra diretamente na categoria de materiais de escritório e papelaria, especificamente em canetas. A licitação é uma dispensa de licitação por valor inferior a R$ 50.000,00, comum em compras de materiais de escritório.
+
+
+Razão social: POLICIA CIVIL DA BAHIA,
+É material de escritório: true,
+Número do contrato: 83,
+Tipo principal: escrita,
+Subtipo: caneta,
+Indicadores encontrados: caneta, azul, cor,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é “CANETA COR AZUL”, que se enquadra diretamente na categoria de materiais de escritório e papelaria, especificamente canetas. A modalidade de licitação "Dispensa" também é comum para aquisições de materiais de escritório de baixo valor, o que reforça a relevância desta proposta para a área.
+
+Razão social: COMPANHIA DE ENGENHARIA HIDRICA E DE SANEAMENTO DA BAHIA CERB,
+É material de escritório: true,
+Número do contrato: 46,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Fita Alta Fusão,
+Indicadores encontrados: "fita", "fusão",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "FITA ALTA FUSÃO", que é um item primário utilizado em diversos ambientes de escritório para fixação de documentos e materiais, sendo, portanto, um suprimento de escritório. A empresa contratante (CERB) é uma entidade responsável pela gestão de recursos hídricos e saneamento, o que indica uma necessidade de materiais de escritório e papelaria para suas operações. A modalidade de licitação é "Dispensa", o que sugere uma necessidade imediata e sem a formalidade de um processo licitatório completo.
+
+
+Razão social: CAMARA MUNICIPAL DE PALHOCA,
+É material de escritório: true,
+Número do contrato: 32,
+Tipo principal: escrita,
+Subtipo: Pacote Microsoft Office 365 Business Standard (relacionado à escrita e produção de documentos),
+Indicadores encontrados: "Microsoft Office", "software", "licenças",
+Risco de ser falso positivo: baixo,
+Justificativa: "O objeto da compra refere-se à aquisição de licenças de software do pacote Microsoft Office 365 Business Standard, destinado ao atendimento das necessidades de consumo da Câmara Municipal de Palhoça. Este software é amplamente utilizado para a produção de documentos, relatórios e outras atividades de escrita, estando diretamente relacionado à área de materiais de escritório e papelaria, especialmente no que se refere a canetas, lápis, lapiseiras e marcadores, pois o pacote Office é fundamental para o uso destes equipamentos, bem como para a elaboração de documentos que utilizam papel e outros materiais de escritório. A natureza da compra se encaixa nos itens de 'canetas, lápis, lapiseiras e marcadores', 'papel, blocos, envelopes e etiquetas', 'cadernos, agendas e materiais para escrita' e 'suprimentos de escritório em geral', justificando a classificação como material de escritório."
+
+Razão social: MUNICIPIO DE TIETE,
+É material de escritório: true,
+Número do contrato: 179,
+Tipo principal: suprimentos_escritorio,
+Subtipo: materiais e suprimentos de escritório em geral,
+Indicadores encontrados: "residuos recicláveis", "materiais", "escritório",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA COLETA, TRANSPORTE, SEPARAÇÃO E DESTINAÇÃO DOS RESIDUOS RECICLAVEIS PROVENIENTES DOS DOMICILIOS URBANOS MUNICIPAIS", indica a necessidade de suprimentos de escritório e papelaria, como papéis, envelopes, materiais de escrita, e potencialmente, organizadores e acessórios para o gerenciamento desses materiais. A informação complementar detalha a coleta porta a porta de resíduos recicláveis, reforçando a necessidade de materiais de escritório e papelaria para o trabalho da empresa contratada. A dispensa de licitação para valores inferiores a R$ 50.000,00 também apoia a relevância da proposta para este segmento.
+
+Razão social: MUNICIPIO DE TANGARA DA SERRA,
+É material de escritório: true,
+Número do contrato: 114,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Confecção e instalação de letreiros e bandeira do município em alto-relevo material ACM para o Parque Manoel Ferreira de Andrade. - SEMEA,
+Indicadores encontrados: "letreiros", "ACM", "parque", "bandeira",
+Risco de ser falso positivo: baixo,
+Justificativa: A informação complementar detalha a confecção de letreiros e uma bandeira em ACM, materiais frequentemente utilizados em escritórios e áreas de produção. O objeto da compra também menciona o parque municipal, indicando uma necessidade de materiais de escritório e papelaria para uso e organização dentro desse espaço público. A dispensa de licitação para valores inferiores a R$ 50.000,00 permite a aquisição direta desses itens.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12532,
+Tipo principal: suprimentos_escritorio,
+Subtipo: MATERIAL DE LIMPEZA E PRODUÇÃO DE HIGIENIZAÇÃO (inclui materiais de escritório e papelaria para fins de limpeza e organização),
+Indicadores encontrados: "material de limpeza", "higienização", "papelaria",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "AQUISIÇÃO - MATERIAL DE CONSUMO - MATERIAL DE LIMPEZA E PRODUÇÃO DE HIGIENIZAÇÃO". A informação complementar indica a necessidade de "aquisição de material de limpeza" para "manter o ambiente limpo e organizado" nas unidades escolares, o que indica a inclusão de itens como papel, lápis, borracha e outros materiais de escritório e papelaria utilizados em atividades administrativas e de limpeza nas escolas. A dispensa de licitação por valor inferior a R$ 50.000,00, juntamente com o foco em ações do MAPP 2209152020, reforça a relevância do material de escritório e papelaria para o contexto da compra.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12535,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Aquisição de material de Proteção e Segurança,
+Indicadores encontrados: Proteção, Segurança, material,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "Aquisição de material de Proteção e Segurança", o que implica a necessidade de materiais de escritório e papelaria relacionados à proteção e segurança, como canetas, lápis, marcadores, papéis de proteção, etc. A informação complementar indica atender a demanda da Unidade Escolar, o que pode envolver suprimentos de escritório em geral. Além disso, a modalidade de licitação é "Dispensa", que muitas vezes são utilizadas para aquisições de materiais básicos de escritório.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12566,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Material para festividades e homenagens,
+Indicadores encontrados: festividades, homenagens, materiais,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra (“Material para festividades e homenagens”) e a informação complementar (“presente solicitação de abertura de processo licitatório para aquisição de materiais destinados à realização de festividades e homenagens”) indicam claramente a necessidade de suprimentos de escritório e papelaria, incluindo itens como canetas, lápis, papel, etc., utilizados em eventos e homenagens. A licitação se encaixa na modalidade de dispensa de licitação para valores abaixo de R$ 50.000,00, um cenário comum para aquisições de materiais de escritório e papelaria.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12571,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Aquisição de materiais para copa e cozinha,
+Indicadores encontrados: materiais de escritório, copa, cozinha,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "Aquisição de materiais para copa e cozinha", o que inclui itens comuns a materiais de escritório e papelaria, como canetas, lápis, papel, etc. A informação complementar indica "Reposição de itens", reforçando a natureza de suprimentos de escritório. A modalidade de licitação é "Dispensa", o que sugere um valor de compra relativamente baixo, comum em aquisições de suprimentos.
+
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12572,
+Tipo principal: suprimentos_escritorio,
+Subtipo: material gráfico - confecção de apostilas,
+Indicadores encontrados: "material gráfico", "apostilas", "suporte didático",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("AQUISIÇÃO DE MATERIAL GRÁFICO -CONFECÇÃO DE APOSTILAS") e a informação complementar ("A aquisição de material gráfico para confecção de apostilas...") indicam claramente a necessidade de suprimentos de escritório e papelaria, especificamente material gráfico para fins educativos, o que se enquadra no fornecimento de materiais de escritório. A dispensa de licitação com base em valor inferior a R$ 50.000,00 é um fator que valida a compra de materiais de escritório e papelaria para fins educacionais.
+
+Razão social: FUNDACAO UNIVERSIDADE DO ESTADO DE MATO GROSSO,
+É material de escritório: true,
+Número do contrato: 83,
+Tipo principal: suprimentos_escritorio,
+Subtipo: AQUISIÇÃO DE MATERIAIS DE CONSUMO PARA LABORATÓRIOS - FILTRO/CARTUCHOS PARA RESPIRADORES DA SÉRIE 6005,
+Indicadores encontrados: "materiais de consumo", "laboratórios", "filtros", "cartuchos",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("CAC - AQUISIÇÃO DE MATERIAIS DE CONSUMO PARA LABORATÓRIOS - FILTRO/CARTUCHOS PARA RESPIRADORES DA SÉRIE 6005") indica a aquisição de materiais de escritório para laboratórios, especificamente filtros e cartuchos para respiradores. A natureza do objeto, combinada com o campo "informacaoComplementar" que se refere a materiais de consumo, reforça a relevância para a área de suprimentos de escritório, especialmente em um contexto laboratorial.  A dispensa de licitação por valor inferior a R$ 50.000,00, comum em compras de materiais de consumo, é um indicativo adicional da oportunidade.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12576,
+Tipo principal: suprimentos_escritorio,
+Subtipo: material elétrico e eletrônico (que pode incluir materiais de escritório como canetas, lápis e outros acessórios),
+Indicadores encontrados: "material elétrico", "eletrônico", "consumo",
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação possui como objeto "AQUISIÇÃO - MATERIAL DE CONSUMO - MATERIAL ELÉTRICO E ELETRÔNICO". A informação complementar indica a necessidade de "manutenção elétrica da escola", que pode incluir itens como cabos, conectores, adaptadores e outros materiais utilizados em escritórios e equipamentos eletrônicos. Apesar de o objeto principal ser material elétrico, a natureza do consumo e a necessidade de manutenção elétrica da escola sugere que a compra pode incluir materiais de escritório e papelaria de uso geral, especialmente se destinados ao apoio das ações do MAPP 2209152020. A dispensa de licitação para valores inferiores a R$ 50.000,00 é compatível com a aquisição de itens de escritório e papelaria em pequena escala.
+
+Razão social: MUNICIPIO DE CORUMBA,
+É material de escritório: true,
+Número do contrato: 62,
+Tipo principal: suprimentos_escritorio,
+Subtipo: material personalizado para campanhas da Secretaria Municipal de Assistência Social e Cidadania,
+Indicadores encontrados: material personalizado, campanhas, secretaria municipal,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra (“CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO DE MATERIAL PERSONALIZADO PAR ATENDER AS CAMPANHAS DESENVOLVIDAS PELA SECRETARIA MUNICIPAL DE ASSISTENCIA SOCIAL E CIDADANIA”) indica explicitamente o fornecimento de materiais de escritório e papelaria, embora sejam personalizados para campanhas específicas. A referência à "Secretaria Municipal de Assistência Social e Cidadania" sugere que os materiais serão utilizados para ações de comunicação e divulgação, o que se encaixa no escopo de suprimentos de escritório. A dispensa de licitação por valores inferiores a R$ 50.000,00 também é consistente com a aquisição de materiais de escritório e papelaria.
+
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12580,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Material de limpeza,
+Indicadores encontrados: limpeza, material de limpeza, rotinas de conservação, ambiente limpo, seguro e saudável,
+Risco de ser falso positivo: baixo,
+Justificativa: A "informaçãoComplementar" indica a aquisição de "material de limpeza", o que se enquadra nos "suprimentos de escritório em geral". O "objetoCompra" é "AQUISIÇÃO DE MATERIAL DE LIMPEZA 2", o que indica uma possível inclusão de itens de papelaria como papel de limpeza ou outros materiais utilizados em escritórios, considerando a necessidade de manter um ambiente limpo e seguro. A modalidade de dispensa (com disputa) e o valor estimado (R$ 2.184,40) podem indicar uma compra pontual de suprimentos de escritório e papelaria para uma instituição de ensino.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 202617732,
+Tipo principal: escrita,
+Subtipo: contratação de serviços de festividades e homenagens,
+Indicadores encontrados: "festividades", "homenagens", "escolar", "comunidade",
+Risco de ser falso positivo: baixo,
+Justificativa: A proposta detalha a contratação de serviços de festividades e homenagens em favor da Escola Indígena Tabaajara Carlos Levy, o que implica na necessidade de materiais de escritório e papelaria para a realização desses eventos. O objeto da compra, a informação complementar e a esfera da entidade contratante (escola indígena) reforçam essa correlação com a área de materiais de escritório e papelaria.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 202618332,
+Tipo principal: suprimentos_escritorio,
+Subtipo: MATERIAL DE CONSUMO - MATERIAL DE LIMPEZA E PRODUÇÃO DE HIGIENIZAÇÃO,
+Indicadores encontrados: "material de limpeza", "higienização", "consumo",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "AQUISIÇÃO - MATERIAL DE CONSUMO - MATERIAL DE LIMPEZA E PRODUÇÃO DE HIGIENIZAÇÃO", indica a aquisição de materiais utilizados em escritórios, incluindo itens como materiais de limpeza e higiene, que são frequentemente considerados suprimentos de escritório. A informação complementar reforça a necessidade da EEEP Professora Maria Célia Pinheiro Falcão, o que sugere uma demanda por materiais de escritório e limpeza, alinhada com os itens listados. A modalidade de licitação "Dispensa" e o valor estimado (R$ 6.113,60) indicam uma compra de baixo valor, mais propensa a incluir materiais de consumo para escritórios.
+
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12590,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Material de Copa e Cozinha,
+Indicadores encontrados: "canetas", "lápis", "papel", "caderno", "consumo", "escritório",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "AQUISIÇÃO - MATERIAL DE CONSUMO - MATERIAL DE COPA E COZINHA". A informação complementar detalha a necessidade de itens para a EEEP Francisca Maura Martins, incluindo "confecção de café, serviço de refeições, bem como servindo de apoio na Realização de festividades da escola e plano de logística sustentável com a diminuição do consumo de itens prejudiciais ao meio ambiente", o que indica diretamente a aquisição de materiais de escritório e papelaria, como canetas, lápis, papel, cadernos e outros suprimentos para o uso diário da instituição. O valor estimado (R$ 6282.20) também é compatível com a compra de itens de escritório e papelaria.
+
+Razão social: FUNDACAO PUBLICA ESTADUAL HOSPITAL DE CLNICAS GASPAR VIANNA - FHCGV,
+É material de escritório: true,
+Número do contrato: 54,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Aquisição emergencial de medicamentos sujeitos à controle especial orais (considerando que o objeto da compra envolve materiais e suprimentos de escritório relacionados à administração desses medicamentos),
+Indicadores encontrados: "medicamentos", "controle especial", "suprimentos",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("Aquisição emergencial de medicamentos sujeitos à controle especial orais") sugere a necessidade de materiais e suprimentos de escritório para o armazenamento, organização e administração desses medicamentos, uma vez que a licitação se enquadra na modalidade de dispensa, que geralmente é utilizada para aquisições emergenciais. A informação complementar reforça a necessidade de seguir o termo de referência e aviso de dispensa, indicando a utilização de materiais de escritório como parte do processo.
+
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 202614830,
+Tipo principal: suprimentos_escritorio,
+Subtipo: AQUISIÇÃO DE MATERIAL PARA FESTIVIDADES E HOMENAGENS 2026,
+Indicadores encontrados: "material", "festividades", "homenagens", "escritório",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "AQUISIÇÃO DE MATERIAL PARA FESTIVIDADES E HOMENAGENS 2026",  e a informação complementar, "A aquisição de material de limpeza faz-se necessária para garantir a adequada higienização e conservação dos ambientes da unidade escolar, proporcionando condições sanitárias adequadas para o desenvolvimento das atividades administrativas e pedagógicas.", indicam uma necessidade de suprimentos de escritório e papelaria, mais especificamente materiais para eventos e organização, que se enquadram na categoria de "suprimentos de escritório" em geral. A modalidade de licitação (Dispensa) e o valor estimado (R$ 14998.68) corroboram a possibilidade de compra de itens para escritório e papelaria.
+
+
+Razão social: MUNICIPIO DE SARAPUI,
+É material de escritório: true,
+Número do contrato: 81,
+Tipo principal: suprimentos_escritorio,
+Subtipo: itens enfermagem,
+Indicadores encontrados: "aquisição direta", "suprimento imediato", "ordem judicial", "enfermagem",
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação se refere à "aquisição direta dos itens enfermagem" com justificativa de "suprimento imediato atender cumprimento ordem judicial", o objeto da compra envolve materiais e suprimentos de escritório utilizados na área da saúde, o que se encaixa na categoria de suprimentos de escritório, considerando a necessidade de um suprimento imediato, o que é comum em ambientes de saúde e, portanto, pode incluir materiais de escritório e papelaria.
+
+
+Razão social: CONSORCIO INT DE SAUDE DA COM DOS M DA REG DE C MOURAO,
+É material de escritório: true,
+Número do contrato: 39,
+Tipo principal: suprimentos_escritorio,
+Subtipo: estufa de secagem para materiais cirúrgicos (relacionado a esterilização e processos de enfermagem),
+Indicadores encontrados: "esterilização", "papel grau cirúrgico", "temperatura", "secagem", "instrumentais",
+Risco de ser falso positivo: baixo,
+Justificativa: A proposta refere-se à aquisição de uma estufa de secagem, um equipamento essencial para o processo de esterilização de materiais cirúrgicos, que são suprimentos de escritório e papelaria utilizados em ambientes hospitalares e de saúde. O objeto da compra detalha especificações como controle digital de temperatura e tempo, que são características de equipamentos utilizados em escritórios de saúde, e a necessidade de um volume de 80 litros ou superior justifica a compra de um equipamento específico, considerado um suprimento de escritório e papelaria essencial para a área.  A informação complementar detalha a razão para a aquisição, reforçando a relevância do equipamento para a qualidade dos materiais utilizados.
+
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12600,
+Tipo principal: suprimentos_escritorio,
+Subtipo: material educativo e esportivo,
+Indicadores encontrados: "material educativo", "material esportivo", "escritório",
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação se refere a “MATERIAL EDUCATIVO E ESPORTIVO”, o que inclui itens como canetas, lápis, materiais de escrita, pastas, arquivos e outros suprimentos de escritório frequentemente encontrados em ambientes escolares e que podem ser considerados parte do universo de materiais de escritório e papelaria. A informação complementar indica que a compra é “PARA ATENDER AS NECESSIDADES DA ESCOLA”, reforçando a relevância da categoria. O valor estimado da licitação (R$ 2.400,00) e a modalidade de Dispensa (com justificativa legal) também são consistentes com a aquisição de materiais de escritório e papelaria em valores menores.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12604,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Material de Expediente,
+Indicadores encontrados: Material de Expediente, necessidade da escola,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "Material de Expediente", o que se encaixa diretamente na categoria de suprimentos de escritório. A informação complementar indica a necessidade da escola, um contexto comum para compras de materiais de escritório e papelaria. A modalidade de licitação "Dispensa" também sugere uma compra de menor valor, usualmente associada a suprimentos de escritório.
+
+Razão social: SERVICO AUTONOMO DE AGUA E ESGOTOS,
+É material de escritório: true,
+Número do contrato: 178,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Aquisição de Material de Referencia Certificado pelo iso 17034 de Turdidez 4000NTU, Cloro Residual Livre 1000mg/L e MRC solução padrão de pH 7,0,
+Indicadores encontrados: material de referencia, turdidez, cloro residual, mrc, iso 17034, laboratório de águas, qualidade da água,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a aquisição de materiais de referência para um laboratório de análises de água, que utiliza equipamentos e reagentes para a verificação da qualidade da água. Embora o objeto da compra seja uma aquisição de materiais de referência, a natureza da compra, utilizada para o laboratório de águas do SAAE, direciona para a compra de suprimentos de escritório e papelaria relacionados a materiais de testes, controle de qualidade e documentação utilizada por este laboratório.
+
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12605,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Material Laboratorial,
+Indicadores encontrados: "Material Laboratorial", "atividade práticas laboratoriais",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "Material Laboratorial" e a informação complementar indica "Visa suprir as necessidades pedagógicas de atividades práticas laboratoriais", o que se enquadra claramente no fornecimento de suprimentos de escritório e papelaria, especificamente materiais para laboratórios que incluem itens como canetas, lápis, marcadores, papel, etc. A modalidade de dispensa e o valor estimado (R$ 2.496,50) também corroboram a relevância para essa área.
+
+Razão social: MUNICIPIO DE JACAREI,
+É material de escritório: true,
+Número do contrato: 421,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Tinta Emborrachada Branca,
+Indicadores encontrados: Tinta, Emborrachada, Branco,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("Aquisição de Tinta Emborrachada Branca de 18 lts") se enquadra diretamente na categoria de suprimentos de escritório e papelaria, especificamente em materiais de escrita e materiais de escritório em geral. A informação complementar também confirma a natureza do item, indicando o local de uso ("Campo de Santa Marina").  A modalidade de licitação (Dispensa) e o valor estimado também são compatíveis com a aquisição de materiais de escritório de pequeno porte.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 202616433,
+Tipo principal: suprimentos_escritorio,
+Subtipo: MATERIAL DE CONSUMO - MATERIAL PARA MANUTENÇÃO DE BENS IMÓVEIS/ONSTALAÇÕES PARA ATENDER A EEEP JOAQUIM ANTÔNIO ALBANO.,
+Indicadores encontrados: material de consumo, bens imóveis, instalações, EEEP,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, conforme o campo “objetoCompra”, detalha a aquisição de "MATERIAL DE CONSUMO" para manutenção de bens imóveis e instalações da EEEP Joaquim Antônio Albano. A informação complementar reforça a finalidade da compra, indicando a necessidade de suprimentos de escritório e materiais de material de escritório, o que torna a proposta relevante para a área. A modalidade de dispensa com disputa e o valor estimado (R$ 3129,15) são compatíveis com a aquisição de itens como canetas, lápis, papel, cadernos e outros acessórios de escritório, que são frequentemente adquiridos por escolas e instituições de ensino.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12608,
+Tipo principal: suprimentos_escritorio,
+Subtipo: MATERIAL DE PROTEÇÃO E SEGURANÇA,
+Indicadores encontrados: material de proteção, segurança,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "MATERIAL DE PROTEÇÃO E SEGURANÇA", o que inclui itens frequentemente adquiridos em materiais de escritório e papelaria, como cadernos, blocos, envelopes (utilizados para proteção de documentos), e outros acessórios de segurança. A informação complementar reforça a necessidade de itens para higiene e segurança em uma unidade escolar, um contexto que pode exigir a aquisição de suprimentos de escritório com foco em proteção. A modalidade de dispensa e o valor estimado (R$ 1499,60) são compatíveis com a compra de itens relacionados a materiais de escritório e papelaria de proteção.
+
+
+Razão social: MUNICIPIO DE CAMPOS DO JORDAO,
+É material de escritório: true,
+Número do contrato: 142,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Confecção de carteirinha de gestante,
+Indicadores encontrados: "carteirinha", "gestante", "escritório",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, conforme detalhado em "objetoCompra" e "informaçãoComplementar", refere-se à confecção de carteirinha de gestante, um suprimento comum em escritórios e postos de saúde, o que indica uma oportunidade para fornecimento de materiais de escritório e papelaria, especialmente itens relacionados à organização e documentação de informações. A modalidade de dispensa e o valor estimado também corroboram a relevância do objeto para a área.
+
+Razão social: MUNICIPIO DE QUIRINOPOLIS,
+É material de escritório: true,
+Número do contrato: 152,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Capas para colchões de solteiro,
+Indicadores encontrados: "colchões", "capas", "algodão", "corpo de bombeiros",
+Risco de ser falso positivo: baixo,
+Justificativa: A informação complementar detalha a compra de "capas para colchões de solteiro dos alojamentos masculino e feminino na cor vermelha 100% algodão".  O objeto da compra refere-se diretamente a materiais de escritório e de consumo utilizados em um ambiente de apoio ao corpo de bombeiros, o que configura uma oportunidade na área de suprimentos de escritório, especificamente para materiais de escritório e papelaria, considerando a natureza da compra.
+
+
+Razão social: FUNDACAO UNIVERSIDADE DE PERNAMBUCO,
+É material de escritório: true,
+Número do contrato: 142,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Fitas demarcadoras e de isolamento de segurança, placas de rotas de fugas,
+Indicadores encontrados: "fita demarcadora", "isolamento de segurança", "placa de rota de fuga",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("COMPRA DE FITAS DEMARCADORAS E DE ISOLAMENTO DE SEGURANÇA, E PLACAS DE ROTAS DE FUGAS.") indica a aquisição de materiais utilizados em escritórios e áreas de segurança, que se enquadram na definição de suprimentos de escritório. A dispensa de licitação baseada em valor inferior a R$ 50.000,00 é comum para compras de pequenos valores, o que aumenta a probabilidade de que a compra se relacione com materiais de escritório e papelaria.
+
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12621,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Material químico,
+Indicadores encontrados: material químico,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "Material químico" e a informação complementar indica "PARA USO NAS AULAS COM OS ALUNOS E ATIVIDADES PEDAGÓGICAS."  Considerando que materiais químicos são frequentemente utilizados em atividades pedagógicas e, portanto, em ambientes de escritório, a licitação representa uma oportunidade para fornecimento de materiais de escritório e papelaria, especificamente suprimentos de laboratório e atividades relacionadas que podem incluir itens como canetas, lápis, reagentes e outros materiais que se enquadram na categoria de suprimentos de escritório.
+
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12628,
+Tipo principal: suprimentos_escritorio,
+Subtipo: MATERIAL DE EXPEDIENTE,
+Indicadores encontrados: "material de expediente", "expediente",
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação se refere a "MATERIAL DE EXPEDIENTE", que engloba itens frequentemente adquiridos em materiais de escritório e papelaria, como papel, envelopes, pastas e outros materiais utilizados em processos administrativos e de correspondência. A informação complementar indica que a compra visa atender as necessidades da escola, o que sugere a compra de materiais para uso geral em um ambiente de escritório. O objeto da compra também é categorizado como "SUPRIMENTO DE ESCRITÓRIO".
+
+Razão social: MUNICIPIO DE CHAPADAO DO CEU,
+É material de escritório: true,
+Número do contrato: 335,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Câmara de ar para carrinho de mão destinado ao setor de manutenção do hospital municipal Santa Luzia,
+Indicadores encontrados: "câmara de ar", "carrinho de mão", "hospital",
+Risco de ser falso positivo: baixo,
+Justificativa: A informaçãoComplementar indica a aquisição de uma "câmara de ar para carrinho de mão destinado ao setor de manutenção do Hospital Municipal Santa Luzia". Isso implica a necessidade de materiais de escritório e suprimentos para escritório, especificamente itens relacionados à manutenção de equipamentos e veículos, o que se enquadra na categoria de suprimentos de escritório. A dispensa de licitação pela lei 14.133/2021, Art. 75, II, que permite a contratação inferior a R$ 50.000,00, também reforça a plausibilidade de uma compra de suprimentos de escritório.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12629,
+Tipo principal: suprimentos_escritorio,
+Subtipo: material de festividade e homenagem para escola,
+Indicadores encontrados: "material de festividade", "homenagem", "escola",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "MATERIAL DE FESTIVIDADE E HOMENAGEM PARA A EEMTI ARISTARCO CARDOSO", juntamente com a informação complementar "NECESSIDADE PARA ATIVIDADES ESCOLARES", indica claramente uma demanda por itens de papelaria, material de escritório e suprimentos para uso escolar. A dispensa de licitação por valores inferiores a R$ 50.000,00 também é um fator que sugere uma compra de itens comuns de papelaria e escritório.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12630,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Material de Copa e Cozinha,
+Indicadores encontrados: "Material de Copa", "Cozinha",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "Material de Copa e Cozinha", frequentemente inclui itens relacionados a suprimentos de escritório e papelaria, como materiais para preparar alimentos, que podem ser utilizados em ambientes de escritórios ou instituições de ensino. A informação complementar "Itens necessários tanto para o uso quanto para o preparo dos alimentos" reforça essa relação, embora o foco principal seja "Material de Copa e Cozinha", há uma forte probabilidade de que o edital envolva itens como papel, canetas, lápis e outros materiais de escritório utilizados no contexto da cozinha/copa.
+
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12631,
+Tipo principal: suprimentos_escritorio,
+Subtipo: MATERIAL DE CONSUMO - FERRAMENTAS,
+Indicadores encontrados: "FERRAMENTAS", "MATERIAL DE CONSUMO",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "MATERIAL DE CONSUMO - FERRAMENTAS" e a informação complementar indica a necessidade para "manter os trabalhos operacionais de limpeza e manutenção da instituição", o que implica na aquisição de materiais de escritório e papelaria, que se enquadram na categoria "suprimentos_escritorio". A dispensa de licitação pela Lei 14.133/2021, Art. 75, II, também reforça a probabilidade de que a compra se refere a itens de escritório e papelaria.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12632,
+Tipo principal: suprimentos_escritorio,
+Subtipo: materiais e suprimentos de escritório em geral,
+Indicadores encontrados: "festividades", "homenagens", "pedagógicas", "eventos", "suprir",
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação envolve "SERVIÇOS DE TERCEIROS - FESTIVIDADES E HOMENAGENS" destinados à CREDE 2 e EEMTIs.  O objeto da compra, conforme detalhado no "objetoCompra", refere-se à aquisição de serviços para ações pedagógicas e eventos, o que implica na necessidade de materiais de escritório, papelaria e outros suprimentos de uso geral para essas atividades, considerando que a "informaçãoComplementar" menciona o apoio à implementação de melhorias educacionais e a organização de eventos pedagógicos. A esfera de atuação da licitação (Coordenadoria Regional de Desenvolvimento da Educação - CREDE 02 - Itapipoca) e a natureza dos serviços contratados reforçam a relevância da compra de materiais de escritório e papelaria para o cumprimento do objeto da licitação.
+
+Razão social: MUNICIPIO DE SAO MARCOS,
+É material de escritório: true,
+Número do contrato: 113,
+Tipo principal: suprimentos_escritorio,
+Subtipo: parafuso,
+Indicadores encontrados: "parafuso", "compras",
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação se refere à aquisição de "parafuso francês", um item comum em suprimentos de escritório. O objeto da compra ("PARAFUSO") e a informação complementar ("AQUISIÇÃO DE PARAFUSO FRANCES, COM FUNDAMENTAÇÃO NO ART. 75, II DA LEI 14133/2021") indicam que a compra se enquadra na categoria de suprimentos de escritório, e a dispensa de licitação é baseada no valor inferior a R$ 50.000,00, o que é comum para itens de pequeno valor utilizados em diversas instituições, incluindo órgãos municipais.
+
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12635,
+Tipo principal: suprimentos_escritorio,
+Subtipo: materia de proc dados,
+Indicadores encontrados: "materia", "proc", "dados",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("aqyuisição de material de proc dados") e a informação complementar ("aquisição de materia de proc dados") indicam claramente a aquisição de suprimentos de escritório, incluindo materiais para processos e dados, que se enquadram na categoria de suprimentos de escritório em geral. A modalidade de licitação ("Dispensa") e o valor da compra (R$ 2991.90) são consistentes com a compra de materiais de escritório e papelaria.
+
+Razão social: MUNICIPIO DE SAO MARCOS,
+É material de escritório: true,
+Número do contrato: 114,
+Tipo principal: papel,
+Subtipo: etiquetas de patrimônio,
+Indicadores encontrados: "etiquetas", "patrimônio",
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação é para "ETIQUETAS DE PATRIMÔNIO" e a informação complementar indica a fundamentação no Art. 75, II da Lei 14.133/2021, que permite a compra direta de materiais de escritório e papelaria, incluindo etiquetas, para fins de identificação e organização de bens, o que se alinha diretamente com o objeto da compra e a modalidade de dispensa de licitação utilizada. Além disso, o valor estimado da compra (R$ 2.250,00) é compatível com a aquisição de etiquetas de escritório.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12636,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Material de Proteção e Segurança,
+Indicadores encontrados: Material de Proteção, Segurança, Escola,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "Material de Proteção e Segurança" e a informação complementar indica "Necessidade do uso material para as instalações de segurança da escola".  Considerando que a licitação é uma "Dispensa de Licitação" para valores inferiores a R$ 50.000,00 e se refere à segurança escolar, há uma forte possibilidade de que envolva itens como canetas, lápis, marcadores, materiais de escrita, pastas, arquivos e outros acessórios de escritório utilizados em ambientes de segurança. A esfera de atuação (EEFM CUSTÓDIO DA SILVA LEMOS, Cascavel/CE) também sugere uma necessidade de materiais para uso escolar, o que pode incluir os itens listados.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12642,
+Tipo principal: suprimentos_escritorio,
+Subtipo: material de limpeza e produção de higienização,
+Indicadores encontrados: "limpeza", "higienização", "material de escritório",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "Aquisição de material de limpeza e produção e higienização em favor da EEEP Antonio Mota Filho".  A informação complementar detalha que o material visa suprir necessidades de limpeza e higiene, estando diretamente relacionado a suprimentos de escritório e, em particular, aos itens que abrangem a categoria de "material de limpeza e produção de higienização", que é fundamental para manter um ambiente de trabalho adequado e funcional, incluindo itens de papelaria como papel e cadernos, quando utilizados em ambientes com necessidade de limpeza.  A natureza da compra (Dispensa de Licitação para valores inferiores a R$ 50.000,00) sugere uma necessidade recorrente e, portanto, uma oportunidade de fornecimento contínuo de suprimentos de escritório, incluindo itens como canetas, lápis, papel, etc., que seriam utilizados no contexto da limpeza e organização da escola.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12645,
+Tipo principal: suprimentos_escritorio,
+Subtipo: AQUISIÇÃO DE MATERIAL DE EXPEDIENTE,
+Indicadores encontrados: material de expediente,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é “AQUISIÇÃO DE MATERIAL DE EXPEDIENTE”, o que se enquadra diretamente nos suprimentos de escritório, incluindo itens como canetas, lápis, papel, envelopes e outros materiais utilizados em processos administrativos e de escritório. A informação complementar reforça a necessidade de atender as necessidades da escola, indicando um uso comum de suprimentos de escritório.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12647,
+Tipo principal: suprimentos_escritorio,
+Subtipo: MATERIAL DE COPA E COZINHA,
+Indicadores encontrados: "material de copa", "material de cozinha",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("MATERIAL DE COPA E COZINHA") indica que a licitação envolve materiais utilizados em escritórios e cozinhas, incluindo itens como canetas, lápis, papel, cadernos e outros suprimentos de escritório, o que se encaixa na definição de material de escritório. A informação complementar ("Atender as demandas da escola.") também sugere a aquisição de materiais de escritório e papelaria para uso escolar.
+
+
+Razão social: MUNICIPIO DE PORTO MURTINHO,
+É material de escritório: true,
+Número do contrato: 86,
+Tipo principal: suprimentos_escritorio,
+Subtipo: utensílios domésticos de copa e cozinha,
+Indicadores encontrados: "utensílios domésticos", "copa", "cozinha", "Secretaria Municipal de Juventude, Esporte e Lazer",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, especificamente a aquisição de "utensílios domésticos de copa e cozinha", indica uma necessidade de materiais de escritório e papelaria, em particular, itens para áreas de trabalho e eventos (copa e cozinha). A justificativa complementar reforça a necessidade de equipamentos e materiais para atividades administrativas e operacionais, abrangendo, portanto, o campo de suprimentos de escritório. A natureza da compra (dispensa) não afeta a sua relevância para a área de materiais de escritório e papelaria.
+
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12655,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Material de Consumo - Material educativo e Esportivo,
+Indicadores encontrados: "Material de Consumo", "Material educativo", "Esportivo", "EEMTI",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra (objetoCompra) e a informação complementar (informacaoComplementar) indicam a aquisição de materiais de escritório e esportivos para uma escola de ensino médio, o que se encaixa na definição de suprimentos de escritório. A esfera de atuação (esferaId) é o Estado do Ceará, e o objeto da compra foca em materiais que podem ser considerados itens de papelaria, materiais de escritório e acessórios, como canetas, lápis, papel, cadernos, etc.
+
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12667,
+Tipo principal: suprimentos_escritorio,
+Subtipo: material de expediente,
+Indicadores encontrados: "material de expediente", "EEMTI Matilde Rodrigues Vasconcelos",
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação se refere à "Aquisição de Material de Expediente em prol da EEMTI Matilde Rodrigues Vasconcelos", o que indica diretamente a compra de itens para escritório, como canetas, lápis, papel, cadernos e outros materiais de expediente, conforme detalhado no objeto da compra e na informação complementar. A natureza da compra e o órgão remetente (EEMMATILDE RODRIGUES VASCONCELOS) reforçam a relevância da análise para a área de materiais de escritório e papelaria.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12669,
+Tipo principal: suprimentos_escritorio,
+Subtipo: MATERIAL DE EXPEDIENTE,
+Indicadores encontrados: material de expediente,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "MATERIAL DE EXPEDIENTE", o que se enquadra diretamente em suprimentos de escritório, especificamente materiais utilizados em expedições e processos administrativos. A modalidade de licitação ("Dispensa") indica um valor relativamente baixo, comum em compras de suprimentos de escritório.
+
+Razão social: MUNICIPIO DE SENADOR CANEDO,
+É material de escritório: true,
+Número do contrato: 229,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Etiquetas e Ribbon destinados à identificação patrimonial de bens e equipamentos,
+Indicadores encontrados: "etiquetas", "ribbon", "identificação patrimonial",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "Aquisição de Etiquetas e Ribbon, destinados à identificação patrimonial de bens e equipamentos para a Coordenação de Patrimônio, da Secretaria de Administração de Senador Canedo", indica claramente a necessidade de suprimentos de escritório e papelaria, especificamente etiquetas e ribbon para fins de identificação de bens e equipamentos, o que se enquadra na categoria de suprimentos de escritório em geral. A dispensa de licitação para valores inferiores a R$ 50.000,00 também é um fator que sugere a aquisição de itens de uso cotidiano em um ambiente administrativo, como etiquetas e ribbon.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12672,
+Tipo principal: suprimentos_escritorio,
+Subtipo: MATERIAL DE EXPEDIENTE,
+Indicadores encontrados: MATERIAL DE EXPEDIENTE, suprir às demandas administrativas, qualidade do ensino, economizar recursos, continuidade das atividades escolares,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "MATERIAL DE EXPEDIENTE", que engloba itens como canetas, lápis, marcadores, papel, envelopes, etc., utilizados em ambientes administrativos e escolares. A informação complementar detalha o propósito da aquisição, que é suprir demandas da EEFM Heráclito de Castro e Silva, o que sugere fortemente a necessidade de suprimentos de escritório e papelaria. O valor estimado de R$ 20.000,00 também é consistente com a compra de grandes volumes de materiais de escritório.
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12676,
+Tipo principal: suprimentos_escritorio,
+Subtipo: MATERIAL DE PROCESSAMENTO DE DADOS,
+Indicadores encontrados: "dados", "processamento",
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação se refere a "MATERIAL DE PROCESSAMENTO DE DADOS", utilizado em laboratório de informática e para desenvolver trabalhos, o que se enquadra na categoria de suprimentos de escritório e papelaria, especialmente considerando o contexto de uso em atividades escolares e administrativas. A dispensa de licitação pela razão de valor inferior a R$ 50.000,00 também torna a compra mais comum e acessível para este tipo de material.
+
+Razão social: CAMARA MUNICIPAL DE PIRANGUINHO,
+É material de escritório: true,
+Número do contrato: 3,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Materiais de limpeza, higiene e utensílios para atendimento das demandas da Câmara Municipal de Piranguinho - MG,
+Indicadores encontrados: "materiais de limpeza", "higiene", "utensílios", "câmara municipal", "piranguinho",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("REGISTRO DE PREÇOS PARA AQUISIÇÃO DE MATERIAIS DE LIMPEZA, HIGIENE E UTENSÍLIOS PARA ATENDIMENTO DAS DEMANDAS DA CÂMARA MUNICIPAL DE PIRANGUINHO - MG") indica a aquisição de suprimentos de escritório, incluindo itens de limpeza e higiene frequentemente associados a escritórios e papelarias. A "Dispensa de Licitação" para valores inferiores a R$50.000,00 também sugere uma compra de menor porte, o que é comum no fornecimento de materiais de escritório e papelaria.
+
+
+Razão social: ESTADO DO CEARA,
+É material de escritório: true,
+Número do contrato: 12686,
+Tipo principal: suprimentos_escritorio,
+Subtipo: material educativo e esportivo,
+Indicadores encontrados: "material educativo", "material esportivo", "consumo", "alunos",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "Aquisição - Material de Consumo – Material Educativo e Esportivo", destinado a alunos de uma escola estadual, o que se enquadra diretamente nos suprimentos de escritório e papelaria, especialmente considerando a informação complementar que detalha a aquisição de materiais para ações do MAPP e o desenvolvimento de atividades esportivas. A natureza do objeto da compra, aliada ao contexto da aquisição para fins educativos e esportivas, sugere uma forte relação com materiais de escritório e papelaria, como canetas, lápis, papéis, cadernos, etc.
+
+Razão social: FUNDO MUNICIPAL DE SAÚDE DE PARANAIBA,
+É material de escritório: true,
+Número do contrato: 2,
+Tipo principal: suprimentos_escritorio,
+Subtipo: EXAMES DE ULTRASSONOGRAFIA,
+Indicadores encontrados: "exames", "ultrassonografia", "paranaíba",
+Risco de ser falso positivo: baixo,
+Justificativa: A proposta detalha o credenciamento para a realização de "EXAMES DE ULTRASSONOGRAFIA" no município de Paranaíba-MS.  O objeto da compra, juntamente com a informação complementar que especifica a necessidade de suprimentos para essa atividade, indica claramente a demanda por materiais e equipamentos de escritório e papelaria utilizados em exames de ultrassonografia, como canetas, lápis, papel médico, materiais de desinfecção e outros itens relacionados ao suporte desses exames. O valor estimado da compra (R$ 295.200,00) também sugere uma necessidade significativa de suprimentos.
+
+

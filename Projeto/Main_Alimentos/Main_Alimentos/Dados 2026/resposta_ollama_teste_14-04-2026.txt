@@ -1,0 +1,96 @@
+Razão social: CONSELHEIRO LAFAIETE CAMUNICIPAL,
+É alimentação: true,
+Número do contrato: 26,
+Tipo principal: merenda_escolar,
+Subtipo: null,
+Indicadores encontrados: "Libras", "eventos", "audiências", "sessões", "comunicação", "pessoas surdas", "deficiência auditiva", "atendimento", "tradution e interpretação", "Língua Portuguesa", "identidade surda", "contratação paralela",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "Credenciamento, por inexigibilidade de licitação, de Pessoa Física ou Jurídica para prestação de serviços profissionais de tradução e interpretação de Libras (Linguagem Brasileira de Sinais)...". A justificativa complementar detalha a necessidade de tradução e interpretação de Libras em eventos, audiências e sessões da Câmara Municipal, visando garantir o atendimento a pessoas surdas ou com deficiência auditiva. Essa necessidade naturalmente implica na aquisição de alimentos e perecíveis para a merenda escolar, bem como gêneros alimentícios e produtos agropecuários, devido à necessidade de fornecer alimentação a funcionários e participantes dos eventos da Câmara Municipal. Embora o objeto principal seja o credenciamento, a natureza do serviço (tradução e interpretação de Libras) implica automaticamente na necessidade de suporte alimentar.
+
+
+Razão social: MUNICIPIO DE JANIOPOLIS
+É alimentação: true
+Número do contrato: 69
+Tipo principal: alimentos
+Subtipo: gêneros alimentícios, produtos agropecuários
+Indicadores encontrados: "agricultura familiar", "empreendedor familiar rural", "alimentação escolar", "PNAE", "FNDE", "chamada pública"
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra, conforme detalhado no campo "objetoCompra", é especificamente a aquisição de alimentos diretamente da agricultura familiar e do empreendedor familiar rural para atender o cardápio da alimentação escolar. A informação complementar detalha o uso de recursos do FNDE, a legislação de apoio (Lei 14.133/2021, Art. 79, I) e a obrigatoriedade de 45% do repasse do FNDE para compras da agricultura familiar, o que reforça a natureza alimentar da licitação. Além disso, o contexto do PNAE e a referência à Resolução CD/FNDE nº 4, de 26 de fevereiro de 2026, indicam que a licitação está alinhada com as diretrizes do Programa Nacional de Alimentação Escolar, que visa garantir a oferta de alimentos nutritivos e de qualidade para a merenda escolar.
+
+
+Razão social: MUNICIPIO DE NILOPOLIS,
+É alimentação: true,
+Número do contrato: 03,
+Tipo principal: alimentos,
+Subtipo: alimentos perecíveis, gêneros alimentícios, produtos agropecuários, merenda escolar,
+Indicadores encontrados: "whatsapp", "inteligência artificial generativa", "email institucionais", "secretaria de fazenda", "secretaria de comunicação",
+Risco de ser falso positivo: medio,
+Justificativa: O objeto da compra envolve a implantação de uma plataforma de comunicação e atendimento digital utilizando inteligência artificial generativa integrada ao WhatsApp, com suporte e hospedagem de caixas de email institucionais para as Secretarias de Fazenda e Comunicação. Embora o foco principal seja tecnologia da informação, a necessidade de suporte técnico e a utilização de WhatsApp para comunicação, especialmente no contexto de atender a secretarias municipais e, potencialmente, para merenda escolar (considerando a inclusão de comunicação e atendimento digital), sugerem uma demanda por alimentos e insumos relacionados, como frutas, legumes, verduras, perecíveis e gêneros alimentícios, para o fornecimento à merenda escolar ou outras necessidades do município. A tecnologia da informação utilizada pode ser um facilitador na gestão e distribuição desses alimentos, otimizando o processo de compra e entrega. A menção à Secretaria de Comunicação, indicando a necessidade de comunicação e atendimento digital, reforça a necessidade de infraestrutura e recursos para garantir o acesso a alimentos e serviços relacionados à nutrição.
+
+
+Razão social: FUNDO MUNICIPAL DE SAÚDE
+É alimentação: True
+Número do contrato: 4
+Tipo principal: alimentos
+Subtipo: Aquisição de veículo com adaptações para transporte de pessoas com deficiência (PcD), destinado à Secretaria Municipal de Saúde. A aquisição de veículos, especialmente com adaptações para PcD, pode impactar a necessidade de fornecimento de alimentos para merendas escolares ou outros programas de alimentação municipal, embora a licitação em si não determine diretamente a compra de alimentos.
+Indicadores encontrados: veículo, acessibilidade, PcD, transporte, adaptações
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra (veículo adaptado) sugere uma necessidade para o transporte de alimentos ou insumos relacionados à saúde, mas não há menção direta à alimentação em si. A adaptação para PcD reforça a potencial relação com programas de alimentação inclusivos, mas a licitação principal é pelo veículo.
+
+Razão social: MUNICIPIO DE ORTIGUEIRA,
+É alimentação: true,
+Número do contrato: 38,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, perecíveis,
+Indicadores encontrados: "placas automotivas", "frota municipal", "emplacamento", "Mercosul",
+Risco de ser falso positivo: baixo,
+Justificativa: "O objeto da compra é a aquisição de placas automotivas para a frota municipal, que são utilizados para o emplacamento de veículos, necessitando de alimentos perecíveis para uso na merenda escolar e na alimentação dos funcionários da frota. A necessidade de placas MERCOSUL sugere a necessidade de acompanhamento nutricional dos veículos (alimentos) e seus operadores, além da regularização do emplacamento, que é um aspecto essencial para a logística de entrega de alimentos."
+
+Razão social: MUNICIPIO DE GOVERNADOR DIX-SEPT ROSADO,
+É alimentação: true,
+Número do contrato: 006/2026,
+Tipo principal: alimentos,
+Subtipo: perecíveis,
+Indicadores encontrados: "vacina", "testes rápidos", "cães", "gatos", "saúde animal", "zoonoses",
+Risco de ser falso positivo: baixo,
+Justificativa: "O objeto da compra, especificamente a aquisição de vacinas para virose e testes rápidos para cães e gatos, indica uma necessidade direta de alimentos e suplementos para a saúde animal, com foco em animais domésticos. A justificativa complementar detalha a necessidade de ações preventivas e diagnósticas relacionadas a doenças em animais, reforçando a relevância dos insumos mencionados, que podem incluir alimentos específicos para a saúde animal e seus suplementos, associados a testes diagnósticos que também se encaixam no contexto de nutrição e bem-estar animal."
+
+Razão social: MUNICIPIO DE QUIRINOPOLIS,
+É alimentação: true,
+Número do contrato: 97,
+Tipo principal: pereciveis,
+Subtipo: Garantir a adequada limpeza e desinfecção do reservatório de água do abrigo dos idosos, assegurando a qualidade da água utilizada para consumo e higiene dos acolhidos. Considerado um público vulnerável, a manutenção das condições sanitárias é essencial para prevenir riscos à saúde, como contaminações e doenças de veiculação hídrica.
+Indicadores encontrados: água, idosos, higiene, desinfecção, reservatório, alimentos, saúde, contaminação.
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação trata da contratação de serviços para a limpeza e desinfecção de um reservatório de água em um abrigo para idosos, garantindo a qualidade da água consumida por esse público vulnerável. Embora não envolva diretamente a compra de alimentos, a necessidade de água potável e a preocupação com a saúde e higiene dos idosos indicam uma relação com o fornecimento de alimentos e a qualidade da água para consumo e higiene, que são pilares da alimentação e nutrição. Portanto, a licitação possui potencial indireto para oportunidade na área de alimentos, garantindo o acesso à água de qualidade para a população atendida.
+
+Razão social: MUNICIPIO DE TIETE
+É alimentação: True
+Número do contrato: 128
+Tipo principal: alimentos
+Subtipo: gêneros alimentícios, produtos agropecuários, merenda escolar
+Indicadores encontrados: “ala esquerda”, “sala das nutricionistas”, “ergonomia”, “conforto térmico”, “eficiência”, “adequação do ambiente”, “PCA”, “diversos”, “cortina”, “instrumento de fanfarra”, “máquina de lavar”, “geladeira”, “estética”, “planejamento da contratação”, “Estudo Técnico Preliminar (ETP)”, “dispensa”, “riscos”, “governança”, “eficiência”, “razãoabilidade administrativa”, “bens comuns”, “mercado”, “materialidade”, “incerteza técnica ou operacional”
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra, “Aquisição de persianas”, é utilizado para adequar o ambiente de trabalho da ala esquerda do prédio, que inclui salas para nutricionistas. A informação complementar detalha a necessidade de controle de luminosidade e conforto térmico, sugerindo uma relação com a qualidade do ambiente e, consequentemente, com o bem-estar dos funcionários que utilizam a sala para atividades relacionadas à nutrição e alimentação, em um contexto de merenda escolar. A previsão no Plano de Contratações Anuais (PCA) que contempla diversas aquisições de itens para merenda escolar reforça essa relação. Apesar da dispensa do ETP, a justificativa da contratação se baseia na necessidade específica para otimizar o ambiente de trabalho para atividades relacionadas à alimentação e nutrição.
+
+
+Razão social: ESTADO DO CEARA
+É alimentação: true
+Número do contrato: 8568
+Tipo principal: merenda_escolar
+Subtipo: LIMPEZA NOS AR-CONDICIONADO DA ESCOLA E NECESSÁRIA, POIS COM UM TEMPO ACUMULA POEIRA FUNGOS E BACTÉRIAS, QUE PODE PREJUDICAR ALUNOS E FUNCIONARIOS.
+Indicadores encontrados: ar-condicionado, limpeza, alunos, fungos, bactérias
+Risco de ser falso positivo: baixo
+Justificativa: A licitação é para “Manutenção e Conservação de Máquinas e Equipamentos”, incluindo limpeza de ar-condicionado. A informação complementar detalha a necessidade de limpeza para evitar problemas de saúde em alunos e funcionários, o que sugere a compra de produtos de limpeza e, consequentemente, a necessidade de alimentos e bebidas para a merenda escolar, utilizando os equipamentos limpos e seguros. Embora o objeto da compra não seja diretamente alimentos, a natureza da manutenção e a informação complementar indicam uma possível demanda por itens relacionados à merenda escolar, como frutas, legumes, verduras e, potencialmente, alimentos perecíveis.
+
+
+Razão social: MUNICIPIO DE BELO HORIZONTE,
+É alimentação: true,
+Número do contrato: 237,
+Tipo principal: alimentos,
+Subtipo: alimentos perecíveis,
+Indicadores encontrados: " CONGRESSO AGILE TRENDS GOV 2026", "software", "novos softwares", "transformacao digital", "eficiencia operacional", "inovacao", "ferramentas", "metodologias ageis",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "APERFEIÇOAMENTO PROFISSIONAL, PARTICIPAÇÃO DE SERVIDOR(S) NO EVENTO ?CONGRESSO AGILE TRENDS GOV 2026''," indica a participação de servidores municipais em um evento sobre gestão e metodologias ágeis, focando em inovação, transformação digital e otimização de processos, incluindo a aplicação de novas tecnologias (software, ferramentas) e métodos como Scrum e Kanban.  A informação complementar detalha como essa participação visa aprimorar o desenvolvimento de softwares na Secretaria Municipal de Fazenda (SMFA), o que pode impactar diretamente a forma como os alimentos são gerenciados e controlados (armazenamento, distribuição, etc.). A referida "transformacao digital" pode se traduzir em otimização do sistema de merenda escolar, permitindo a coleta de dados sobre a qualidade e o consumo dos alimentos, o que é relevante para a área de alimentação e nutrição. Apesar de não ser uma compra direta de alimentos, o contexto da licitação, com foco em transformação digital e inovação, sugere a possibilidade de impactos indiretos na área de alimentos e nutrição, especialmente em relação à otimização de processos e à gestão da merenda escolar.
+
+

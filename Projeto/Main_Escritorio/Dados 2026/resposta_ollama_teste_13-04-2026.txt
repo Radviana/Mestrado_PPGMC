@@ -1,0 +1,48 @@
+Razão social: MUNICIPIO DE BORDA DA MATA,
+É material de escritório: true,
+Número do contrato: 66,
+Tipo principal: cadernos_agendas,
+Subtipo: Exames complementares de saúde,
+Indicadores encontrados: "exames", "saúde", "contratação",
+Risco de ser falso positivo: baixo,
+Justificativa: “O objeto da licitação refere-se à realização de exames complementares de saúde, o que implica na necessidade de materiais para escrita, como cadernos e agendas, e suprimentos de escritório para o atendimento da Norma Regulamentadora 07 - Programa de Controle Médico de Saúde Ocupacional. A natureza do objeto da compra sugere a inclusão de materiais de escritório e papelaria como parte integrante do serviço de realização de exames.”
+
+Razão social: FUNDO MUNICIPAL DE SAÚDE,
+É material de escritório: true,
+Número do contrato: 4,
+Tipo principal: canetas_lapiseiras_marcadores,
+Subtipo: Registro de preços para aquisição de equipamentos e materiais de escritório destinados a agentes de saúde.
+Indicadores encontrados: "bicicletas elétricas", "motocicletas", "acessórios", "Agentes Comunitários de Saúde", "Agentes de Combate a Endemias", "Brasilândia/MS",
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação se refere à aquisição de bicicletas elétricas e motocicletas, juntamente com acessórios, para agentes de saúde, o que se enquadra na categoria de materiais de escritório e papelaria, especialmente considerando o suporte de atuação desses agentes.
+
+Razão social: MUNICIPIO DE BALSAMO,
+É material de escritório: true,
+Número do contrato: 14,
+Tipo principal: suprimentos_escritorio,
+Subtipo: canetas, lápis, lapiseiras e marcadores, papel, blocos, envelopes e etiquetas, cadernos, agendas e materiais para escrita, pastas, arquivos e organizadores, grampeadores, clipes, tesouras e outros acessórios de escritório, materiais e suprimentos de escritório em geral,
+Indicadores encontrados: "solicitação", "cotação", "várias entidades", "documentos", "estudo técnico", "mapa de gerenciamento de riscos", "termos de referência",
+Risco de ser falso positivo: baixo,
+Justificativa: A análise do objeto da compra ("SOLICITAÇÃO GERADA PARA COTAÇÃO DE VÁRIAS SOLICITAÇÕES DE VÁRIAS ENTIDADES") e a informação complementar ("Para instrução dos autos, a área demandante encaminhou os seguintes documentos: Documento de Formalização de Demanda; Estudo Técnico Preliminar; Anexo ao ETP – Mapa de Gerenciamento de Riscos da Contratação; e Termo de Referência.") indicam fortemente que a licitação se refere à aquisição de suprimentos de escritório, uma categoria ampla que engloba os itens listados na pergunta. A modalidade de licitação (Pregão Eletrônico) e o foco na obtenção de cotações corroboram essa conclusão. Embora a descrição seja genérica, a natureza da solicitação e a lista de documentos encaminhados apontam para a necessidade de materiais de escritório e papelaria.
+
+
+Razão social: MUNICIPIO DE ANTONIO PRADO,
+É material de escritório: true,
+Número do contrato: 187,
+Tipo principal: suprimentos_escritorio,
+Subtipo: coffee break para atendimento de eventos,
+Indicadores encontrados: "coffee break", "eventos", "secretarias",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "Aquisição de coffee break para atendimento de eventos realizados pelas diversas secretarias da Administração Municipal", indica a necessidade de suprimentos de escritório e papelaria para o fornecimento deste coffee break, incluindo canetas, blocos de anotação, descartáveis e outros materiais utilizados em ambientes de escritório e eventos. A natureza da compra (coffee break) implica o uso de materiais de escritório para suporte a atividades de atendimento e eventos, o que se alinha com o escopo da licitação.
+
+
+Razão social: MUNICIPIO DE RIVERSUL,
+É material de escritório: true,
+Número do contrato: 008,
+Tipo principal: suprimentos_escritorio,
+Subtipo: gêneros alimentícios, canetas, lápis, lapiseiras e marcadores, papel, blocos, envelopes e etiquetas, cadernos, agendas e materiais para escrita, pastas, arquivos e organizadores, grampeadores, clipes, tesouras e outros acessórios de escritório, materiais e suprimentos de escritório em geral,
+Indicadores encontrados: "gêneros alimentícios", "escritório", "aquisição",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é “REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS”, mas o processo e a modalidade de licitação (Pregão Eletrônico) indicam a compra de suprimentos de escritório em geral.  A inclusão da modalidade "Pregão - Eletrônico" e a descrição do objeto compra, que engloba diversos materiais de escritório e papelaria,  suscita a possibilidade de que a aquisição de gêneros alimentícios seja apenas um detalhe, e que a principal necessidade do município seja a compra de materiais de escritório e papelaria para o seu funcionamento. A esfera de atuação do órgão (SP) também é relevante, pois a demanda por materiais de escritório e papelaria costuma ser elevada em governos municipais.
+
+

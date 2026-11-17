@@ -1,0 +1,141 @@
+Razão social: CONSELHEIRO LAFAIETE CAMUNICIPAL,
+É material de escritório: true,
+Número do contrato: CRE 1,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Credenciamento de serviços de tradução e interpretação de Libras (Libras),
+Indicadores encontrados: "tradução", "interpretação", "Libras", "serviços profissionais", "Câmara Municipal",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra – credenciamento para prestação de serviços profissionais de tradução e interpretação de Libras – está diretamente relacionado à necessidade de suprimentos de escritório e papelaria para a realização desses serviços. A Câmara Municipal necessitará de materiais como canetas, lápis, blocos de papel, cadernos, etc., para a comunicação e documentação relacionada à tradução e interpretação da Libras, sendo um cenário comum em licitações de órgãos públicos que contratam serviços de tradução/interpretação. A natureza do objeto da licitação (credenciamento de serviços) implica no fornecimento de bens de material de escritório e papelaria para a operação desses serviços.
+
+Razão social: MUNICIPIO DE JOAO MONLEVADE,
+É material de escritório: true,
+Número do contrato: 32,
+Tipo principal: suprimentos_escritorio,
+Subtipo: material gráfico para uso em secretarias municipais (obras, serviços urbanos, saúde),
+Indicadores encontrados: "material gráfico", "manutenção", "secretarias municipais",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("Registro de Preços para AQUISIÇÃO DE MATERIAL GRÁFICO") e a descrição ("serão utilizados na manutenção das atividadesfim e meio das Secretarias Municipais de Obras, de Serviços Urbanos e de Saúde") indicam claramente a necessidade de suprimentos de escritório e papelaria, incluindo itens como canetas, lápis, papel, cadernos, pastas, etc. A modalidade de licitação (Pregão Eletrônico) é comum para aquisição desses materiais.
+
+Razão social: FUNDO MUNICIPAL DE SAÚDE,
+É material de escritório: true,
+Número do contrato: 6,
+Tipo principal: escrita,
+Subtipo: Veículo com adaptações para transporte de pessoas com deficiência (PcD) – Necessidade de materiais de escritório e papelaria para manutenção, adaptação e operação do veículo.
+Indicadores encontrados: "veículo", "PcD", "transportes", "adaptações", "escritório", "papelaria",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é a aquisição de um veículo furgão adaptado para transporte de pessoas com deficiência, o que implica a necessidade de materiais de escritório e papelaria para a manutenção do veículo, adaptações futuras, operação da Secretaria Municipal de Saúde e o trabalho com PcD, sendo a principal necessidade de materiais para escrita, organização e comunicação.
+
+Razão social: MUNICIPIO DE SELVIRIA,
+É material de escritório: true,
+Número do contrato: 010,
+Tipo principal: suprimentos_escritorio,
+Subtipo: suprimentos para serviços de convivência e fortalecimento de vínculos (SCFV) Ser Mais I, Ser Mais II, Unidade de Acolhimento “Menino Jesus”,
+Indicadores encontrados: "gêneros alimentícios", "demandas", "SCFV", "Selvíria",
+Risco de ser falso positivo: baixo,
+Justificativa: A proposta detalha a aquisição de gêneros alimentícios para o SCFV do município, o que implica diretamente no fornecimento de materiais de escritório e suprimentos de papelaria utilizados nesses serviços. O objeto da compra, com prioridade regional e em anuência com a Secretaria Municipal de Assistência Social, indica uma necessidade clara de materiais para escrita, organização, e outros itens de escritório, sendo a mais adequada identificação para essa licitação.
+
+Razão social: MUNICIPIO DE ORTIGUEIRA,
+É material de escritório: true,
+Número do contrato: 38,
+Tipo principal: escrita,
+Subtipo: placas automotivas (Mercosul),
+Indicadores encontrados: "placas", "veículos", "frota municipal", "emplacamento", "MERCOSUL",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra consiste na aquisição de placas automotivas para a frota municipal, o que se enquadra diretamente na categoria de materiais de escritório e papelaria, especificamente itens relacionados à identificação veicular e à organização de documentos. A informação complementar reforça a necessidade de placas para veículos, indicando uma demanda por este tipo de material.
+
+Razão social: CAMARA MUNICIPAL DE ARTUR NOGUEIRA,
+É material de escritório: true,
+Número do contrato: 19,
+Tipo principal: suprimentos_escritorio,
+Subtipo: Seguro Patrimonial,
+Indicadores encontrados: "seguro", "patrimonial", "sede", "artur nogueira",
+Risco de ser falso positivo: baixo,
+Justificativa: A proposta detalha a contratação de "Seguro Patrimonial para a sede da Câmara Municipal de Artur Nogueira".  O objeto da compra (e a informação complementar) direcionam a necessidade para suprimentos de escritório, especificamente um seguro que protege o patrimônio da entidade, o que envolve a necessidade de materiais de escritório e papelaria para o registro e gestão desse seguro, além de itens de escritório para a sede da Câmara.
+
+
+Razão social: MUNICIPIO DE GUIRATINGA,
+É material de escritório: true,
+Número do contrato: 28,
+Tipo principal: cadernos_agendas,
+Subtipo: Detetização de prédios da Secretaria Municipal de Educação e escolas rurais, implicando necessidade de materiais para escrita, organização e controle de pragas.
+Indicadores encontrados: "dedetização", "pragas", "escritório", "cadernos", "etiquetas",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra envolve a contratação de empresa especializada em dedetização e controle de pragas em prédios escolares, o que sugere uma necessidade de materiais de escritório e papelaria para a execução do serviço, incluindo cadernos, etiquetas, materiais de escrita e organização, além de possíveis suprimentos para o controle de pragas (como marcadores e etiquetas para identificação). A necessidade de atender "áreas internas e externas das unidades escolares" reforça a necessidade de materiais diversos para o controle de pragas e para atividades administrativas relacionadas.
+
+
+Razão social: MUNICIPIO DE ESPIRITO SANTO DO PINHAL,
+É material de escritório: true,
+Número do contrato: 404,
+Tipo principal: suprimentos_escritorio,
+Subtipo: AQUISIÇÃO DE MATERIAIS DE ESCRITÓRIO,
+Indicadores encontrados: materiais de escritório, papelaria, escrita,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "AQUISIÇÃO DE MATERIAIS DE ESCRITÓRIO", o que abrange diretamente os itens listados nas categorias de materiais de escritório e papelaria especificados. A modalidade de licitação (Dispensa) e a descrição do objeto também reforçam a relevância da oportunidade para fornecedores desse segmento.
+
+Razão social: MUNICIPIO DE JARDIM,
+É material de escritório: true,
+Número do contrato: 29,
+Tipo principal: suprimentos_escritorio,
+Subtipo: material de informática e escritório,
+Indicadores encontrados: material de escritório, informática, demanda da Secretaria Municipal de Meio Ambiente e Desenvolvimento Sustentável,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "Aquisição de material de informática e escritório", em conjunto com a descrição do objeto ("atender as necessidades e demandas da Secretaria Municipal de Meio Ambiente e Desenvolvimento Sustentável"), indica uma potencial necessidade de suprimentos de escritório e papelaria, incluindo canetas, lápis, papel, cadernos, pastas, grampeadores e outros materiais de escritório. A modalidade de licitação "Dispensa" (Lei 14.133/2021, Art. 75, II) também favorece a possibilidade de aquisição desses itens, dada a faixa de valor inferior a R$ 50.000,00.
+
+
+Razão social: MUNICIPIO DE QUIRINOPOLIS,
+É material de escritório: true,
+Número do contrato: 97,
+Tipo principal: escrita,
+Subtipo: Limpeza e desinfecção do reservatório de água para uso de idosos,
+Indicadores encontrados: "limpeza", "desinfecção", "água", "reservatório", "idosos",
+Risco de ser falso positivo: baixo,
+Justificativa: A proposta descreve a contratação de serviços de limpeza e desinfecção de um reservatório de água utilizado por idosos em um abrigo municipal. Embora não mencione diretamente canetas, lápis ou outros materiais de escritório, a necessidade de garantir a qualidade da água, um recurso essencial para a higiene e saúde dos idosos, aponta para um serviço que pode estar relacionado ao fornecimento de materiais de higiene e limpeza, que são componentes comuns de materiais de escritório e papelaria, especialmente quando considerados os riscos sanitários envolvidos. A natureza do objeto da compra, focada na saúde e bem-estar dos idosos, sugere uma demanda que pode ser atendida com suprimentos de escritório e papelaria relacionados à higiene e limpeza.
+
+Razão social: FUNDO MUNICIPAL DE SAÚDE DE BURITI ALEGRE,
+É material de escritório: true,
+Número do contrato: 46,
+Tipo principal: suprimentos_escritorio,
+Subtipo: materiais odontológicos,
+Indicadores encontrados: "odontológicos", "saúde", "kits de higiene bucal",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "SOLICITO A COMPRA DOS MATERIAIS ODONTOLÓGICOS", indicando diretamente a necessidade de suprimentos para unidades de saúde, incluindo itens como "kits de higiene bucal". A referência à Lei 14.133/2021, Art. 75, II, que permite a dispensa de licitação para valores inferiores a R$ 50.000,00, sugere uma compra de materiais de escritório e papelaria para uso odontológico, o que se alinha com a descrição do objeto da compra. A esfera de atuação e o objeto da compra reforçam a relevância da compra para o setor de materiais de escritório e papelaria, especificamente no contexto odontológico.
+
+Razão social: FUNDO MUNICIPAL DE SAÚDE DE BURITI ALEGRE,
+É material de escritório: true,
+Número do contrato: 47,
+Tipo principal: suprimentos_escritorio,
+Subtipo: materiais odontológicos, canetas, lápis, lapiseiras e marcadores, papel, blocos, envelopes e etiquetas, cadernos, agendas e materiais para escrita, pastas, arquivos e organizadores, grampeadores, clipes, tesouras e outros acessórios de escritório, materiais e suprimentos de escritório em geral,
+Indicadores encontrados: "odontológicos", "matariais", "saúde", "manutencao",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "SOLICITO A COMPRA DOS MATERIAIS ODONTOLÓGICOS PARA AS UNIDADES DE SAÚDE, PARA MANUTENÇÃO DO ÓRGÃO, MANTENDO OS ATENDIMENTOS NO MUNICÍPIO", o que indica diretamente a necessidade de materiais de escritório e papelaria, especificamente materiais odontológicos, em um contexto de saúde municipal. A referência à Lei 14.133/2021, Art. 75, II (dispensa de licitação para valores inferiores a R$ 50.000,00) também corrobora a relevância da compra para suprimentos de escritório e papelaria.
+
+
+Razão social: FUNDO MUNICIPAL DE SAÚDE DE BURITI ALEGRE,
+É material de escritório: true,
+Número do contrato: 48,
+Tipo principal: suprimentos_escritorio,
+Subtipo: materiais de expediente para unidades de saúde,
+Indicadores encontrados: "expediente", "médicos", "unidades de saúde",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "SOLICITO A COMPRA DOS METERIAIS DE EXPEDIENTE PARA AS UNIDADES DE SAÚDE, PARA REALIZAR A MANUTENÇÃO DOS ÓRGÃOS", indicando diretamente a necessidade de itens como canetas, lápis, papel, envelopes, etc., utilizados em materiais de expediente e manutenção de órgãos de saúde. A dispensa de licitação com base na Lei 14.133/2021, Art. 75, II (valores inferiores a R$ 50.000,00) reforça a relevância da compra para o setor de saúde.
+
+Razão social: MUNICIPIO DE TIETE,
+É material de escritório: true,
+Número do contrato: 128,
+Tipo principal: escrita,
+Subtipo: canetas, lápis, lapiseiras e marcadores, papel, blocos, envelopes e etiquetas, cadernos, agendas e materiais para escrita,
+Indicadores encontrados: "sala da sub chefe", "sala da telefonistas", "sala das supervisoras de ensino", "sala das nutricionistas", "ergonomia", "conforto térmico", "eficiência", "adequação do ambiente de trabalho", "estética do espaço institucional", "plano de contratações anual", "dispensa", "ETP", "mercado",
+Risco de ser falso positivo: baixo,
+Justificativa: A proposta é para "Aquisição de persianas", no entanto, a informação complementar detalha a necessidade de adequação do ambiente de trabalho nas salas da prefeitura, utilizando materiais de escritório e papelaria como canetas, lápis, etc., para otimizar o ambiente de trabalho dos servidores. Além disso, o objeto da compra encontra-se previsto no PCA, com dispensa de outros itens, o que sugere uma relação com materiais de escritório.
+
+
+Razão social: MUNICIPIO DE BELO HORIZONTE,
+É material de escritório: true,
+Número do contrato: 237,
+Tipo principal: escrita,
+Subtipo: canetas, lápis, lapiseiras e marcadores,
+Indicadores encontrados: "aperfeiçoamento profissional", "evento agile trends", "transformação digital", "software", "metodologias ageis",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra, "TEM POR OBJETO O APERFEICOAMENTO PROFISSIONAL, PARTICICIPACAO DE SERVIDOR(S) NO EVENTO ?CONGRESSO AGILE TRENDS GOV 2026'',  relaciona-se diretamente com a participação em um evento de tendências em gestão e metodologias ágeis, que visa aprimorar o desenvolvimento de softwares na Secretaria Municipal de Fazenda.  A descrição detalhada da "informacaoComplementar" indica a importância de ferramentas para planejar a transformação digital, implementar uma cultura de inovação sustentável e aplicar práticas em projetos críticos de TIC, o que se encaixa na aquisição de materiais e suprimentos de escritório utilizados para essas atividades.  A modalidade de licitação "Dispensa" reforça a natureza da compra como essencial para o desenvolvimento de software e gestão de TI, áreas diretamente relacionadas à aquisição de materiais de escritório e papelaria.
+
+

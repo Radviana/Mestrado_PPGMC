@@ -1,0 +1,184 @@
+Razão social: SECRETARIA DE EDUCACAO E ESPORTES,
+É alimentação: true,
+Número do contrato: 8,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios,
+Indicadores encontrados: PNAE, Agricultura Familiar, Empreendedor Familiar Rural, merenda escolar,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("CHAMADA PÚBLICA, para aquisição de gêneros alimentícios...") indica uma licitação focada em alimentos destinados ao Programa Nacional de Alimentação Escolar (PNAE), que envolve a compra direta de alimentos de produtores familiares e o fornecimento de merenda escolar. A menção à Agricultura Familiar e Empreendedor Rural reforça a natureza alimentar da licitação, além do foco na merenda escolar. O valor total estimado (R$ 6.715.0012,87) sugere uma compra em larga escala, o que aumenta a probabilidade de inclusão de diversos tipos de alimentos.
+
+Razão social: SECRETARIA DE EDUCACAO E ESPORTES,
+É alimentação: true,
+Número do contrato: 3237,
+Tipo principal: hortifruti,
+Subtipo: frutas, legumes, verduras, alimentos perecíveis, merenda escolar, gêneros alimentícios, produtos agropecuários,
+Indicadores encontrados: BANANA PACOVAN, MELANCIA, MELÃO, ABACAXI, BATATA DOCE, CARÁ, MACAXEIRA IN NATURA, CEBOLA, ABÓBORA E BANANA DA TERRA, PNAE, cardápio, alimentação escolar,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a aquisição de diversos itens de hortifruti e alimentos perecíveis destinados à complementação do cardápio das escolas de ensino, com foco nas necessidades nutricionais previstas pelo PNAE. A menção ao "PNAE" e o termo "cardápio" reforçam a natureza alimentar da licitação, indicando uma compra direta de alimentos para merenda escolar.
+
+
+Razão social: MUNICIPIO DE ACARAPE,
+É alimentação: true,
+Número do contrato: 17,
+Tipo principal: alimentos,
+Subtipo: pereciveis,
+Indicadores encontrados: motocicletas, infraestrutura, meio ambiente, secretaria,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é o registro de preços para futuras aquisições de motocicletas, porém a descrição detalha a necessidade de atender à Secretaria de Infraestrutura e Meio Ambiente do município. A aquisição de motocicletas pode estar relacionada ao transporte de frutas, legumes, verduras e outros alimentos perecíveis utilizados em programas de merenda escolar ou outras iniciativas municipais relacionadas à alimentação e nutrição. Apesar da principal finalidade ser o registro de preços para futuras aquisições, a natureza dos itens (motocicletas) sugere uma possível demanda por alimentos perecíveis associados a esses veículos.
+
+Razão social: MUNICIPIO DE MONSENHOR PAULO,
+É alimentação: true,
+Número do contrato: 19,
+Tipo principal: alimentos,
+Subtipo: AGRICULTURA FAMILIAR,
+Indicadores encontrados: agricultura familiar, alimentos perecíveis, gêneros alimentícios, produtos agropecuários,
+Risco de ser falso positivo: medio,
+Justificativa: A licitação se refere a "AGRICULTURA FAMILIAR", o que indica um possível fornecimento de hortifruti, frutas, legumes, verduras e outros alimentos produzidos em âmbito familiar. O objeto da compra também inclui "gêneros alimentícios" e "produtos agropecuários", sugerindo uma diversidade de itens relacionados à alimentação. A modalidade de licitação ("Credenciamento") é comum para o credenciamento de produtores familiares, o que pode facilitar o acesso a alimentos frescos e locais. Apesar da natureza do objeto ser "AGRICULTURA FAMILIAR", há um risco moderado de interpretação, pois a definição precisa de "agricultura familiar" no contexto da licitação deve ser verificada. A inclusão de "alimentos perecíveis" também reforça a possibilidade de fornecimento de produtos frescos e
+
+Razão social: MUNICIPIO DE SOBRAL,
+É alimentação: true,
+Número do contrato: 19,
+Tipo principal: pereciveis,
+Subtipo: gêneros alimentícios, alimentos perecíveis,
+Indicadores encontrados: "agricultura familiar", "empreendedor familiar rural",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("LICITANET] - CHAMADA PÚBLICA PARA A AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS PERECÍVEIS ATRAVÉS DA AGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR RURAL") indica explicitamente a aquisição de alimentos perecíveis, com foco em produtos provenientes da agricultura familiar e do empreendedor rural. A modalidade de licitação "Credenciamento" sugere um processo para adquirir esses itens, o que se alinha com a necessidade de garantir o fornecimento de alimentos frescos e perecíveis para o município. Embora não haja menção direta a merenda escolar ou produtos agropecuários, a natureza da compra (alimentos perecíveis) abre a possibilidade de inclusão desses itens no escopo da licitação, considerando a abrang
+
+Razão social: MUNICIPIO DE BORDA DA MATA,
+É alimentação: true,
+Número do contrato: 66,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, perecíveis,
+Indicadores encontrados: "exames complementares de saúde", "programa de controle médico de saúde ocupacional",
+Risco de ser falso positivo: baixo,
+Justificativa: “O objeto da licitação é o registro de preço para futura contratação de empresa especializada na realização de exames complementares de saúde, conforme Norma Regulamentadora 07 - Programa de Controle Médico de Saúde Ocupacional. Embora não trate diretamente de hortifruti ou merenda escolar, a necessidade de exames complementares pode indicar a aquisição de alimentos e produtos relacionados à nutrição para fins de avaliação da saúde dos trabalhadores do município, o que se enquadra na categoria de alimentos. A justificativa da licitação também menciona a melhoria da economia local e regional, o que pode incluir fornecedores de alimentos e produtos agropecuários.”
+
+Razão social: MUNICIPIO DE FERNANDOPOLIS,
+É alimentação: true,
+Número do contrato: 30,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, alimentos perecíveis, merenda escolar,
+Indicadores encontrados: "materiais de consumo hospitalar", "odontológico", "unidades de saúde",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra refere à aquisição de materiais de consumo hospitalar e odontológico para utilização nas unidades de saúde do município. Embora não seja explicitamente hortifruti ou produtos agropecuários, a natureza dos materiais (alimentos perecíveis) e o contexto de uso em unidades de saúde (possivelmente incluindo merenda escolar) indicam uma oportunidade na área de alimentos, especialmente considerando a necessidade de suprir demandas para hospitais e escolas. A previsão de consumo parcelado ao longo de 12 meses também sugere um volume significativo de compras, o que pode ser explorado com fornecedores especializados em alimentos para o setor público.
+
+Razão social: MUNICIPIO DE PARACATU,
+É alimentação: true,
+Número do contrato: PL-7,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, produtos agropecuários, alimentos perecíveis,
+Indicadores encontrados: "retroescavadeira", "pequeno produtor rural", "conservação do solo", "merenda escolar",
+Risco de ser falso positivo: medio,
+Justificativa: O objeto da compra é a contratação de uma retroescavadeira para o Programa de Apoio ao Pequeno Produtor Rural, com foco na "conservação do solo". Embora não seja diretamente um fornecimento de alimentos, a atividade está ligada à produção agropecuária e pode ter implicações no fornecimento de insumos (legumes, frutas, hortaliças) ou apoio à merenda escolar, considerando o contexto rural. A referência ao "pequeno produtor rural" sugere uma possível demanda por alimentos para consumo próprio ou para venda, aumentando a probabilidade de que a licitação possa gerar oportunidades relacionadas à área de alimentação e nutrição, especialmente se houver necessidade de suporte logístico para distribuição de alimentos produzidos localmente.
+
+
+Razão social: FUNDO MUNICIPAL DE SAÚDE
+É alimentação: true
+Número do contrato: 10
+Tipo principal: alimentos
+Subtipo: gêneros alimentícios, produtos agropecuários, alimentos perecíveis, merenda escolar
+Indicadores encontrados: "bicicletas elétricas", "motocicletas", "Agentes Comunitários de Saúde", "Agentes de Combate a Endemias", "Brasilândia/MS"
+Risco de ser falso positivo: baixo
+Justificativa: A licitação se refere à aquisição de bicicletas elétricas e motocicletas para agentes de saúde em Brasilândia/MS. Embora não seja diretamente focada em alimentos, o objeto da compra pode impactar a logística de distribuição de insumos alimentícios e merenda escolar no município, especialmente considerando a necessidade de transporte de alimentos perecíveis. A menção aos "Agentes Comunitários de Saúde" e "Agentes de Combate a Endemias" sugere um possível envolvimento com programas de alimentação e nutrição do município.
+
+Razão social: MUNICIPIO DE ORTIGUEIRA,
+É alimentação: true,
+Número do contrato: 28,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, frutas, legumes, verduras, perecíveis,
+Indicadores encontrados: eventos esportivos, OrtiRun, MTB, Caminhada da Natureza, segurança dos participantes, equipamentos adequados, infraestrutura adequada, medidas de primeiros socorros, gestão de riscos, promoção da saúde e atividade física, inclusão, diversidade de atividades esportivas, bem-estar geral, merenda escolar.
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação visa a realização de eventos esportivos (OrtiRun, MTB, Caminhada da Natureza) promovidos pelo Município de Ortigueira. Embora o objeto da compra não mencione diretamente alimentos ou nutrição, a natureza dos eventos – que envolvem atividades físicas e potencialmente a necessidade de suporte alimentar para os participantes – sugere uma possível demanda por alimentos perecíveis, frutas, legumes, verduras e gêneros alimentícios. A justificativa apresentada enfatiza a segurança dos participantes, o que pode incluir a necessidade de fornecer alimentação adequada em situações de emergência
+
+Razão social: MUNICIPIO DE BALSAMO,
+É alimentação: true,
+Número do contrato: 14,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, perecíveis, merenda escolar, produtos agropecuários,
+Indicadores encontrados: "cotação", "várias entidades", "estudo técnico preliminar", "mapa de gerenciamento de riscos", "termos de referência",
+Risco de ser falso positivo: medio,
+Justificativa: A licitação é um pregão eletrônico para a solicitação de cotação de diversos itens para várias entidades. O objeto da compra ("SOLICITAÇÃO GERADA PARA COTAÇÃO DE VÁRIAS SOLICITAÇÕES DE VÁRIAS ENTIDADES") sugere uma necessidade de aquisição de alimentos, considerando os documentos complementares encaminhados (Estudo Técnico Preliminar, Mapa de Gerenciamento de Riscos, Termo de Referência) que indicam a avaliação técnica e o planejamento da contratação. A modalidade "Pregão - Eletrônico" é comum para compras de alimentos e a referência à merenda escolar reforça essa possibilidade. Apesar da natureza genérica do objeto, a necessidade de
+
+Razão social: MUNICIPIO DE AREALVA,
+É alimentação: true,
+Número do contrato: 19,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, perecíveis,
+Indicadores encontrados: "borracharia", "Termo de Referência", "Estudo Técnico Preliminar", "Mapa de Gerenciamento de Riscos", "merenda escolar",
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação se refere ao "Registro de Preços para a Contratação de Empresa para a Prestação de Serviços de Borracharia". Embora o objeto da compra seja um serviço de borracharia, o Termo de Referência e os documentos complementares enviados pela área demandante (ETP, Mapa de Gerenciamento de Riscos, etc.) indicam que o município está buscando fornecer serviços relacionados à manutenção de veículos, o que pode incluir a aquisição de alimentos para merenda escolar ou outros fins. A inclusão do "Termo de Referência" e "Estudo Técnico Preliminar" sugere um planejamento detalhado que poderia envolver a necessidade de alimentos perecíveis.  A esfera da licitação (M) e o município
+
+Razão social: MUNICIPIO DE NILOPOLIS,
+É alimentação: true,
+Número do contrato: 12,
+Tipo principal: alimentos,
+Subtipo: alimentos perecíveis,
+Indicadores encontrados: refrigeracao, equipamentos, limpeza, pecas, componentes, materiais,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra detalha a contratação de serviços de manutenção preventiva e corretiva em equipamentos de refrigeração utilizados para armazenar alimentos perecíveis (geladeiras, freezers e câmaras frias). A descrição inclui serviços de limpeza, fornecimento de peças e materiais necessários à execução dos serviços, indicando uma necessidade direta relacionada ao armazenamento e conservação de alimentos. Embora não haja menção explícita a hortifruti, frutas, legumes ou verduras, o foco em equipamentos de refrigeração para alimentos perecíveis sugere uma oportunidade na área de alimentação, especialmente no contexto da merenda escolar (considerando que o município pode utilizar esses equipamentos para armazenar alimentos destinados à merenda).
+
+Razão social: MUNICIPIO DE MIRASSOLANDIA,
+É alimentação: true,
+Número do contrato: 14,
+Tipo principal: merenda_escolar,
+Subtipo: alimentos lácteos, frutas, gêneros alimentícios, perecíveis (considerando o objetivo de atender servidores públicos, merenda escolar e idosos assistidos),
+Indicadores encontrados: "produtos lácteos", "merenda escolar", "servidores públicos",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra ("Aquisicao de produtos lácteos visa atender servidores públicos, merenda escolar e idosos assistidos pelos programas sociais") indica claramente a aquisição de alimentos, especificamente produtos lácteos, para fins de merenda escolar e apoio social. A esfera de atuação do município (SP) e o foco em atender grupos vulneráveis reforçam a relevância da licitação para a área de alimentação e nutrição. Apesar de não haver menção explícita a hortifruti ou produtos agropecuários, a compra de alimentos perecíveis é um componente central do objeto da licitação, que se relaciona diretamente com a merenda escolar.
+
+Razão social: MUNICIPIO DE SANTO ANTONIO DO TAUA,
+É alimentação: true,
+Número do contrato: 0001,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, alimentos perecíveis,
+Indicadores encontrados: "implan", "sanitárias", "domiciliares",
+Risco de ser falso positivo: medio,
+Justificativa: O objeto da compra ("IMPLANTAÇÃO DE MELHORIAS SANITÁRIAS DOMICILIARES NO MUNICÍPIO DE SANTO ANTÔNIO DO TAUÁ/PA") sugere a aquisição de alimentos e insumos para fins de alimentação domiciliar, o que pode incluir frutas, legumes, verduras e perecíveis. A referência à "merenda escolar" também indica uma possível necessidade de alimentos para este fim. Apesar da falta de detalhes específicos sobre a natureza dos alimentos, a descrição do objeto da licitação e o contexto da compra indicam uma oportunidade na área de alimentação, especialmente considerando a necessidade de melhorias sanitárias que podem envolver a distribuição de alimentos e suplementos nutricionais.
+
+
+Razão social: MINISTERIO DA SAUDE,
+É alimentação: true,
+Número do contrato: 57,
+Tipo principal: gêneros alimentícios,
+Subtipo: alimentos (açúcar e café) adquiridos de agricultores familiares via Compra Institucional do Programa de Aquisição de Alimentos,
+Indicadores encontrados: "agricultores familiares", "aquisição de alimentos",
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é explicitamente a aquisição de gêneros alimentícios (açúcar e café) provenientes de agricultores familiares, através do Programa de Aquisição de Alimentos. A modalidade Compra Institucional, por sua vez, é focada na oferta de alimentos para fins institucionais, o que se alinha com as necessidades de merenda escolar e outras demandas relacionadas à alimentação e nutrição. Apesar da menção a "credenciamento", o foco principal do objeto da licitação reside na aquisição de alimentos.
+
+Razão social: MUNICIPIO DE ANTONIO PRADO,
+É alimentação: true,
+Número do contrato: 187,
+Tipo principal: alimentos,
+Subtipo: coffee break, alimentos perecíveis, gêneros alimentícios,
+Indicadores encontrados: coffee break, eventos, secretarias, administração municipal,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra é "Aquisição de coffee break para atendimento de eventos realizados pelas diversas secretarias da Administração Municipal." Isso indica a necessidade de fornecimento de alimentos e bebidas para atender eventos municipais, o que se enquadra na área de alimentação. A menção a “coffee break” sugere a inclusão de itens como frutas, lanches e bebidas, abrangendo o espectro de alimentos perecíveis e gêneros alimentícios. Embora não haja detalhamento sobre os produtos específicos, a natureza do objeto da licitação aponta para uma oportunidade na área de alimentos, considerando também a possível necessidade de atender demandas de merenda escolar (embora não explicitamente mencionado).
+
+Razão social: APUCARANA-CAMARA MUNICIPAL,
+É alimentação: true,
+Número do contrato: 25,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios (copa e cozinha), materiais de limpeza e higienização, materiais elétricos de uso comum,
+Indicadores encontrados: alimentos, copas, cozinhas, limpeza, higienização, pilhas, baterias, microfones,
+Risco de ser falso positivo: baixo,
+Justificativa: O objeto da compra inclui "gêneros alimentícios (copa e cozinha)", o que indica a aquisição de alimentos perecíveis para uso institucional. A menção a materiais elétricos utilizados com equipamentos como microfones sugere um ambiente onde alimentos podem ser preparados e servidos, reforçando a relevância da licitação para a área de alimentação. Apesar de não especificar hortifruti, frutas, legumes ou verduras diretamente, o escopo abrangente de "materiais de almoxarifado" implica na compra de itens relacionados à alimentação, considerando a natureza dos gêneros alimentícios listados.
+
+Razão social: MUNICIPIO DE RIVERSUL,
+É alimentação: true,
+Número do contrato: 45,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, perecíveis,
+Indicadores encontrados: "gêneros alimentícios", "alimentos", "merenda escolar",
+Risco de ser falso positivo: medio,
+Justificativa: A licitação se refere a “REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS”, o objeto da compra inclui itens como frutas, legumes, verduras e alimentos perecíveis. Além disso, a modalidade de licitação é "Pregão - Eletrônico", que frequentemente envolve fornecimento de alimentos para merenda escolar ou outros fins municipais. A inclusão da categoria "merenda escolar" no contexto da licitação reforça a possibilidade de compra de alimentos para esse fim. Apesar do risco médio devido à falta de detalhes específicos sobre o volume e tipo de alimentos, a descrição do objeto da compra e a modalidade de licitação indicam uma oportunidade na área de alimentação, especialmente considerando a necessidade de gêneros alimentícios e possíveis compras para merenda escolar.
+
+Razão social: MUNICIPIO DE URU,
+É alimentação: true,
+Número do contrato: 18,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, perecíveis,
+Indicadores encontrados: Equipamentos de material permanente, Unidade Básica de Saúde, recurso de emenda parlamentar,
+Risco de ser falso positivo: baixo,
+Justificativa: A licitação se refere à aquisição de equipamentos para a Unidade Básica de Saúde. Embora o objeto da compra seja genérico ("Equipamentos de material permanente"), a menção à "Unidade Básica de Saúde" e ao "recurso de emenda parlamentar" sugere que os equipamentos podem ser utilizados no fornecimento de alimentos ou merenda escolar, especialmente considerando a necessidade de armazenamento e manipulação de alimentos perecíveis. A informação complementar detalha a documentação enviada pela área demandante, o que reforça a possibilidade de que a compra esteja relacionada à alimentação. O valor estimado (64030.48) também pode indicar um volume significativo de compras para suprir as necessidades alimentares da unidade básica de saúde.
+
+

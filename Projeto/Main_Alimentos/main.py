@@ -7,26 +7,24 @@ from pathlib import Path
 
 base_dir = Path(__file__).parent
 
-
 def req(proposta):
     return f"""
     Você é um analista especializado em licitações públicas e alimentos.
-
-    Analise o conteúdo de {proposta} e determine se a licitação representa uma oportunidade na área de alimentação e nutrição, com foco em:
-
+    
+    AAnalise o conteúdo de {proposta} e determine se a licitação representa uma oportunidade na área de alimentação e nutrição, com foco em:
+    
     - hortifruti
     - frutas
     - legumes
     - verduras
     - alimentos perecíveis
     - merenda escolar
-    - gêneros alimentícios
+    -  gêneros alimentícios
     - produtos agropecuários
 
     Regras importantes:
 
-    1. Se a licitação não estiver relacionada a alimentos, retorne apenas:
-       "Proposta X não é alimentação", onde X é o número do contrato.
+    1. Se a licitação não for de computação, apenas retorne "Proposta X não é computação" onde X é o número do contrato
 
     2. Use principalmente:
     - "objetoCompra"
@@ -38,9 +36,11 @@ def req(proposta):
     - Serviços de alimentação ou nutrição
     - Itens não relacionados a alimentos
 
-    4. Seja conservador: marque como alimentação somente quando houver evidência clara ou plausível.
+    4. Seja conservador: só marque como alimentação se houver evidência clara ou plausível.
 
-    5. Para a saída, mantenha exatamente esta estrutura, mesmo que os campos estejam vazios:
+    5. Caso a licitação não seja da área, retorne como "Proposta X não é alimentação" e siga para a próxima.
+
+    6. Para a saída, formate exatamente como abaixo, sem alterar a estrutura, mesmo que algum campo seja null ou vazio:
     Razão social: razão social da empresa contratante,
     É alimentação: true/false,
     Número do contrato: usando o campo Sequencial Compra,
@@ -50,7 +50,6 @@ def req(proposta):
     Risco de ser falso positivo: baixo | medio | alto,
     Justificativa: "explicação técnica baseada nos dados"
     """
-
 
 if __name__ == "__main__":
     #dados = functions.api_get()  # Chama a função para obter os dados da API
@@ -77,13 +76,50 @@ if __name__ == "__main__":
         try:
             primeiro = True
             for proposta in functions.json_para_ollama(caminho_dados):
-                resposta = client.generate(model=modelo, prompt=req(proposta))
+                sequencial = proposta.get("sequencialCompra", "-")
+                prompt = req(proposta)
+                try:
+                    resposta = client.generate(
+                        model=modelo,
+                        prompt=prompt,
+                        options={
+                            "temperature": 0.1,
+                            "repeat_penalty": 1.1,
+                            "num_predict": 256,
+                        },
+                    )
+                except functions.ollama.ResponseError as e:
+                    if "token repeat limit reached" not in str(e).lower():
+                        print(f"Erro ao gerar proposta {sequencial}: {e}")
+                        continue
+
+                    print(
+                        f"Repetição excessiva ao gerar proposta {sequencial}; "
+                        "tentando novamente com limite menor."
+                    )
+                    try:
+                        resposta = client.generate(
+                            model=modelo,
+                            prompt=prompt,
+                            options={
+                                "temperature": 0.1,
+                                "repeat_penalty": 1.2,
+                                "num_predict": 160,
+                            },
+                        )
+                    except functions.ollama.ResponseError as retry_error:
+                        print(
+                            f"Erro ao gerar proposta {sequencial} após nova tentativa: "
+                            f"{retry_error}"
+                        )
+                        continue
+
                 if re.search("É alimentação: true", resposta.response, re.IGNORECASE):
                     modo = "w" if primeiro else "a"
                     with open(caminho_saida_ollama_teste, modo, encoding="utf-8") as file:
                         file.write(resposta.response + "\n" + "\n")
                         print(f"\nResposta salva em: {caminho_saida_ollama_teste}")
                         primeiro = False
-        except Exception as e:
-            print(f"Erro ao gerar ou salvar a resposta: {e}")
+        except (OSError, ValueError) as e:
+            print(f"Erro ao ler os dados ou salvar a resposta: {e}")
         spinner.ok("✓ Concluído")

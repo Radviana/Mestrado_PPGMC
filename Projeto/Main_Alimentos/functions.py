@@ -16,13 +16,11 @@ hoje = datetime.now()
 
 # Formata para YYYYMMDD
 # hoje_string = hoje.strftime("%Y%m%d")
-# hoje_string =  "20260513"
-hoje_string =  "20270531"
+hoje_string =  "20260531"
 
 # Formata para DDMMYYYY
 # hoje_string_arq = hoje.strftime("%d-%m-%Y")
-# hoje_string_arq = "13-05-2026"
-hoje_string_arq = "31-05-2027"
+hoje_string_arq = "31-05-2026"
 
 
 def api_get():
@@ -297,12 +295,12 @@ def salvar_txt(
     return dados"""
 
 
-"""def txt_para_ollama(
+def txt_para_ollama(
     arquivo,
 ):  # Lê um arquivo de texto e retorna seu conteúdo como string para uso com Ollama.
     with open(arquivo, "r", encoding="utf-8") as file:
         dados = file.read()
-    return dados"""
+    return dados
 
 
 """def stream_resposta(

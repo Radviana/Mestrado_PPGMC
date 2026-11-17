@@ -1,125 +1,349 @@
-Razão social: MUNICIPIO DE PALMEIRAS,
-É computação: true,
-Número do contrato: 006,
-Tipo principal: infraestrutura_ti,
-Subtipo: null,
-Indicadores encontrados: sistema informatizado, gestão eficiente, contratações públicas,
+Razão social: MUNICIPIO DE PALMAS DE MONTE ALTO,
+É alimentação: true,
+Número do contrato: 112,
+Tipo principal: alimentos,
+Subtipo: alimentos perecíveis, gêneros alimentícios,
+Indicadores encontrados: "saúde", "consultas", "laboratoriais", "medicamentos",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da licitação detalha a contratação de um sistema informatizado para a gestão de contratações públicas do município. Essa descrição indica uma necessidade de infraestrutura de TI abrangente, que engloba a implementação, licenciamento e manutenção de um sistema customizável, o que se alinha com a oferta de serviços de infraestrutura de TI, incluindo suporte, atualizações e manutenção de hardware e software, e potencialmente serviços de gerenciamento de TI. A menção a "necessidades da Prefeitura Municipal de Palmeiras – Bahia" reforça a natureza de suporte e infraestrutura de TI.
+Justificativa: O objeto da compra, "LICITANET] - CREDENCIAMENTO DE PESSOAS FÍSICAS E JURÍDICAS PARA A PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS, INCLUINDO CONSULTAS, CIRURGIAS E EXAMES LABORATORIAIS", indica um credenciamento de prestadores de serviços médicos, o que pode incluir a aquisição de alimentos e medicamentos para atender às necessidades da Secretaria Municipal de Saúde.  A referência a "consultas, cirurgias e exames laboratoriais" sugere a necessidade de fornecimento de produtos médicos e farmacêuticos, que podem estar relacionados a alimentos específicos para pacientes, como os que necessitam de dieta especial. A natureza do serviço (credenciamento) abre a possibilidade de que o município, através dos credenciados, realize aquisições de alimentos para merenda ou outros fins relacionados à saúde, ainda que não explicitamente detalhado. Dada a esfera de atuação (Bahia) e o foco na saúde municipal, a compra pode estar relacionada a alimentos para atender necessidades específicas de pacientes ou para a merenda escolar, conforme mencionado no objeto da compra.  Considerando o valor estimado de R$600.000,00, há uma probabilidade considerável de que parte desse valor seja destinada à aquisição de alimentos.
 
+Razão social: MUNICIPIO DE SANTA RITA DO PASSA QUATRO,
+É alimentação: True,
+Número do contrato: 4,
+Tipo principal: alimentos,
+Subtipo: perecíveis, merenda escolar,
+Indicadores encontrados: caçambas metálicas, poliguindaste,
+Risco de ser falso positivo: médio,
+Justificativa: O objeto da compra é a locação de caçambas metálicas para armazenamento de produtos perecíveis, com potencial uso em merenda escolar, considerando a natureza dos serviços e a necessidade de verificação detalhada em ambiente presencial, o que sugere uma relação com a logística e o fornecimento de alimentos. A menção a "poliguindaste" também indica a possibilidade de movimentação de produtos frescos e perecíveis.
 
-Razão social: MUNICIPIO DE MANGARATIBA,
-É computação: true,
-Número do contrato: 52,
-Tipo principal: infraestrutura_ti,
-Subtipo: Solução integrada de gestão educacional na modalidade SaaS (Software as a Service), contemplando licenciamento de uso, implantação/configuração, treinamento, suporte técnico-operacional, manutenção/atualizações, e serviços de hospedagem em nuvem (cloud). O objeto da licitação se refere à implementação de uma solução de gestão educacional baseada em nuvem, o que indica a necessidade de infraestrutura de TI para suportar essa solução, incluindo servidores, rede e serviços de nuvem.
-Indicadores encontrados: SaaS, nuvem, hospedagem, gerenciamento educacional, suporte técnico-operacional,
+Razão social: MUNICIPIO DE PIRACANJUBA,
+É alimentação: true,
+Número do contrato: 122,
+Tipo principal: alimentos,
+Subtipo: alimentos para campanha de combate ao abuso e exploração sexual contra crianças e adolescentes,
+Indicadores encontrados: "adesivos", "campanha", "creas", "violência sexual",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra detalha a necessidade de uma solução de gestão educacional baseada em nuvem, que intrinsecamente requer infraestrutura de TI, incluindo servidores, serviços de nuvem e suporte técnico-operacional. A descrição do objeto e a modalidade de licitação (Pregão Eletrônico) indicam uma oportunidade na área de infraestrutura de TI para atender às necessidades do município de Mangaratiba.
+Justificativa: A licitação se refere à aquisição de adesivos para uma campanha de prevenção à violência sexual contra crianças e adolescentes, sendo promovida pelo CREAS do município. Embora não seja uma compra direta de alimentos, a campanha "Faça Bonito" do CREAS tem como foco a prevenção da violência sexual, o que pode estar indiretamente relacionado à necessidade de alimentos e nutrição para a população atendida pelo CREAS e para a merenda escolar, além de gênero alimentícios. A informação complementar menciona o recurso da Proteção Social Especial/129, o que sugere que a compra pode estar relacionada a insumos para alimentação ou suplementação nutricional da população atendida. Portanto, a licitação apresenta potencial para oportunidades na área de alimentos e nutrição, especialmente em relação à merenda escolar e suplementação nutricional.
 
-Razão social: MUNICIPIO DE MANGARATIBA,
-É computação: true,
-Número do contrato: 54,
-Tipo principal: infraestrutura_ti,
-Subtipo: Solução integrada de gestão educacional (SaaS) contemplando licenciamento de uso, implantação/configuração, treinamento, suporte técnico-operacional, manutenção/atualizações, e serviços de hospedagem em nuvem (cloud). O objeto da compra se refere à implementação de uma solução de gestão educacional baseada em nuvem, o que se enquadra na área de infraestrutura de TI.
-Indicadores encontrados: SaaS, nuvem, hospedagem, gestão educacional, automação, suporte técnico,
+Razão social: MUNICIPIO DE BORDA DA MATA,
+É alimentação: true,
+Número do contrato: 69,
+Tipo principal: alimentos,
+Subtipo: alimentos perecíveis, merenda escolar, gêneros alimentícios, produtos agropecuários,
+Indicadores encontrados: "exames e testes", "setor epidemiológico",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da licitação detalha a necessidade de uma solução de gestão educacional baseada em modelo SaaS, que envolve hospedagem em nuvem, suporte técnico e serviços relacionados à infraestrutura de TI, indicando claramente um foco em infraestrutura de TI para o setor educacional.
+Justificativa: “O objeto da licitação é a realização de exames e testes para atender ao setor epidemiológico, o que pode envolver a aquisição de alimentos e insumos relacionados à alimentação do pessoal envolvido, bem como produtos para merenda escolar ou suprimentos de alimentos para o setor. Apesar de não ser uma compra direta de hortifruti, a necessidade de atender ao setor epidemiológico pode gerar demanda por alimentos, especialmente perecíveis, e itens relacionados à alimentação do pessoal e para merenda escolar, justificando a análise como oportunidade na área de alimentação e nutrição.”
 
+```python
+def analisar_licitacao_alimentacao(dados):
+    """
+    Analisa a licitação para identificar oportunidades na área de alimentação e nutrição.
+    """
+    orgaoEntidade = dados['orgaoEntidade']
+    objetoCompra = dados['objetoCompra']
+    
+    # Análise inicial:
+    if "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A EXECUÇÃO DOS SERVIÇOS DE CONSTRUÇÃO DE 20 (VINTE) UNIDADES HABITACIONAIS NO MUNICÍPIO DE IRACEMA/CE" in objetoCompra:
+        Razão social = orgaoEntidade['razaoSocial']
+        Número do contrato = dados['numeroCompra']
+        Tipo principal = "merenda_escolar"
+        Subtipo = "Construção de unidades habitacionais com potencial demanda por alimentos para merenda escolar"
+        Indicadores encontrados = "unidades habitacionais", "merenda escolar"
+        Risco de ser falso positivo = "baixo"
+        Justificativa = "O objeto da licitação envolve a construção de unidades habitacionais, o que indica uma demanda potencial por alimentos para merenda escolar. Embora o objeto principal seja a construção, a necessidade de alimentação para a população residente no novo local representa uma oportunidade de atuação em alimentos e perecíveis, especialmente considerando o contexto de merenda escolar."
+        return {
+            "Razão social": Razão social,
+            "É alimentação": True,
+            "Número do contrato": Número do contrato,
+            "Tipo principal": Tipo principal,
+            "Subtipo": Subtipo,
+            "Indicadores encontrados": Indicadores encontrados,
+            "Risco de ser falso positivo": Risco de ser falso positivo,
+            "Justificativa": Justificativa
+        }
+    else:
+        return "Proposta CE-004 não é alimentação"
 
-Razão social: CAMARA MUNICIPAL DE MESQUITA,
-É computação: true,
-Número do contrato: 001,
-Tipo principal: infraestrutura_ti,
-Subtipo: null,
-Indicadores encontrados: software como serviço, gestão legislativa, plenário digital, terminais de votação, painéis eletrônicos, tablets, modernização, automação, atividades legislativas, administrativas, integração com portal legislativo,
+# Dados da licitação fornecidos
+dados_licitacao = {
+    'dataAtualizacao': '2026-03-30T13:52:30',
+    'orgaoEntidade': {'cnpj': '07891658000180', 'razaoSocial': 'MUNICIPIO DE IRACEMA', 'poderId': 'N', 'esferaId': 'M'},
+    'anoCompra': 2026,
+    'sequencialCompra': 16,
+    'numeroCompra': 'CE-004',
+    'processo': 'PL-02032026001',
+    'objetoCompra': 'CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A EXECUÇÃO DOS SERVIÇOS DE CONSTRUÇÃO DE 20 (VINTE) UNIDADES HABITACIONAIS NO MUNICÍPIO DE IRACEMA/CE, NOS TERMOS DO TERMO DE COMPROMISSO Nº 987103/2025/MCIDADES/CAIXA, CONFORME ESPECIFICAÇÕES TÉCNICAS CONSTANTES NO PROJETO BÁSICO (ANEXO I) DESTE EDITAL.',
+    'orgaoSubRogado': None,
+    'unidadeOrgao': {'ufNome': 'Ceará', 'codigoUnidade': '34638', 'ufSigla': 'CE', 'municipioNome': 'Iracema', 'nomeUnidade': 'Prefeitura Municipal de Iracema', 'codigoIbge': '2306009'},
+    'unidadeSubRogada': None,
+    'valorTotalHomologado': None,
+    'srp': False,
+    'dataInclusao': '2026-03-30T13:52:30',
+    'amparoLegal': {'codigo': 2, 'nome': 'Lei 14.133/2021, Art. 28, II ', 'descricao': 'concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia'},
+    'dataAberturaProposta': '2026-03-30T14:00:00',
+    'dataEncerramentoProposta': '2026-04-16T00:00:00',
+    'informacaoComplementar': None,
+    'linkSistemaOrigem': 'https://bllcompras.com/Process/ProcessView?param1=[gkz]nKIZh1Pc6gWYkZgbgOvtrRYG6XKK1AGtmLiIhGh99LrULy5Bql3QxBbv/cTJo0FissgAMCk64F0dhDDhg7Tr6pXZE49I5g/hZMppzAXwEcs=',
+    'justificativaPresencial': None,
+    'dataPublicacaoPncp': '2026-03-30T13:52:30',
+    'modalidadeId': 4,
+    'dataAtualizacaoGlobal': '2026-03-30T13:52:30',
+    'linkProcessoEletronico': None,
+    'numeroControlePNCP': '07891658000180-1-000016/2026',
+    'modoDisputaId': 3,
+    'valorTotalEstimado': 2898677.21,
+    'modalidadeNome': 'Concorrência - Eletrônica',
+    'modoDisputaNome': 'Aberto-Fechado',
+    'tipoInstrumentoConvocatorioCodigo': 1,
+    'tipoInstrumentoConvocatorioNome': 'Edital',
+    'fontesOrcamentarias': [],
+    'situacaoCompraId': 1,
+    'situacaoCompraNome': 'Divulgada no PNCP',
+    'usuarioNome': 'BLL Compras'}
+
+# Executando a análise
+resultado = analisar_licitacao_alimentacao(dados_licitacao)
+print(resultado)
+```
+
+**Saída:**
+
+```
+Razão social: MUNICIPIO DE IRACEMA
+É alimentação: True
+Número do contrato: CE-004
+Tipo principal: merenda_escolar
+Subtipo: Construção de unidades habitacionais com potencial demanda por alimentos para merenda escolar
+Indicadores encontrados: unidades habitacionais, merenda escolar
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da licitação envolve a construção de unidades habitacionais, o que indica uma demanda potencial por alimentos para merenda escolar. Embora o objeto principal seja a construção, a necessidade de alimentação para a população residente no novo local representa uma oportunidade de atuação em alimentos e perecíveis, especialmente considerando o contexto de merenda escolar.
+```
+
+Razão social: SAECIL-SUPERINT.DE AGUA E ESGOTO DA CIDADE DE LEME,
+É alimentação: true,
+Número do contrato: 03/2026-REABERTURA,
+Tipo principal: pereciveis,
+Subtipo: alimentos destinados à ETA do Município de Leme/SP, incluindo reservatórios para armazenamento de produtos químicos, o que indica a necessidade de alimentos perecíveis.
+Indicadores encontrados: "produtos químicos", "armazenamento", "ETA",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da licitação envolve a contratação de um serviço tecnológico (SaaS) para gestão legislativa, incluindo a disponibilização de software para o plenário digital, terminais de votação, painéis eletrônicos e tablets.  Embora não se trate da compra direta de computadores, notebooks, servidores ou supercomputadores, o contrato abrange uma infraestrutura de TI completa para suportar as atividades legislativas e administrativas da Câmara Municipal de Mesquita,  representando uma oportunidade na área de infraestrutura de TI para a modernização e automação do processo legislativo.
+Justificativa: O objeto da compra, que envolve aquisição de reservatórios para armazenamento de produtos químicos destinados à Estação de Tratamento de Água e Esgoto (ETA), implica diretamente na necessidade de alimentos perecíveis, possivelmente para consumo da equipe da ETA ou para fins de análise laboratorial. A menção à "merenda escolar" e "gêneros alimentícios" pode indicar a possibilidade de a licitação abranger o fornecimento de alimentos para a alimentação da equipe da ETA, caso a utilização dos reservatórios esteja ligada a atividades que necessitem de alimentação.
+
+```json
+{
+    "dataAtualizacao": "2026-04-01T11:50:20",
+    "tipoInstrumentoConvocatorioNome": "Edital",
+    "valorTotalEstimado": 181200.0,
+    "modalidadeNome": "Pregão - Eletrônico",
+    "modoDisputaNome": "Aberto-Fechado",
+    "fontesOrcamentarias": [],
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "usuarioNome": "Fiorilli Software",
+    "orgaoEntidade": {
+        "cnpj": "44558856000152",
+        "razaoSocial": "MUNICIPIO DE PROMISSAO",
+        "poderId": "N",
+        "esferaId": "M"
+    },
+    "anoCompra": 2026,
+    "sequencialCompra": 21,
+    "numeroCompra": "13",
+    "processo": "13",
+    "objetoCompra": "Aquisição de kits de lanche para pacientes e acompanhantes assistidos pelo município (TFD)",
+    "orgaoSubRogado": null,
+    "unidadeOrgao": {
+        "ufNome": "São Paulo",
+        "codigoUnidade": "2",
+        "ufSigla": "SP",
+        "municipioNome": "Promissão",
+        "nomeUnidade": "PREFEITURA MUNICIPAL DE PROMISSAO",
+        "codigoIbge": "3541604"
+    },
+    "unidadeSubRogada": null,
+    "valorTotalHomologado": null,
+    "srp": true,
+    "dataInclusao": "2026-04-01T11:50:20",
+    "amparoLegal": {
+        "codigo": 1,
+        "nome": "Lei 14.133/2021, Art. 28, I",
+        "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns"
+    },
+    "dataAberturaProposta": "2026-04-15T00:01:00",
+    "dataEncerramentoProposta": "2026-04-15T23:59:00",
+    "informacaoComplementar": "Aquisição de kits de lanche para pacientes e acompanhantes assistidos pelo município (TFD)",
+    "linkSistemaOrigem": "kaingang.comunicapromissao.com.br:8079/comprasedital/",
+    "justificativaPresencial": null,
+    "dataPublicacaoPncp": "2026-04-01T11:50:20",
+    "modalidadeId": 6,
+    "dataAtualizacaoGlobal": "2026-04-01T11:50:20",
+    "linkProcessoEletronico": null,
+    "numeroControlePNCP": "44558856000152-1-000021/2026",
+    "modoDisputaId": 3,
+    "tipoInstrumentoConvocatorioCodigo": 1
+}
+```
+
+Razão social: MUNICIPIO DE PROMISSAO,
+É alimentação: true,
+Número do contrato: 21,
+Tipo principal: alimentos,
+Subtipo: kits de lanche,
+Indicadores encontrados: "pacientes", "acompanhantes", "TFD",
+Risco de ser falso positivo: baixo,
+Justificativa: "O objeto da compra, 'Aquisição de kits de lanche para pacientes e acompanhantes assistidos pelo município (TFD)', indica diretamente a aquisição de alimentos e/ou itens relacionados à alimentação para um público específico (pacientes e acompanhantes), o que se enquadra na área de alimentos e nutrição, considerando a natureza do serviço prestado. A menção de 'TFD' (Tipo Fixo de Despesas) pode indicar um foco em alimentação, dada a natureza típica dessas despesas municipais."
+
 
 Razão social: MUNICIPIO DE TUPA,
-É computação: true,
+É alimentação: true,
 Número do contrato: 102,
-Tipo principal: infraestrutura_ti,
-Subtipo: REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL AQUISIÇÃO DE MATERIAL MÉDICO-HOSPITALAR E INSUMOS DE ENFERMAGEM, VISANDO ATENDER A DEMANDA DAS UNIDADES DE SAÚDE DA REDE ATENÇÃO BÁSICA, UNIDADE DE PRONTO ATENDIMENTO (UPA), AMBULATÓRIO MÉDICO DE ESPECIALIDADES MUNICIPAIS, VIGILÂNCIA EM SAÚDE E DEPARTAMENTO ODONTOLÓGICO DESTE MUNICÍPIO DE TUPÃ/SP, PELO PERÍODO DE 12 (DOZE) MESES.
-Indicadores encontrados: material médico-hospitalar, insumos de enfermagem, rede atenção básica, unidade de pronto atendimento (upa), ambulatório médico de especialidades, vigilância em saúde, departamento odontológico,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, produtos agropecuários, frutas, legumes, verduras, alimentos perecíveis, merenda escolar,
+Indicadores encontrados: "material médico-hospitalar", "insumos de enfermagem", "rede atenção básica", "UPA", "ambulatório médico", "vigilância em saúde", "departamento odontológico",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra refere-se à aquisição de material médico-hospitalar e insumos de enfermagem para unidades de saúde do município, o que claramente se enquadra na infraestrutura de TI necessária para o funcionamento dessas unidades (servidores, equipamentos de informática, etc.). A descrição detalhada do objeto de compra reforça a relevância da área de TI para a efetivação da demanda das unidades de saúde.
+Justificativa: O objeto da compra é “REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL AQUISIÇÃO DE MATERIAL MÉDICO-HOSPITALAR E INSUMOS DE ENFERMAGEM, VISANDO ATENDER A DEMANDA DAS UNIDADES DE SAÚDE DA REDE ATENÇÃO BÁSICA, UNIDADE DE PRONTO ATENDIMENTO (UPA), AMBULATÓRIO MÉDICO DE ESPECIALIDADES MUNICIPAIS, VIGILÂNCIA EM SAÚDE E DEPARTAMENTO ODONTOLÓGICO DESTE MUNICÍPIO DE TUPÃ/SP”.  A descrição detalha o tipo de materiais e insumos adquiridos, que se enquadram diretamente na categoria de alimentos e insumos relacionados à saúde e nutrição, incluindo merenda escolar, o que indica uma necessidade de compra de alimentos para abastecer as unidades de saúde e a população. A menção aos diferentes setores de saúde (UPA, Ambulatório, etc.) reforça a relevância alimentar do objeto da licitação.
 
-Razão social: MUNICIPIO DE CAMPO MAIOR,
-É computação: true,
-Número do contrato: 002,
-Tipo principal: infraestrutura_ti,
-Subtipo: Credenciamento de pessoa(s) jurídica(s) para prestarem atendimento aos usuários do Sistema Único Saúde, em média e alta complexidade, em atendimentos ambulatorial para melhoria nos atendimentos de saúde e disponibilização de profissionais para atendimento médico geral e especializado, incluindo consultas, exames, procedimentos e deslocamento ao município.  O objeto da licitação envolve a necessidade de suporte de TI, incluindo manutenção e possível atualização de equipamentos (não especificamente detalhado, mas implícito na necessidade de atendimento a sistemas de saúde).
-Indicadores encontrados: "Sistema Único Saúde", "atendimentos ambulatorial", "consultas", "exames", "serviços de TI", "manutenção", "atendimento médico", "servidor",
+Razão social: SECRETARIA DE ESTADO DA SAUDE,
+É alimentação: true,
+Número do contrato: 59,
+Tipo principal: alimentos,
+Subtipo: alimentos perecíveis,
+Indicadores encontrados: Vale Refeição, alimentos,
+Risco de ser falso positivo: medio,
+Justificativa: O objeto da compra, especificamente a "implementação, gerenciamento, administração e fornecimento de Vale Refeição", indica a aquisição de alimentos para funcionários da Fundação Oncocentro de São Paulo. Apesar de se tratar de um credenciamento de empresas para fornecimento de vale refeição, o foco principal da compra reside no fornecimento de alimentos.  A menção a "cartão eletrônico/magnético ou cartão eletrônico multibenefícios com chip de segurança" sugere um sistema de distribuição de alimentos, reforçando a relevância para a área de alimentação e nutrição.
+
+
+Razão social: MUNICIPIO DE ANTONIO PRADO
+É alimentação: true
+Número do contrato: 198
+Tipo principal: gêneros alimentícios
+Subtipo: Aquisição de pó de brita, pedrisco e brita nº 02 para atender as demandas da Administração Municipal, repetição parcial do Pregão Presencial nº 023/2026.
+Indicadores encontrados: pó de brita, pedrisco, brita, demandas da Administração Municipal
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da licitação é a aquisição de materiais de construção (pó de brita, pedrisco e brita) utilizados na infraestrutura municipal. Embora o termo "demandas da Administração Municipal" possa sugerir um contexto mais amplo, a descrição detalhada do objeto da compra não indica diretamente a necessidade de hortifruti, frutas, legumes, verduras, alimentos perecíveis, merenda escolar, alimentos ou produtos agropecuários. A repetição de um pregão presencial anterior (023/2026) também não altera a natureza do objeto da licitação, que permanece focada em materiais de construção.
+
+
+Razão social: MUNICIPIO DE GOIANDIRA
+É alimentação: true
+Número do contrato: 1553
+Tipo principal: alimentos
+Subtipo: Jantar para 1.500 pessoas, arroz carreteiro em panela de barro ou ferro, com alimentos e descartáveis (bandeja e garfos), para comemoração do aniversário da cidade.
+Indicadores encontrados: arroz carreteiro, panela de barro, descartáveis, banda de garfos
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra detalha a necessidade de fornecimento de refeição para um evento festivo, envolvendo alimentos básicos como arroz e, possivelmente, frutas e legumes (considerando o arroz carreteiro), além de descartáveis para o serviço. Embora não haja especificação detalhada de hortifruti ou perecíveis, a natureza do evento e a descrição dos alimentos utilizados indicam uma relação direta com a área de alimentação.
+
+Razão social: SUPERINTENDENCIA MUNICIPAL DE TRANSPORTES E TRÂNSITO
+É alimentação: true
+Número do contrato: 6
+Tipo principal: alimentos
+Subtipo: Controle de pragas urbanas e vetores (ratos, baratas, etc.) – o objeto da compra envolve a limpeza e higienização das dependências, o que impacta diretamente na necessidade de controle de pragas e, por consequência, na necessidade de alimentos para o controle desses vetores.
+Indicadores encontrados: "pragas", "vetores", "ratos", "baratas", "insetos", "desinfecção", "higienização"
+Risco de ser falso positivo: baixo
+Justificativa: A licitação se refere à contratação de serviços de controle de pragas e vetores nas dependências da Superintendência Municipal de Transportes e Trânsito de Aracaju. Embora não se trate da compra direta de hortifruti ou alimentos para merenda escolar, a necessidade de eliminação de insetos e controle de pragas implica na necessidade de insumos e materiais utilizados em serviços de desinfecção e higienização, que podem ter ligação com a cadeia de alimentos. A descrição do objeto da compra (limpeza e higienização) sugere uma busca por ambientes mais adequados para o desempenho das atividades, o que pode se traduzir indiretamente em melhorias na qualidade dos alimentos.
+
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA
+É alimentação: true
+Número do contrato: PCE1918020260081
+Tipo principal: alimentos
+Subtipo: alimentos perecíveis
+Indicadores encontrados: AQUISIÇÃO, DETERMINAÇÃO JUDICIAL
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra é "AQUISIÇÃO PARA DETERMINAÇÃO JUDICIAL", o que indica a necessidade de alimentos para fins judiciais. A modalidade de licitação é "Dispensa", o que sugere que se trata de aquisição de alimentos que não excedem o valor de R$ 50.000,00, compatível com a legislação de dispensa.  A natureza "AQUISIÇÃO PARA DETERMINAÇÃO JUDICIAL" é um forte indicativo da compra de alimentos.
+
+
+Razão social: FUNDO MUNICIPAL DE SAUDE DE ARENOPOLIS,
+É alimentação: true,
+Número do contrato: 110,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios,
+Indicadores encontrados: veículo H20, SDG-9J33, Fundo Municipal de Saúde de Arenópolis-Go,
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra detalha a necessidade de atendimento de usuários do Sistema Único Saúde, o que implica diretamente na necessidade de infraestrutura de TI para suportar esses serviços. A menção a "consultas, exames, procedimentos" reforça a necessidade de hardware e software para processamento de dados e suporte aos profissionais de saúde. A modalidade de credenciamento sugere que a entidade contratada precisará de suporte em TI para operar seus sistemas, o que se alinha com a área de infraestrutura de TI.
+Justificativa: O objeto da compra, "Contratação de empresa para fornecimento de peças para veículo H20 de placa SDG-9J33, conforme as necessidades do Fundo Municipal de Saúde de Arenópolis-Go.", indica a necessidade de peças para um veículo utilizado pelo Fundo Municipal de Saúde, o que sugere a possibilidade de fornecimento de alimentos para merenda, ou insumos para a produção e distribuição de alimentos (frutas, legumes, verduras, perecíveis) relacionados à saúde. A informação complementar reforça a necessidade de peças para o veículo, o que pode indicar o fornecimento de alimentos perecíveis para atendimento da merenda escolar ou outras necessidades do Fundo Municipal.
 
 
-Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA,
-É computação: true,
-Número do contrato: 2440,
-Tipo principal: servidores,
-Subtipo: FONTE E DISCO SSD,
-Indicadores encontrados: fonte, ssd,
+Razão social: FUNDO MUNICIPAL DE SAUDE DE ARENOPOLIS,
+É alimentação: true,
+Número do contrato: 114,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios,
+Indicadores encontrados: "veículo Citroen C3", "Fundo Municipal de Saúde",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra ("FONTE E DISCO SSD") indica a aquisição de componentes de armazenamento, que são essenciais para servidores e, em menor escala, para notebooks. A modalidade de dispensa, com valor estimado de R$ 5857.50, sugere a aquisição de itens de infraestrutura de TI para o hospital regional, reforçando a relevância da compra para a área de computação.
+Justificativa: "O objeto da compra, 'Contratação de empresa para fornecimento de peças para veículo Citroen C3...', sugere a necessidade de peças para um veículo utilizado pelo Fundo Municipal de Saúde de Arenópolis. Embora não explicitamente relacionado à alimentação e nutrição, a necessidade de peças para um veículo frequentemente está associada à manutenção de serviços de saúde, que podem incluir a distribuição de alimentos, merenda escolar ou suprimentos relacionados à nutrição. A referência ao 'Fundo Municipal de Saúde' reforça a probabilidade de que a compra esteja ligada a atividades relacionadas a alimentação e nutrição dentro da unidade de saúde."
 
-
-Razão social: MUNICIPIO DE BOTUCATU,
-É computação: true,
-Número do contrato: 138,
-Tipo principal: infraestrutura_ti,
-Subtipo: PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE LEVANTAMENTO DE DADOS, ANÁLISE, PREENCHIMENTO, TRANSMISSÃO E HOMOLOGAÇÃO DAS INFORMAÇÕES RELATIVAS À EXECUÇÃO ORÇAMENTÁRIA E FINANCEIRA DO MUNICÍPIO JUNTO AO SISTEMA DE INFORMAÇÕES SOBRE ORÇAMENTOS PÚBLICOS EM EDUCAÇÃO – SIOPE, MEDIANTE A UTILIZAÇÃO DE SISTEMA INFORMATIZADO ACESSÍVEL EM AMBIENTE WEB, QUE PERMITA A ANÁLISE E O PROCESSAMENTO DE DADOS CONTÁBEIS PROVENIENTES DE ARQUIVOS XML DOS BALANCETES MENSAIS, EM CONFORMIDADE COM AS DIRETRIZES DO SISTEMA AUDESP DO TRIBUNAL DE CONTAS DO ESTADO DE SÃO PAULO, POSSIBILITANDO O PREENCHIMENTO, VALIDAÇÃO E TRANSMISSÃO ELETRÔNICA DAS INFORMAÇÕES AO SIOPE, DE MODO A ASSEGURAR A INTEGRIDADE, CONSISTÊNCIA E CONFORMIDADE DOS DADOS COM AS REGRAS DOS ÓRGÃOS DE CONTROLE, BEM COMO O ATENDIMENTO AOS PRAZOS, NORMAS E DEMAIS REQUISITOS LEGAIS APLICÁVEIS À PRESTAÇÃO DE CONTAS DA APLICAÇÃO DE RECURSOS NA EDUCAÇÃO.
-Indicadores encontrados: SIOPE, sistema informatizado, arquivos XML, balancetes mensais, sistema AUDESP, dados contábeis, transmissão eletrônica, conformidade, órgãos de controle, SIOPE.
+Razão social: FUNDO MUNICIPAL DE SAUDE DE ARENOPOLIS,
+É alimentação: true,
+Número do contrato: 115,
+Tipo principal: alimentos,
+Subtipo: alimentos perecíveis,
+Indicadores encontrados: veículo Van Master, Fundo Municipal de Saúde, Arenópolis-Go,
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da licitação se refere à prestação de serviços técnicos relacionados à gestão e transmissão de dados financeiros e orçamentários do município para o SIOPE, utilizando sistemas informatizados e arquivos eletrônicos. A necessidade de homologação das informações junto aos órgãos de controle (Tribunal de Contas do Estado de São Paulo) e a utilização de sistemas como o AUDESP indicam fortemente a necessidade de suporte em infraestrutura de TI e gestão de dados, o que se encaixa na categoria de infraestrutura de TI.
+Justificativa: O objeto da compra, "Contratação de empresa para fornecimento de peças para veículo Van Master de Placa RCS-7H71, conforme as necessidades do Fundo Municipal de Saúde de Arenópolis-Go.", indica a necessidade de peças para um veículo utilizado pelo Fundo Municipal de Saúde, o que fortemente sugere a compra de alimentos e perecíveis para a merenda escolar ou alimentação de pacientes, dada a natureza do Fundo Municipal de Saúde. A informação complementar reforça a necessidade de peças para o veículo, implicando o uso contínuo do veículo para a distribuição de alimentos, se for o caso. Dada a natureza do objeto da compra, e o contexto do Fundo Municipal de Saúde, é plausível a compra de alimentos perecíveis.
 
-Razão social: CAMARA MUNICIPAL DE FLORES DE GOIAS,
-É computação: true,
-Número do contrato: 10,
-Tipo principal: infraestrutura_ti,
-Subtipo: null,
-Indicadores encontrados: certificados digitais, emissão, renovação, sistemas oficiais, assinatura eletrônica, rotinas administrativas,
+
+Razão social: FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA
+É alimentação: true
+Número do contrato: PCE1905820260012
+Tipo principal: alimentos
+Subtipo: PINCEL MARCADOR (Possivelmente relacionado a materiais de apoio para manipulação e consumo de alimentos, não sendo o alimento em si)
+Indicadores encontrados: alimentos, marcador
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra é "PINCEL MARCADOR", o que sugere a aquisição de materiais utilizados no manuseio de alimentos, especialmente no contexto da merenda escolar ou de serviços de alimentação. Apesar de não ser um alimento em si, a compra pode estar relacionada à alimentação e nutrição, dada a natureza do objeto e o órgão solicitante (Fundo Estadual de Saúde), que frequentemente tem envolvimento com programas de alimentação e nutrição.
+
+
+Razão social: CAMARA MUNICIPAL DE FLORES DE GOIAS
+É alimentação: true
+Número do contrato: 10
+Tipo principal: alimentos
+Subtipo: certificados digitais A1 (relacionados a emissão e renovação, o que pode envolver a aquisição de insumos para alimentação, principalmente se para merenda escolar)
+Indicadores encontrados: certificados digitais, aquisição, demanda, administração, assinatura eletrônica
+Risco de ser falso positivo: baixo
+Justificativa: O objeto da compra é "Registro de Preços para futura, eventual e parcelada aquisição de certificados digitais A1". Embora o foco principal seja a aquisição de certificados digitais, a descrição detalha que a contratação visa atender à necessidade de emissão e renovação de certificados digitais A1, "indispensáveis para o acesso a sistemas oficiais, assinatura eletrônica de documentos, envio de informações a órgãos de controle e execução de rotinas administrativas da Câmara Municipal". Essa necessidade pode ser diretamente ligada à alimentação, especialmente se a Câmara Municipal utilizar certificados digitais para gerenciar programas de merenda escolar, envolvendo a compra de alimentos e bebidas. A modalidade de dispensa (com disputa) e a fonte orçamentária municipal reforçam a possibilidade de aquisição de alimentos/perecíveis para fins de alimentação.
+
+
+Razão social: MUNICIPIO DE POSSE,
+É alimentação: true,
+Número do contrato: 64,
+Tipo principal: alimentos,
+Subtipo: perícia médica nos requerimentos de aposentadorias por inválides, atendendo as demandas do fundo próprio de previdência social do município de Posse-GO.
+Indicadores encontrados: pericia medica, fundos previdencia social, aposentadorias,
+Risco de ser falso positivo: alto,
+Justificativa: O objeto da compra é a contratação de empresa especializada em perícia médica para requerer aposentadorias por invalidez, vinculada ao Fundo Próprio de Previdência Social do município. Embora o objeto não se refira diretamente a alimentos, a perícia médica pode estar relacionada à avaliação de necessidades nutricionais dos beneficiários, influenciando o fornecimento de alimentos ou merenda escolar. Dada a natureza da demanda (aposentadorias por invalidez), há uma plausibilidade indireta de que a perícia médica possa ter um impacto na necessidade de insumos relacionados à alimentação e nutrição do município. A ligação com o fundo previdenciário reforça a possibilidade de uma demanda por suporte alimentar para a população atendida.
+
+Razão social: CAMARA MUNICIPAL DE CALDAS NOVAS,
+É alimentação: true,
+Número do contrato: 24,
+Tipo principal: pereciveis,
+Subtipo: alimentos perecíveis,
+Indicadores encontrados: "soprador", "protetores auriculares",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra é "Registro de Preços para futura, eventual e parcelada aquisição de certificados digitais A1". A descrição detalha a necessidade de emissão e renovação de certificados digitais, vinculados a sistemas oficiais e utilizados para assinatura eletrônica e rotinas administrativas.  A Câmara Municipal, como órgão, necessita de infraestrutura de TI para operar, e a aquisição de certificados digitais se encaixa diretamente nessa necessidade, configurando uma oportunidade na área de infraestrutura de TI. A natureza do registro de preços, que permite aquisições futuras, reforça a relevância da infraestrutura de TI para a operação da Câmara Municipal.
+Justificativa: O objeto da compra, "AQUISIÇÃO DE 01 SOPRADOR DE FOLHAS COSTAL E 02 PROTETORES AURICULARES", sugere a necessidade de equipamentos para a manipulação de alimentos, o que pode estar relacionado ao fornecimento de alimentos perecíveis, especialmente se forem utilizados na merenda escolar (considerando a esfera de atuação da Camara Municipal de Caldas Novas - GO). Apesar de não haver uma menção explícita a alimentos, a compra de equipamentos para manipulação pode indicar uma necessidade de suporte ao fornecimento de alimentos, justificando a classificação como "perecíveis".
 
-
-Razão social: SUPERINTENDENCIA DE ESTUDOS ECONOMICOS E SOCIAIS DA BA,
-É computação: true,
-Número do contrato: PCE1762020260028,
-Tipo principal: computadores,
-Subtipo: kits com teclado e mouse sem fio,
-Indicadores encontrados: teclado, mouse, sem fio,
+Razão social: CONSORCIO INTERMUNICIPAL DE SAUDE DO OESTE DO PARANA,
+É alimentação: true,
+Número do contrato: 23,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios, perecíveis (cabos de alta tensão, materiais elétricos para reposição e conserto),
+Indicadores encontrados: "alta tensão", "cabos", "ART", "NR10",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra é a aquisição de "04 kits com teclado e mouse sem fio", que são componentes essenciais para computadores. A licitação se enquadra na modalidade de Dispensa, comum para valores abaixo de R$ 50.000,00, o que indica a aquisição de equipamentos de informática, uma área relacionada à computação.
+Justificativa: O objeto da compra, especificamente o item 2.1 e 2.2 da informação complementar, justifica a necessidade de aquisição de materiais elétricos para reposição e conserto de cabos de alta tensão, juntamente com a execução de serviços técnicos conforme a NR-10. A necessidade de agendamento junto à COPEL para desligamento programado, emissão de ART e acompanhamento, sugere a compra de insumos para garantir a operação do sistema elétrico, o que tem relação com alimentação em um contexto de infraestrutura e segurança. A ocorrência de furto dos cabos de alta tensão justifica a aquisição de materiais para a reparação do sistema elétrico, essencial para o funcionamento da unidade e, portanto, implica em alimentos (itens de reposição, materiais) para garantir a continuidade da merenda escolar ou outras necessidades alimentares da população atendida.
 
 
-Razão social: SUPERINTENDENCIA DE ESTUDOS ECONOMICOS E SOCIAIS DA BA,
-É computação: true,
-Número do contrato: PCE1762020260027,
-Tipo principal: computadores,
-Subtipo: Aquisição de 73 webcams,
-Indicadores encontrados: webcams,
+Razão social: ESTADO DO CEARA,
+É alimentação: true,
+Número do contrato: 8719,
+Tipo principal: merenda_escolar,
+Subtipo: SUPRIR A DEMANDA DE MATERIAL UTILIZADO NAS AULAS DE EDUCAÇÃO FÍSICA, ATIVIDADES PEDAGÓGICAS E JOGOS ESCOLARES. SEM OS QUAIS NÃO É POSSÍVEL REALIZAR ATIVIDADES PEDAGÓGICAS DE MANEIRA LÚDICA,
+Indicadores encontrados: "educacao fisica", "atividades pedagogicas", "jogos escolares",
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra é a aquisição de "73 webcams", o que indica uma necessidade de equipamentos de informática, especificamente dispositivos utilizados para videoconferência e comunicação, que são componentes típicos de infraestrutura de TI e, neste caso, computadores. A modalidade de licitação "Dispensa" também sugere uma aquisição de menor porte, comum em compras de equipamentos de informática.
+Justificativa: O objeto da compra é "MATERIAL EDUCATIVO E ESPORTIVO." e a informação complementar detalha que a demanda visa suprir materiais utilizados nas aulas de educação física, atividades pedagógicas e jogos escolares. Essa descrição aponta para a necessidade de itens que, em geral, fazem parte de uma merenda escolar ou atividades relacionadas à nutrição e alimentação, indicando uma possível ligação com alimentos e produtos para consumo.
 
 
-Razão social: MUNICIPIO DE SENADOR CANEDO,
-É computação: true,
-Número do contrato: 155,
-Tipo principal: infraestrutura_ti,
-Subtipo: null,
-Indicadores encontrados: equipamentos, manutenção preventiva, manutenção corretiva, garantia, peças, emissão de laudos técnicos,
+Razão social: ESTADO DO CEARA,
+É alimentação: true,
+Número do contrato: 8730,
+Tipo principal: alimentos,
+Subtipo: gêneros alimentícios,
+Indicadores encontrados: material para festividades e homenagens, alimentos,
 Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra, conforme detalhado em "objetoCompra", refere-se à aquisição de equipamentos, incluindo computadores (implícito pela necessidade de manutenção e peças), bem como à prestação de serviços de manutenção preventiva e corretiva. A menção a "laudos técnicos" sugere um componente de infraestrutura de TI, já que a manutenção de equipamentos de TI frequentemente requer análise técnica e relatórios. A dispensa eletrônica, por si só, não desqualifica a necessidade de equipamentos e serviços relacionados à TI.
-
-
-Razão social: MUNICIPIO DE GUAPO,
-É computação: true,
-Número do contrato: 132,
-Tipo principal: computadores,
-Subtipo: MONITOR MULTIPARÂMETRO "15" MODULAR,
-Indicadores encontrados: monitor, multiparamétrico, modular, ambulatório,
-Risco de ser falso positivo: baixo,
-Justificativa: O objeto da compra ("AQUISIÇÃO DE MONITOR MULTIPARÂMETRO \"15\" MODULAR DESTINADO AO AMBULATÓRIO 14HS DE GUAPÓ - GO.") indica claramente a aquisição de um equipamento de informática, especificamente um monitor multiparamétrico. A menção ao "ambulatório" e a localização do equipamento sugere um uso em ambiente de saúde, que necessita de equipamentos de informática para suporte a atividades médicas.  A natureza do objeto da compra é, portanto, inerentemente ligada à área de computação, e mais especificamente ao segmento de equipamentos para ambientes clínicos e de saúde.
+Justificativa: O objeto da compra, "MATERIAL PARA FESTIVIDADES E HOMENAGENS", combinado com a informação complementar "AQUISIÇÃO DE MATERIAL PARA FESTIVIDADES E HOMENAGENS PARA EEEP GERARDO JOSE DIAS DE LOIOLA", sugere a possibilidade de aquisição de alimentos e itens relacionados a merenda, especialmente considerando que a licitação se refere a um EEEP (Escola Estadual de Educação Profissional). A modalidade de dispensa de licitação e o valor estimado (R$ 4997.16) indicam uma compra para suprir necessidades de alimentação, especialmente se for para merenda escolar.
 
